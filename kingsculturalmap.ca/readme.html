@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>Layout Template - Read Me</title>
+<style>
+.selector{color:red;}
+.heading{
+  background-color:#D8E0E2;
+  background-repeat:repeat-x;
+  border-bottom:1px solid #FFFFFF;
+  border-top:1px solid #FFFFFF;
+  color:black;
+  font-family:Verdana,Arial,Helvetica,sans-serif;
+  font-size:16px;
+  font-weight:bold;
+  letter-spacing:1.1px;
+  margin:15px 0 10px;
+  padding:3px 10px;
+  text-align:center;
+}
+</style>
+</head>
+<body>
+<p>This template displays interactive filters alongside a map. This easily configurable template allows you to define the map, title and subtitle for the site. You can also provide explanatory text that provides tips for applciation end-users on how to work with the interactive filters.</p>
+
+<a name="deploy"></a>
+<h3 class="heading">Install the Web application</h3>
+<p>These instructions assume that you have a Web server like <a href="http://www.iis.net/">Internet Information Services(IIS)</a> installed and setup on your machine. If you are using another Web server the general installation steps will be the same but you will need to check your Web server's documentation for specific information on deploying and testing the application.
+
+<ol>
+  <li>Copy the contents of the zip file into your web server's root directory. In IIS, the default location for the web server's root folder is <code>c:\inetpub\wwwroot</code>. </li>
+	    <li>If your application edits features in a feature service, enables the elevation chart, contains secure services or web maps that aren't publicly shared or generates requests that exceed 2000 characters you may need to 
+setup and use a proxy page. Common situations where you may exceed the URL length are, using complext polygons as input to a task or specifying a spatial reference using well-known text (wkt).
+View the <a href="http://help.arcgis.com/EN/webapi/javascript/arcgis/help/jshelp_start.htm#jshelp/ags_proxy.htm">Using the proxy page</a> help topic for details on installing and configuring a proxy page. After setting up the proxy set the proxyUrl option in index.html to point to your proxy. </li>
+ <li>
+ Test the page using the following URL: http://localhost/[template name]/index.html, where [template name] is the name of the folder where you extracted the zip contents. 
+ </li>
+</ol>
+</body>
+</html>

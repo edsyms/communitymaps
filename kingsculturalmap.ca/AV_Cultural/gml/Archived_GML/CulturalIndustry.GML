@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://ogr.maptools.org/ CulturalIndustry.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-7227614.652425468</gml:X><gml:Y>5616489.190816346</gml:Y></gml:coord>
+      <gml:coord><gml:X>-7157790.859923176</gml:X><gml:Y>5656374.529590326</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>                    
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F0">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7177025.3985149739,5632660.2375546535</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>57</ogr:Cult_ID>
+      <ogr:Org>KROCK 89.3</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Media</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>8794 Commercial Street</ogr:StrAddress>
+      <ogr:Town>New Minas</ogr:Town>
+      <ogr:PostalCode>B4N 3C5</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>365 - 8930</ogr:PhoneNum>
+      <ogr:Email>info@893krock.com</ogr:Email>
+      <ogr:Website>http://krock8932009.ncc.ca</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F1">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7179735.3379349466,5633818.1719217636</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>59</ogr:Cult_ID>
+      <ogr:Org>The Register/Adverstiser</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Media</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>28 Aberdeen Street Suite 6</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 2N1</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>681-2121</ogr:PhoneNum>
+      <ogr:Email>events@kentvilleadvertiser.ca</ogr:Email>
+      <ogr:Website>http://www.kingscountynews.ca</ogr:Website>
+      <ogr:Mandate>
+</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F2">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7179236.7045398364,5634607.5322390543</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>60</ogr:Cult_ID>
+      <ogr:Org>Magic 94.9</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Media</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>29 Oakdene Avenue</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1H5</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>678-2111</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://www.magic949.ca</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F3">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7179236.7045398364,5634607.5322390543</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>61</ogr:Cult_ID>
+      <ogr:Org>AVR 97.7</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Media</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>29 Oakdene Avenue</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1H5</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>678-2111</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://avrnetwork.com</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F4">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7179631.3210027497,5633553.5853728121</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>62</ogr:Cult_ID>
+      <ogr:Org>Gaspereau Press</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Media</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>47 Church Avenue</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 2M7</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>678 6002</ogr:PhoneNum>
+      <ogr:Email>info@gaspereau.com</ogr:Email>
+      <ogr:Website>http://www.gaspereau.com</ogr:Website>
+      <ogr:Mandate>At the core of our philosophy is a commitment to making books that reinstate the</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F5">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164962.3620827012,5636089.972958575</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>64</ogr:Cult_ID>
+      <ogr:Org>Wolfville Community Radio</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Media</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>21 Elm Avenue</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2A1</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-5760</ogr:PhoneNum>
+      <ogr:Email>info@wolfvilleradio.ca</ogr:Email>
+      <ogr:Website>http://www.wolfvilleradio.ca</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F6">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7227135.9674831079,5618326.5316112936</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>65</ogr:Cult_ID>
+      <ogr:Org>The Aurora Newspaper</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Media</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>14 Wing Greenwood</ogr:StrAddress>
+      <ogr:Town>Greenwood</ogr:Town>
+      <ogr:PostalCode>B0P 1N0</ogr:PostalCode>
+      <ogr:Contact>Stephen Boates</ogr:Contact>
+      <ogr:Title>Managing Editor</ogr:Title>
+      <ogr:PhoneNum>765-1494 ext 5441</ogr:PhoneNum>
+      <ogr:Email>editor@auroranewspaper.com</ogr:Email>
+      <ogr:Website>http://www.auroranewspaper.com</ogr:Website>
+      <ogr:Mandate>The Aurora Newspaper is published each Monday by 14 Wing under the authority of</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F7">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7167612.4784083227,5631252.6847578287</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>66</ogr:Cult_ID>
+      <ogr:Org>Gaspereau Valley Gazette</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Media</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1725 White Rock Road</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R1</ogr:PostalCode>
+      <ogr:Contact>Daphne Frazee</ogr:Contact>
+      <ogr:Title>Owner/Editor</ogr:Title>
+      <ogr:PhoneNum>542-4309</ogr:PhoneNum>
+      <ogr:Email>gaspereaugazette@accesswave.ca</ogr:Email>
+      <ogr:Website>http://www.reddragonflydmc.com/GaspereauValleyGazette</ogr:Website>
+      <ogr:Mandate>The Gaspereau Valley Gazette first appeared in May of 2007. Its purpose is to im</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F8">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7186256.7231362937,5632467.6228637146</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>67</ogr:Cult_ID>
+      <ogr:Org>Apple Valley Scoop</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Media</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1561 Harrington Road</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 3V7</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>678-8228</ogr:PhoneNum>
+      <ogr:Email>information@applevalleyscoop.com</ogr:Email>
+      <ogr:Website>http://applevalleyscoop.com</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F9">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7171325.150405515,5646537.8032217156</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>68</ogr:Cult_ID>
+      <ogr:Org>The Canning Gazette</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Media</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>2229 North Avenue</ogr:StrAddress>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>582-3768</ogr:PhoneNum>
+      <ogr:Email>village.canning@xcountry.tv</ogr:Email>
+      <ogr:Website>http://canningnovascotia.ca/gazette/canngazette-indx.html</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F10">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7176922.6840208182,5632239.4696277315</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>77</ogr:Cult_ID>
+      <ogr:Org>Cadance Academy</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Dance</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1019 Roy Avenue</ogr:StrAddress>
+      <ogr:Town>New Minas</ogr:Town>
+      <ogr:PostalCode>B4N 3R7</ogr:PostalCode>
+      <ogr:Contact>Gaea Jess</ogr:Contact>
+      <ogr:Title>Manager</ogr:Title>
+      <ogr:PhoneNum>679-3616</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://www.cadanceacademy.ca</ogr:Website>
+      <ogr:Mandate>Cadance offers many different styles of dance including Ballet, Jazz, Modern, Hi</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F11">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7187573.8998791529,5632179.670004651</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>79</ogr:Cult_ID>
+      <ogr:Org>Dance ConXion</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Dance</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1562 Newcombe Boulevard</ogr:StrAddress>
+      <ogr:Town>Coldbrook</ogr:Town>
+      <ogr:PostalCode>B4R 1A1</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>365-7300</ogr:PhoneNum>
+      <ogr:Email>info@danceconxion.com</ogr:Email>
+      <ogr:Website>http://www.danceconxion.com</ogr:Website>
+      <ogr:Mandate>At Dance ConXion our goal is to encourage creative expression and positive self</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F12">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7179529.1742379963,5633648.1382292658</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>81</ogr:Cult_ID>
+      <ogr:Org>Cornwallis Academy of Dance</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Dance</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>354 Main Street</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1K6</ogr:PostalCode>
+      <ogr:Contact>Linda Jess</ogr:Contact>
+      <ogr:Title>Educator</ogr:Title>
+      <ogr:PhoneNum>679-3616</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>Founded in 1979, the academy offers classes in ballet, jazz, and modern. Classes</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F13">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164694.5051239552,5636065.4688652763</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>100</ogr:Cult_ID>
+      <ogr:Org>The Odd Book</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Literature</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>112 Front Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1A4</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-9491</ogr:PhoneNum>
+      <ogr:Email>info@theoddbook.ca</ogr:Email>
+      <ogr:Website>http://www.theoddbook.ca</ogr:Website>
+      <ogr:Mandate>Founded in 1977, The Odd Book provides second hand and rare books to satisfy a v</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F14">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7173783.8194708703,5632287.4167919969</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>101</ogr:Cult_ID>
+      <ogr:Org>Coles</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Literature</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>9256 Commercial Street</ogr:StrAddress>
+      <ogr:Town>New Minas</ogr:Town>
+      <ogr:PostalCode>B4N 4A9</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>681-0880</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F15">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164891.9525047755,5635931.5332555259</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>103</ogr:Cult_ID>
+      <ogr:Org>The Box of Delights Bookshop</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Literature</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>466 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1E2</ogr:PostalCode>
+      <ogr:Contact>Mitzi DeWolfe</ogr:Contact>
+      <ogr:Title>Owner</ogr:Title>
+      <ogr:PhoneNum>542-9511</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://www.boxofdelightsbooks.com</ogr:Website>
+      <ogr:Mandate>As a general bookshop we carry as many different and interesting titles as we ca</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F16">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164547.1849098392,5635970.6541053643</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>104</ogr:Cult_ID>
+      <ogr:Org>Rainbows End Books &amp; discs</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Literature</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>388 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1C9</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>697-3090</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F17">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7162021.7464139061,5636365.4830292147</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>105</ogr:Cult_ID>
+      <ogr:Org>The Annapolis Academy of Music</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>18-360 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B0P 1X0</ogr:PostalCode>
+      <ogr:Contact>Debbie Mailman</ogr:Contact>
+      <ogr:Title>Owner</ogr:Title>
+      <ogr:PhoneNum>542-4456</ogr:PhoneNum>
+      <ogr:Email>dmailman@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>Music School offering private and group instruction to all ages and abilities. A</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F18">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7171020.5357509088,5646561.1834085304</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>106</ogr:Cult_ID>
+      <ogr:Org>Webster's Guitar Academy</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>994 Pleasant Street</ogr:StrAddress>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>582-1786</ogr:PhoneNum>
+      <ogr:Email>info@webstersguitaracademy.com</ogr:Email>
+      <ogr:Website>http://www.webstersguitaracademy.com</ogr:Website>
+      <ogr:Mandate>We specialize in fretted instruments. If you have an interest in guitar lessons</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F19">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7181038.9336999301,5633632.7209068565</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>108</ogr:Cult_ID>
+      <ogr:Org>Digital Dungeon Studio</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>80 Park Street</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1M3</ogr:PostalCode>
+      <ogr:Contact>Derek</ogr:Contact>
+      <ogr:Title>Musician</ogr:Title>
+      <ogr:PhoneNum>365-2586</ogr:PhoneNum>
+      <ogr:Email>digitaldungeonstudio@live.ca</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>Digital Dungeon Studio is fully equipped to record all your musical needs with P</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F20">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7163125.8242555438,5634884.510528503</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>110</ogr:Cult_ID>
+      <ogr:Org>Marilyn Manzer Music Studio</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>53 Pleasant Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1M9</ogr:PostalCode>
+      <ogr:Contact>Marilyn Manzer</ogr:Contact>
+      <ogr:Title>Musician/Educator</ogr:Title>
+      <ogr:PhoneNum>542-0558</ogr:PhoneNum>
+      <ogr:Email>manzer@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>http://www3.ns.sympatico.ca/manzer/index.htm</ogr:Website>
+      <ogr:Mandate>Marilyn has been teaching private music lessons (mostly piano) in her home in Wo</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F21">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7176558.0236328775,5632130.4782559052</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>111</ogr:Cult_ID>
+      <ogr:Org>Long &amp; McQuade</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1007 Dow Road</ogr:StrAddress>
+      <ogr:Town>New Minas</ogr:Town>
+      <ogr:PostalCode>B4N 3R4</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>681-1461</ogr:PhoneNum>
+      <ogr:Email>newminas@long-mcquade.com</ogr:Email>
+      <ogr:Website>http://www.long-mcquade.com</ogr:Website>
+      <ogr:Mandate>Long &amp; McQuade is the largest chain of musical instrument retailers in Canada.</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F22">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7173055.2445355766,5647003.2556097396</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>113</ogr:Cult_ID>
+      <ogr:Org>Creative Action Digital Photo</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Film</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1064 J. Jordan Road</ogr:StrAddress>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Kimberly Smith</ogr:Contact>
+      <ogr:Title>Filmmaker/producer</ogr:Title>
+      <ogr:PhoneNum>582 3888</ogr:PhoneNum>
+      <ogr:Email>ks@creativeaction.ca</ogr:Email>
+      <ogr:Website>http://www.creativeaction.ca</ogr:Website>
+      <ogr:Mandate>My mission is to help you communicate with video either by making the video for</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F23">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7194170.6483757664,5630676.0779432571</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>114</ogr:Cult_ID>
+      <ogr:Org>Valley Drive-In Theatre</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Film</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>5934 Nova Scotia 1 Trunk</ogr:StrAddress>
+      <ogr:Town>Cambridge</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>Kirk Longmire</ogr:Contact>
+      <ogr:Title>Contact person</ogr:Title>
+      <ogr:PhoneNum>538-0772</ogr:PhoneNum>
+      <ogr:Email>valleydrivein@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>http://valleydrivein.com</ogr:Website>
+      <ogr:Mandate>Originally one of Canada's oldest solo screens, the Valley had gone dark when it</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F24">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7175948.0373511268,5632256.0194090484</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>115</ogr:Cult_ID>
+      <ogr:Org>Empire Cinemas</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Film</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>8944 Commercial Street</ogr:StrAddress>
+      <ogr:Town>New Minas</ogr:Town>
+      <ogr:PostalCode>B4N 3C9</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>681-8080</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://www.empiretheatres.com</ogr:Website>
+      <ogr:Mandate>National chain of movie theatres and cinemas in Canada.</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F25">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7182348.741092504,5632925.4914325913</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>116</ogr:Cult_ID>
+      <ogr:Org>Wild Lupin Media</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Film</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>41 Fielding Avenue</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 2T4</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>678-7601</ogr:PhoneNum>
+      <ogr:Email>info@wildlupin.ca</ogr:Email>
+      <ogr:Website>http://www.wildlupin.ca</ogr:Website>
+      <ogr:Mandate>One stop shopping for all your media needs. Whether you are in need of a complet</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F26">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7172335.9647777649,5656374.5295903264</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>120</ogr:Cult_ID>
+      <ogr:Org>Two Planks &amp; A Passion Theatre</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Theatre</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>555 Ross Creek Road</ogr:StrAddress>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Ken Schwartz</ogr:Contact>
+      <ogr:Title>Artistic Director</ogr:Title>
+      <ogr:PhoneNum>582-3073</ogr:PhoneNum>
+      <ogr:Email>mail@twoplanks.ca</ogr:Email>
+      <ogr:Website>http://www.twoplanks.ca</ogr:Website>
+      <ogr:Mandate>committed to creating unforgettable shared experiences through one of the oldest</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F27">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7161970.639635684,5636360.9100483125</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>126</ogr:Cult_ID>
+      <ogr:Org>I Box Publishing</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1 - 614 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1E8</ogr:PostalCode>
+      <ogr:Contact>Mark Oakley</ogr:Contact>
+      <ogr:Title>Artist</ogr:Title>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>moak@iboxpublishing.com</ogr:Email>
+      <ogr:Website>http://iboxpublishing.com/index.php</ogr:Website>
+      <ogr:Mandate>Graphic novels, fantasy, and sci-fi cartoonist.</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F28">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7177053.1949918242,5632703.0641466146</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>129</ogr:Cult_ID>
+      <ogr:Org>Ink Spot Prining &amp; Embroidery</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>8772 Commercial Street</ogr:StrAddress>
+      <ogr:Town>New Minas</ogr:Town>
+      <ogr:PostalCode>B4N 3C5</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>681-4465</ogr:PhoneNum>
+      <ogr:Email>mail@inkspot.ca</ogr:Email>
+      <ogr:Website>http://www.inkspot.ca</ogr:Website>
+      <ogr:Mandate>At Inkspot Printing &amp; Embroidery, we offer a one-stop shopping experience for yo</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F29">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7227614.652425468,5616489.1908163456</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>131</ogr:Cult_ID>
+      <ogr:Org>Atlantic Fabrics Crafts &amp; More</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Visual Art/Craft</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>963 Central Avenue</ogr:StrAddress>
+      <ogr:Town>Greenwood</ogr:Town>
+      <ogr:PostalCode>B0P 1N0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>765-0600</ogr:PhoneNum>
+      <ogr:Email>info@atlanticfabrics.com</ogr:Email>
+      <ogr:Website>http://www.atlanticfabrics.com</ogr:Website>
+      <ogr:Mandate>Atlantic Fabrics is Atlantic Canada's Creative Industry Source for Fabrics, Craf</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F30">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7171236.7293339763,5646324.9373884285</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>134</ogr:Cult_ID>
+      <ogr:Org>Ocean Spirit Studio</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Visual Art/Craft</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>9840 Main Street</ogr:StrAddress>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Kathie Beyea</ogr:Contact>
+      <ogr:Title>Owner</ogr:Title>
+      <ogr:PhoneNum>582-3089</ogr:PhoneNum>
+      <ogr:Email>info@oceanspiritstudio.com</ogr:Email>
+      <ogr:Website>http://www.oceanspiritstudio.com</ogr:Website>
+      <ogr:Mandate>Ocean Spirit Studio strives to promote healthy and balanced lifestyle choices th</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F31">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7159843.7917084852,5628294.0969429603</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>138</ogr:Cult_ID>
+      <ogr:Org>Lala &amp; Gleen Productions (Angela Melanson)</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>356 East Davidson St.</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R3</ogr:PostalCode>
+      <ogr:Contact>Angela Melanson</ogr:Contact>
+      <ogr:Title>Artist</ogr:Title>
+      <ogr:PhoneNum>542-0037</ogr:PhoneNum>
+      <ogr:Email>lalaandgleen@gmail.com</ogr:Email>
+      <ogr:Website>http://www.lalaandgleen.blogspot.com</ogr:Website>
+      <ogr:Mandate>Lala &amp; Gleen produce hand screen-printed clothes and dyed fabrics for the body a</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F32">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7225938.158630223,5622280.4544185149</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>139</ogr:Cult_ID>
+      <ogr:Org>Larry Lee Art &amp; Design</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1328 Nova Scotia 1 Trunk</ogr:StrAddress>
+      <ogr:Town>Kingston</ogr:Town>
+      <ogr:PostalCode>B0P 1R0</ogr:PostalCode>
+      <ogr:Contact>Larry Lee</ogr:Contact>
+      <ogr:Title>Artist</ogr:Title>
+      <ogr:PhoneNum>765-2587</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>Self-taught with over 25 years experience, Larry is a muralist who uses a realis</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F33">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7171358.0787108894,5646664.5558203422</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>140</ogr:Cult_ID>
+      <ogr:Org>Dragonfire Art</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Visual Art/Literature</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1122 First Street</ogr:StrAddress>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Nancy J. Logeman</ogr:Contact>
+      <ogr:Title>Artist/Writer</ogr:Title>
+      <ogr:PhoneNum>582-7681</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>Nancy works mainly in acrylics and watercolour, some graphite, pen and ink. She</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F34">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7166161.3731860863,5635028.9153268337</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>141</ogr:Cult_ID>
+      <ogr:Org>Steve Slipp Designs</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>39 Kent Avenue</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1V4</ogr:PostalCode>
+      <ogr:Contact>Steven Slipp</ogr:Contact>
+      <ogr:Title>Graphic Designer</ogr:Title>
+      <ogr:PhoneNum>542-2533</ogr:PhoneNum>
+      <ogr:Email>steven@slippdesign.ca</ogr:Email>
+      <ogr:Website>http://slippdesign.ca</ogr:Website>
+      <ogr:Mandate>Steven Slipp is a 30 year veteran of the Nova Scotia creative design community.</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F35">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7169264.7156865243,5630433.6455582799</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>167</ogr:Cult_ID>
+      <ogr:Org>Little Foot Yurts</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Craft</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1459 White Rock Road</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R1</ogr:PostalCode>
+      <ogr:Contact>Selene and Alex Cole</ogr:Contact>
+      <ogr:Title>Owners</ogr:Title>
+      <ogr:PhoneNum>670-4556</ogr:PhoneNum>
+      <ogr:Email>info@lfy.ca</ogr:Email>
+      <ogr:Website>http://www.lfy.ca</ogr:Website>
+      <ogr:Mandate>We are builders of Nova Scotia coppice wood yurts, inspired by the Kyrgyz and Mo</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F36">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7206852.5989129506,5646067.4181398023</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>171</ogr:Cult_ID>
+      <ogr:Org>Vector Instruments</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Craft</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1111 Russia Road</ogr:StrAddress>
+      <ogr:Town>Black Rock</ogr:Town>
+      <ogr:PostalCode>B0P 1V0</ogr:PostalCode>
+      <ogr:Contact>Nicholas Tipney</ogr:Contact>
+      <ogr:Title>Artisan</ogr:Title>
+      <ogr:PhoneNum>538-3271</ogr:PhoneNum>
+      <ogr:Email>into@vectorinstuments.com</ogr:Email>
+      <ogr:Website>http://www.vectorinstruments.com</ogr:Website>
+      <ogr:Mandate>Designer-builder of state-of-art custom instruments. Specializing in electric/ac</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F37">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7167192.9597753175,5627880.6851717066</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>172</ogr:Cult_ID>
+      <ogr:Org>Ironwood Forge and Woodworks</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Craft (Woodwork/Blacksmith)</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>149 Allison Coldwell Road</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B0P 1X0</ogr:PostalCode>
+      <ogr:Contact>Ian Hope-Simpson</ogr:Contact>
+      <ogr:Title>Artisan</ogr:Title>
+      <ogr:PhoneNum>542-2057</ogr:PhoneNum>
+      <ogr:Email>ian@hope-simpson.com</ogr:Email>
+      <ogr:Website>http://www.hope-simpson.com</ogr:Website>
+      <ogr:Mandate>Largely self-taught, Ian is a traditional artist and blacksmith producing functi</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F38">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7157790.8599231755,5625862.5481827678</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>179</ogr:Cult_ID>
+      <ogr:Org>Riven Woodwork</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Craft (Woodwork)</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1341 Meadow Road</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B0P 1X0</ogr:PostalCode>
+      <ogr:Contact>Barry Brown</ogr:Contact>
+      <ogr:Title>Artist</ogr:Title>
+      <ogr:PhoneNum>542-3178</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>Barry creates walking sticks, pioneer whisks, coat hooks, spoons, spatulas, and</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F39">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7221149.984504682,5624317.3957395004</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>180</ogr:Cult_ID>
+      <ogr:Org>de Weever's Wovens</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Craft (Weaving)</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>3486 Highway #1</ogr:StrAddress>
+      <ogr:Town>Aylesford</ogr:Town>
+      <ogr:PostalCode>B0P 1C0</ogr:PostalCode>
+      <ogr:Contact>Hilda de Weever</ogr:Contact>
+      <ogr:Title>Weaver</ogr:Title>
+      <ogr:PhoneNum>847-9270</ogr:PhoneNum>
+      <ogr:Email>dwvrs@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>http://www.deweeverswovens.com</ogr:Website>
+      <ogr:Mandate>Beautiful and functional handwoven clothing in an array of colours and styles. A</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F40">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7170632.3090267647,5646208.276924544</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>183</ogr:Cult_ID>
+      <ogr:Org>Sun Porch Pottery Studio</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Craft (pottery)</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>10228 Nova Scotia 221</ogr:StrAddress>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Jane Harrington</ogr:Contact>
+      <ogr:Title>Artisan</ogr:Title>
+      <ogr:PhoneNum>582-7762</ogr:PhoneNum>
+      <ogr:Email>sunporchpottery@yahoo.ca</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>I have a small pottery studio in Habitant Nova Scotia. I sometimes teach classes</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F41">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7171224.5175858382,5646319.6963175396</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>184</ogr:Cult_ID>
+      <ogr:Org>Aspinall Pottery</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Craft (pottery)</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>9842 Main Street</ogr:StrAddress>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Denise Aspinall</ogr:Contact>
+      <ogr:Title>Artisan/Owner</ogr:Title>
+      <ogr:PhoneNum>582-7028</ogr:PhoneNum>
+      <ogr:Email>aspinallpottery@eastlink.ca</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>Aspinall Pottery is funcional tableware made from porcelain clay and kiln fired.</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F42">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164515.8596051317,5635884.8123665163</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>186</ogr:Cult_ID>
+      <ogr:Org>Applewicks</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Craft</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>10 Gaspereau Avenue</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2C2</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-9771</ogr:PhoneNum>
+      <ogr:Email>applewicks@larchehomefires.org</ogr:Email>
+      <ogr:Website>http://www.larchehomefires.org/applewicks/index.htm</ogr:Website>
+      <ogr:Mandate>Since November 1, 1990, L?Arche Homefires has operated Applewicks, a workshop pr</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F43">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7192528.4409836866,5650166.4849957777</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>188</ogr:Cult_ID>
+      <ogr:Org>Stained Glass Studio</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Craft (stained glass)</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>674 West Hall's Harbour Road</ogr:StrAddress>
+      <ogr:Town>Hall's Harbour</ogr:Town>
+      <ogr:PostalCode>B0P 1J0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>678-3485</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F44">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7218496.0053927293,5622021.7166630421</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>191</ogr:Cult_ID>
+      <ogr:Org>Oaklawn Farm Zoo</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Zoo</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1007 Ward Road</ogr:StrAddress>
+      <ogr:Town>Aylesford</ogr:Town>
+      <ogr:PostalCode>B0P 1C0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>847-9790</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://oaklawnfarmzoo.ca</ogr:Website>
+      <ogr:Mandate>A fun adventure for all ages, Oaklawn Farm Zoo boasts the largest display of Big</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F45">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164493.7292903587,5635973.8392848196</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>198</ogr:Cult_ID>
+      <ogr:Org>Dave Hines Photography</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Photography</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>383 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B0P 1X0</ogr:PostalCode>
+      <ogr:Contact>Dave Hines</ogr:Contact>
+      <ogr:Title>Portrait Photographer</ogr:Title>
+      <ogr:PhoneNum>542-4463</ogr:PhoneNum>
+      <ogr:Email>d.hines@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>Professional photography for graduation, families, weddings, business portraits,</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Industry fid="F46">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7168824.5806838265,5639245.9289649287</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>202</ogr:Cult_ID>
+      <ogr:Org>Fox Hill Cheese House</ogr:Org>
+      <ogr:Type>Cultural Industry</ogr:Type>
+      <ogr:Discipline>Artisanal Food</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1678 Church Street</ogr:StrAddress>
+      <ogr:Town>Port Williams</ogr:Town>
+      <ogr:PostalCode>B0P 1T0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-3599</ogr:PhoneNum>
+      <ogr:Email>foxhillfarm@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>http://www.foxhillcheesehouse.com</ogr:Website>
+      <ogr:Mandate>It is with pride that Fox Hill Cheese House crafts over 20 varieties of cheese u</ogr:Mandate>
+    </ogr:Cultural_Industry>
+  </gml:featureMember>
+</ogr:FeatureCollection>

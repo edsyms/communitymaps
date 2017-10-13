@@ -1,0 +1,5424 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>astraptes_fulgerator_complex_sample_data</name>
+		<Style id='Style2-point-1'>
+			<IconStyle>
+				<color>ffee48e3</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-1-hover'>
+			<IconStyle>
+				<color>ffee48e3</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Astraptes SENNOV</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes SENNOV<br>
+<b>voucher:</b> 05-SRNP-59407<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-59407-DHJ339542.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-59407-DHJ408688.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Senna hayesiana<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2005<br>
+<b>date eclosion:</b> 9/11/05<br>
+<b>elevation:</b> 560
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>05-SRNP-59407</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-59407-DHJ339542.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-59407-DHJ408688.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna hayesiana</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2005</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>9/11/05</value>
+				</Data>
+				<Data name='elevation'>
+					<value>560</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>60</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>dry forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.75876</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.37543</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.37543,10.75876,0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='Style2-point-2'>
+			<IconStyle>
+				<color>ffff0000</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-2-hover'>
+			<IconStyle>
+				<color>ffff0000</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-2-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-2-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Astraptes INGCUP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes INGCUP<br>
+<b>voucher:</b> 07-SRNP-55016<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-55016-DHJ363334.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-55016-DHJ422841.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> <br>
+<b>host plant species:</b> Inga sapindoides<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2007<br>
+<b>date eclosion:</b> 1/29/07<br>
+<b>elevation:</b> 305
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>07-SRNP-55016</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-55016-DHJ363334.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-55016-DHJ422841.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value></value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Inga sapindoides</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2007</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>1/29/07</value>
+				</Data>
+				<Data name='elevation'>
+					<value>305</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>59</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>dry forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.77175</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.434</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.434,10.77175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes FABOV</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes FABOV<br>
+<b>voucher:</b> 80-SRNP-202<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/80/80-SRNP-202-DHJ93042.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/80/80-SRNP-202-DHJ1246.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Senna hayesiana<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 1980<br>
+<b>date eclosion:</b> 7/28/80<br>
+<b>elevation:</b> 290
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>80-SRNP-202</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/80/80-SRNP-202-DHJ93042.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/80/80-SRNP-202-DHJ1246.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna hayesiana</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>1980</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>7/28/80</value>
+				</Data>
+				<Data name='elevation'>
+					<value>290</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>46</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>dry forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.85145</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.60801</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.60801,10.85145,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes YESENN</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes YESENN<br>
+<b>voucher:</b> 93-SRNP-3364<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/93/93-SRNP-3364-DHJ93040.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/93/93-SRNP-3364-DHJ26474.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Senna hayesiana<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 1993<br>
+<b>date eclosion:</b> 8/13/93<br>
+<b>elevation:</b> 290
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>93-SRNP-3364</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/93/93-SRNP-3364-DHJ93040.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/93/93-SRNP-3364-DHJ26474.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna hayesiana</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>1993</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>8/13/93</value>
+				</Data>
+				<Data name='elevation'>
+					<value>290</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>44</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>dry forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.85145</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.60801</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.60801,10.85145,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes SENNOV</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes SENNOV<br>
+<b>voucher:</b> 03-SRNP-14687<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-14687-DHJ341148.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-14687-DHJ76448.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Senna hayesiana<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 8/15/03<br>
+<b>elevation:</b> 290
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-14687</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-14687-DHJ341148.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-14687-DHJ76448.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna hayesiana</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>8/15/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>290</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>58</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>dry forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.85145</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.60801</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.60801,10.85145,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes SENNOV</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes SENNOV<br>
+<b>voucher:</b> 92-SRNP-4398<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/92/92-SRNP-4398-DHJ92870.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/92/92-SRNP-4398-DHJ16479.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Senna hayesiana<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 1992<br>
+<b>date eclosion:</b> 9/8/92<br>
+<b>elevation:</b> 280
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>92-SRNP-4398</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/92/92-SRNP-4398-DHJ92870.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/92/92-SRNP-4398-DHJ16479.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna hayesiana</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>1992</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>9/8/92</value>
+				</Data>
+				<Data name='elevation'>
+					<value>280</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>57</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>dry forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.85827</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.61089</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.61089,10.85827,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes FABOV</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes FABOV<br>
+<b>voucher:</b> 93-SRNP-7060<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/93/93-SRNP-7060-DHJ94494.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/93/93-SRNP-7060-DHJ26479.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Centrosema macrocarpum<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 1993<br>
+<b>date eclosion:</b> 11/29/93<br>
+<b>elevation:</b> 280
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>93-SRNP-7060</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/93/93-SRNP-7060-DHJ94494.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/93/93-SRNP-7060-DHJ26479.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Centrosema macrocarpum</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>1993</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>11/29/93</value>
+				</Data>
+				<Data name='elevation'>
+					<value>280</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>59</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>dry forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.85827</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.61089</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.61089,10.85827,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes INGCUP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes INGCUP<br>
+<b>voucher:</b> 02-SRNP-32204<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-32204-DHJ90388.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-32204-DHJ71253.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Inga vera<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2002<br>
+<b>date eclosion:</b> 11/24/02<br>
+<b>elevation:</b> 155
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>02-SRNP-32204</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-32204-DHJ90388.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-32204-DHJ71253.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Inga vera</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2002</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>11/24/02</value>
+				</Data>
+				<Data name='elevation'>
+					<value>155</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>50</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>dry forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.85906</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.5709</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.5709,10.85906,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes INGCUP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes INGCUP<br>
+<b>voucher:</b> 02-SRNP-32205<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-32205-DHJ92526.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-32205-DHJ71283.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Inga vera<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2002<br>
+<b>date eclosion:</b> 12/2/02<br>
+<b>elevation:</b> 155
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>02-SRNP-32205</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-32205-DHJ92526.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-32205-DHJ71283.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Inga vera</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2002</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>12/2/02</value>
+				</Data>
+				<Data name='elevation'>
+					<value>155</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>57</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>dry forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.85906</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.5709</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.5709,10.85906,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes INGCUP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes INGCUP<br>
+<b>voucher:</b> 02-SRNP-32206<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-32206-DHJ90412.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-32206-DHJ71316.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Inga vera<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2002<br>
+<b>date eclosion:</b> 11/26/02<br>
+<b>elevation:</b> 155
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>02-SRNP-32206</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-32206-DHJ90412.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-32206-DHJ71316.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Inga vera</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2002</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>11/26/02</value>
+				</Data>
+				<Data name='elevation'>
+					<value>155</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>52</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>dry forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.85906</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.5709</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.5709,10.85906,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes INGCUP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes INGCUP<br>
+<b>voucher:</b> 02-SRNP-19284<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-19284-DHJ92697.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-19284-DHJ69973.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Cupania glabra<br>
+<b>host plant family:</b> Sapindaceae<br>
+<b>year:</b> 2002<br>
+<b>date eclosion:</b> 11/22/02<br>
+<b>elevation:</b> 640
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>02-SRNP-19284</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-19284-DHJ92697.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-19284-DHJ69973.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Cupania glabra</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Sapindaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2002</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>11/22/02</value>
+				</Data>
+				<Data name='elevation'>
+					<value>640</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>59</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.8702</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.39153</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.39153,10.8702,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes INGCUP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes INGCUP<br>
+<b>voucher:</b> 07-SRNP-381<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-381-DHJ363374.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-381-DHJ418445.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Cupania glabra<br>
+<b>host plant family:</b> Sapindaceae<br>
+<b>year:</b> 2007<br>
+<b>date eclosion:</b> 2/23/07<br>
+<b>elevation:</b> 700
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>07-SRNP-381</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-381-DHJ363374.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-381-DHJ418445.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Cupania glabra</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Sapindaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2007</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>2/23/07</value>
+				</Data>
+				<Data name='elevation'>
+					<value>700</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>58</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.87124</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.38749</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.38749,10.87124,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LOHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LOHAMP<br>
+<b>voucher:</b> 03-SRNP-7550<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-7550-DHJ341318.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-7550-DHJ74880.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 8/31/03<br>
+<b>elevation:</b> 670
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-7550</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-7550-DHJ341318.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-7550-DHJ74880.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>8/31/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>670</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>53</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.87621</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.38632</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.38632,10.87621,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes INGCUP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes INGCUP<br>
+<b>voucher:</b> 07-SRNP-579<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-579-DHJ370298.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-579-DHJ419335.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> <br>
+<b>host plant species:</b> Inga sapindoides<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2007<br>
+<b>date eclosion:</b> 4/5/07<br>
+<b>elevation:</b> 645
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>07-SRNP-579</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-579-DHJ370298.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-579-DHJ419335.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value></value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Inga sapindoides</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2007</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>4/5/07</value>
+				</Data>
+				<Data name='elevation'>
+					<value>645</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>52</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.87766</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.39343</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.39343,10.87766,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes INGCUP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes INGCUP<br>
+<b>voucher:</b> 02-SRNP-19721<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-19721-DHJ90400.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-19721-DHJ70183.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Inga oerstediana<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2002<br>
+<b>date eclosion:</b> 12/17/02<br>
+<b>elevation:</b> 620
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>02-SRNP-19721</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-19721-DHJ90400.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-19721-DHJ70183.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Inga oerstediana</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2002</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>12/17/02</value>
+				</Data>
+				<Data name='elevation'>
+					<value>620</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>51</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.87868</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.38963</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.38963,10.87868,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LOHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LOHAMP<br>
+<b>voucher:</b> 03-SRNP-5544<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-5544-DHJ341050.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-5544-DHJ400704.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 4/8/03<br>
+<b>elevation:</b> 570
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-5544</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-5544-DHJ341050.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-5544-DHJ400704.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>4/8/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>570</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>56</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.88111</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.38889</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.38889,10.88111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes YESENN</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes YESENN<br>
+<b>voucher:</b> 00-SRNP-11188<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/00/00-SRNP-11188-DHJ93076.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/00/00-SRNP-11188-DHJ54086.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Dioclea malacocarpa<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2000<br>
+<b>date eclosion:</b> 7/6/00<br>
+<b>elevation:</b> 570
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>00-SRNP-11188</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/00/00-SRNP-11188-DHJ93076.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/00/00-SRNP-11188-DHJ54086.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Dioclea malacocarpa</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2000</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>7/6/00</value>
+				</Data>
+				<Data name='elevation'>
+					<value>570</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>57</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.88186</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.38221</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.38221,10.88186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LOHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LOHAMP<br>
+<b>voucher:</b> 03-SRNP-10879<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-10879-DHJ341042.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-10879-DHJ75437.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 6/8/03<br>
+<b>elevation:</b> 420
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-10879</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-10879-DHJ341042.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-10879-DHJ75437.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>6/8/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>420</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>54</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.88264</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.25164</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.25164,10.88264,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes INGCUP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes INGCUP<br>
+<b>voucher:</b> 92-SRNP-3121<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/92/92-SRNP-3121-DHJ90386.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/92/92-SRNP-3121-DHJ15843.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Inga vera<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 1992<br>
+<b>date eclosion:</b> 8/13/92<br>
+<b>elevation:</b> 255
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>92-SRNP-3121</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/92/92-SRNP-3121-DHJ90386.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/92/92-SRNP-3121-DHJ15843.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Inga vera</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>1992</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>8/13/92</value>
+				</Data>
+				<Data name='elevation'>
+					<value>255</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>51</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>dry forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.88268</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.61202</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.61202,10.88268,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes CELT</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes CELT<br>
+<b>voucher:</b> 01-SRNP-1413<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/01/01-SRNP-1413-DHJ90244.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/01/01-SRNP-1413-DHJ63137.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Celtis iguanaea<br>
+<b>host plant family:</b> Ulmaceae<br>
+<b>year:</b> 2001<br>
+<b>date eclosion:</b> 6/7/01<br>
+<b>elevation:</b> 560
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>01-SRNP-1413</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/01/01-SRNP-1413-DHJ90244.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/01/01-SRNP-1413-DHJ63137.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Celtis iguanaea</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Ulmaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2001</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>6/7/01</value>
+				</Data>
+				<Data name='elevation'>
+					<value>560</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>53</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.884</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.386</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.386,10.884,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes SENNOV</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes SENNOV<br>
+<b>voucher:</b> 04-SRNP-49527<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-49527-DHJ341458.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-49527-DHJ87410.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Senna hayesiana<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2004<br>
+<b>date eclosion:</b> 11/16/04<br>
+<b>elevation:</b> 390
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>04-SRNP-49527</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-49527-DHJ341458.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-49527-DHJ87410.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna hayesiana</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2004</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>11/16/04</value>
+				</Data>
+				<Data name='elevation'>
+					<value>390</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>57</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>dry forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.88585</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.49222</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.49222,10.88585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes CELT</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes CELT<br>
+<b>voucher:</b> 94-SRNP-9389<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/94/94-SRNP-9389-DHJ90250.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/94/94-SRNP-9389-DHJ26303.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Celtis iguanaea<br>
+<b>host plant family:</b> Ulmaceae<br>
+<b>year:</b> 1994<br>
+<b>date eclosion:</b> 11/16/94<br>
+<b>elevation:</b> 570
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>94-SRNP-9389</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/94/94-SRNP-9389-DHJ90250.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/94/94-SRNP-9389-DHJ26303.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Celtis iguanaea</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Ulmaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>1994</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>11/16/94</value>
+				</Data>
+				<Data name='elevation'>
+					<value>570</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>45</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>dry forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.887</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.47443</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.47443,10.887,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes HIHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes HIHAMP<br>
+<b>voucher:</b> 07-SRNP-45714<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-45714-DHJ378668.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-45714-DHJ428315.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> <br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2007<br>
+<b>date eclosion:</b> 9/25/07<br>
+<b>elevation:</b> 760
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>07-SRNP-45714</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-45714-DHJ378668.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-45714-DHJ428315.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value></value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2007</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>9/25/07</value>
+				</Data>
+				<Data name='elevation'>
+					<value>760</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>55</value>
+				</Data>
+				<Data name='primary eco'>
+					<value></value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.88875</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.43483</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.43483,10.88875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes YESENN</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes YESENN<br>
+<b>voucher:</b> 07-SRNP-45998<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-45998-DHJ383990.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-45998-DHJ431161.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> <br>
+<b>host plant species:</b> Senna papillosa<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2007<br>
+<b>date eclosion:</b> 10/28/07<br>
+<b>elevation:</b> 760
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>07-SRNP-45998</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-45998-DHJ383990.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-45998-DHJ431161.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value></value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna papillosa</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2007</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>10/28/07</value>
+				</Data>
+				<Data name='elevation'>
+					<value>760</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>49</value>
+				</Data>
+				<Data name='primary eco'>
+					<value></value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.88875</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.43483</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.43483,10.88875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes INGCUP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes INGCUP<br>
+<b>voucher:</b> 04-SRNP-46477<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-46477-DHJ341478.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-46477-DHJ85636.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Cupania guatemalensis<br>
+<b>host plant family:</b> Sapindaceae<br>
+<b>year:</b> 2004<br>
+<b>date eclosion:</b> 8/7/04<br>
+<b>elevation:</b> 550
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>04-SRNP-46477</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-46477-DHJ341478.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-46477-DHJ85636.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Cupania guatemalensis</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Sapindaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2004</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>8/7/04</value>
+				</Data>
+				<Data name='elevation'>
+					<value>550</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>52</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>dry forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.88996</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.47966</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.47966,10.88996,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes FABOV</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes FABOV<br>
+<b>voucher:</b> 05-SRNP-45420<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-45420-DHJ339440.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-45420-DHJ408012.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Centrosema plumieri<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2005<br>
+<b>date eclosion:</b> 6/26/05<br>
+<b>elevation:</b> 640
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>05-SRNP-45420</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-45420-DHJ339440.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-45420-DHJ408012.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Centrosema plumieri</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2005</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>6/26/05</value>
+				</Data>
+				<Data name='elevation'>
+					<value>640</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>57</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>dry forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.8908</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.47192</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.47192,10.8908,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes YESENN</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes YESENN<br>
+<b>voucher:</b> 05-SRNP-41425<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-41425-DHJ339446.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-41425-DHJ407006.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Rhynchosia calycosa<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2005<br>
+<b>date eclosion:</b> 7/19/05<br>
+<b>elevation:</b> 420
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>05-SRNP-41425</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-41425-DHJ339446.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-41425-DHJ407006.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Rhynchosia calycosa</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2005</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>7/19/05</value>
+				</Data>
+				<Data name='elevation'>
+					<value>420</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>43</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.89678</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.27001</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.27001,10.89678,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes TRIGO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes TRIGO<br>
+<b>voucher:</b> 93-SRNP-8663<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/93/93-SRNP-8663-DHJ90120.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/93/93-SRNP-8663-DHJ26482.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Trigonia rugosa<br>
+<b>host plant family:</b> Trigoniaceae<br>
+<b>year:</b> 1993<br>
+<b>date eclosion:</b> 1/29/94<br>
+<b>elevation:</b> 160
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>93-SRNP-8663</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/93/93-SRNP-8663-DHJ90120.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/93/93-SRNP-8663-DHJ26482.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Trigonia rugosa</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Trigoniaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>1993</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>1/29/94</value>
+				</Data>
+				<Data name='elevation'>
+					<value>160</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>47</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>dry forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.89857</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.56419</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.56419,10.89857,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes CELT</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes CELT<br>
+<b>voucher:</b> 05-SRNP-754<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-754-DHJ339494.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-754-DHJ88166.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Celtis iguanaea<br>
+<b>host plant family:</b> Ulmaceae<br>
+<b>year:</b> 2005<br>
+<b>date eclosion:</b> 4/4/05<br>
+<b>elevation:</b> 500
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>05-SRNP-754</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-754-DHJ339494.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-754-DHJ88166.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Celtis iguanaea</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Ulmaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2005</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>4/4/05</value>
+				</Data>
+				<Data name='elevation'>
+					<value>500</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>54</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.90037</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.37254</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.37254,10.90037,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes YESENN</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes YESENN<br>
+<b>voucher:</b> 03-SRNP-11291<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-11291-DHJ341142.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-11291-DHJ75678.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Senna papillosa<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 7/13/03<br>
+<b>elevation:</b> 415
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-11291</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-11291-DHJ341142.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-11291-DHJ75678.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna papillosa</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>7/13/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>415</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>63</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.90187</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.27495</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.27495,10.90187,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes YESENN</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes YESENN<br>
+<b>voucher:</b> 03-SRNP-11292<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-11292-DHJ341144.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-11292-DHJ75679.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Senna papillosa<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 7/13/03<br>
+<b>elevation:</b> 415
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-11292</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-11292-DHJ341144.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-11292-DHJ75679.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna papillosa</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>7/13/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>415</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>54</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.90187</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.27495</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.27495,10.90187,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes INGCUP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes INGCUP<br>
+<b>voucher:</b> 05-SRNP-40683<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-40683-DHJ339486.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-40683-DHJ89014.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Inga oerstediana<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2005<br>
+<b>date eclosion:</b> 4/18/05<br>
+<b>elevation:</b> 415
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>05-SRNP-40683</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-40683-DHJ339486.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-40683-DHJ89014.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Inga oerstediana</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2005</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>4/18/05</value>
+				</Data>
+				<Data name='elevation'>
+					<value>415</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>60</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.90187</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.27495</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.27495,10.90187,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes YESENN</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes YESENN<br>
+<b>voucher:</b> 03-SRNP-11346<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-11346-DHJ341308.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-11346-DHJ75693.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Senna papillosa<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 7/29/03<br>
+<b>elevation:</b> 410
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-11346</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-11346-DHJ341308.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-11346-DHJ75693.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna papillosa</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>7/29/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>410</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>52</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.90424</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.2712</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.2712,10.90424,0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='Style2-point-3'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-3-hover'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-3-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-3-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Astraptes YESENN</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes YESENN<br>
+<b>voucher:</b> 03-SRNP-23561<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-23561-DHJ341162.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-23561-DHJ401214.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Senna papillosa<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 1/14/04<br>
+<b>elevation:</b> 1060
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-23561</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-23561-DHJ341162.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-23561-DHJ401214.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna papillosa</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>1/14/04</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1060</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>62</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.9146</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46262</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46262,10.9146,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LOHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LOHAMP<br>
+<b>voucher:</b> 03-SRNP-23573<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-23573-DHJ341112.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-23573-DHJ401218.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 11/19/03<br>
+<b>elevation:</b> 1060
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-23573</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-23573-DHJ341112.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-23573-DHJ401218.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>11/19/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1060</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>59</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.9146</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46262</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46262,10.9146,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes YESENN</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes YESENN<br>
+<b>voucher:</b> 03-SRNP-13045.1<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-13045.1-DHJ341108.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-13045.1-DHJ78377.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Dioclea malacocarpa<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 11/17/03<br>
+<b>elevation:</b> 320
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-13045.1</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-13045.1-DHJ341108.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-13045.1-DHJ78377.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Dioclea malacocarpa</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>11/17/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>320</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>50</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.91847</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.30338</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.30338,10.91847,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LOHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LOHAMP<br>
+<b>voucher:</b> 03-SRNP-3100<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3100-DHJ341356.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3100-DHJ400166.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 3/26/03<br>
+<b>elevation:</b> 1090
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-3100</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3100-DHJ341356.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3100-DHJ400166.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>3/26/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1090</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>51</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92446</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46953</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46953,10.92446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LOHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LOHAMP<br>
+<b>voucher:</b> 03-SRNP-3138<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3138-DHJ341374.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3138-DHJ90528.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 3/18/03<br>
+<b>elevation:</b> 1090
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-3138</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3138-DHJ341374.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3138-DHJ90528.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>3/18/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1090</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>55</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92446</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46953</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46953,10.92446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LOHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LOHAMP<br>
+<b>voucher:</b> 03-SRNP-3139<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3139-DHJ341370.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3139-DHJ400193.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> <br>
+<b>elevation:</b> 1090
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-3139</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3139-DHJ341370.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3139-DHJ400193.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value></value>
+				</Data>
+				<Data name='elevation'>
+					<value>1090</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>49</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92446</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46953</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46953,10.92446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LOHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LOHAMP<br>
+<b>voucher:</b> 03-SRNP-3354<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3354-DHJ341362.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3354-DHJ400372.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 4/29/03<br>
+<b>elevation:</b> 1090
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-3354</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3354-DHJ341362.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3354-DHJ400372.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>4/29/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1090</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>57</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92446</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46953</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46953,10.92446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LOHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LOHAMP<br>
+<b>voucher:</b> 03-SRNP-3509<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3509-DHJ341360.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3509-DHJ400398.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 4/29/03<br>
+<b>elevation:</b> 1090
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-3509</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3509-DHJ341360.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3509-DHJ400398.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>4/29/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1090</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>50</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92446</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46953</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46953,10.92446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes YESENN</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes YESENN<br>
+<b>voucher:</b> 03-SRNP-4202<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-4202-DHJ341060.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-4202-DHJ73122.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Senna papillosa<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 7/14/03<br>
+<b>elevation:</b> 1090
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-4202</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-4202-DHJ341060.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-4202-DHJ73122.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna papillosa</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>7/14/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1090</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>49</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92446</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46953</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46953,10.92446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LOHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LOHAMP<br>
+<b>voucher:</b> 03-SRNP-22087<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-22087-DHJ341104.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-22087-DHJ401100.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> <br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 10/11/03<br>
+<b>elevation:</b> 1090
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-22087</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-22087-DHJ341104.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-22087-DHJ401100.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value></value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>10/11/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1090</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>54</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92446</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46953</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46953,10.92446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes SENNOV</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes SENNOV<br>
+<b>voucher:</b> 03-SRNP-22238<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-22238-DHJ341114.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-22238-DHJ77647.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> <br>
+<b>host plant species:</b> Senna papillosa<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 10/24/03<br>
+<b>elevation:</b> 1090
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-22238</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-22238-DHJ341114.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-22238-DHJ77647.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value></value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna papillosa</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>10/24/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1090</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>63</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92446</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46953</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46953,10.92446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes SENNOV</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes SENNOV<br>
+<b>voucher:</b> 03-SRNP-22239<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-22239-DHJ341312.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-22239-DHJ401113.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Senna papillosa<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 10/6/03<br>
+<b>elevation:</b> 1090
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-22239</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-22239-DHJ341312.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-22239-DHJ401113.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna papillosa</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>10/6/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1090</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>54</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92446</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46953</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46953,10.92446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes HIHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes HIHAMP<br>
+<b>voucher:</b> 04-SRNP-35081<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35081-DHJ92028.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35081-DHJ82747.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2004<br>
+<b>date eclosion:</b> 4/10/04<br>
+<b>elevation:</b> 1090
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>04-SRNP-35081</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35081-DHJ92028.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35081-DHJ82747.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2004</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>4/10/04</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1090</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>53</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92446</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46953</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46953,10.92446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes INGCUP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes INGCUP<br>
+<b>voucher:</b> 02-SRNP-9734<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-9734-DHJ92580.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-9734-DHJ67760.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Cupania glabra<br>
+<b>host plant family:</b> Sapindaceae<br>
+<b>year:</b> 2002<br>
+<b>date eclosion:</b> 9/8/02<br>
+<b>elevation:</b> 1080
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>02-SRNP-9734</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-9734-DHJ92580.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-9734-DHJ67760.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Cupania glabra</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Sapindaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2002</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>9/8/02</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1080</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>59</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92471</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46738</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46738,10.92471,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes SENNOV</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes SENNOV<br>
+<b>voucher:</b> 03-SRNP-3011<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3011-DHJ341058.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3011-DHJ400130.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Senna hayesiana<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 3/30/03<br>
+<b>elevation:</b> 1080
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-3011</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3011-DHJ341058.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3011-DHJ400130.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna hayesiana</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>3/30/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1080</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>63</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92471</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46738</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46738,10.92471,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes YESENN</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes YESENN<br>
+<b>voucher:</b> 03-SRNP-22479<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-22479-DHJ341386.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-22479-DHJ401132.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Senna hayesiana<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 11/10/03<br>
+<b>elevation:</b> 1080
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-22479</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-22479-DHJ341386.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-22479-DHJ401132.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna hayesiana</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>11/10/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1080</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>61</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92471</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46738</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46738,10.92471,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LOHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LOHAMP<br>
+<b>voucher:</b> 95-SRNP-365<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/95/95-SRNP-365-DHJ90372.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/95/95-SRNP-365-DHJ21763.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 1995<br>
+<b>date eclosion:</b> 3/25/95<br>
+<b>elevation:</b> 1150
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>95-SRNP-365</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/95/95-SRNP-365-DHJ90372.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/95/95-SRNP-365-DHJ21763.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>1995</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>3/25/95</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1150</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>51</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92691</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46822</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46822,10.92691,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes HIHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes HIHAMP<br>
+<b>voucher:</b> 97-SRNP-988<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/97/97-SRNP-988-DHJ92564.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/97/97-SRNP-988-DHJ40658.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 1997<br>
+<b>date eclosion:</b> 5/5/97<br>
+<b>elevation:</b> 1150
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>97-SRNP-988</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/97/97-SRNP-988-DHJ92564.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/97/97-SRNP-988-DHJ40658.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>1997</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>5/5/97</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1150</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>59</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92691</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46822</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46822,10.92691,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes HIHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes HIHAMP<br>
+<b>voucher:</b> 02-SRNP-23035<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-23035-DHJ92730.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-23035-DHJ68537.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2002<br>
+<b>date eclosion:</b> 9/2/02<br>
+<b>elevation:</b> 1150
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>02-SRNP-23035</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-23035-DHJ92730.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-23035-DHJ68537.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2002</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>9/2/02</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1150</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>60</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92691</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46822</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46822,10.92691,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LOHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LOHAMP<br>
+<b>voucher:</b> 03-SRNP-4369<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-4369-DHJ341344.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-4369-DHJ400577.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 8/8/03<br>
+<b>elevation:</b> 1150
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-4369</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-4369-DHJ341344.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-4369-DHJ400577.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>8/8/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1150</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>51</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92691</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46822</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46822,10.92691,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes HIHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes HIHAMP<br>
+<b>voucher:</b> 04-SRNP-35067<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35067-DHJ90054.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35067-DHJ401592.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2004<br>
+<b>date eclosion:</b> 3/12/04<br>
+<b>elevation:</b> 1150
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>04-SRNP-35067</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35067-DHJ90054.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35067-DHJ401592.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2004</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>3/12/04</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1150</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>57</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92691</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46822</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46822,10.92691,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LONCHO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LONCHO<br>
+<b>voucher:</b> 02-SRNP-24219<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-24219-DHJ90336.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-24219-DHJ70693.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Lonchocarpus oliganthus<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2002<br>
+<b>date eclosion:</b> 1/31/03<br>
+<b>elevation:</b> 1185
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>02-SRNP-24219</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-24219-DHJ90336.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-24219-DHJ70693.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Lonchocarpus oliganthus</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2002</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>1/31/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1185</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>55</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92714</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46683</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46683,10.92714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes YESENN</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes YESENN<br>
+<b>voucher:</b> 04-SRNP-35012<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35012-DHJ341106.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35012-DHJ82647.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Senna papillosa<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2004<br>
+<b>date eclosion:</b> 3/23/04<br>
+<b>elevation:</b> 1185
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>04-SRNP-35012</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35012-DHJ341106.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35012-DHJ82647.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna papillosa</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2004</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>3/23/04</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1185</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>51</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92714</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46683</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46683,10.92714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LOHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LOHAMP<br>
+<b>voucher:</b> 03-SRNP-3112<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3112-DHJ341046.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3112-DHJ400175.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 3/24/03<br>
+<b>elevation:</b> 1220
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-3112</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3112-DHJ341046.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3112-DHJ400175.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>3/24/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1220</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>56</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92918</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46426</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46426,10.92918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LOHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LOHAMP<br>
+<b>voucher:</b> 03-SRNP-4251<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-4251-DHJ341330.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-4251-DHJ73183.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 7/27/03<br>
+<b>elevation:</b> 1220
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-4251</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-4251-DHJ341330.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-4251-DHJ73183.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>7/27/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1220</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>48</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92918</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46426</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46426,10.92918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LOHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LOHAMP<br>
+<b>voucher:</b> 03-SRNP-4252<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-4252-DHJ341334.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-4252-DHJ73187.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 7/25/03<br>
+<b>elevation:</b> 1220
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-4252</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-4252-DHJ341334.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-4252-DHJ73187.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>7/25/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1220</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>55</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92918</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46426</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46426,10.92918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LOHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LOHAMP<br>
+<b>voucher:</b> 04-SRNP-35218<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35218-DHJ341508.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35218-DHJ82845.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> <br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2004<br>
+<b>date eclosion:</b> 4/22/04<br>
+<b>elevation:</b> 1220
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>04-SRNP-35218</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35218-DHJ341508.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35218-DHJ82845.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value></value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2004</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>4/22/04</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1220</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>52</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92918</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46426</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46426,10.92918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LOHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LOHAMP<br>
+<b>voucher:</b> 04-SRNP-35269<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35269-DHJ341210.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35269-DHJ401612.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> <br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2004<br>
+<b>date eclosion:</b> 5/25/04<br>
+<b>elevation:</b> 1220
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>04-SRNP-35269</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35269-DHJ341210.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35269-DHJ401612.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value></value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2004</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>5/25/04</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1220</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>57</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92918</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46426</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46426,10.92918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LOHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LOHAMP<br>
+<b>voucher:</b> 04-SRNP-35321<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35321-DHJ341252.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35321-DHJ401616.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> <br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2004<br>
+<b>date eclosion:</b> 5/17/04<br>
+<b>elevation:</b> 1220
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>04-SRNP-35321</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35321-DHJ341252.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35321-DHJ401616.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value></value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2004</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>5/17/04</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1220</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>46</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92918</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46426</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46426,10.92918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LONCHO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LONCHO<br>
+<b>voucher:</b> 04-SRNP-35510<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35510-DHJ341180.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35510-DHJ85148.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> <br>
+<b>host plant species:</b> Lonchocarpus oliganthus<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2004<br>
+<b>date eclosion:</b> 7/5/04<br>
+<b>elevation:</b> 1220
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>04-SRNP-35510</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35510-DHJ341180.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-35510-DHJ85148.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value></value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Lonchocarpus oliganthus</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2004</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>7/5/04</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1220</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>59</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92918</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46426</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46426,10.92918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LONCHO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LONCHO<br>
+<b>voucher:</b> 07-SRNP-35892<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-35892-DHJ375162.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-35892-DHJ421816.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Lonchocarpus oliganthus<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2007<br>
+<b>date eclosion:</b> 8/1/07<br>
+<b>elevation:</b> 1220
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>07-SRNP-35892</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-35892-DHJ375162.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-35892-DHJ421816.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Lonchocarpus oliganthus</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2007</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>8/1/07</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1220</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>56</value>
+				</Data>
+				<Data name='primary eco'>
+					<value></value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92918</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46426</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46426,10.92918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LONCHO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LONCHO<br>
+<b>voucher:</b> 07-SRNP-36055<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-36055-DHJ378618.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-36055-DHJ421919.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> <br>
+<b>host plant species:</b> Lonchocarpus oliganthus<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2007<br>
+<b>date eclosion:</b> 9/3/07<br>
+<b>elevation:</b> 1220
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>07-SRNP-36055</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-36055-DHJ378618.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-36055-DHJ421919.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value></value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Lonchocarpus oliganthus</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2007</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>9/3/07</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1220</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>58</value>
+				</Data>
+				<Data name='primary eco'>
+					<value></value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92918</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46426</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46426,10.92918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes INGCUP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes INGCUP<br>
+<b>voucher:</b> 08-SRNP-35599<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/08/08-SRNP-35599-DHJ390020.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/08/08-SRNP-35599-DHJ441064.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> <br>
+<b>host plant species:</b> <br>
+<b>host plant family:</b> <br>
+<b>year:</b> 2008<br>
+<b>date eclosion:</b> 6/19/08<br>
+<b>elevation:</b> 1220
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>08-SRNP-35599</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/08/08-SRNP-35599-DHJ390020.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/08/08-SRNP-35599-DHJ441064.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value></value>
+				</Data>
+				<Data name='host plant species'>
+					<value></value>
+				</Data>
+				<Data name='host plant family'>
+					<value></value>
+				</Data>
+				<Data name='year'>
+					<value>2008</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>6/19/08</value>
+				</Data>
+				<Data name='elevation'>
+					<value>1220</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>69</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.92918</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.46426</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.46426,10.92918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes YESENN</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes YESENN<br>
+<b>voucher:</b> 08-SRNP-2539<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/08/08-SRNP-2539-DHJ390022.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/08/08-SRNP-2539-DHJ437208.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> <br>
+<b>host plant species:</b> Dioclea malacocarpa<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2008<br>
+<b>date eclosion:</b> 7/8/08<br>
+<b>elevation:</b> 500
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>08-SRNP-2539</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/08/08-SRNP-2539-DHJ390022.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/08/08-SRNP-2539-DHJ437208.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value></value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Dioclea malacocarpa</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2008</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>7/8/08</value>
+				</Data>
+				<Data name='elevation'>
+					<value>500</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>59</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.9305</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.37223</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.37223,10.9305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LOHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LOHAMP<br>
+<b>voucher:</b> 02-SRNP-23926<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-23926-DHJ92632.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-23926-DHJ70620.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2002<br>
+<b>date eclosion:</b> 12/21/02<br>
+<b>elevation:</b> 760
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>02-SRNP-23926</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-23926-DHJ92632.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-23926-DHJ70620.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2002</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>12/21/02</value>
+				</Data>
+				<Data name='elevation'>
+					<value>760</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>55</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.93644</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.47764</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.47764,10.93644,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes HIHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes HIHAMP<br>
+<b>voucher:</b> 03-SRNP-3079<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3079-DHJ341366.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3079-DHJ400150.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 2/22/03<br>
+<b>elevation:</b> 760
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-3079</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3079-DHJ341366.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-3079-DHJ400150.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>2/22/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>760</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>61</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>cloud forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.93644</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.47764</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.47764,10.93644,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes INGCUP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes INGCUP<br>
+<b>voucher:</b> 96-SRNP-934<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/96/96-SRNP-934-DHJ90402.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/96/96-SRNP-934-DHJ27394.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Inga punctata<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 1996<br>
+<b>date eclosion:</b> 4/26/96<br>
+<b>elevation:</b> 580
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>96-SRNP-934</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/96/96-SRNP-934-DHJ90402.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/96/96-SRNP-934-DHJ27394.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Inga punctata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>1996</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>4/26/96</value>
+				</Data>
+				<Data name='elevation'>
+					<value>580</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>51</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>dry forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.9538</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.49094</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.49094,10.9538,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes YESENN</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes YESENN<br>
+<b>voucher:</b> 95-SRNP-840<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/95/95-SRNP-840-DHJ92950.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/95/95-SRNP-840-DHJ22279.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Senna papillosa<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 1995<br>
+<b>date eclosion:</b> 5/15/95<br>
+<b>elevation:</b> 675
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>95-SRNP-840</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/95/95-SRNP-840-DHJ92950.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/95/95-SRNP-840-DHJ22279.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna papillosa</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>1995</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>5/15/95</value>
+				</Data>
+				<Data name='elevation'>
+					<value>675</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>62</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>10.98931</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.42581</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.42581,10.98931,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes INGCUP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes INGCUP<br>
+<b>voucher:</b> 08-SRNP-70409<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/08/08-SRNP-70409-DHJ390006.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/08/08-SRNP-70409-DHJ443271.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> <br>
+<b>host plant species:</b> Inga sapindoides<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2008<br>
+<b>date eclosion:</b> 7/14/08<br>
+<b>elevation:</b> 465
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>08-SRNP-70409</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/08/08-SRNP-70409-DHJ390006.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/08/08-SRNP-70409-DHJ443271.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value></value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Inga sapindoides</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2008</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>7/14/08</value>
+				</Data>
+				<Data name='elevation'>
+					<value>465</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>52</value>
+				</Data>
+				<Data name='primary eco'>
+					<value></value>
+				</Data>
+				<Data name='latitude'>
+					<value>11.00054</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.39341</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.39341,11.00054,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes YESENN</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes YESENN<br>
+<b>voucher:</b> 03-SRNP-16333<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-16333-DHJ341294.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-16333-DHJ401016.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Senna hayesiana<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 7/27/03<br>
+<b>elevation:</b> 480
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-16333</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-16333-DHJ341294.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-16333-DHJ401016.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna hayesiana</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>7/27/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>480</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>61</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>11.00766</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.47926</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.47926,11.00766,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes YESENN</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes YESENN<br>
+<b>voucher:</b> 03-SRNP-15877<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-15877-DHJ341380.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-15877-DHJ400968.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Senna undulata<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 7/27/03<br>
+<b>elevation:</b> 400
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-15877</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-15877-DHJ341380.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-15877-DHJ400968.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna undulata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>7/27/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>400</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>47</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>11.01087</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.48817</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.48817,11.01087,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes LOHAMP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes LOHAMP<br>
+<b>voucher:</b> 03-SRNP-15889<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-15889-DHJ341098.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-15889-DHJ400970.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 7/27/03<br>
+<b>elevation:</b> 400
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-15889</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-15889-DHJ341098.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-15889-DHJ400970.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>7/27/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>400</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>49</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>11.01087</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.48817</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.48817,11.01087,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes YESENN</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes YESENN<br>
+<b>voucher:</b> 03-SRNP-15893<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-15893-DHJ341140.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-15893-DHJ400972.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Senna undulata<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 7/15/03<br>
+<b>elevation:</b> 400
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-15893</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-15893-DHJ341140.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-15893-DHJ400972.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna undulata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>7/15/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>400</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>55</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>11.01087</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.48817</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.48817,11.01087,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes YESENN</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes YESENN<br>
+<b>voucher:</b> 03-SRNP-16844<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-16844-DHJ341300.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-16844-DHJ401032.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Senna hayesiana<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 8/3/03<br>
+<b>elevation:</b> 400
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-16844</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-16844-DHJ341300.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-16844-DHJ401032.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna hayesiana</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>8/3/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>400</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>53</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>11.01087</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.48817</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.48817,11.01087,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes YESENN</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes YESENN<br>
+<b>voucher:</b> 03-SRNP-18626<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-18626-DHJ341072.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-18626-DHJ77103.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Senna undulata<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 9/26/03<br>
+<b>elevation:</b> 400
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-18626</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-18626-DHJ341072.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-18626-DHJ77103.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna undulata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>9/26/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>400</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>51</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>11.01087</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.48817</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.48817,11.01087,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes SENNOV</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes SENNOV<br>
+<b>voucher:</b> 04-SRNP-30803<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-30803-DHJ341190.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-30803-DHJ82368.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> <br>
+<b>host plant species:</b> Senna papillosa<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2004<br>
+<b>date eclosion:</b> 4/12/04<br>
+<b>elevation:</b> 520
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>04-SRNP-30803</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-30803-DHJ341190.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/04/04-SRNP-30803-DHJ82368.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value></value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna papillosa</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2004</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>4/12/04</value>
+				</Data>
+				<Data name='elevation'>
+					<value>520</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>57</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>11.01095</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.42094</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.42094,11.01095,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes INGCUP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes INGCUP<br>
+<b>voucher:</b> 07-SRNP-33557<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-33557-DHJ384038.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-33557-DHJ434271.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> <br>
+<b>host plant species:</b> Inga sapindoides<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2007<br>
+<b>date eclosion:</b> 12/26/07<br>
+<b>elevation:</b> 440
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>07-SRNP-33557</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-33557-DHJ384038.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/07/07-SRNP-33557-DHJ434271.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value></value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Inga sapindoides</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2007</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>12/26/07</value>
+				</Data>
+				<Data name='elevation'>
+					<value>440</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>57</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>11.01926</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.40997</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.40997,11.01926,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes FABOV</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes FABOV<br>
+<b>voucher:</b> 03-SRNP-21672<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-21672-DHJ341156.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-21672-DHJ90910.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Dioclea wilsonii<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 12/30/03<br>
+<b>elevation:</b> 445
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-21672</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-21672-DHJ341156.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-21672-DHJ90910.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Dioclea wilsonii</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>12/30/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>445</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>59</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>11.01983</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.41342</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.41342,11.01983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes FABOV</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes FABOV<br>
+<b>voucher:</b> 03-SRNP-38625<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-38625-DHJ341102.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-38625-DHJ80564.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Dioclea wilsonii<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 2/29/04<br>
+<b>elevation:</b> 445
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-38625</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-38625-DHJ341102.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-38625-DHJ80564.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Dioclea wilsonii</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>2/29/04</value>
+				</Data>
+				<Data name='elevation'>
+					<value>445</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>54</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>11.01983</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.41342</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.41342,11.01983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes INGCUP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes INGCUP<br>
+<b>voucher:</b> 05-SRNP-34301<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-34301-DHJ351870.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-34301-DHJ420414.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Hampea appendiculata<br>
+<b>host plant family:</b> Malvaceae<br>
+<b>year:</b> 2005<br>
+<b>date eclosion:</b> 12/22/05<br>
+<b>elevation:</b> 445
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>05-SRNP-34301</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-34301-DHJ351870.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/05/05-SRNP-34301-DHJ420414.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Hampea appendiculata</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Malvaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2005</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>12/22/05</value>
+				</Data>
+				<Data name='elevation'>
+					<value>445</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>51</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>11.01983</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.41342</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.41342,11.01983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes FABOV</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes FABOV<br>
+<b>voucher:</b> 03-SRNP-15973<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-15973-DHJ341376.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-15973-DHJ400980.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Senna hayesiana<br>
+<b>host plant family:</b> Fabaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 7/31/03<br>
+<b>elevation:</b> 290
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-15973</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-15973-DHJ341376.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-15973-DHJ400980.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Senna hayesiana</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Fabaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>7/31/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>290</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>52</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>11.02681</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.49547</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.49547,11.02681,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes CELT</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes CELT<br>
+<b>voucher:</b> 02-SRNP-31493<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-31493-DHJ90218.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-31493-DHJ71120.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> male<br>
+<b>host plant species:</b> Celtis iguanaea<br>
+<b>host plant family:</b> Ulmaceae<br>
+<b>year:</b> 2002<br>
+<b>date eclosion:</b> 11/19/02<br>
+<b>elevation:</b> 280
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>02-SRNP-31493</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-31493-DHJ90218.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-31493-DHJ71120.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>male</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Celtis iguanaea</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Ulmaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2002</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>11/19/02</value>
+				</Data>
+				<Data name='elevation'>
+					<value>280</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>55</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>11.04562</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.45742</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.45742,11.04562,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes TRIGO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes TRIGO<br>
+<b>voucher:</b> 02-SRNP-31536<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-31536-DHJ90192.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-31536-DHJ71144.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Trigonia laevis<br>
+<b>host plant family:</b> Trigoniaceae<br>
+<b>year:</b> 2002<br>
+<b>date eclosion:</b> 11/15/02<br>
+<b>elevation:</b> 280
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>02-SRNP-31536</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-31536-DHJ90192.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/02/02-SRNP-31536-DHJ71144.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Trigonia laevis</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Trigoniaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2002</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>11/15/02</value>
+				</Data>
+				<Data name='elevation'>
+					<value>280</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>55</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>11.04562</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.45742</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.45742,11.04562,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Astraptes TRIGO</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window" style="height:22em;overflow-y:auto">
+<b>herbivore species:</b> Astraptes TRIGO<br>
+<b>voucher:</b> 03-SRNP-17651<br>
+<b>URL adult:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-17651-DHJ341338.jpg" height="60" style="vertical-align:top"><br>
+<b>URL cp lateral:</b> <img src="http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-17651-DHJ76939.jpg" height="60" style="vertical-align:top"><br>
+<b>sex:</b> female<br>
+<b>host plant species:</b> Trigonia laevis<br>
+<b>host plant family:</b> Trigoniaceae<br>
+<b>year:</b> 2003<br>
+<b>date eclosion:</b> 9/5/03<br>
+<b>elevation:</b> 280
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='voucher'>
+					<value>03-SRNP-17651</value>
+				</Data>
+				<Data name='URL adult'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-17651-DHJ341338.jpg</value>
+				</Data>
+				<Data name='URL cp lateral'>
+					<value>http://janzen.sas.upenn.edu/2700ARCHIVES/03/03-SRNP-17651-DHJ76939.jpg</value>
+				</Data>
+				<Data name='sex'>
+					<value>female</value>
+				</Data>
+				<Data name='host plant species'>
+					<value>Trigonia laevis</value>
+				</Data>
+				<Data name='host plant family'>
+					<value>Trigoniaceae</value>
+				</Data>
+				<Data name='year'>
+					<value>2003</value>
+				</Data>
+				<Data name='date eclosion'>
+					<value>9/5/03</value>
+				</Data>
+				<Data name='elevation'>
+					<value>280</value>
+				</Data>
+				<Data name='wingspan (mm)'>
+					<value>54</value>
+				</Data>
+				<Data name='primary eco'>
+					<value>rain forest</value>
+				</Data>
+				<Data name='latitude'>
+					<value>11.04562</value>
+				</Data>
+				<Data name='longitude'>
+					<value>-85.45742</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.45742,11.04562,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>

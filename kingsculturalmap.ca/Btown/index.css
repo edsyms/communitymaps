@@ -1,0 +1,99 @@
+/* ::::: http://www.town.bridgetown.ns.ca/site/templates/rt_fire/css/template_css.css ::::: */
+
+html { height: 100%; margin-bottom: 1px; }
+body { margin: 0px; padding: 0px; }
+p { margin-top: 0px; margin-bottom: 5px; }
+span.pathway a { padding-right: 20px; margin-right: 10px; }
+span.pathway img { margin: 0px 10px; display: none; }
+div#pathway { margin-bottom: 10px; padding-left: 8px; }
+body { line-height: 135%; font-family: Tahoma,Helvetica,sans-serif; }
+body.f_default { font-size: 12px; }
+.small, .modifydate, .createdate, div.mosimage_caption { font-size: 85%; }
+div.moduletable h3, .contentheading, .componentheading { font-size: 115%; }
+#nav a, a.mainlevel { font-size: 95%; }
+h3, .contentheading, .componentheading, ul#nav, a.mainlevel, a.sublevel, .sectiontableheader, div#spotlight { font-family: Arial,Helvetica,sans-serif; }
+a:link, a:visited { text-decoration: none; }
+a:hover { text-decoration: underline; }
+div.moduletable h3 {  }
+a.mainlevel { display: block; margin-bottom: 3px; padding: 3px 0px; }
+a.mainlevel:hover { text-decoration: none; }
+a.mainlevel { display: block; height: 20px; line-height: 20px; padding: 0px 0px 0px 10px; font-weight: bold; }
+a.mainlevel:hover { background-position: 100% -22px; }
+a#active_menu:link, a#active_menu:visited { text-decoration: underline; }
+h3 {  }
+.modifydate { height: 20px; vertical-align: bottom; font-weight: bold; }
+td.buttonheading { vertical-align: middle; }
+table.contentpaneopen, table.contentpane { border-collapse: collapse; padding: 0px; margin: 0px; width: 100%; }
+table.contentpaneopen td, table.contentpane td { padding: 0px; }
+.clr { clear: both; }
+body.w_wide div#wrapper { width: 918px; }
+body.w_wide div#shadow { width: 900px; }
+body.w_wide div#left { width: 170px; }
+div#wrapper { margin: 0px auto; position: relative; }
+div#shadow { padding: 0px 9px; width: auto ! important; }
+div#header { height: 150px; position: relative; }
+span#logo { display: block; position: absolute; left: 10px; width: 645px; height: 70px; }
+div#tabarea { width: 100%; position: absolute; top: 130px; }
+div#access { position: absolute; z-index: 10000; right: 4px; bottom: 4px; width: 180px; }
+div#access .button { display: block; float: right; width: 31px; height: 17px; margin: 0px 1px; }
+table.nopad { width: 100%; border-collapse: collapse; padding: 0px; margin: 0px; }
+table.nopad tr { vertical-align: top; }
+table.nopad td { padding: 0px; }
+td#middle-col { width: 100%; }
+div#left .padding { padding-left: 7px; }
+div#left div.shadow { height: 18px; }
+div#middle div.shadow_2 { padding-top: 28px; padding-left: 9px; }
+div.moduletable h3, .contentheading, .componentheading { margin: 0px 0px 5px; height: 30px; line-height: 30px; padding-left: 10px; font-weight: bold; }
+div#middle div.moduletable { padding-right: 10px; }
+table.nopad table.contentpane td, table.nopad table.contentpaneopen td { padding-left: 10px; padding-right: 10px; }
+table.nopad td.contentheading { padding-left: 8px; }
+div.moduletable { margin-bottom: 10px; }
+div.moduletable { margin-bottom: 10px; }
+div#bottom { margin-bottom: 10px; margin-top: 15px; width: 100%; }
+div#bottom .corner_2 { padding: 7px 0px 7px 8px; }
+div#vbottom div { padding: 5px 0px; text-align: center; }
+#nav { margin: 0px; padding: 0px 0px 0px 10px; width: 100%; height: 48px; overflow: hidden; }
+#nav li { margin: 0px 2px 0px 0px; float: left; display: block; padding-right: 7px; }
+#nav li:hover, #nav li.over { background-position: 100% -80px; }
+#nav a { text-decoration: none; cursor: pointer; font-weight: bold; }
+#nav li:hover a, #nav li.over a { background-position: 0px -80px; }
+#nav li a { display: block; float: left; padding: 0px 21px 0px 28px; height: 23px; line-height: 23px; }
+/* ::::: http://www.town.bridgetown.ns.ca/site/templates/rt_fire/css/style_snowfire.css ::::: */
+
+body { background: url('fr_bg.png') repeat-x scroll 0% 0% rgb(20, 51, 92); }
+span.pathway a { background: url('fr_arrow.png') no-repeat scroll 100% 0px transparent; }
+body { color: rgb(15, 37, 62); }
+a:link, a:visited { color: rgb(255, 51, 0); }
+a.mainlevel { background: url('fr_menu.png') no-repeat scroll 100% 0px transparent; }
+a.mainlevel:link, a.mainlevel:visited { color: rgb(238, 238, 232); }
+a.mainlevel:hover { color: rgb(255, 255, 255); }
+a#active_menu.mainlevel, a#active_menu.sublevel { color: rgb(255, 255, 255); }
+.small, .modifydate, .createdate { color: rgb(15, 37, 62); }
+td.buttonheading { background: none repeat scroll 0% 0% rgb(205, 224, 240); }
+div#shadow { background: url('fr_bg_shadow.png') repeat-x scroll 0% 0% rgb(18, 46, 83); }
+div#header { background: url('fr_header.png') no-repeat scroll 100% 0px rgb(15, 37, 62); }
+span#logo { background: url('fr_logo.png') no-repeat scroll 0% 0% transparent; }
+#wide .button { background: url('fr_css_wide.png') no-repeat scroll 0% 0% transparent; }
+#narrow .button { background: url('fr_css_narrow.png') no-repeat scroll 0% 0% transparent; }
+td#left-col { background: url('fr_left_shadow2.png') repeat-y scroll 100% 0px rgb(160, 164, 119); }
+td#middle-col { background: url('fr_middle_shadow2.png') repeat-y scroll 100% 0px rgb(243, 247, 252); }
+div#left div, div#left p, div#left td { color: rgb(232, 233, 221); }
+div#left a { color: rgb(255, 255, 255); }
+div#bottom div, div#bottom p, div#bottom td { color: rgb(166, 200, 229); }
+div#left { background: url('fr_left_corner.png') no-repeat scroll 0px 0px transparent; }
+div#middle { background: url('fr_middle_top.png') repeat-x scroll 0px 0px transparent; }
+div#left div.shadow { background: url('fr_middle_shadow.png') no-repeat scroll 100% 0px transparent; }
+div#middle div.shadow_1 { background: url('fr_middle_corner.png') no-repeat scroll 0px 0px transparent; }
+div#middle div.shadow_2 { background: url('fr_right_shadow.png') no-repeat scroll 100% 0px transparent; }
+div.moduletable h3, .contentheading, .componentheading { background: url('fr_head_left.png') no-repeat scroll 100% 0px transparent; color: rgb(216, 217, 198); }
+div#middle div.moduletable h3, .contentheading, .componentheading { background: url('fr_title.png') no-repeat scroll 0px 0px rgb(205, 224, 240); color: rgb(29, 74, 136); }
+div#bottom { background: url('fr_bottom_shadow.png') repeat-y scroll 100% 0px rgb(22, 59, 93); }
+div#bottom .corner_1 { background: url('fr_bottom_tl.png') no-repeat scroll 0px 0px transparent; }
+div#bottom .corner_2 { background: url('fr_bottom_bl.png') no-repeat scroll 0px 100% transparent; }
+div#vbottom { border-top: 15px solid rgb(23, 63, 120); }
+div#vbottom a:link, div#vbottom a:visited, div#vbottom a:hover { color: rgb(35, 99, 192); }
+div#vbottom div { border-top: 10px solid rgb(21, 57, 105); color: rgb(35, 99, 192); }
+#nav li { background: url('fr_tab_r.png') no-repeat scroll 100% -40px transparent; }
+#nav a { background: url('fr_tab_l.png') no-repeat scroll 0px -40px transparent; color: rgb(186, 203, 225); }
+/* ::::: http://www.town.bridgetown.ns.ca/site/templates/rt_fire/css/zmg.css ::::: */
+

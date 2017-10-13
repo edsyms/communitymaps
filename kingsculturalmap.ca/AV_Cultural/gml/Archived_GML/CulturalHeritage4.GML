@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://ogr.maptools.org/ CulturalHeritage4.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-7227600.503718188</gml:X><gml:Y>5617670.007777066</gml:Y></gml:coord>
+      <gml:coord><gml:X>-7149534.37121468</gml:X><gml:Y>5646647.60064264</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>                      
+  <gml:featureMember>
+    <ogr:CulturalHeritage4 fid="F0">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7171477.6692398507,5646395.0133254193</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>78.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Wilf Carter Centre/Canning Heritage Centre</ogr:Organizati>
+      <ogr:Criteria>Cultural Heritage</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>9806 Main Street</ogr:StreetAddr>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>582 7699</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website>http://fieldwoodhs.ednet.ns.ca</ogr:Website>
+      <ogr:Descriptio>The Canning Heritage Centre is operated by the Fieldwood Heritage Society. They promote the history of this once very busy seaport through photo's artifacts and documents. They also have many holdings of W</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.422480</ogr:Longitude>
+      <ogr:Latitude>45.157780</ogr:Latitude>
+      <ogr:Gadd>9806 Main Street</ogr:Gadd>
+      <ogr:Gtown>Canning</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalHeritage.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalHeritage4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalHeritage4 fid="F1">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7155664.5189328464,5639396.8551722588</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>92.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Acadia Deportation Cross</ogr:Organizati>
+      <ogr:Criteria>Cultural Heritage</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>Horton Landing</ogr:StreetAddr>
+      <ogr:Town>Morden</ogr:Town>
+      <ogr:PostalCode></ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum></ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website>http://www.acadian-home.org/frames.html</ogr:Website>
+      <ogr:Descriptio>Horton Landing is where hundreds of Acadians waited in the fall of 1755 to be transported to the ships anchored in the Minas Basin.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.945980</ogr:Longitude>
+      <ogr:Latitude>45.102540</ogr:Latitude>
+      <ogr:Gadd>Horton Landing</ogr:Gadd>
+      <ogr:Gtown>Morden</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalHeritage.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalHeritage4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalHeritage4 fid="F2">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7179799.9143715566,5632263.0018497128</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>90.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Valley Medical Heritage Museum</ogr:Organizati>
+      <ogr:Criteria>Cultural Heritage</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>6745 Nova Scotia 221</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 3V7</ogr:PostalCode>
+      <ogr:Contact>Vilda Skerry</ogr:Contact>
+      <ogr:ContactTit>President</ogr:ContactTit>
+      <ogr:PhoneNum>678-3025</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.497240</ogr:Longitude>
+      <ogr:Latitude>45.068190</ogr:Latitude>
+      <ogr:Gadd>6745 Nova Scotia 221</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalHeritage.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalHeritage4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalHeritage4 fid="F3">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7165099.0624173954,5635619.2978839353</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>94.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Acadia University</ogr:Organizati>
+      <ogr:Criteria>Cultural Heritage</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>31 Acadia Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R6</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum></ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.365180</ogr:Longitude>
+      <ogr:Latitude>45.089560</ogr:Latitude>
+      <ogr:Gadd>31 Acadia Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalHeritage.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalHeritage4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalHeritage4 fid="F4">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7194282.5801237607,5635231.4233463015</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>75.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>George &amp; Mary Lynch Heritage Museum</ogr:Organizati>
+      <ogr:Criteria>Cultural Heritage</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>113 Parrish Road</ogr:StreetAddr>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>B0P 1E0</ogr:PostalCode>
+      <ogr:Contact>Barbara Nickerson</ogr:Contact>
+      <ogr:ContactTit>Contact Person</ogr:ContactTit>
+      <ogr:PhoneNum>678-1167</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>By Appointment.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.627340</ogr:Longitude>
+      <ogr:Latitude>45.087020</ogr:Latitude>
+      <ogr:Gadd>113 Parrish Road</ogr:Gadd>
+      <ogr:Gtown>Berwick</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalHeritage.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalHeritage4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalHeritage4 fid="F5">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7179743.1414312515,5634088.3943163967</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>87.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Kentville Legion War Museum</ogr:Organizati>
+      <ogr:Criteria>Cultural Heritage</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>37 River Street</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1G8</ogr:PostalCode>
+      <ogr:Contact>Don Taggart</ogr:Contact>
+      <ogr:ContactTit>Curator</ogr:ContactTit>
+      <ogr:PhoneNum>679-0720</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>The Museum is a wonderful tribute to the memory of our local veterans. The artifacts are reminiscent of an important part of our past which must always be remembered.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.496730</ogr:Longitude>
+      <ogr:Latitude>45.079770</ogr:Latitude>
+      <ogr:Gadd>37 River Street</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalHeritage.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalHeritage4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalHeritage4 fid="F6">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7190178.2304982133,5643399.2371965311</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>76.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Northville Farm Heritage Centre</ogr:Organizati>
+      <ogr:Criteria>Cultural Heritage</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1158 Steadman Road</ogr:StreetAddr>
+      <ogr:Town>Billtown</ogr:Town>
+      <ogr:PostalCode></ogr:PostalCode>
+      <ogr:Contact>Pat Reeves</ogr:Contact>
+      <ogr:ContactTit>Secretary</ogr:ContactTit>
+      <ogr:PhoneNum>538-9902</ogr:PhoneNum>
+      <ogr:Email>info@northvillefarm.ca</ogr:Email>
+      <ogr:Website>http://www.northvillefarm.ca</ogr:Website>
+      <ogr:Descriptio>The heritage centre preserves and demonstrates farm life and the farming methods of the small Annapolis Valley family farm during the first half of the 20th century.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.590470</ogr:Longitude>
+      <ogr:Latitude>45.138800</ogr:Latitude>
+      <ogr:Gadd>1158 Steadman Road</ogr:Gadd>
+      <ogr:Gtown>Billtown</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalHeritage.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalHeritage4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalHeritage4 fid="F7">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7177933.0865109526,5632802.0689097941</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>84.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Blair House Museum</ogr:Organizati>
+      <ogr:Criteria>Cultural Heritage</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>32 Main Street</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1J5</ogr:PostalCode>
+      <ogr:Contact>Dela Erith</ogr:Contact>
+      <ogr:ContactTit>Executive Director</ogr:ContactTit>
+      <ogr:PhoneNum>678-1093</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website>http://www.nsapples.com/museumb.htm</ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.480470</ogr:Longitude>
+      <ogr:Latitude>45.071690</ogr:Latitude>
+      <ogr:Gadd>32 Main Street</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalHeritage.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalHeritage4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalHeritage4 fid="F8">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7158826.2091111951,5638689.7724701418</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>82.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Grand Pre National Historic Site</ogr:Organizati>
+      <ogr:Criteria>Cultural Heritage</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>2205 Grand Pre Road</ogr:StreetAddr>
+      <ogr:Town>Grand Pre</ogr:Town>
+      <ogr:PostalCode>B0P 1M0</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>542-3631</ogr:PhoneNum>
+      <ogr:Email>grandpre.info@pc.gc.ca or contact@grand-pre.com</ogr:Email>
+      <ogr:Website>http://www.pc.gc.ca/lhn-nhs/ns/grandpre/index_e.asp</ogr:Website>
+      <ogr:Descriptio>This site commemorates the Acadians of Minas Basin and the event which took them from their homes, the Deportation. The gardens, monuments, church with its paintings, stained glass and exhibits, and espec</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.308830</ogr:Longitude>
+      <ogr:Latitude>45.109030</ogr:Latitude>
+      <ogr:Gadd>2205 Grand Pre Road</ogr:Gadd>
+      <ogr:Gtown>Grand Pre</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalHeritage.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalHeritage4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalHeritage4 fid="F9">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7149534.3712146804,5627954.7768208086</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>79.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Glooscap First Nation Reserve</ogr:Organizati>
+      <ogr:Criteria>Cultural Heritage</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>2202 Bishopville Road</ogr:StreetAddr>
+      <ogr:Town>Hantsport</ogr:Town>
+      <ogr:PostalCode></ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>(902) 684-9788</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.225360</ogr:Longitude>
+      <ogr:Latitude>45.040850</ogr:Latitude>
+      <ogr:Gadd>2202 Bishopville Road</ogr:Gadd>
+      <ogr:Gtown>Hansport</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalHeritage.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalHeritage4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalHeritage4 fid="F10">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7179453.7107551889,5633798.3245081306</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>89.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Kings Courthouse Museum</ogr:Organizati>
+      <ogr:Criteria>Cultural Heritage</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>37 Cornwallis Street</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 2E2</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>678-6237</ogr:PhoneNum>
+      <ogr:Email>museum@okcm.ca</ogr:Email>
+      <ogr:Website>http://www.okcm.ca</ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.494130</ogr:Longitude>
+      <ogr:Latitude>45.078010</ogr:Latitude>
+      <ogr:Gadd>37 Cornwallis Street</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalHeritage.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalHeritage4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalHeritage4 fid="F11">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7179929.0449808761,5633741.5728121102</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>88.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Kentville Volunteer Fire Department Museum</ogr:Organizati>
+      <ogr:Criteria>Cultural Heritage</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>463 Main Street</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1K9</ogr:PostalCode>
+      <ogr:Contact>Art Hamilton</ogr:Contact>
+      <ogr:ContactTit>Contact Person</ogr:ContactTit>
+      <ogr:PhoneNum>678-7798 ext 7</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.498400</ogr:Longitude>
+      <ogr:Latitude>45.077570</ogr:Latitude>
+      <ogr:Gadd>463 Main Street</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalHeritage.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalHeritage4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalHeritage4 fid="F12">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7206246.0857993132,5628072.9340171358</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>74.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Apple Capital Interpretive Centre &amp; Berwick Historical Society</ogr:Organizati>
+      <ogr:Criteria>Cultural Heritage</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>173 Commercial Street</ogr:StreetAddr>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>B0P 1E0</ogr:PostalCode>
+      <ogr:Contact>Deputy Chair John Rainforth</ogr:Contact>
+      <ogr:ContactTit>Contact Person</ogr:ContactTit>
+      <ogr:PhoneNum>538-9229 (summer) 538-9768 (winter)</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website>http://www.acmuseum.ednet.ns.ca</ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.734810</ogr:Longitude>
+      <ogr:Latitude>45.041600</ogr:Latitude>
+      <ogr:Gadd>173 Commercial Street</ogr:Gadd>
+      <ogr:Gtown>Berwick</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalHeritage.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalHeritage4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalHeritage4 fid="F13">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164681.6143269213,5646647.6006426401</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>91.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Skoda Heritage Society of Kingsport</ogr:Organizati>
+      <ogr:Criteria>Cultural Heritage</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>23 Main Street</ogr:StreetAddr>
+      <ogr:Town>Kingsport</ogr:Town>
+      <ogr:PostalCode></ogr:PostalCode>
+      <ogr:Contact>Richard Harvie</ogr:Contact>
+      <ogr:ContactTit>Contact Person</ogr:ContactTit>
+      <ogr:PhoneNum>582-3668</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.361430</ogr:Longitude>
+      <ogr:Latitude>45.159380</ogr:Latitude>
+      <ogr:Gadd>23 Main Street</ogr:Gadd>
+      <ogr:Gtown>Kingsport</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalHeritage.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalHeritage4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalHeritage4 fid="F14">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7201960.2854037723,5637293.9724064274</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>80.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Don's Train Museum</ogr:Organizati>
+      <ogr:Criteria>Cultural Heritage</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>2756 Black Rock Road</ogr:StreetAddr>
+      <ogr:Town>Grafton</ogr:Town>
+      <ogr:PostalCode></ogr:PostalCode>
+      <ogr:Contact>Don Foster</ogr:Contact>
+      <ogr:ContactTit>Contact Person</ogr:ContactTit>
+      <ogr:PhoneNum>538-1203</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.696310</ogr:Longitude>
+      <ogr:Latitude>45.100100</ogr:Latitude>
+      <ogr:Gadd>2756 Black Rock Road</ogr:Gadd>
+      <ogr:Gtown>Grafton</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalHeritage.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalHeritage4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalHeritage4 fid="F15">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7165126.8922900939,5635647.6796035506</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>95.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Acadia University Archives</ogr:Organizati>
+      <ogr:Criteria>Cultural Heritage</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>50 Acadia Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R6</ogr:PostalCode>
+      <ogr:Contact>Pat Townsend</ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>585-1101</ogr:PhoneNum>
+      <ogr:Email>archives@acadiau.ca</ogr:Email>
+      <ogr:Website>http://library.acadiau.ca/archives</ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.365430</ogr:Longitude>
+      <ogr:Latitude>45.089580</ogr:Latitude>
+      <ogr:Gadd>50 Acadia Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalHeritage.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalHeritage4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalHeritage4 fid="F16">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7158354.2144702319,5637270.3166429363</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>73.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Grand Pre Covenanter Church</ogr:Organizati>
+      <ogr:Criteria>Cultural Heritage</ogr:Criteria>
+      <ogr:Discipline>Church</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1989 Grand Pre Road</ogr:StreetAddr>
+      <ogr:Town>Grand Pre</ogr:Town>
+      <ogr:PostalCode></ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>542-3796</ogr:PhoneNum>
+      <ogr:Email>officewolfuc@eastlink.ca</ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>The old Covenanter Church was built by Presbyterians in 1804. It is now in the trust of Saint Andrew's United Church in Wolfville.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.304590</ogr:Longitude>
+      <ogr:Latitude>45.099950</ogr:Latitude>
+      <ogr:Gadd>1989 Grand Pre Road</ogr:Gadd>
+      <ogr:Gtown>Grand Pre</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalHeritage.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalHeritage4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalHeritage4 fid="F17">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164002.5654330822,5636007.189127462</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>96.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Randall House Museum</ogr:Organizati>
+      <ogr:Criteria>Cultural Heritage</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>259 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1C6</ogr:PostalCode>
+      <ogr:Contact>Bonnie Elliott or John Whidden</ogr:Contact>
+      <ogr:ContactTit>Contacts</ogr:ContactTit>
+      <ogr:PhoneNum>542-9775</ogr:PhoneNum>
+      <ogr:Email>randallhouse@ns.aliantzinc.ca</ogr:Email>
+      <ogr:Website>http://wolfvillehs.ednet.ns.ca</ogr:Website>
+      <ogr:Descriptio>The Randall House is a historic Horton farmhouse, maintained and operated by the Wolfville Historical Society. It reflects the way of life in Wolfville and its surrounding area in the 18th and 19th centuries.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.355330</ogr:Longitude>
+      <ogr:Latitude>45.092020</ogr:Latitude>
+      <ogr:Gadd>259 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalHeritage.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalHeritage4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalHeritage4 fid="F18">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7166963.6638881834,5638210.2868063105</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>93.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Prescott House Museum</ogr:Organizati>
+      <ogr:Criteria>Cultural Heritage</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1633 Starr's Point Road</ogr:StreetAddr>
+      <ogr:Town>Port Williams</ogr:Town>
+      <ogr:PostalCode>B0P 1T0</ogr:PostalCode>
+      <ogr:Contact>Nancy Morton</ogr:Contact>
+      <ogr:ContactTit>Site Manager</ogr:ContactTit>
+      <ogr:PhoneNum>542-3984</ogr:PhoneNum>
+      <ogr:Email>mortonni@ednet.ns.ca</ogr:Email>
+      <ogr:Website>http://museum.gov.ns.ca/prh</ogr:Website>
+      <ogr:Descriptio>The Prescott house is one of the best surviving examples of Georgian architecture in Nova Scotia.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.381930</ogr:Longitude>
+      <ogr:Latitude>45.105910</ogr:Latitude>
+      <ogr:Gadd>1633 Starr's Point Road</ogr:Gadd>
+      <ogr:Gtown>Port Williams</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalHeritage.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalHeritage4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalHeritage4 fid="F19">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7227600.503718188,5617670.007777066</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>83.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Greenwood Military Aviation Museum</ogr:Organizati>
+      <ogr:Criteria>Cultural Heritage</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>161 Ward Street</ogr:StreetAddr>
+      <ogr:Town>Greenwood</ogr:Town>
+      <ogr:PostalCode>B0P 1N0</ogr:PostalCode>
+      <ogr:Contact>Brian Nelson</ogr:Contact>
+      <ogr:ContactTit>Curator</ogr:ContactTit>
+      <ogr:PhoneNum>765-1495</ogr:PhoneNum>
+      <ogr:Email>gmam001@hotmail.com</ogr:Email>
+      <ogr:Website>http://gmam.ca</ogr:Website>
+      <ogr:Descriptio>Traces the history of RAF/RCAF/CFB Greenwood from its inception in 1942 to the present day. The museum features over 8,000 square feet of display area, with aircraft and period displays including interactive</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.926640</ogr:Longitude>
+      <ogr:Latitude>44.975530</ogr:Latitude>
+      <ogr:Gadd>161 Ward Street</ogr:Gadd>
+      <ogr:Gtown>Greenwood</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalHeritage.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalHeritage4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalHeritage4 fid="F20">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7157158.6431391118,5638060.452773043</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>81.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Fair Trade Museum</ogr:Organizati>
+      <ogr:Criteria>Cultural Heritage</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>11865 Nova Scotia 1 Trunk</ogr:StreetAddr>
+      <ogr:Town>Grand Pre</ogr:Town>
+      <ogr:PostalCode></ogr:PostalCode>
+      <ogr:Contact>Frank Harris</ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>542-7474 extention 221</ogr:PhoneNum>
+      <ogr:Email>info@justuscoffee.com</ogr:Email>
+      <ogr:Website>http://www.justuscoffee.com</ogr:Website>
+      <ogr:Descriptio>While enjoying your coffee or tea, you can tour our Roastery, Fair Trade museum and Chocolate Workshop. This is a happening place with tourists, our regulars and new visitors discovering this gem within the</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.293850</ogr:Longitude>
+      <ogr:Latitude>45.104960</ogr:Latitude>
+      <ogr:Gadd>11865 Nova Scotia 1 Trunk</ogr:Gadd>
+      <ogr:Gtown>Grand Pre</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalHeritage.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalHeritage4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalHeritage4 fid="F21">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7182681.8357854215,5641436.997389121</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>72.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Concrete Cottages</ogr:Organizati>
+      <ogr:Criteria>Cultural Heritage</ogr:Criteria>
+      <ogr:Discipline>Architecture</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>19 Saxon Street</ogr:StreetAddr>
+      <ogr:Town>Hall's Harbour</ogr:Town>
+      <ogr:PostalCode></ogr:PostalCode>
+      <ogr:Contact>Charles Macdonald</ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>678-3177</ogr:PhoneNum>
+      <ogr:Email>info@concretehouse.ca</ogr:Email>
+      <ogr:Website>http://www.concretehouse.ca</ogr:Website>
+      <ogr:Descriptio>Built of concrete reinforced by iron and driftwood, brightly painted, and        infused with a whimsical sensibility, the secluded cottages have charmed countless        visitors who have stumbled upon them.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.618670</ogr:Longitude>
+      <ogr:Latitude>45.201120</ogr:Latitude>
+      <ogr:Gadd>19 Saxon Street</ogr:Gadd>
+      <ogr:Gtown>Hall's Harbour</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalHeritage.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalHeritage4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalHeritage4 fid="F22">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7179375.7871116344,5633587.083895497</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>85.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Cornwallis Inn</ogr:Organizati>
+      <ogr:Criteria>Cultural Heritage</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>325 Main Street</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1K5</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>678-0955</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.493430</ogr:Longitude>
+      <ogr:Latitude>45.076590</ogr:Latitude>
+      <ogr:Gadd>325 Main Street</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalHeritage.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalHeritage4>
+  </gml:featureMember>
+</ogr:FeatureCollection>

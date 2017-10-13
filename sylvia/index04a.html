@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+
+
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+<html lang="en" class="no-js">
+	
+	
+<!-- Mirrored from cogsmapping.t15.org/sylvia/index04a.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 May 2016 18:03:56 GMT -->
+<head>
+	
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Livable: Street Design</title>
+
+		<meta name="description" content="A free HTML5/CSS3 template made exclusively for Codrops by Peter Finlan" />
+		<meta name="keywords" content="html5 template, css3, one page, animations, agency, portfolio, web design" />
+		<meta name="author" content="Peter Finlan" />
+<!--
+A new tab title
+A short video
+a new header title
+New main photo
+3 key concepts
+embedded map with at least 10 points
+three key stories 
+-->
+		
+<style>
+#map { height: 400px; }
+</style>
+
+	<!-- Bootstrap -->
+		<script src="js/modernizr.custom.js"></script>
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="css/jquery.fancybox.css" rel="stylesheet">
+		<link href="css/flickity.css" rel="stylesheet" >
+		<link href="css/animate.css" rel="stylesheet">
+		<link href="../../maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+		<link href='http://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
+		<link href="css/styles.css" rel="stylesheet">
+		<link href="css/queries.css" rel="stylesheet">
+		<link href="css/leaflet-search.css" rel="stylesheet">
+		
+		<link rel="stylesheet" href="../../cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
+			<link rel="stylesheet" href="../../libs.cartocdn.com/cartodb.js/v3/3.15/themes/css/cartodb.css" />
+			<link rel="stylesheet" href="css/leaflet.label.css" />
+		
+
+	
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+<!--  Link & Call fancy - http://www.granneman.com/webdev/coding/css/fancybox-a-better-lightbox/#link-to-fancybox -->
+		
+		<script src="../../ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/jquery.fancybox.pack.js"></script>
+
+<script type="text/javascript">
+		$(document).ready(function() {
+			$('.fancybox').fancybox();
+ 		});
+</script>
+		
+		
+</head>
+<body>
+
+		<!--[if lt IE 7]>
+		<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+		<![endif]-->
+		<!-- open/close -->
+		
+<header>
+			<section class="hero">
+				<div class="texture-overlay"></div>
+				<div class="container">
+					<div class="row nav-wrapper">
+						<div class="col-md-12 col-sm-6 col-xs-6 text-right navicon">
+							<p>MENU</p><a id="trigger-overlay" class="nav_slide_button nav-toggle" href="#"><span></span></a>
+						</div>
+					</div>
+					<div class="row hero-content">
+						<div class="col-md-12">
+							<h1 class="animated fadeInDown">Innovative Street Design for Livable Communities</h1>
+						</div>
+					</div>
+					<div class="row hero-content">
+						<div class="col-md-12 text-right">
+							<a href="#"><img src="img/cogs_logo.png" width="20%" alt="Boxify Logo"></a>
+						</div>
+					</div>
+				</div>
+			</section>
+		</header>
+		<section class="video" id="about">
+			<div class="container">
+				<div class="row">
+				
+				<!--div id="map" style="width: 600px; height: 400px"></div-->
+				<!--<div id="map"></div>-->
+				
+	<script src="https://maps.googleapis.com/maps/api/js?v=3&amp;sensor=false"></script>
+	<script src="../../cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
+	<script src="../../libs.cartocdn.com/cartodb.js/v3/3.15/cartodb.js"></script>
+	<script src="js/L.CartoDB.js"></script>
+	<script src="js/leaflet.label.js"></script>
+	<script src="js/leaflet-search.js"></script>
+	
+	<!--script>
+
+	var map = L.map('map').setView([45, -65], 2);
+
+		L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6IjZjNmRjNzk3ZmE2MTcwOTEwMGY0MzU3YjUzOWFmNWZhIn0.Y8bhBaUMqFiPrDRW9hieoQ', {
+			maxZoom: 18,
+			attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+				'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+				'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+			id: 'mapbox.streets'
+		}).addTo(map);
+		
+
+L.cartoDB('https://sylviadagnonedixon7.cartodb.com/api/v2/sql?q=SELECT * FROM communityassets_sylvia&api_key=ba97537aba9eef18a6a238a51e88f386f6c0e3cb', {
+		 pointToLayer: function (feature, latlng) {
+          return L.marker(latlng);},
+		onEachFeature: function (feature, layer) {
+				layer.bindPopup(feature.properties.comm_asset + '<br>' + feature.properties.description + feature.properties.img_link);
+	
+        }
+ }).addTo(map);
+/*
+L.cartoDB('https://edsymons.cartodb.com/api/v2/sql?q=SELECT * FROM resil2015a WHERE domain = \'Work\'&api_key=a41726eddf99ed06127b6651ec6dc6a8137bdae6', {
+		 pointToLayer: function (feature, latlng) {
+          return L.marker(latlng);},
+		onEachFeature: function (feature, layer) {
+				layer.bindPopup(feature.properties.comm_asset + '<br>' + feature.properties.domain_sub);
+	
+        }
+ }).addTo(map);
+ */
+		var popup = L.popup();
+
+		function onMapClick(e) {
+			popup
+				.setLatLng(e.latlng)
+				.setContent("You clicked the map at " + e.latlng.toString())
+				.openOn(map);
+		}
+
+		//map.on('click', onMapClick);
+
+	</script-->
+				
+					<div class="col-md-12 text-center">
+				
+					<h1><a href="https://www.youtube.com/watch?v=HLpqfCoOUfE" class="youtube-media"><i class="fa fa-play-circle-o"></i> A Short Video: Vancouver's Changing Roads</a></h1>
+		
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="features-intro">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-6 nopadding features-intro-img">
+						<div id="map"></div>
+						<!--<div class="features-bg">
+							<div class="texture-overlay"></div>
+							<div class="features-img wp1">
+								<img src="img/mapmarker01.png" width="100px" height="80px" alt="HTML5 Logo">
+							</div>
+						</div>-->
+					</div>
+					<div class="col-md-6 nopadding">
+						<div class="features-slider">
+								<ul class="slides" id="featuresSlider">
+									<li>
+										<h1>Traffic Calming Design</h1>
+										<p>This design technique focuses on lessening the impact of vehicle traffic by slowing it down, or “calming” it. The aim of traffic calming design is to create streets that can be used for other purposes besides vehicle traffic.</p>
+										<p><div id="map-navigation1" class="map-navigation"><a href="#" data-zoom="10" data-position="45.53252, -73.59432">Find the location on the map! Click map marker for more information! </a><!--i class="fa fa-long-arrow-right"--></i></div></p>
+									</li>
+									<li>
+										<h1>Pedestian and Bike Barriers</h1>
+										<p>Barriers, ranging from curbs to vegetation, can improve road safety and encourage more citizens to choice active transportation.</p>
+										<p><div id="map-navigation2" class="map-navigation"><a href="#" data-zoom="10" data-position="39.76703, -86.15212">Find the location on the map! Click map marker for more information! </a><!--i class="fa fa-long-arrow-right"--></i></div></p>
+									</li>
+									<li>
+										<h1>Community Gathering Spaces</h1>
+										<p>Roads can be designed as community gathering spaces. When streetscapes include such spaces, it encourages community members to walk and creates opportunities for social bonding within the community.</p>
+										<p><div id="map-navigation3" class="map-navigation"><a href="#" data-zoom="10" data-position="35.04843, -85.32197">Find the location on the map! Click map marker for more information! </a><!--i class="fa fa-long-arrow-right"--></i></div></p>
+									</li>
+									<li>
+										<h1>Mixed Use Areas</h1>
+										<p>Streets can be designed to incorporate many uses with appropriate land use by-laws. This in turn encourages active transportation modes such as walking since amenities are within a walking distance.</p>
+										<p><div id="map-navigation4" class="map-navigation"><a href="#" data-zoom="10" data-position="52.26684, -113.81407">Find the location on the map! Click map marker for more information! </a><!--i class="fa fa-long-arrow-right"--></i></div></p>
+									</li>
+									<li>
+										<h1>Curb Bulbouts and Medians</h1>
+										<p>Curb bumpouts and medians increase pedestrian's sense of safety and in turn help encourage more people to walk instead of driving to given location.</p>
+										<p><div id="map-navigation5" class="map-navigation"><a href="#" data-zoom="10" data-position="40.77358, -73.95168">Find examples on the map! Click map marker for more information! </a><!--i class="fa fa-long-arrow-right"--></i></div></p>
+									</li>
+									<li>
+										<h1>Shared Space Streets</h1>
+										<p>Streets can be designed to encourage multiple uses. They do not have to be designed simply for vehicle traffic. A shared space street is designed as a public space where movement is subject to social etiquette without formal traffic rules.</p>
+										<p><div id="map-navigation6" class="map-navigation"><a href="#" data-zoom="10" data-position="51.49951,-0.17784">Find the location on the map! Click map marker for more information! </a><!--i class="fa fa-long-arrow-right"--></i></div></p>
+									</li>
+									<li>
+										<h1>Multimodal Access</h1>
+										<p>Streets can be designed for multiple modes of transportation including: biking, bus transit, subway access, vehicle traffic, and walking.</p>
+										<p><!--a href="http://tympanus.net/codrops/?p=22554" class="arrow-btn"--><div id="map-navigation7" class="map-navigation"><a href="#" data-zoom="14" data-position="49.27206,-123.14816">Click here to find out how roads can be designed to include all types of transportation, walking, biking, and driving! </a><!--i class="fa fa-long-arrow-right"--></i></div></p>
+									</li>
+									<li>
+										<h1>Gravel Interceptors as Stormwater Filtering Systems</h1>
+										<p>Streets can be designed to incorporate a variety of stormwater filtration techniques. On site filtration of stormwater decreases flooding and pollution in surrounding waterbodies.</p>
+										<p><div id="map-navigation8" class="map-navigation"><a href="#" data-zoom="10" data-position="40.38459, -74.80488">Find the location on the map! Click map marker for more information! </a><!--i class="fa fa-long-arrow-right"--></i></div></p>
+									</li>
+									<li>
+										<h1>Biofiltration Swales and Rain Gardens</h1>
+										<p>Rain gardens can be designed to add to the attractiveness of the streetscape. Like other filtration systems, rain gardens also decrease pollutants. Rain gardens can be designed to hold large volumes of stormwater, and in turn decrease peak flooding downstream.</p>
+										<p><div id="map-navigation9" class="map-navigation"><a href="#" data-zoom="10" data-position="42.70753, -84.42444">Find an example on the map! Click map marker for more information! </a><!--i class="fa fa-long-arrow-right"--></i></div></p>
+									</li>
+									<li>
+										<h1>Beautiful Streetscape</h1>
+										<p>A beautiful streetscape encourages walking! Innovative street designs can incorporate community gathering places and convenient amenities that in turn promote active transportation.</p>
+										<p><!--a href="http://tympanus.net/codrops/?p=22554" class="arrow-btn"--><div id="map-navigation10" class="map-navigation"><a href="#" data-zoom="14" data-position="45.0917,-64.35795">Click here to find an example of a beautiful designed streetscape! </a><!--i class="fa fa-long-arrow-right"--></i></div></p>
+									</li>
+								</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="features-list" id="features">
+			<div class="container">
+				<div class="row">
+				
+				<h1> Key Concepts</h1>
+					<div class="col-md-12">
+
+						<div class="col-md-4 feature-1 wp2">
+							<div class="feature-icon">
+								<i class="fa fa-road"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Complete & Safe Streets</h1>
+								<p>Complete and safe streets increase active transportation and in turn increase health, resilience and sustainability throughout the community. The street design can include features such as bike lanes, pedestrian and bike barriers, traffic calming design, curb bulbouts and medians, mixed use areas, community gathering spaces, multimodal access, and shared use spaces.</p>
+								<a class="fancybox fancybox.iframe" href="http://sylviadagnonedixon.wix.com/completesafestreets" class="read-more-btn">Explore this concept <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+						<div class="col-md-4 feature-2 wp2 delay-05s">
+							<div class="feature-icon">
+								<i class="fa fa-tint"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Green Infrastructure</h1>
+								<p>Streets designed to include green infrastructure for storm water management save money and ecosystems. Storm water runoff can pick up harmful substances such as road salt, heavy metals and oils. These substances end up in streams or lakes, where they can damage water quality and aquatic habitat. Integrated storm water management systems, such as rain gardens, tree wells, porous pavement, gravel interceptors and biofiltration swales are landscaped features adapted to provide onsite treatment of storm water runoff. When rain water is detained and allowed to slowly permeate into the ground, flooding and pollution are deceased.</p>
+								<a class="fancybox fancybox.iframe" href="http://sylviadagnonedixon.wix.com/greeninfrastructure" class="read-more-btn">Explore this concept  <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+						<div class="col-md-4 feature-3 wp2 delay-1s">
+							<div class="feature-icon">
+								<i class="fa fa-cogs"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Beautiful & Innovative Design</h1>
+								<p>Beautifully designed streets encourage more walking, local spending, and community connections. Design features can include street art, plantings, unique vistas, water fountains, parks, plazas, al fresco dining spaces, sculptures, seating areas, and unique architecture. Streetscapes that are distinctive and memorable attract pedestrians and make walking more enjoyable. </p>
+								<a class="fancybox fancybox.iframe" href="http://sylviadagnonedixon.wix.com/beautifuldesign" class="read-more-btn">Explore this concept  <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="screenshots-intro">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<h1>Street Design That Helps Foster Prosperous, Livable Communties</h1>
+						<p>Street design can help foster communities that are more resilient, livable, safe, and healthy. Many aspects contribute to an improved street design. These include: active transportation routes, certification programs, new technology, design guidebooks, green infrastructure, traffic calming devices, and policies. Click on the images below for links to more information!</p>
+
+
+						
+						<p><a href="#screenshots" class="arrow-btn">See the screenshots! <i class="fa fa-long-arrow-right"></i></a></p>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="screenshots" id="screenshots">
+			<div class="container-fluid">
+				<div class="row">
+					<ul class="grid">
+						<li>
+							<figure>
+								<img src="img/01-screenshot.jpg" alt="Image of Complete Street">
+								<figcaption>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://completestreetsforcanada.ca/what-are-complete-streets">
+								<!--a href="http://completestreetsforcanada.ca/what-are-complete-streets" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Complete Streets for Canada</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/02-screenshot.jpg" alt="Image of A Citizen's Guide to Better Streets Book Cover">
+								<figcaption>
+								<div class="caption-content">
+									<a class="fancybox fancybox.iframe" href="http://www.pps.org/pdf/bookstore/How_to_Engage_Your_Transportation_Agency_AARP.pdf">
+										<i class="fa fa-search"></i><br>
+										<p>A Citizen's Guide to Better Streets</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/03-screenshot.jpg" alt="Image of Green Roads">
+								<figcaption>
+								<div class="caption-content">
+									<a class="fancybox fancybox.iframe" href="https://www.greenroads.org/portfolio">
+										<i class="fa fa-search"></i><br>
+										<p>Greenroads Foundation</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/04-screenshot.jpg" alt="Image of Solar Roadway">
+								<figcaption>
+								<div class="caption-content">
+									<a class="fancybox fancybox.iframe" href="http://www.solarroadways.com/intro.shtml">
+										<i class="fa fa-search"></i><br>
+										<p>Current Research and Development: Solar Roadways</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+				<div class="row">
+					<ul class="grid">
+						<li>
+							<figure>
+								<img src="img/05-screenshot.jpg" alt="Image of Urban Street Design">
+								<figcaption>
+								<div class="caption-content">
+									<a class="fancybox fancybox.iframe" href="http://nacto.org/publication/urban-street-design-guide/">
+										<i class="fa fa-search"></i><br>
+										<p>NACTO: Urban Street Design Guide</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/06-screenshot.jpg" alt="Image of Green Stormwater Management">
+								<figcaption>
+								<div class="caption-content">
+									<a class="fancybox fancybox.iframe" href="http://water.epa.gov/infrastructure/greeninfrastructure/">
+										<i class="fa fa-search"></i><br>
+										<p>Green Infrastructure</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/07-screenshot.jpg" alt="Image of Streetscape">
+								<figcaption>
+								<div class="caption-content">
+									<a class="fancybox fancybox.iframe" href="http://www.pps.org/reference/reference-categories/transportation-articles/transportation-101s/" height="283.789px" width="212.83px">
+										<i class="fa fa-search"></i><br>
+										<p>Transportation & Planning Resource Articles</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/08-screenshot.jpg" alt="Image of the BooK Cover">
+								<figcaption>
+								<div class="caption-content">
+									<a class="fancybox fancybox.iframe" href="http://www.smartgrowthamerica.org/complete-streets-2012-analysis">
+										<i class="fa fa-search"></i><br>
+										<p>Complete Streets Policies in the USA</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+
+		<footer>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-5">
+						<h1 class="footer-logo">
+						<img src="img/COGS01.jpg" width="70%" alt="Footer Logo Blue">
+						</h1>
+						<p>© Boxify 2015 - <a href="http://tympanus.net/codrops/licensing/">Licence</a> - Designed &amp; Developed by <a href="http://www.peterfinlan.com/">Peter Finlan</a></p>
+					</div>
+					<div class="col-md-7">
+						<ul class="footer-nav">
+							<li><a href="#about">Locate innovative street design on the map</a></li>
+							<li><a href="#features">Key Concepts</a></li>
+							<li><a href="#screenshots">Get More Info</a></li>
+							<li><a href="../index.html">Home</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<div class="overlay overlay-boxify">
+			<nav>
+				<ul>
+					<li><a href="#about"><i class="fa fa-heart"></i>Innovative initiatives</a></li>
+					<li><a href="#features"><i class="fa fa-flash"></i>Key Concepts</a></li>
+				</ul>
+				<ul>
+					<li><a href="#screenshots"><i class="fa fa-desktop"></i>Get more Info</a></li>
+					<li><a href="../index.html"><i class="fa fa-download"></i>Home</a></li>
+				</ul>
+			</nav>
+		</div>
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="js/min/toucheffects-min.js"></script>
+		<script src="../../ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/flickity.pkgd.min.js"></script>
+		<script src="js/jquery.fancybox.pack.js"></script>
+		<!--Include all compiled plugins (below), or include individual files as needed-->
+		<script src="js/retina.js"></script>
+		<script src="js/waypoints.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<!--script src="js/min/scripts-min.js"></script-->
+		<script src="js/scripts.js"></script>
+		<script src="js/eds_map01.js"></script>
+
+	</body>
+
+<!-- Mirrored from cogsmapping.t15.org/sylvia/index04a.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 May 2016 18:04:21 GMT -->
+</html>
+<p align="center">This website created with FreeHostingNoAds 
+<a href="http://freehostingnoads.net/freewebsitebuilder.php">Free Website Builder and Hosting</a></p>

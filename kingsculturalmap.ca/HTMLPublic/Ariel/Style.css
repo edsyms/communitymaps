@@ -1,0 +1,90 @@
+body
+{
+background-image:url('Images/Red_Mountain_0001.jpg');
+background-size: 100%;
+background-repeat:no-repeat;
+background-attachment:fixed;
+}
+
+p.h1 
+{
+font-family: "Georgia";
+color: #2C4815;
+text-align:center;
+font-size:75px;
+font-style:italic;
+}
+
+p.Menu
+{
+font-family:"Georgia";
+color: #2C4815;
+font-size:20px;
+padding-left:50px;
+}
+
+p.Content
+{
+font-family:"Georgia";
+color: #2C4815;
+font-size:28px;
+font-style:italic;
+padding-left:50px;
+}
+
+p.PageOneText
+{
+font-family:"Georgia";
+color: #2C4815;
+font-size:18px;
+padding-left:50px;
+padding-right:315px;
+line-height:150%;
+}
+
+p.Me
+{
+font-family:"Georgia";
+color: #2C4815;
+font-size:28px;
+font-style:italic;
+padding-left:50px;
+}
+
+p.MeText
+{
+font-family:"Georgia";
+color: #2C4815;
+font-size:18px;
+padding-left:550px;
+padding-right:50px;
+line-height:150%;
+}
+
+p.ResearchProject
+{
+font-family:"Georgia";
+color: #2C4815;
+font-size:28px;
+font-style:italic;
+padding-left:50px;
+}
+
+p.ResearchProjectText
+{
+font-family:"Georgia";
+color: #2C4815;
+font-size:18px;
+padding-left:50px;
+padding-right:50px;
+line-height:150%;
+}
+
+p.footer
+{font-family:"Arial";
+color: #2C4815;
+font-size:9px;
+text-align:center;
+}
+
+</style>

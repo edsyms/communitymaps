@@ -1,0 +1,2 @@
+https://sylviadagnonedixon7.cartodb.com/api/v2/sql?q=SELECT * FROM communityassets_sylvia&api_key=ba97537aba9eef18a6a238a51e88f386f6c0e3cb
+

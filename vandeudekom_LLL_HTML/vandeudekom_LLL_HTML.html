@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+
+
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+<html lang="en" class="no-js">
+	
+	<head>
+	
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Lifelong Learning</title>
+
+		<meta name="description" content="A free HTML5/CSS3 template made exclusively for Codrops by Peter Finlan" />
+		<meta name="keywords" content="html5 template, css3, one page, animations, agency, portfolio, web design" />
+		<meta name="author" content="Peter Finlan" />
+		
+<style>
+#map { height: 500px; } 
+
+figure {
+    position: relative;
+} 
+
+
+.imgCredit {
+    position: absolute;
+    bottom: 4px;
+    left: 16px;
+    font-size: 10px;
+    color: rgba(255,255,255,0.8);
+	text-shadow: black 0.1em 0.1em 0.2em;
+	/* background-color: rgba(255,255,255,0.8);*/
+
+</style>
+
+	<!-- Bootstrap -->
+		<script src="js/modernizr.custom.js"></script>
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="css/jquery.fancybox.css" rel="stylesheet">
+		<link href="css/flickity.css" rel="stylesheet" >
+		<link href="css/animate.css" rel="stylesheet">
+		<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+		<link href='http://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
+		<link href="css/styles.css" rel="stylesheet">
+		<link href="css/queries.css" rel="stylesheet">
+		<link href="css/leaflet-search.css" rel="stylesheet">
+		
+		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
+			<link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/3.15/themes/css/cartodb.css" />
+			<link rel="stylesheet" href="css/leaflet.label.css" />
+		
+
+	
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+<!--  Link & Call fancy - http://www.granneman.com/webdev/coding/css/fancybox-a-better-lightbox/#link-to-fancybox -->
+		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/jquery.fancybox.pack.js"></script>
+
+<script type="text/javascript">
+		$(document).ready(function() {
+			$('.fancybox').fancybox();
+ 		});
+</script>
+		
+		
+</head>
+<body>
+
+		<!--[if lt IE 7]>
+		<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+		<![endif]-->
+		<!-- open/close -->
+		
+<header>
+			<section class="hero">
+				<div class="texture-overlay"></div>
+				<div class="container">
+					
+					<div class="row hero-content">
+						<div class="col-md-12">
+							
+							<h1 class="animated fadeInDown">Lifelong Learning </h1> 
+						</div>
+					</div>
+					<div class="row nav-wrapper">
+						<div class="col-md-6 col-sm-6 col-xs-6 text-left">
+							<a href="#"><img src="img/cogslogogiod.png" width="40%" alt="Boxify Logo"></a>
+						</div>
+						<div class="col-md-6 col-sm-6 col-xs-6 text-right navicon">
+							<p>MENU</p><a id="trigger-overlay" class="nav_slide_button nav-toggle" href="#"><span></span></a>
+						</div>
+					</div>
+				</div>
+			</section>
+		</header>
+		<section class="video" id="about">
+			<div class="container">
+				<div class="row">
+				
+	<script src="https://maps.googleapis.com/maps/api/js?v=3&sensor=false"></script>
+	
+	<script src="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
+	<script src="http://libs.cartocdn.com/cartodb.js/v3/3.15/cartodb.js"></script>
+	<script src="js/L.CartoDB.js"></script>
+	<script src="js/leaflet-search.js"></script>
+	<script src="js/leaflet.label.js"></script>
+	
+	
+				
+					<div class="col-md-12 text-center">
+				
+					<h1><a href="https://www.youtube.com/embed/I1M59h--CpE" class="youtube-media"><i class="fa fa-play-circle-o"></i> A Video on Creating Community Through Learning</a></h1>
+		
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="features-intro">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-6 nopadding features-intro-img">
+						<div id="map"></div>						
+					</div>
+<div class="col-md-6 nopadding">
+						<div class="features-slider">
+								<ul class="slides" id="featuresSlider">
+									<li>
+										<h1>The Seniors College Association<br> of Nova Scotia<br></h1>
+										<img src = "img/scans2.jpg" align="right" style="width:250px;height:210px;">
+										<p>The Seniors College Association of Nova Scotia, "SCANS" is a a registered non-profit<br> organization dedicated to providing non-credit academic courses to seniors (age 50+) in Nova Scotia. <a class="fancybox fancybox.iframe" href="http://thescans.ca/">http://thescans.ca/</p>
+										<div id ="map-navigation1" class="map-navigation"><a href="#" data-zoom="16" data-position="44.65093861, -63.58191758">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Find out more about SCANS! <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>	
+									<li>
+										<h1>Acadia University <br>Lifelong Learning Program<br></h1>
+										<img src = "img/acadia.jpg" align="right" style="width:250px;height:220px;">
+										<p>No matter what your age and your educational background, you'll find affordable and unique courses and events from Acadia Lifelong Learning.<br> <a class="fancybox fancybox.iframe" href="https://www.openacadia.ca/index.php/programs/lifelong-learning">https://www.openacadia.ca/</p>
+										<div id ="map-navigation2" class="map-navigation"><a href="#" data-zoom="14" data-position="45.08345, -64.36546">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Click to see the Acadia Campus on the map! <i class="fa fa-long-arrow-right"></i></a></p>										
+									</li>
+									<li>
+										<h1>Antigonish County Adult<br> Learning Association (ACALA)<br></h1>
+										<img src = "img/acala2.png" align="right" style="width:250px;height:215px;">
+										<p>The ACLA is a community non-profit<br> organization which provides and family<br> learning opportunities in the Antigonish area.<br> <a class="fancybox fancybox.iframe" href="http://www.acalalearn.ca/"> http://www.acalalearn.ca/</p>
+										<div id ="map-navigation3" class="map-navigation"><a href="#" data-zoom="14" data-position="45.61685, -61.99858">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Click to show the ACLA's location on the map! <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>The City of Whittlesea: Lifelong Learning Strategy and Action Plan<br></h1>
+										<img src = "img/whittlesea2.png" align="right" style="width:250px;height:210px;">
+										<p> The City of Whittlesea believes that lifelong learning improves community connection, employment outcomes, cultural awareness, and general wellbeing. They believe that fostering lifelong learning will improve their community as a whole, for the future. <a target= "_blank" href= "https://www.whittlesea.vic.gov.au/">https://www.whittlesea.vic.gov.au/</p>
+										<div id ="map-navigation4" class="map-navigation"><a href="#" data-zoom="10" data-position="-37.64550, 145.06814">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Click to see Whittlesea on the map! <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Valley Community<br> Learning Association<br></h1>
+										<img src = "img/vcla2.jpg" align="right" style="width:250px;height:195px;">
+										<p>The VCLA is a non-profit organization which enables adults to address their learning needs and achieve their personal learning goals.  <a class="fancybox fancybox.iframe" href="http://www.vcla.ca/">http://www.vcla.ca/</p>
+										<div id ="map-navigation5" class="map-navigation"><a href="#" data-zoom="13" data-position="45.08345, -64.49876">
+										<!-- <p><a href="#features" class="arrow-btn"> -->View the location of the VCLA on the map! <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1><br>Toronto Intergenerational <br> Partnerships (TIGP)</h1>
+										<img src = "img/tgip2.jpg" align="right" style="width:250px;height:195px;">
+										<p>TGIP designs and delivers intergenerational support programs in  partnership with their community.<br> <a class="fancybox fancybox.iframe" href="http://www.tigp.org"> http://www.tigp.org</p>
+										<div id ="map-navigation6" class="map-navigation"><a href="#" data-zoom="12" data-position="43.6829, -79.334858">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Click to zoom to TGIP's location! <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>The District Municipality of Muskoka<br> Intergenerational Mentorship Program</h1>
+										<img src = "img/muskoka2.jpg" align="right" style="width:240px;height:195px;">
+										<p> Muskoka’s Seniors Intergenerational Mentorship Program brings children and seniors together to enrich their lives and create lifelong learning through a variety of intergenerational activities.  <a class="fancybox fancybox.iframe" href=" http://www.muskoka.on.ca/en/community-and-social-services/Intergenerational-Mentorship-Program.aspx"> http://www.muskoka.on.ca</p>
+										<div id ="map-navigation7" class="map-navigation"><a href="#" data-zoom="11" data-position="45.015109, -79.215319">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Click here to zoom to The Municipality of the District of Muskoka on the map! <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Lifelong Learning at Florida<br> Atlantic University</h1>
+										<img src = "img/fau2.jpg" align="right" style="width:250px;height:195px;">
+										<p> Florida Atlantic University has a Lifelong Learning Society, which offers non-credit courses to adults of all ages. In addition to a diverse curriculum, FAU offers enriching concerts and entertainment.  <a class="fancybox fancybox.iframe" href="http://www.fau.edu/llsjupiter/llshome.php"> http://www.fau.edu/</p>
+										<div id ="map-navigation8" class="map-navigation"><a href="#" data-zoom="16" data-position="26.37407, -80.10435">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Click to see FAU on the map! <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>The Resort Municipality of Whistler<br></h1>
+										<img src = "img/whistler2.png" align="right" style="width:240px;height:185px;">
+										<p>By 2020, The Resort Municipality of Whistler wishes to establish a learning culture and promote it both locally and regionally. They aim for learning to be diverse, with formal and informal opportunities which leverages Whistler's stature internationally.<br> <a class="fancybox fancybox.iframe" href="https://www.whistler.ca/municipal-government/strategies-and-plans/whistler2020"> https://www.whistler.ca</p>
+										<div id ="map-navigation9" class="map-navigation"><a href="#" data-zoom="14" data-position="50.10232, -122.9796">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Check out Whistler on the map! <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Learning Lunenburg</h1>
+										<img src = "img/lunenburg2.jpg" align="right" style="width:250px;height:195px;">
+										<p> Learning Lunenburg wishes to use the town of Lunenburg, Nova Scotia as a model to conduct research on the planning of small communities, as it is a strong example of small community vitality. In addition to providing analytical information, Learning Lunenburg organizes educational programs and conferences which relate to integrated planning in small communities.<br><a class="fancybox fancybox.iframe" href="http://learninglunenburg.ca"> http://learninglunenburg.ca </p>
+										<div id ="map-navigation10" class="map-navigation"><a href="#" data-zoom="13" data-position="44.38345, -64.31545">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Check out Lunenburg on the map! <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1><br>Community Size Chart <br><br><br></h1>
+										<img src = "img/chart.jpg" align="left" style="width:400px;height:150px;">
+									</li>
+								</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--
+		<section class="features-list" id="features">
+			<div class="container">
+				<div class="row">
+				
+				<h1 style="text-align:center; margin-bottom: 50px;"> Key Concepts</h1>
+					<div class="col-md-12">
+
+						<div class="col-md-4 feature-1 wp2">
+							<div class="feature-icon">
+								<i class="fa fa-users"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Promoting Resilience</h1>
+								<p>Torjman (2007) suggests that shared places help to promote strong and vibrant communities because it helps to build resilient communities capable of prospering in times of adversity. By bringing together people, a foundation for engagement is provided whereby which people can find common understanding. From this engagement and understanding, we are able to work towards common goals to help further support and build stronger communities. Shared spaces present great opportunities for great discussion. (Torjman, S. (2007). Shared Space: The Communities Agenda. ON: The Caledon Institute of Social Policy) .</p>
+								<a href="http://tamarackcommunity.ca/g3s61_CC4I3.html" class="read-more-btn">Explore this concept <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+						<div class="col-md-4 feature-2 wp2 delay-05s">
+							<div class="feature-icon">
+								<i class="fa fa-home"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Importance of Place</h1>
+								<p>The concept of shared and public spaces is rooted in the notion of place. Whether it be the physical space in which we live or emotional place, place provides meaning and belonging in our daily lives. Places are the foundation upon which a network for people can be built. The importance of place takes significance when we think about well-being and development; quality of places and their attributes impacts our health, social cohesion, and economic welfare (Torjman, S. (2007). Shared Space: The Communities Agenda. ON: The Caledon Institute of Social Policy).</p>
+								<a href="http://www.pps.org/reference/public_space_benefits/" class="read-more-btn">Explore this concept  <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+						<div class="col-md-4 feature-3 wp2 delay-1s">
+							<div class="feature-icon">
+								<i class="fa fa-heart"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Social Capital</h1>
+								<p>The purpose of shared spaces is to bring people together, they are a location whereby which human interaction occurs. The way a place is planned ultimately impacts community health as increased social activity helps to foster an environment of support, security and trust. The socio-spatial attributes associated with these places help create unique spaces for community gatherings. Regardless of their size or geometry, public spaces serve as a means of community development and social development creating and reinforcing social bonds among people. (Friedman, A. (2014). Planning Small and Mid-Sized Towns. NY: Routledge). </p>
+								<a href="http://infed.org/mobi/social-capital/" class="read-more-btn">Explore this concept  <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+						<!--div class="col-md-3 feature-4 wp2 delay-1s">
+							<div class="feature-icon">
+								<i class="fa fa-cogs"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Social Capital: Socio-spatial attributes</h1>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. . </p>
+								<a href="http://cogsmapping.t15.org/JT3/postconfed.html" class="read-more-btn">Explore this concept  <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</section>
+-->
+		<section class="screenshots-intro">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<h1>Click the Images Below to Learn More About Local Initiatives That Help Foster Livable Communties</h1>
+						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p-->
+
+
+						
+						<p><a href="#screenshots" class="arrow-btn">Click the images below! <i class="fa fa-long-arrow-right"></i></a></p>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="screenshots" id="screenshots">
+			<div class="container-fluid">
+				<div class="row">
+					<ul class="grid">
+						<li>
+							<figure>
+								<img src="img/284ad3a9a9bba0f212ba5595827c4b17.jpg" alt="Screenshot 01">
+								<figcaption>
+								<div class="imgCredit">Brian Tracey Learning Quote(2016);Retrieved from Pinterest</div>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://thescans.ca/images/SCANS_HeraldArticle_21Jan2008.jpg">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Seniors' College <br> Redefines Lifelong Learning <br>in<br> Nova Scotia</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>							
+						</li>
+						<li>
+							<figure>
+								<img src="img/ComputerClass2012c.jpg" alt="Screenshot 02">
+								<figcaption>
+								<div class="imgCredit">Residents take computer classes at Nānākuli(2016); Ka Pua Initiative</div>
+								<div class="caption-content">
+									<a class="fancybox fancybox.iframe" href="http://www.ksbe.edu/kapua/site/clc/" class="single_image">
+										<i class="fa fa-search"></i><br>
+										<p>KaPua Initiative<br> Community <br>Learning Centers</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/anonymous.png" alt="Screenshot 03">
+								<figcaption>
+								<div class="imgCredit">Learning Quote Graphic(2016); Erin van Deudekom</div>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://www.educationscotland.gov.uk/communitylearninganddevelopment/about/policy/cldregulations/index.asp">
+								<!--a href="http://www.educationscotland.gov.uk/communitylearninganddevelopment/about/policy/cldregulations/index.asp" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Community learning <br>and <br>development regulations <br>in <br>Scotland</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/mobama.jpg" alt="Screenshot 04">
+								<figcaption>
+								<div class="imgCredit">Adding a Little Color(2010); The White House</div>
+								<div >
+								<a class="fancybox fancybox.iframe" href="https://www.whitehouse.gov/blog/2010/04/30/adding-a-little-color">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Michelle Obama Contributes<br> to Community Learning Center</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+				<div class="row">
+					<ul class="grid">
+						<li>
+							<figure>
+								<img src="img/intergenerational-learning-center-in-seattle1.jpg" alt="Screenshot 05">
+								<figcaption>
+								<div class="imgCredit">Intergenerational Learning, Seattle (2015); Concierge Care Advisors</div>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://dev.ageing.ox.ac.uk/system/files/ageing_horizons_8_newmanetal_ll.pdf">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Intergenerational Learning<br> and the <br>Contributions of Older People</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/Learning-Quotes-2-of-16.jpg" alt="Screenshot 06">
+								<div >
+								<figcaption>
+								<div class="imgCredit">Gandhi Quote Graphic (2016); Lifehack.org</div>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://www.huffingtonpost.com/hilary-young/consider-going-back-to-sc_b_3894493.html">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Consider Going Back-to-School <br> Post-Retirement <br> <br>The Huffington Post</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/intergenerational_learning_1.jpg" alt="Screenshot 07">
+								<figcaption>
+								<div class="imgCredit">intergenerational learning(2016);Electronic Platform for Adult Learning in Europe</div>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://calpro-online.org/ERIC/docs/dig244.pdf">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Intergenerational Learning <br>and<br> Social Capital</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/large.jpg" alt="Screenshot 08">
+								<figcaption>
+								<div class="imgCredit">Chinese Proverb Graphic (2016); Quotesgram</div>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://mapping.uvic.ca/section/about">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>UVic<br> Community Mapping<br> Collaboratory</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+
+		<footer>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-5">
+						<h1 class="footer-logo">
+						<img src="img/COGS01.jpg" width="70%" alt="Footer Logo Blue">
+						</h1>
+						<p>© Boxify 2015 - <a href="http://tympanus.net/codrops/licensing/">Licence</a> - Designed &amp; Developed by <a href="http://www.peterfinlan.com/">Peter Finlan</a></p>
+					</div>
+					<div class="col-md-7">
+						<ul class="footer-nav">
+							<li><a href="#about">Innovative at a local level</a></li>
+							<li><a href="#features">Key Concepts</a></li>
+							<li><a href="#screenshots">Get More Info</a></li>
+							<li><a href="http://www.cogsmapping.t15.org/">Home</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<div class="overlay overlay-boxify">
+			<nav>
+				<ul>
+					<li><a href="#about"><i class="fa fa-heart"></i>Innovative initiatives</a></li>
+					<li><a href="#features"><i class="fa fa-flash"></i>Key Concepts</a></li>
+				</ul>
+				<ul>
+					<li><a href="#screenshots"><i class="fa fa-desktop"></i>Get more Info</a></li>
+					<li><a href="http://www.cogsmapping.t15.org/"><i class="fa fa-download"></i>Home</a></li>
+				</ul>
+			</nav>
+		</div>
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="js/min/toucheffects-min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/flickity.pkgd.min.js"></script>
+		<script src="js/jquery.fancybox.pack.js"></script>
+		<!--Include all compiled plugins (below), or include individual files as needed-->
+		<script src="js/retina.js"></script>
+		<script src="js/waypoints.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/scripts.js"></script>
+		<!-- <script src="js/min/scripts-min.js"></script> -->
+		<script src="js/map01.js"> </script>
+
+	</body>
+</html>

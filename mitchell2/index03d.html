@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+
+
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+<html lang="en" class="no-js">
+	
+	
+<!-- Mirrored from cogsmapping.t15.org/mitchell2/index03d.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 May 2016 18:05:02 GMT -->
+<head>
+	
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Shared Spaces: Community and Social Development</title>
+
+		<meta name="description" content="A free HTML5/CSS3 template made exclusively for Codrops by Peter Finlan" />
+		<meta name="keywords" content="html5 template, css3, one page, animations, agency, portfolio, web design" />
+		<meta name="author" content="Peter Finlan" />
+		
+<style>
+#map { height: 500px; } 
+
+</style>
+
+	<!-- Bootstrap -->
+		<script src="js/modernizr.custom.js"></script>
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="css/jquery.fancybox.css" rel="stylesheet">
+		<link href="css/flickity.css" rel="stylesheet" >
+		<link href="css/animate.css" rel="stylesheet">
+		<link href="../../maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+		<link href='http://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
+		<link href="css/styles.css" rel="stylesheet">
+		<link href="css/queries.css" rel="stylesheet">
+		<link href="css/leaflet-search.css" rel="stylesheet">
+		
+		<link rel="stylesheet" href="../../cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
+			<link rel="stylesheet" href="../../libs.cartocdn.com/cartodb.js/v3/3.15/themes/css/cartodb.css" />
+			<link rel="stylesheet" href="css/leaflet.label.css" />
+		
+
+	
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+<!--  Link & Call fancy - http://www.granneman.com/webdev/coding/css/fancybox-a-better-lightbox/#link-to-fancybox -->
+		
+		<script src="../../ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/jquery.fancybox.pack.js"></script>
+
+<script type="text/javascript">
+		$(document).ready(function() {
+			$('.fancybox').fancybox();
+ 		});
+</script>
+		
+		
+</head>
+<body>
+
+		<!--[if lt IE 7]>
+		<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+		<![endif]-->
+		<!-- open/close -->
+		
+<header>
+			<section class="hero">
+				<div class="texture-overlay"></div>
+				<div class="container">
+					
+					<div class="row hero-content">
+						<div class="col-md-12">
+							
+							<h1 class="animated fadeInDown">Shared Spaces for Livable Communities </h1> 
+						</div>
+					</div>
+					<div class="row nav-wrapper">
+						<div class="col-md-6 col-sm-6 col-xs-6 text-left">
+							<a href="#"><img src="img/cogslogogiod.png" width="40%" alt="Boxify Logo"></a>
+						</div>
+						<div class="col-md-6 col-sm-6 col-xs-6 text-right navicon">
+							<p>MENU</p><a id="trigger-overlay" class="nav_slide_button nav-toggle" href="#"><span></span></a>
+						</div>
+					</div>
+				</div>
+			</section>
+		</header>
+		<section class="video" id="about">
+			<div class="container">
+				<div class="row">
+				
+	<script src="https://maps.googleapis.com/maps/api/js?v=3&amp;sensor=false"></script>
+	
+	<script src="../../cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
+	<script src="../../libs.cartocdn.com/cartodb.js/v3/3.15/cartodb.js"></script>
+	<script src="js/L.CartoDB.js"></script>
+	<script src="js/leaflet-search.js"></script>
+	<script src="js/leaflet.label.js"></script>
+	
+	
+				
+					<div class="col-md-12 text-center">
+				
+					<h1><a href="https://www.youtube.com/watch?v=RLfasxqhBNU" class="youtube-media"><i class="fa fa-play-circle-o"></i> A Video on Shared Spaces</a></h1>
+		
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="features-intro">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-6 nopadding features-intro-img">
+						<div id="map"></div>						
+					</div>
+					<div class="col-md-6 nopadding">
+						<div class="features-slider">
+								<ul class="slides" id="featuresSlider">
+									<li>
+										<h1>Grizzly Plaza</h1>
+										<img src = "img/Grizzly_Plaza_Revelstoke_British_Columbia.jpg" align="right" style="width:250px;height:195px;">
+										<p>Welcome to Grizzly Plaza, in Revelstoke British Columbia. A variety of seasonal community events are held here. Stop on by and see what awaits. <a href="http://www.seerevelstoke.com/">http://www.seerevelstoke.com/</p>
+										<div id ="map-navigation1" class="map-navigation"><a href="#" data-zoom="16" data-position="50.99944849, -118.19437802">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Find out more about Grizzly Plaza! <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Lethbridge River Valley</h1>
+										<img src = "img/The_Peace_River.jpg" align="right" style="width:250px;height:195px;">
+										<p>The Lethbridge River Valley provides a backdrop through which to celebrate the regions heritage and bring the community together. Stop on by and see what awaits. <a href="http://www.lethbridge.ca/living-here/Projects-Initiatives/Pages/River-Valley-Parks-Master-Plan.aspx"> http://www.lethbridge.ca.</p>
+										<div id ="map-navigation2" class="map-navigation"><a href="#" data-zoom="16" data-position="49.65378689, -112.8279213">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Find out more about Lethbridge River Valley! <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Mississauga Celebration Square</h1>
+										<img src = "img/mcs.png" align="right" style="width:250px;height:195px;">
+										<p>From digital screens, sound/lighting systems, amphitheatre, and a water fountain/skating rink, Celebration Square has everything you need to take part in place-making events. <a href="http://www.mississauga.ca/portal/celebrationsquare"> http://www.mississauga.ca/</p>
+										<div id ="map-navigation3" class="map-navigation"><a href="#" data-zoom="16" data-position="43.58885729, -79.64452443">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Find out more about Mississauga Celebration Square! <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Pemberton Downtown Community Barn</h1>
+										<img src = "img/GreatPlacesInCanada-PembertonBarn.png" align="right" style="width:250px;height:195px;">
+										<p>This gathering space combines old world charm with modern amenities in Pemberton's downtown. The open air concept offers spectacular mountain views and is a welcoming space for people of all ages! <a href="http://www.pemberton.ca/departments/development-services/downtown-community-barn/">http://www.pemberton.ca</p>
+										<div id ="map-navigation4" class="map-navigation"><a href="#" data-zoom="16" data-position="50.3223286, -122.80615039">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Find out more about Pemberton Downtown Community Barn! <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Prince Arthurs Landing at Marina Park</h1>
+										<img src = "img/Thunder_Bay_Marina.jpg" align="right" style="width:250px;height:195px;">
+										<p>Reopened in 2011, this community space offers a range of facilities including a concert stage and garden pavillion equipped with a restaurant. From recreation to entertainment, this public space offers year round activities to bring the community together <a href="http://www.thunderbay.ca/Living/recreation_and_parks/Prince_Arthur_s_Landing_at_Marina_Park.htm">http://www.thunderbay.ca</p>
+										<div id ="map-navigation5" class="map-navigation"><a href="#" data-zoom="16" data-position="48.43461684, -89.21648077">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Find out more about Prince Arthurs Landing at Marina Park! <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Stuart Park</h1>
+										<img src = "img/00_Big.jpg" align="right" style="width:250px;height:195px;">
+										<p>Stuart Park was voted the best public space in the Great Places in Canada initiative by the Canadian Institute of Planners. The people's choice is reflected in the range of year round activities that promote well-being from dancing to skating and cultural celebrations. Stuart Park has become a landmark for the city of Kelowna <a href="http://www.kelowna.ca/cm/page2062.aspx"> http://www.kelowna.ca/</p>
+										<div id ="map-navigation6" class="map-navigation"><a href="#" data-zoom="16" data-position="49.88814261, -119.49706943">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Find out more about Stuart Park! <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Annapolis Royal Historic Gardens</h1>
+										<img src = "img/gardens.jpg" align="right" style="width:250px;height:195px;">
+										<p>Welcome to the Annapolis Royal Historic Gardens, a gathering place for gardening enthusiasts! In addition to supporting and promoting local gardening through workshops for all age groups, the gardens also house the Annapolis Royal farmers market. So come stop and smell the roses at the acclaimed Historic Gardens <a href="http://www.historicgardens.com/index.php"> http://www.historicgardens.com/index.php </p>
+										<div id ="map-navigation7" class="map-navigation"><a href="#" data-zoom="16" data-position="44.74131418, -65.51393302">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Find out more about the Annapolis Royal Historic Gardens! <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Wolfville Farmers Market</h1>
+										<img src = "img/virtualtour.acadiau.ca_wolfville-farmers-market.html.jpg" align="right" style="width:250px;height:195px;">
+										<p>Providing a direct market for people to connect with local producers, the Wolfville Farmers Market has been bringing people together since 1992. This locale is designed to improve the well-being and liveliness of its community by directly connecting producers and consumers. Come and see the agricultural, culinary and artistic talents the valley region has to offer <a href="http://www.wolfvillefarmersmarket.ca/home"> http://www.wolfvillefarmersmarket.ca/home </p>
+										<div id ="map-navigation8" class="map-navigation"><a href="#" data-zoom="16" data-position="45.09279352, -64.36504172">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Find out more about the Wolfville Farmers Market! <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Hubbards Barn and Community Market</h1>
+										<img src = "img/hubbardsbarn.org.jpg" align="right" style="width:250px;height:195px;">
+										<p>Welcome to Hubbards' Barn and Community Park. Available for rent it makes a perfect venue for community gatherings. The local farm market is also hosted here, so come on by and see what this shared space has to offer you <a href="http://hubbardsbarn.org/"> http://hubbardsbarn.org/ </p>
+										<div id ="map-navigation9" class="map-navigation"><a href="#" data-zoom="16" data-position="44.63697242, -64.06899183">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Find out more about Hubbards Barn and Community Market! <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>The Cauldron Kitchen</h1>
+										<img src = "img/the-cauldron-kitchen-ottawa.png" align="right" style="width:250px;height:195px;">
+										<p>The Cauldron Kitchen is all about community. Bringing together people each with their own skills and tastes, the kitchen creates a space to support a sustainable food culture in the city of Ottawa. Come get in on the action and see what is cooking in the Cauldron Kitchen <a href="http://www.cauldronkitchen.ca/"> http://www.cauldronkitchen.ca/ </p>
+										<div id ="map-navigation10" class="map-navigation"><a href="#" data-zoom="16" data-position="45.42268966, -75.65074128">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Find out more about the Cauldron Kitchen! <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+								</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="features-list" id="features">
+			<div class="container">
+				<div class="row">
+				
+				<h1 style="text-align:center; margin-bottom: 50px;"> Key Concepts</h1>
+					<div class="col-md-12">
+
+						<div class="col-md-4 feature-1 wp2">
+							<div class="feature-icon">
+								<i class="fa fa-users"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Promoting Resilience</h1>
+								<p>Torjman (2007) suggests that shared places help to promote strong and vibrant communities because it helps to build resilient communities capable of prospering in times of adversity. By bringing together people, a foundation for engagement is provided whereby which people can find common understanding. From this engagement and understanding, we are able to work towards common goals to help further support and build stronger communities. Shared spaces present great opportunities for great discussion. (Torjman, S. (2007). Shared Space: The Communities Agenda. ON: The Caledon Institute of Social Policy) .</p>
+								<a href="http://tamarackcommunity.ca/g3s61_CC4I3.html" class="read-more-btn">Explore this concept <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+						<div class="col-md-4 feature-2 wp2 delay-05s">
+							<div class="feature-icon">
+								<i class="fa fa-home"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Importance of Place</h1>
+								<p>The concept of shared and public spaces is rooted in the notion of place. Whether it be the physical space in which we live or emotional place, place provides meaning and belonging in our daily lives. Places are the foundation upon which a network for people can be built. The importance of place takes significance when we think about well-being and development; quality of places and their attributes impacts our health, social cohesion, and economic welfare (Torjman, S. (2007). Shared Space: The Communities Agenda. ON: The Caledon Institute of Social Policy).</p>
+								<a href="http://www.pps.org/reference/public_space_benefits/" class="read-more-btn">Explore this concept  <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+						<div class="col-md-4 feature-3 wp2 delay-1s">
+							<div class="feature-icon">
+								<i class="fa fa-heart"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Social Capital</h1>
+								<p>The purpose of shared spaces is to bring people together, they are a location whereby which human interaction occurs. The way a place is planned ultimately impacts community health as increased social activity helps to foster an environment of support, security and trust. The socio-spatial attributes associated with these places help create unique spaces for community gatherings. Regardless of their size or geometry, public spaces serve as a means of community development and social development creating and reinforcing social bonds among people. (Friedman, A. (2014). Planning Small and Mid-Sized Towns. NY: Routledge). </p>
+								<a href="http://infed.org/mobi/social-capital/" class="read-more-btn">Explore this concept  <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+						<!--div class="col-md-3 feature-4 wp2 delay-1s">
+							<div class="feature-icon">
+								<i class="fa fa-cogs"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Social Capital: Socio-spatial attributes</h1>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. . </p>
+								<a href="http://cogsmapping.t15.org/JT3/postconfed.html" class="read-more-btn">Explore this concept  <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div-->
+
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="screenshots-intro">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<h1>Click the Images Below to Learn More About Local Initiatives That Help Foster Livable Communties</h1>
+						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p-->
+
+
+						
+						<p><a href="#screenshots" class="arrow-btn">Click the images below! <i class="fa fa-long-arrow-right"></i></a></p>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="screenshots" id="screenshots">
+			<div class="container-fluid">
+				<div class="row">
+					<ul class="grid">
+						<li>
+							<figure>
+								<img src="img/Savannah_Park_with_Fountain.jpg" alt="Screenshot 01">
+								<figcaption>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://www.pps.org/reference/what_is_placemaking/">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Place Making</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>							
+						</li>
+						<li>
+							<figure>
+								<img src="img/2008_community_garden_JacksonvilleFL_2527237610.jpg" alt="Screenshot 02">
+								<figcaption>
+								<div class="caption-content">
+									<a class="fancybox fancybox.iframe" href="http://yrfn.ca/programs/community-gardens/" class="single_image">
+										<i class="fa fa-search"></i><br>
+										<p>Community Gardens</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/Musiciens_pub_Gus_O%27Connor-Doolin.jpg" alt="Screenshot 03">
+								<figcaption>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://www.paddyspub.ca/">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Coming Together</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/Piazza_della_Signoria.jpg" alt="Screenshot 04">
+								<figcaption>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://www.pps.org/blog/shared-space-and-slow-zones-comparing-public-space-in-paris-and-new-york/">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Shared spaces, the pedestrian experience</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+				<div class="row">
+					<ul class="grid">
+						<li>
+							<figure>
+								<img src="img/FEMA_-_27765_-_Photograph_by_Yonah_Walter_taken_on_01-10-2007_in_District_of_Columbia.jpg" alt="Screenshot 05">
+								<figcaption>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://www.wtcchalifax.com/en/home/default.aspx">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Conferences: <br> Learning and Networking</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/Telegrafico_medellin_cable_car.jpg" alt="Screenshot 06">
+								<figcaption>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://www.pps.org/wp-content/uploads/2012/09/PPS-Placemaking-and-the-Future-of-Cities.pdf#page=21">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Creating Public Spaces <br> Medellin Columbia's Transportation System</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/Surrey_Arts_Centre_(street_sign).jpg" alt="Screenshot 07">
+								<figcaption>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://www.surrey.ca/files/FINALplacemakingguidelines.pdf">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Designing Public Spaces <br> Surrey British Columbia</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/Selaron_Stairs%2c_Rio_de_Janeiro%2c_Brasil.jpg" alt="Screenshot 08">
+								<figcaption>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://www.pps.org/reference/collaborative-creative-placemaking-good-public-art-depends-on-good-public-spaces/">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>The Art of Shared Spaces</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+
+		<footer>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-5">
+						<h1 class="footer-logo">
+						<img src="img/COGS01.jpg" width="70%" alt="Footer Logo Blue">
+						</h1>
+						<p>© Boxify 2015 - <a href="http://tympanus.net/codrops/licensing/">Licence</a> - Designed &amp; Developed by <a href="http://www.peterfinlan.com/">Peter Finlan</a></p>
+					</div>
+					<div class="col-md-7">
+						<ul class="footer-nav">
+							<li><a href="#about">Innovative at a local level</a></li>
+							<li><a href="#features">Key Concepts</a></li>
+							<li><a href="#screenshots">Get More Info</a></li>
+							<li><a href="../index.html">Home</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<div class="overlay overlay-boxify">
+			<nav>
+				<ul>
+					<li><a href="#about"><i class="fa fa-heart"></i>Innovative initiatives</a></li>
+					<li><a href="#features"><i class="fa fa-flash"></i>Key Concepts</a></li>
+				</ul>
+				<ul>
+					<li><a href="#screenshots"><i class="fa fa-desktop"></i>Get more Info</a></li>
+					<li><a href="../index.html"><i class="fa fa-download"></i>Home</a></li>
+				</ul>
+			</nav>
+		</div>
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="js/min/toucheffects-min.js"></script>
+		<script src="../../ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/flickity.pkgd.min.js"></script>
+		<script src="js/jquery.fancybox.pack.js"></script>
+		<!--Include all compiled plugins (below), or include individual files as needed-->
+		<script src="js/retina.js"></script>
+		<script src="js/waypoints.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/scripts.js"></script>
+		<!-- <script src="js/min/scripts-min.js"></script> -->
+		<script src="js/map01.js"> </script>
+
+	</body>
+
+<!-- Mirrored from cogsmapping.t15.org/mitchell2/index03d.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 May 2016 18:06:18 GMT -->
+</html>
+<p align="center">This website created with FreeHostingNoAds 
+<a href="http://freehostingnoads.net/freewebsitebuilder.php">Free Website Builder and Hosting</a></p>

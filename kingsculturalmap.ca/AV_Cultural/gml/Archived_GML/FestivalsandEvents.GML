@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://ogr.maptools.org/ FestivalsandEvents.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-7217028.736580431</gml:X><gml:Y>5617107.722440884</gml:Y></gml:coord>
+      <gml:coord><gml:X>-7157818.277913758</gml:X><gml:Y>5645731.200309207</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>                    
+  <gml:featureMember>
+    <ogr:Festivals___Events fid="F0">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164891.9525047755,5635931.5332555259</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>1</ogr:Cult_ID>
+      <ogr:Org>Deep Roots Music Festival</ogr:Org>
+      <ogr:Type>Festivals &amp; Events</ogr:Type>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>466 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1E2</ogr:PostalCode>
+      <ogr:Contact>Lisa Hammet-Vaughan</ogr:Contact>
+      <ogr:Title>Festival Committee Chair</ogr:Title>
+      <ogr:PhoneNum>542-7668</ogr:PhoneNum>
+      <ogr:Email>office@deeprootsmusic.ca</ogr:Email>
+      <ogr:Website>http://www.deeprootsmusic.ca</ogr:Website>
+      <ogr:Mandate>The Festival brings together some of the finest folk and roots singers, songwrit</ogr:Mandate>
+    </ogr:Festivals___Events>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Festivals___Events fid="F1">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164541.6634630952,5635979.3896992365</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>2</ogr:Cult_ID>
+      <ogr:Org>Acadia Performing Arts Series</ogr:Org>
+      <ogr:Type>Festivals &amp; Events</ogr:Type>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>386 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1C9</ogr:PostalCode>
+      <ogr:Contact>Peter Smith</ogr:Contact>
+      <ogr:Title>Series Coordinator</ogr:Title>
+      <ogr:PhoneNum>585-1282</ogr:PhoneNum>
+      <ogr:Email>pas@acadiau.ca</ogr:Email>
+      <ogr:Website>http://www.acadiau.ca/artsacadia</ogr:Website>
+      <ogr:Mandate>The Acadia Performing Arts Series presents approximately eight top-calibre conce</ogr:Mandate>
+    </ogr:Festivals___Events>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Festivals___Events fid="F2">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164830.2258471297,5635937.8089789553</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>3</ogr:Cult_ID>
+      <ogr:Org>Night Kitchen</ogr:Org>
+      <ogr:Type>Festivals &amp; Events</ogr:Type>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumbrSeats>160</ogr:NumbrSeats>
+      <ogr:StrAddress>450 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R3</ogr:PostalCode>
+      <ogr:Contact>Ariana Nasr</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>nightkitchen@wolfville.org</ogr:Email>
+      <ogr:Website>http://nightkitchen.wolfville.org</ogr:Website>
+      <ogr:Mandate>A community event featuring performances of Wolfville area (and beyond) artists.</ogr:Mandate>
+    </ogr:Festivals___Events>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Festivals___Events fid="F3">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7163155.891650008,5636086.5196749819</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>4</ogr:Cult_ID>
+      <ogr:Org>AMP Festival</ogr:Org>
+      <ogr:Type>Festivals &amp; Events</ogr:Type>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumbrSeats>160</ogr:NumbrSeats>
+      <ogr:StrAddress>150 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1E2</ogr:PostalCode>
+      <ogr:Contact>Andy Flinn</ogr:Contact>
+      <ogr:Title>Organizer</ogr:Title>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://www.ampfest.ca</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Festivals___Events>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Festivals___Events fid="F4">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7208336.5211210726,5617107.7224408844</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>5</ogr:Cult_ID>
+      <ogr:Org>Fox Mountain Smokin' Blues Festival</ogr:Org>
+      <ogr:Type>Festivals &amp; Events</ogr:Type>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>6128 Aylesford Road</ogr:StrAddress>
+      <ogr:Town>Morristown</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>691-4747</ogr:PhoneNum>
+      <ogr:Email>smokinentertainment@hotmail.com</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>This has been an annual event since 1999 which is held during mid to end of June</ogr:Mandate>
+    </ogr:Festivals___Events>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Festivals___Events fid="F5">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7165394.1147277439,5635390.5444894712</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>6</ogr:Cult_ID>
+      <ogr:Org>Sunday Music in the Garden Room</ogr:Org>
+      <ogr:Type>Festivals &amp; Events</ogr:Type>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumbrSeats>None</ogr:NumbrSeats>
+      <ogr:StrAddress>32 University Avenue</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R6</ogr:PostalCode>
+      <ogr:Contact>Chris Olsen</ogr:Contact>
+      <ogr:Title>Series Manager</ogr:Title>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>christopher.olsen@utoronto.ca</ogr:Email>
+      <ogr:Website>http://artsacadia.acadiau.ca/Sunday_Music_in_the_Garden_Room.html</ogr:Website>
+      <ogr:Mandate>A series of free Sunday afternoon concerts entirely supported by donations from</ogr:Mandate>
+    </ogr:Festivals___Events>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Festivals___Events fid="F6">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164500.3861959083,5635978.222850468</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>8</ogr:Cult_ID>
+      <ogr:Org>Open Mike &amp; Donna</ogr:Org>
+      <ogr:Type>Festivals &amp; Events</ogr:Type>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumbrSeats>None</ogr:NumbrSeats>
+      <ogr:StrAddress>378 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R3</ogr:PostalCode>
+      <ogr:Contact>Mike &amp; Donna</ogr:Contact>
+      <ogr:Title>Performers/Organizers</ogr:Title>
+      <ogr:PhoneNum>542-1214</ogr:PhoneNum>
+      <ogr:Email>iwakichick@hotmail.com</ogr:Email>
+      <ogr:Website>https://www.facebook.com/OpenMikeandDonna</ogr:Website>
+      <ogr:Mandate>Every Tuesday Night - 8pm to 10pm at T.A.N. Coffee. Come play or recite or sing</ogr:Mandate>
+    </ogr:Festivals___Events>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Festivals___Events fid="F7">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164857.8442127956,5635921.0159097239</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>9</ogr:Cult_ID>
+      <ogr:Org>Paddy's Music Sessions</ogr:Org>
+      <ogr:Type>Festivals &amp; Events</ogr:Type>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumbrSeats>None</ogr:NumbrSeats>
+      <ogr:StrAddress>460 Main Street
+</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1E2
+</ogr:PostalCode>
+      <ogr:Contact>Judy Jordan</ogr:Contact>
+      <ogr:Title>Manager</ogr:Title>
+      <ogr:PhoneNum>542-0059</ogr:PhoneNum>
+      <ogr:Email>judy@paddys.ca</ogr:Email>
+      <ogr:Website>http://www.paddyspub.ca/index.html</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Festivals___Events>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Festivals___Events fid="F8">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7179631.3210027497,5633553.5853728121</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>13</ogr:Cult_ID>
+      <ogr:Org>Wayzgoose</ogr:Org>
+      <ogr:Type>Festivals &amp; Events</ogr:Type>
+      <ogr:Discipline>Literature</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>47 Church Avenue</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 2M7</ogr:PostalCode>
+      <ogr:Contact>Kevin Estey</ogr:Contact>
+      <ogr:Title>Contact Person</ogr:Title>
+      <ogr:PhoneNum>678-6002</ogr:PhoneNum>
+      <ogr:Email>info@gaspereau.com</ogr:Email>
+      <ogr:Website>http://www.gaspereau.com/wayzgoose.shtml</ogr:Website>
+      <ogr:Mandate>The Gaspereau Press wayzgoose in Kentville has become an annual public event to</ogr:Mandate>
+    </ogr:Festivals___Events>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Festivals___Events fid="F9">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7161671.1234137556,5632732.0041304268</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>14</ogr:Cult_ID>
+      <ogr:Org>Back to Back</ogr:Org>
+      <ogr:Type>Festivals &amp; Events</ogr:Type>
+      <ogr:Discipline>Craft (Shearing &amp; Knitting)</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>830 Gaspereau River Road</ogr:StrAddress>
+      <ogr:Town>Gaspereau</ogr:Town>
+      <ogr:PostalCode>B4P 2N5</ogr:PostalCode>
+      <ogr:Contact>Brenda Gilmour</ogr:Contact>
+      <ogr:Title>Contact Person</ogr:Title>
+      <ogr:PhoneNum>542-2656</ogr:PhoneNum>
+      <ogr:Email>brenda@gaspereauvalleyfibres.ca</ogr:Email>
+      <ogr:Website>http://www.gaspereauvalleyfibres.ca</ogr:Website>
+      <ogr:Mandate>This is a world wide race to shear a sheep, spin the wool and knit a sweater all</ogr:Mandate>
+    </ogr:Festivals___Events>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Festivals___Events fid="F10">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7206880.8406677665,5628568.6439672727</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>15</ogr:Cult_ID>
+      <ogr:Org>Kings County 4-H Achievement Days</ogr:Org>
+      <ogr:Type>Festivals &amp; Events</ogr:Type>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>250 Veterans Drive</ogr:StrAddress>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>538-9070</ogr:PhoneNum>
+      <ogr:Email>info@kmccberwick.ca</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>Through out the year members, ages 9 to 21 from both farm and non-farm families</ogr:Mandate>
+    </ogr:Festivals___Events>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Festivals___Events fid="F11">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7157818.2779137576,5633474.0249102181</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>17</ogr:Cult_ID>
+      <ogr:Org>Cheese and Wine Festival</ogr:Org>
+      <ogr:Type>Festivals &amp; Events</ogr:Type>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1293 Grand Pre Road</ogr:StrAddress>
+      <ogr:Town>Grand Pre</ogr:Town>
+      <ogr:PostalCode>B4P 2R3</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-2600</ogr:PhoneNum>
+      <ogr:Email>events@luckettvineyards.com</ogr:Email>
+      <ogr:Website>http://www.luckettvineyards.com</ogr:Website>
+      <ogr:Mandate>Children's art workshop Saturday and Sunday,1:30 to 3:30. Exhibition and Sale of</ogr:Mandate>
+    </ogr:Festivals___Events>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Festivals___Events fid="F12">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7177945.5876897676,5645731.2003092067</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>21</ogr:Cult_ID>
+      <ogr:Org>Sheffield Mills Harvest Festival</ogr:Org>
+      <ogr:Type>Festivals &amp; Events</ogr:Type>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>98 Black Hole Road</ogr:StrAddress>
+      <ogr:Town>Sheffield Mills</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>Richard Hennigar</ogr:Contact>
+      <ogr:Title>Contact Person</ogr:Title>
+      <ogr:PhoneNum>582-3044</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>Head out to Sheffield Mills on the first Saturday of September for their Annual</ogr:Mandate>
+    </ogr:Festivals___Events>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Festivals___Events fid="F13">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7173084.7442006376,5622129.3735909928</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>22</ogr:Cult_ID>
+      <ogr:Org>Maple Fest</ogr:Org>
+      <ogr:Type>Festivals &amp; Events</ogr:Type>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>347 Sunken Lake Road</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R2</ogr:PostalCode>
+      <ogr:Contact>Judi &amp; Perry Munroe</ogr:Contact>
+      <ogr:Title>Owners</ogr:Title>
+      <ogr:PhoneNum>542-2658</ogr:PhoneNum>
+      <ogr:Email>mountain.maple@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>http://www.perrymunro.com</ogr:Website>
+      <ogr:Mandate>Munro Mountain Maple in Black River usually holds their annual Maple Fest from m</ogr:Mandate>
+    </ogr:Festivals___Events>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Festivals___Events fid="F14">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7217028.7365804305,5631010.7569236234</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>23</ogr:Cult_ID>
+      <ogr:Org>Pumpkin Festival</ogr:Org>
+      <ogr:Type>Festivals &amp; Events</ogr:Type>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>2717 Nova Scotia 221</ogr:StrAddress>
+      <ogr:Town>Aylesford</ogr:Town>
+      <ogr:PostalCode>B0P 1C0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>847-1855</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://www.dempseycorner.com/events.htm</ogr:Website>
+      <ogr:Mandate>Pumpkin pie, pumpkin bowling, pumpkin pickin', pumpkin painting, and chicken and</ogr:Mandate>
+    </ogr:Festivals___Events>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Festivals___Events fid="F15">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7170831.0477136811,5623222.9246601891</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>24</ogr:Cult_ID>
+      <ogr:Org>New Farmers Gathering</ogr:Org>
+      <ogr:Type>Festivals &amp; Events</ogr:Type>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1229 Deep Hallow Road</ogr:StrAddress>
+      <ogr:Town>Black River</ogr:Town>
+      <ogr:PostalCode>B4P 2R2</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>691-6303</ogr:PhoneNum>
+      <ogr:Email>new.farmers.gathering@gmail.com</ogr:Email>
+      <ogr:Website>http://www.thedandelion.ca/thegathering</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Festivals___Events>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Festivals___Events fid="F16">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164830.2258471297,5635937.8089789553</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>25</ogr:Cult_ID>
+      <ogr:Org>Slow Food Film Festival</ogr:Org>
+      <ogr:Type>Festivals &amp; Events</ogr:Type>
+      <ogr:Discipline>Film</ogr:Discipline>
+      <ogr:NumbrSeats>160</ogr:NumbrSeats>
+      <ogr:StrAddress>450 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R3</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-3344</ogr:PhoneNum>
+      <ogr:Email>manager@alwhittletheatre.ca</ogr:Email>
+      <ogr:Website>http://slowmotionfilmfest.ca</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Festivals___Events>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Festivals___Events fid="F17">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164541.6634630952,5635979.3896992365</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>27</ogr:Cult_ID>
+      <ogr:Org>Fezziwig's Annual Christmas Frolic</ogr:Org>
+      <ogr:Type>Festivals &amp; Events</ogr:Type>
+      <ogr:Discipline>Theatre</ogr:Discipline>
+      <ogr:NumbrSeats>504</ogr:NumbrSeats>
+      <ogr:StrAddress>386 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1C9</ogr:PostalCode>
+      <ogr:Contact>Wendy Elliott</ogr:Contact>
+      <ogr:Title>Director</ogr:Title>
+      <ogr:PhoneNum>542-7203</ogr:PhoneNum>
+      <ogr:Email>semaphor@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>http://fezziwig.daysend.ca</ogr:Website>
+      <ogr:Mandate>For the past ten years, a group of amateur theatre and choral music enthusiasts</ogr:Mandate>
+    </ogr:Festivals___Events>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Festivals___Events fid="F18">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7158826.2313750945,5638703.0375516703</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>30</ogr:Cult_ID>
+      <ogr:Org>Acadian Days</ogr:Org>
+      <ogr:Type>Festivals &amp; Events</ogr:Type>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>2205 Grand Pre Road</ogr:StrAddress>
+      <ogr:Town>Grand Pre</ogr:Town>
+      <ogr:PostalCode>B0P 1M0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-3631</ogr:PhoneNum>
+      <ogr:Email>contact@grand-pre.com</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>All are welcome to Grand Pre National Historic Park to take in Acadian Days, fea</ogr:Mandate>
+    </ogr:Festivals___Events>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Festivals___Events fid="F19">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7178315.9921634337,5634921.3091731071</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>31</ogr:Cult_ID>
+      <ogr:Org>Apple Blossom Festival</ogr:Org>
+      <ogr:Type>Festivals &amp; Events</ogr:Type>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>217 Belcher Street</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1E2</ogr:PostalCode>
+      <ogr:Contact>Rose Stevenson-Davidson</ogr:Contact>
+      <ogr:Title>President</ogr:Title>
+      <ogr:PhoneNum>678-8322</ogr:PhoneNum>
+      <ogr:Email>info@appleblossom.com</ogr:Email>
+      <ogr:Website>http://www.appleblossom.com</ogr:Website>
+      <ogr:Mandate>The Apple Blossom Festival is an annual agricultural and heritage celebration he</ogr:Mandate>
+    </ogr:Festivals___Events>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Festivals___Events fid="F20">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7174170.4543262934,5632139.0525112627</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>44</ogr:Cult_ID>
+      <ogr:Org>New Minas Easter Bunny Hop</ogr:Org>
+      <ogr:Type>Festivals &amp; Events</ogr:Type>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>9209 Commercial Street</ogr:StrAddress>
+      <ogr:Town>New Minas</ogr:Town>
+      <ogr:PostalCode>B4N 3G1</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>New Minas Recreation Department</ogr:Title>
+      <ogr:PhoneNum>681-6577</ogr:PhoneNum>
+      <ogr:Email>village.newminas@ns.aliantzinc.ca</ogr:Email>
+      <ogr:Website>http://www.newminas.com</ogr:Website>
+      <ogr:Mandate>This annual event is for children five through nine and includes an Easter egg h</ogr:Mandate>
+    </ogr:Festivals___Events>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Festivals___Events fid="F21">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164992.9081509775,5635750.3591051986</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>49</ogr:Cult_ID>
+      <ogr:Org>Annual Acadia Art Exhibition</ogr:Org>
+      <ogr:Type>Festivals &amp; Events</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>10 Highland Avenue</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R6</ogr:PostalCode>
+      <ogr:Contact>Laurie Dalton</ogr:Contact>
+      <ogr:Title>Gallery Manager</ogr:Title>
+      <ogr:PhoneNum>585-1373</ogr:PhoneNum>
+      <ogr:Email>gallery@acadiau.ca</ogr:Email>
+      <ogr:Website>http://www.gallery.acadiau.ca</ogr:Website>
+      <ogr:Mandate>The Annual Acadia Art Exhibition celebrates visual creativity in our community.</ogr:Mandate>
+    </ogr:Festivals___Events>
+  </gml:featureMember>
+</ogr:FeatureCollection>

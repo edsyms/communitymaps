@@ -1,0 +1,44 @@
+/*- Menu Tabs 19--------------------------- */
+    #tabs19 {
+      font: bold 11px/1.5em Verdana;
+      float:left;
+      width:100%;
+      background:change-background;
+      line-height:normal;
+      }
+    #tabs19 ul {
+	margin:0;
+	padding:10px 10px 0 50px;
+	list-style:none;
+      }
+    #tabs19 li {
+      display:inline;
+      margin:0;
+      padding:0;
+      }
+    #tabs19 a {
+      float:left;
+      background:url("http://redirect.main-hosting.com/error404.php/5?domain=cogsmapping.t15.org") no-repeat left top;
+      margin:0;
+      padding:0 0 0 4px;
+      text-decoration:none;
+      }
+    #tabs19 a span {
+      float:left;
+      display:block;
+      background:url("http://redirect.main-hosting.com/error404.php/5?domain=cogsmapping.t15.org") no-repeat right top;
+      padding:5px 15px 4px 6px;
+      color:#FFF;
+      }
+    /* Commented Backslash Hack hides rule from IE5-Mac \*/
+    #tabs19 a span {float:none;}
+    /* End IE5-Mac hack */
+    #tabs19 a:hover span {
+      color:#FFF;
+      }
+    #tabs19 a:hover {
+      background-position:0% -42px;
+      }
+    #tabs19 a:hover span {
+      background-position:100% -42px;
+      }

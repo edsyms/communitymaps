@@ -1,0 +1,38 @@
+open up xls file for update tickets
+filter for type/domain whatever
+open up q
+add shapefile
+	if shapefile doesn't exist for layer
+	add data set (culturalfaciilities05.gml) to edit
+	right click on layer &  save as shapefile into shp folder
+	add resultant shapefile
+ensure that Settings -- Options ---Maptools --- Identify Open feature form mode is checked on
+right click on shapefile layer to toggle editing on
+make edits
+	additions if gisready is 0 add point
+		make sure you know next available Cult_id to assign (630)
+		make sure f23 is set to AV_Cultural/png/CulturalFacility.png
+	if gis ready is >0 make attribute edits
+		use the Find by Attribute plugin to locate the existing feature
+once edits are complete, toggle editting off	
+save as gml file in gml folder
+overwrite original
+using fireftp upload gml to alwaysdata website
+	ftp.alwaysdata.com
+	vl
+	valleylearner
+	$puD2608
+	/www/test/Website/AV_Cultural/gml
+
+notes:
+
+webdata displayed in GML format (can't use shape)
+data created & managed in SHP and exported out to shapefile
+
+
+add section if you lat long
+	make sure in dd not dms
+	add point
+	numerical vertex edit tool and select point
+	put new coordinates in to shift point
+	use find point tool to locate shifted point

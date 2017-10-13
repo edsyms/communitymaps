@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://ogr.maptools.org/ NaturalHeritage.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-7177933.487261119</gml:X><gml:Y>5632814.22193373</gml:Y></gml:coord>
+      <gml:coord><gml:X>-7148213.799227349</gml:X><gml:Y>5662445.465901364</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>                     
+  <gml:featureMember>
+    <ogr:Natural_Heritage fid="F0">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7148213.7992273485,5636827.3818329275</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>517</ogr:Cult_ID>
+      <ogr:Org>Blue Beach Fossil Museum &amp; Research Centre</ogr:Org>
+      <ogr:Type>Natural Heritage</ogr:Type>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>127 Blue Beach Road</ogr:StrAddress>
+      <ogr:Town>Hantsport</ogr:Town>
+      <ogr:PostalCode>B0P 1P0</ogr:PostalCode>
+      <ogr:Contact>Chris Mansky or Sonja Wood</ogr:Contact>
+      <ogr:Title>Contact People</ogr:Title>
+      <ogr:PhoneNum>684-9541</ogr:PhoneNum>
+      <ogr:Email>bbfossil@glinx.com</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Natural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Natural_Heritage fid="F1">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7177933.4872611193,5632814.2219337299</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>518</ogr:Cult_ID>
+      <ogr:Org>Agricultural Research Station Gardens</ogr:Org>
+      <ogr:Type>Natural Heritage</ogr:Type>
+      <ogr:Discipline>Public Garden</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>32 Main Street
+</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1J5
+</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>679-5333</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Natural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Natural_Heritage fid="F2">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7165394.1147277439,5635390.5444894712</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>519</ogr:Cult_ID>
+      <ogr:Org>Harriet Irving Botanical Gardens</ogr:Org>
+      <ogr:Type>Natural Heritage</ogr:Type>
+      <ogr:Discipline>Public Garden</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>32 University Avenue</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R6</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>585-2665</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://botanicalgardens.acadiau.ca/botanical-gardens.html</ogr:Website>
+      <ogr:Mandate>Since September 14, 2002 the Gardens have provided a stimulating and interesting</ogr:Mandate>
+    </ogr:Natural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Natural_Heritage fid="F3">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7163880.1139932098,5662445.4659013636</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>520</ogr:Cult_ID>
+      <ogr:Org>Blomidon Provincial Park</ogr:Org>
+      <ogr:Type>Natural Heritage</ogr:Type>
+      <ogr:Discipline>Provincial Park</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>3138 Pereau Road</ogr:StrAddress>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>582-7319</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://www.novascotiaparks.ca/parks/blomidon.asp</ogr:Website>
+      <ogr:Mandate>Rising majestically from the shores of the Minas Basin, Blomidon Provincial Park</ogr:Mandate>
+    </ogr:Natural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Natural_Heritage fid="F4">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7163513.2606113004,5636053.7687361371</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>521</ogr:Cult_ID>
+      <ogr:Org>Blomidon Inn Victorian Gardens</ogr:Org>
+      <ogr:Type>Natural Heritage</ogr:Type>
+      <ogr:Discipline>Public Garden</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>195 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1C3</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-2291</ogr:PhoneNum>
+      <ogr:Email>innkeeper@blomidon.ns.ca</ogr:Email>
+      <ogr:Website>http://www.blomidon.ns.ca/</ogr:Website>
+      <ogr:Mandate>The Blomidon Inn Gardens have acres of Victorian inspired gardens for guests and</ogr:Mandate>
+    </ogr:Natural_Heritage>
+  </gml:featureMember>
+</ogr:FeatureCollection>

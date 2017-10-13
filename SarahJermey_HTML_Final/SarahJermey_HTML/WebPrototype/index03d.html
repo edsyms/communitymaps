@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+
+
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+<html lang="en" class="no-js">
+	
+	<head>
+	
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Promoting Self Wellness</title>
+		<link rel="icon" href="img/favicon.ico" type="image/x-icon">
+
+		<meta name="description" content="A free HTML5/CSS3 template made exclusively for Codrops by Peter Finlan" />
+		<meta name="keywords" content="html5 template, css3, one page, animations, agency, portfolio, web design" />
+		<meta name="author" content="Peter Finlan" />
+		
+<style>
+#map { height: 500px; } 
+
+figure {
+	position: relative;
+	}
+.imgCredit {
+	position: absolute;
+	bottom: 4px;
+	left: 16px;
+	font-size: 10px;
+	color: rgba (255,255,255,0.8);
+	text-shadow: black 0.1em 0.1em 0.2em;
+	/* background-color: rgba (255, 255, 255, 0.8);*/
+}
+	
+	
+</style>
+
+	<!-- Bootstrap -->
+		<script src="js/modernizr.custom.js"></script>
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="css/jquery.fancybox.css" rel="stylesheet">
+		<link href="css/flickity.css" rel="stylesheet" >
+		<link href="css/animate.css" rel="stylesheet">
+		<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+		<link href='http://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
+		<link href="css/styles.css" rel="stylesheet">
+		<link href="css/queries.css" rel="stylesheet">
+		<link href="css/leaflet-search.css" rel="stylesheet">
+		
+		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
+			<link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/3.15/themes/css/cartodb.css" />
+			<link rel="stylesheet" href="css/leaflet.label.css" />
+		
+
+	
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+<!--  Link & Call fancy - http://www.granneman.com/webdev/coding/css/fancybox-a-better-lightbox/#link-to-fancybox -->
+		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/jquery.fancybox.pack.js"></script>
+
+<script type="text/javascript">
+		$(document).ready(function() {
+			$('.fancybox').fancybox();
+ 		});
+</script>
+		
+		
+</head>
+<body>
+
+		<!--[if lt IE 7]>
+		<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+		<![endif]-->
+		<!-- open/close -->
+		
+<header>
+			<section class="hero">
+				<div class="texture-overlay"></div>
+				<div class="container">
+					
+					<div class="row hero-content">
+						<div class="col-md-12">
+							
+							<h1 class="animated fadeInDown">Promoting Self Wellness: Acadia First Nation </h1> 
+						</div>
+					</div>
+					<div class="row nav-wrapper">
+						<div class="col-md-6 col-sm-6 col-xs-6 text-left">
+							<a href="#"><img src="img/cogslogogiod.png" width="40%" alt="Boxify Logo"></a>
+						</div>
+						<div class="col-md-6 col-sm-6 col-xs-6 text-right navicon">
+							<p>MENU</p><a id="trigger-overlay" class="nav_slide_button nav-toggle" href="#"><span></span></a>
+						</div>
+					</div>
+				</div>
+			</section>
+		</header>
+		<section class="video" id="about">
+			<div class="container">
+				<div class="row">
+				
+	<script src="https://maps.googleapis.com/maps/api/js?v=3&sensor=false"></script>
+	
+	<script src="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
+	<script src="http://libs.cartocdn.com/cartodb.js/v3/3.15/cartodb.js"></script>
+	<script src="js/L.CartoDB.js"></script>
+	<script src="js/leaflet-search.js"></script>
+	<script src="js/leaflet.label.js"></script>
+	
+	
+				
+					<div class="col-md-12 text-center">
+				
+					<h1><a href="https://www.youtube.com/watch?v=CukIvLfWNO4" class="youtube-media"><i class="fa fa-play-circle-o"></i> A Video That Promotes Self Wellness</a></h1>
+		
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="features-intro">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-6 nopadding features-intro-img">
+						<div id="map"></div>						
+					</div>
+					<div class="col-md-6 nopadding">
+						<div class="features-slider">
+								<ul class="slides" id="featuresSlider">
+									<li>
+										<h1>Gold River Reserve</h1>
+										<iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sca!4v1477417512806!6m8!1m7!1sUFfbNEZMnrj45NaIdDh1eA!2m2!1d44.56137682171853!2d-64.33929834161609!3f189.35333915938654!4f3.238235558342666!5f1.4929013641904345" width="300" height="225" align= "right" frameborder="0" style="border:0" allowfullscreen></iframe>
+										<p>Welcome to Gold River Reserve, in Cheaster Basin, Nova Scotia . Known for their yearly PowWow and great Health Center. <a class="fancybox fancybox.iframe" href="http://www.acadiafirstnation.ca/corporate/about_communities_goldriver.php">Find out more about Gold River!</p>
+										<div id ="map-navigation1" class="map-navigation"><a href="#" data-zoom="14" data-position="44.5625, -64.3420">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Click here to see Gold River on the map <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Yarmouth Reserve</h1>
+										<iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sca!4v1477416977159!6m8!1m7!1sKAnJJalbBrd9ZMmh_7Y1Dw!2m2!1d43.83260423399087!2d-66.08405419290027!3f12.291452537462245!4f-11.914028646370824!5f0.757839542579447" width="300" height="225" align= "right" frameborder="0" style="border:0" allowfullscreen></iframe>
+										<p>The Yarmouth Reserve is located right outside the Town of Yarmouth. It is a well populated community that has many resources for youth and adults for phyical actives and personal well being. These are localed inside and outside of the community with the ability to accsess the urban area minutes away!  <a class="fancybox fancybox.iframe" href="http://www.acadiafirstnation.ca/corporate/about_communities_yarmouth.php"> Find out more about Yarmouth!</p>
+										<div id ="map-navigation2" class="map-navigation"><a href="#" data-zoom="15" data-position="43.8341, -66.0849">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Click here to see Yarmouth on the map <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Wildcat Community</h1>
+										<img src = "img\3retreat.jpg" align="right" style="width:250px;height:195px;">
+										<p>The Wildcat Reserve is very rural community in Queens County. Despite the location they have a great deal of opportunity and resource for promoting active living and personal wellbeing.  <a class="fancybox fancybox.iframe" href="http://www.acadiafirstnation.ca/corporate/about_communities_wildcat.php"> Find out more about Wildcat Community!</p>
+										<div id ="map-navigation3" class="map-navigation"><a href="#" data-zoom="13" data-position="44.3540, -64.9185">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Click to see Wildcat Community on the map <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Ponhook Reserve</h1>
+										<img src = "img/ponhook.jpg" align="right" style="width:250px;height:195px;">
+										<p>Ponhook Reserve is the most rural reserve Acadia owns. Nested on the shore of Lake Rossignal. Also a neightbouring the begining of the Nova Scotia Power Hydro-Dam. Although the land is greatly scarred from the effects of the dam, it is a nice area to gather spiritual well being.  <a class="fancybox fancybox.iframe" href="http://www.acadiafirstnation.ca/corporate/about_communities_ponhook.php">Find out more about Ponhook Reserve!</p>
+										<div id ="map-navigation4" class="map-navigation"><a href="#" data-zoom="16" data-position="50.3223286, -122.80615039">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Click here to see Ponhook Reserve on the map <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Shelburne Sub-Office</h1>
+										<iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sca!4v1478292893341!6m8!1m7!1swWl5xQgM_AkUb3RJaEU6Tg!2m2!1d43.76288950673847!2d-65.32330188378745!3f258.4439118032127!4f-4.139419646292211!5f2.299968626952992" width="300" height="225" align= "right" frameborder="0" style="border:0" allowfullscreen></iframe>
+										<p>Although Shelburne is not reserve land, the sub-office is there to assist our off reserve members with support and information. These people most generally live in or around the Shelburne area. <a class="fancybox fancybox.iframe" href="http://www.acadiafirstnation.ca/corporate/about_communities_shelburne.php">Find out more about the Shelburne Sub-Office!</p>
+										<div id ="map-navigation5" class="map-navigation"><a href="#" data-zoom="16" data-position="48.43461684, -89.21648077">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Click here to see Shelburne Sub-Office on the map <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Hammonds Plains Office</h1>
+										<iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sca!4v1478293849812!6m8!1m7!1sgudEW2R-o6ecEg_JxM1d1w!2m2!1d44.73330347061746!2d-63.76311813950622!3f202.68274831247004!4f-3.569332432739813!5f1.9587109090973311" width="300" height="255" align= "right" frameborder="0" style="border:0" allowfullscreen></iframe>
+										<p>The Hammonds Plains Office is almost the same as the Shelburne location, but they have their own property even though it is not classified as reserve land. <a class="fancybox fancybox.iframe" href="www.acadiafirstnation.ca/corporate/about_communities_hammondsplains.php"> Find out more about Hammonds Plains Office!</p>
+										<div id ="map-navigation6" class="map-navigation"><a href="#" data-zoom="16" data-position="49.88814261, -119.49706943">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Click here to see Hammonds Plains Office on the map <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Medway Reserve</h1>
+										<iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sca!4v1478298838106!6m8!1m7!1sbIvS1ibVZ7dm80XXAc-UVQ!2m2!1d44.26855482486187!2d-64.84359492029854!3f135.723847884122!4f1.9397452286139298!5f0.7820865974627469" width="300" height="255" align= "right" frameborder="0" style="border:0" allowfullscreen></iframe>
+										<p>Medway Reserve is the smallest reserve land that is owned by Acadia. Although they are small, they have a lot to offer and and great resources at their community office. <a class="fancybox fancybox.iframe" href="http://www.acadiafirstnation.ca/corporate/about_communities_medway.php"> http://www.acadiafirstnation.ca </p>
+										<div id ="map-navigation7" class="map-navigation"><a href="#" data-zoom="16" data-position="44.74131418, -65.51393302">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Find out more about the Medway Reserve! <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Island Trail-Wildcat</h1>
+										<img src = "img/000_0025.jpg" align="right" style="width:250px;height:195px;">
+										<p>This trail was developed in the early 2000's by the community members of Wildcat. At first, the vision was to develop a beautiful trail around the edges and through the heart of the island with many camp sites and out-houses. With not much maintenance throughout the years, the trial has grown up a fair mount and no out-houses left.  <a class="fancybox fancybox.iframe" href="http://www.acadiafirstnation.ca/corporate/about_communities_wildcat.php"> http://www.acadiafirstnation.ca</p>
+										<div id ="map-navigation3" class="map-navigation"><a href="#" data-zoom="13" data-position="44.3540, -64.9185">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Find out more about Wildcat! <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Gold River PowWow Grounds</h1>
+										<img src = "img/powwow.jpg" align="right" style="width:250px;height:195px;">
+										<p>The Gold River PowWow Grounds is a sacred place where annual PowWow gatherings happen in September. It is open to the public and anyone is welcome. There is great food, wonderful songs, drumming, and dancers, and many venders selling traditional items.  <a class="fancybox fancybox.iframe" href="
+										https://www.facebook.com/groups/544867022190472/"> http://www.facebook.com</p>
+										<div id ="map-navigation3" class="map-navigation"><a href="#" data-zoom="13" data-position="44.3540, -64.9185">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Check out their Facebook page! <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1> Tkipok Trail- Arcadia</h1>
+										<img src = "img/TkipokTrail.jpg" align="right" style="width:250px;height:195px;">
+										<p>The summer 2016, Acadia First Nation helped and supported the restoration of the new Tkipok Trail that is around and behind the Arcadia Consolidated School. The trail has interpretation panels to teach you some history of the land and also has a beautiful board walk.   <a class="fancybox fancybox.iframe" href="				http://www.thevanguard.ca/news/2014/6/17/celebration-of-tkipok-interpretive-trail-3766914.html"> http://www.thevanguard.ca</p>
+										<div id ="map-navigation3" class="map-navigation"><a href="#" data-zoom="13" data-position="44.3540, -64.9185">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Click here to read about Acadia's hand in the new trail! <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									</li>
+								</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+<!--
+		<section class="features-list" id="features">
+			<div class="container">
+				<div class="row">
+				
+				<h1 style="text-align:center; margin-bottom: 50px;"> Key Concepts</h1>
+					<div class="col-md-12">
+
+						<div class="col-md-4 feature-1 wp2">
+							<div class="feature-icon">
+								<i class="fa fa-users"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Promoting Resilience</h1>
+								<p>Torjman (2007) suggests that shared places help to promote strong and vibrant communities because it helps to build resilient communities capable of prospering in times of adversity. By bringing together people, a foundation for engagement is provided whereby which people can find common understanding. From this engagement and understanding, we are able to work towards common goals to help further support and build stronger communities. Shared spaces present great opportunities for great discussion. (Torjman, S. (2007). Shared Space: The Communities Agenda. ON: The Caledon Institute of Social Policy) .</p>
+								<a href="http://tamarackcommunity.ca/g3s61_CC4I3.html" class="read-more-btn">Explore this concept <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+						<div class="col-md-4 feature-2 wp2 delay-05s">
+							<div class="feature-icon">
+								<i class="fa fa-home"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Importance of Place</h1>
+								<p>The concept of shared and public spaces is rooted in the notion of place. Whether it be the physical space in which we live or emotional place, place provides meaning and belonging in our daily lives. Places are the foundation upon which a network for people can be built. The importance of place takes significance when we think about well-being and development; quality of places and their attributes impacts our health, social cohesion, and economic welfare (Torjman, S. (2007). Shared Space: The Communities Agenda. ON: The Caledon Institute of Social Policy).</p>
+								<a href="http://www.pps.org/reference/public_space_benefits/" class="read-more-btn">Explore this concept  <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+						<div class="col-md-4 feature-3 wp2 delay-1s">
+							<div class="feature-icon">
+								<i class="fa fa-heart"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Social Capital</h1>
+								<p>The purpose of shared spaces is to bring people together, they are a location whereby which human interaction occurs. The way a place is planned ultimately impacts community health as increased social activity helps to foster an environment of support, security and trust. The socio-spatial attributes associated with these places help create unique spaces for community gatherings. Regardless of their size or geometry, public spaces serve as a means of community development and social development creating and reinforcing social bonds among people. (Friedman, A. (2014). Planning Small and Mid-Sized Towns. NY: Routledge). </p>
+								<a href="http://infed.org/mobi/social-capital/" class="read-more-btn">Explore this concept  <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+						<!--div class="col-md-3 feature-4 wp2 delay-1s">
+							<div class="feature-icon">
+								<i class="fa fa-cogs"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Social Capital: Socio-spatial attributes</h1>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. . </p>
+								<a href="http://cogsmapping.t15.org/JT3/postconfed.html" class="read-more-btn">Explore this concept  <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</section>
+-->
+		<section class="screenshots-intro">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<h1>Click The Images Below To Learn More About Different Aspects Of Self Wellness As A Mi'kmaq Person</h1>
+						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p-->
+
+
+						
+						<p><a href="#screenshots" class="arrow-btn">Click the images below! <i class="fa fa-long-arrow-right"></i></a></p>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="screenshots" id="screenshots">
+			<div class="container-fluid">
+				<div class="row">
+					<ul class="grid">
+						<li>
+							<figure>
+								<img src="img/walk.jpg" alt="Screenshot 01">
+								<figcaption>
+								<div class="imgCredit">Celebration of Tkipok Interpretive Trail; TINA COMEAU PHOTO </div>
+								<div>
+								<a class="fancybox fancybox.iframe" href="http://www.muiniskw.org/pgCulture2a.htm">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Ceremonial Medicines</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>							
+						</li>
+						<li>
+							<figure>
+								<img src="img/IMG_11656519846498.jpeg" alt="Screenshot 02">
+								<figcaption>
+								<div class="imgCredit">Planting Swamp Milk-Weed for Monarch Butterflies; Sarah Jermey </div>
+								<div class="caption-content">
+									<a class="fancybox fancybox.iframe" href="pdf/mikmaq.pdf" class="single_image">
+										<i class="fa fa-search"></i><br>
+										<p>Mi'kmaq Teachings</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/article_large1.jpg" alt="Screenshot 03">
+								<figcaption>
+								<div class="imgCredit">Women of the Shore Drum Group; Greg Bennett </div>
+								<div >
+								<a class="fancybox fancybox.iframe" href="https://www.facebook.com/groups/297323790455545/">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Coming Together</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/028-s.jpg" alt="Screenshot 04">
+								<figcaption>
+								<div class="imgCredit">Elder Rose Morris making a traditional basket; Kate Nelson </div>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://www.mmnn.ca/2014/04/mcg-wisqoq-in-mikmaki-project/">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>History in the present</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+				<div class="row">
+					<ul class="grid">
+						<li>
+							<figure>
+								<img src="img/WP_20130914_007.jpg" alt="Screenshot 05">
+								<figcaption>
+								<div class="imgCredit">Mi'kmaq Regalia; Sarah Jermey </div>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://www.native-dance.ca/index.php/Mi'kmaq/Traditional_Dances">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Traditions</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/Ski-wentworth-group-1-650x250.jpg" alt="Screenshot 06">
+								<figcaption>
+								<div class="imgCredit">Youth at Ski Wentworth; Rebecca Page </div>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://www.nssummergames.com/">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Keeping Physically Well</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/01Wildcat.jpg" alt="Screenshot 07">
+								<figcaption>
+								<div class="imgCredit">Natural Beauty; Corrie Melanson </div>
+								<div >
+								<a class="fancybox fancybox.iframe" href="pdf/PA newsletter.pdf">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Walking in the <br> FOOTSTEPS</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/2515576_original.jpg" alt="Screenshot 08">
+								<figcaption>
+								<div class="imgCredit">Gold River PowWow; Sarah Jermey </div>
+								<div >
+								<a class="fancybox fancybox.iframe" href="pdf/2016POWWOWagenda.pdf" class="single_image">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>PowWow Gathering</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+
+		<footer>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-5">
+						<h1 class="footer-logo">
+						<img src="img/COGS01.jpg" width="70%" alt="Footer Logo Blue">
+						</h1>
+						<p>© Boxify 2015 - <a href="http://tympanus.net/codrops/licensing/">Licence</a> - Designed &amp; Developed by <a href="http://www.peterfinlan.com/">Peter Finlan</a></p>
+					</div>
+					<div class="col-md-7">
+						<ul class="footer-nav">
+							<li><a href="#about">Innovative at a local level</a></li>
+							<li><a href="#features">Key Concepts</a></li>
+							<li><a href="#screenshots">Get More Info</a></li>
+							<li><a href="http://www.cogsmapping.t15.org/">Home</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<div class="overlay overlay-boxify">
+			<nav>
+				<ul>
+					<li><a href="#about"><i class="fa fa-heart"></i>Innovative initiatives</a></li>
+					<li><a href="#features"><i class="fa fa-flash"></i>Key Concepts</a></li>
+				</ul>
+				<ul>
+					<li><a href="#screenshots"><i class="fa fa-desktop"></i>Get more Info</a></li>
+					<li><a href="http://www.cogsmapping.t15.org/"><i class="fa fa-download"></i>Home</a></li>
+				</ul>
+			</nav>
+		</div>
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="js/min/toucheffects-min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/flickity.pkgd.min.js"></script>
+		<script src="js/jquery.fancybox.pack.js"></script>
+		<!--Include all compiled plugins (below), or include individual files as needed-->
+		<script src="js/retina.js"></script>
+		<script src="js/waypoints.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/scripts.js"></script>
+		<!-- <script src="js/min/scripts-min.js"></script> -->
+		<script src="js/map01.js"> </script>
+
+	</body>
+</html>

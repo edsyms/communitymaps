@@ -1,0 +1,3235 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://ogr.maptools.org/ CulturalIndustry4.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-7227672.861387203</gml:X><gml:Y>5616595.286983678</gml:Y></gml:coord>
+      <gml:coord><gml:X>-7154020.546693649</gml:X><gml:Y>5656587.997864573</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>                    
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F0">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7170090.6283845669,5636962.7973727658</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>201.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Sea Pines Studio</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>2178 Saxon Street</ogr:StreetAddr>
+      <ogr:Town>Port Williams</ogr:Town>
+      <ogr:PostalCode>B0P 1T0</ogr:PostalCode>
+      <ogr:Contact>Donna Hermiston</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum>582-3292</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>Donna specializes in realist painting in oil, watercolour and acrylics. Art placed throughout Canada, USA, and UK. Commissions welcome. Viewing by appointment.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.410020</ogr:Longitude>
+      <ogr:Latitude>45.098000</ogr:Latitude>
+      <ogr:Gadd>2178 Saxon Street</ogr:Gadd>
+      <ogr:Gtown>Port Williams</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F1">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7158713.7764254957,5637451.6790845999</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>102.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Domaine de Grand Pre &amp; Le Caveau Restaurant</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>11611 Nova Scotia 1 Trunk</ogr:StreetAddr>
+      <ogr:Town>Grand Pre</ogr:Town>
+      <ogr:PostalCode>BOP 1M0</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>542-1753</ogr:PhoneNum>
+      <ogr:Email>mail@grandprewines.ns.ca</ogr:Email>
+      <ogr:Website>http://www.grandprewines</ogr:Website>
+      <ogr:Descriptio>At Domaine de Grand Pr,, we take great pride in making the finest Nova Scotia wines. We work hard to develop special wines true to our province and unlike any others in the region - we grow specialty grapes</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.307820</ogr:Longitude>
+      <ogr:Latitude>45.101100</ogr:Latitude>
+      <ogr:Gadd>11611 Nova Scotia 1 Trunk</ogr:Gadd>
+      <ogr:Gtown>Grand Pre</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F2">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7189278.0161624989,5631848.8631922817</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>146.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Books Galore</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Literature</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>2591 Nova Scotia 1 Trunk</ogr:StreetAddr>
+      <ogr:Town>Coldbrook</ogr:Town>
+      <ogr:PostalCode>B4R 1B6</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>679-9816</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.585320</ogr:Longitude>
+      <ogr:Latitude>45.064760</ogr:Latitude>
+      <ogr:Gadd>2591 Nova Scotia 1 Trunk</ogr:Gadd>
+      <ogr:Gtown>Coldbrook</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F3">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7171325.1615374638,5646537.0928186169</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>151.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>The Canning Gazette</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Media</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>2229 North Avenue</ogr:StreetAddr>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>582-3768</ogr:PhoneNum>
+      <ogr:Email>village.canning@xcountry.tv</ogr:Email>
+      <ogr:Website>http://canningnovascotia.ca/gazette/canngazette-indx.html</ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.421110</ogr:Longitude>
+      <ogr:Latitude>45.158680</ogr:Latitude>
+      <ogr:Gadd>2229 North Avenue</ogr:Gadd>
+      <ogr:Gtown>Canning</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F4">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7168824.9257742474,5639246.575696867</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>111.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Fox Hill Cheese House</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Artisanal Food</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1678 Church Street</ogr:StreetAddr>
+      <ogr:Town>Port Williams</ogr:Town>
+      <ogr:PostalCode>B0P 1T0</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>542-3599</ogr:PhoneNum>
+      <ogr:Email>foxhillfarm@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>http://www.foxhillcheesehouse.com</ogr:Website>
+      <ogr:Descriptio>It is with pride that Fox Hill Cheese House crafts over 20 varieties of cheese using milk from our own herd of Holstein cows. We feel that the commitment to using quality fresh milk enables us to bring you a truly</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.398650</ogr:Longitude>
+      <ogr:Latitude>45.112480</ogr:Latitude>
+      <ogr:Gadd>1678 Church Street</ogr:Gadd>
+      <ogr:Gtown>Port Williams</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F5">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7167612.656519508,5631252.7320376951</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>161.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Gaspereau Valley Gazette</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Media</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1725 White Rock Road</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R1</ogr:PostalCode>
+      <ogr:Contact>Daphne Frazee</ogr:Contact>
+      <ogr:ContactTit>Owner/Editor</ogr:ContactTit>
+      <ogr:PhoneNum>542-4309</ogr:PhoneNum>
+      <ogr:Email>gaspereaugazette@accesswave.ca</ogr:Email>
+      <ogr:Website>http://www.reddragonflydmc.com/GaspereauValleyGazette</ogr:Website>
+      <ogr:Descriptio>The Gaspereau Valley Gazette first appeared in May of 2007. Its purpose is to improve communications within the Valley thus creating more of a sense of community. It also gives local businesses a place to adver</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.387760</ogr:Longitude>
+      <ogr:Latitude>45.061780</ogr:Latitude>
+      <ogr:Gadd>1725 White Rock Road</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F6">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7157826.4801600724,5633467.2779883109</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>103.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Luckett Vineyards</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1293 Grand Pre Road</ogr:StreetAddr>
+      <ogr:Town>Grand Pre</ogr:Town>
+      <ogr:PostalCode>B4P 2R3</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>542-2600</ogr:PhoneNum>
+      <ogr:Email>wine@luckettvineyards.com</ogr:Email>
+      <ogr:Website>http://www.luckettvineyards.com</ogr:Website>
+      <ogr:Descriptio>and certified organic.  For a unique wine experience, visit our geothermal winery and tasting bar overlooking our certified organic vineyard with stunning views of the Gaspereau Valley.  Wine shop and tasting b</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.299780</ogr:Longitude>
+      <ogr:Latitude>45.075870</ogr:Latitude>
+      <ogr:Gadd>1293 Grand Pre Road</ogr:Gadd>
+      <ogr:Gtown>Grand Pre</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F7">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7167452.3564527649,5634993.3460296001</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>105.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Hennigar's Farm Market</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>10272 Nova Scotia 1 Trunk</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R2</ogr:PostalCode>
+      <ogr:Contact>Doug &amp; Heather Hennigar</ogr:Contact>
+      <ogr:ContactTit>Owners</ogr:ContactTit>
+      <ogr:PhoneNum>542-3503</ogr:PhoneNum>
+      <ogr:Email>info@hennigars.com</ogr:Email>
+      <ogr:Website>http://www.hennigars.com</ogr:Website>
+      <ogr:Descriptio>Hennigar's needs no introduction to many locals; a stop here is like &quot;coming home.&quot; Browse the store for giftware, plants, baked goods, produce or line up for some of our famous ice-cream; have some delicious co</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.386320</ogr:Longitude>
+      <ogr:Latitude>45.085510</ogr:Latitude>
+      <ogr:Gadd>10272 Nova Scotia 1 Trunk</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F8">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7206852.7770241378,5646066.6604161169</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>112.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Vector Instruments</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Craft</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1111 Russia Road</ogr:StreetAddr>
+      <ogr:Town>Black Rock</ogr:Town>
+      <ogr:PostalCode>B0P 1V0</ogr:PostalCode>
+      <ogr:Contact>Nicholas Tipney</ogr:Contact>
+      <ogr:ContactTit>Artisan</ogr:ContactTit>
+      <ogr:PhoneNum>538-3271</ogr:PhoneNum>
+      <ogr:Email>into@vectorinstuments.com</ogr:Email>
+      <ogr:Website>http://www.vectorinstruments.com</ogr:Website>
+      <ogr:Descriptio>Designer-builder of state-of-art custom instruments. Specializing in electric/acoustic violins, cellos, and upright basses. International reputation and clientele.</ogr:Descriptio>
+      <ogr:Public>no</ogr:Public>
+      <ogr:Longitude>-64.740260</ogr:Longitude>
+      <ogr:Latitude>45.155700</ogr:Latitude>
+      <ogr:Gadd>1111 Russia Road</ogr:Gadd>
+      <ogr:Gtown>Black Rock</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F9">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7180694.263418911,5648876.0128265889</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>192.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>The Printmaker Studio</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1688 Brow of the Mountain Road</ogr:StreetAddr>
+      <ogr:Town>Centreville</ogr:Town>
+      <ogr:PostalCode>B0P 1J0</ogr:PostalCode>
+      <ogr:Contact>Bob Hainstock</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum>582-3656</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website>http://www.printmaker.ca</ogr:Website>
+      <ogr:Descriptio>Bob is a printmaker and painter of landscapes. He creates small editions in woodcuts, etchings, lithographs, collagraphs, and monoprints. He often uses handmade paper created from local materials. Instruction</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.528870</ogr:Longitude>
+      <ogr:Latitude>45.134140</ogr:Latitude>
+      <ogr:Gadd>1688 Brow of the Mountain Road</ogr:Gadd>
+      <ogr:Gtown>Centreville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F10">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7183320.9498653477,5642651.2379872669</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>173.000000</ogr:CULTID>
+      <ogr:GISREADY>2.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Dick Killam Photography Inc.</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Photography</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>4079 Highway 359</ogr:StreetAddr>
+      <ogr:Town>Centreville</ogr:Town>
+      <ogr:PostalCode>B0P 1J0</ogr:PostalCode>
+      <ogr:Contact>Dick Killam</ogr:Contact>
+      <ogr:ContactTit>.</ogr:ContactTit>
+      <ogr:PhoneNum>679-1949</ogr:PhoneNum>
+      <ogr:Email>dick.killam@xcountry.tv</ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.528870</ogr:Longitude>
+      <ogr:Latitude>45.134140</ogr:Latitude>
+      <ogr:Gadd>4079 Highway 359</ogr:Gadd>
+      <ogr:Gtown>Centreville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F11">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7180619.2258237945,5633784.1365506053</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>197.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Studio Twelve</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>4541 Nova Scotia 12 Trunk</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 3V8</ogr:PostalCode>
+      <ogr:Contact>Erma Walker</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum>678-8047</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>Erma paints whatever grabs her: people in activity, landscapes, still life. Self-taught but studies with various artist. Work can be seen at Apple Bin Gallery, Aberdeen ArtSpace, the Fish Shack, and other locations.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.504600</ogr:Longitude>
+      <ogr:Latitude>45.077840</ogr:Latitude>
+      <ogr:Gadd>4541 Nova Scotia 12 Trunk</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F12">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7218495.682566205,5622022.1260025389</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>218.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Oaklawn Farm Zoo</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Zoo</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1007 Ward Road</ogr:StreetAddr>
+      <ogr:Town>Aylesford</ogr:Town>
+      <ogr:PostalCode>B0P 1C0</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>847-9790</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website>http://oaklawnfarmzoo.ca</ogr:Website>
+      <ogr:Descriptio>A fun adventure for all ages, Oaklawn Farm Zoo boasts the largest display of Big Cats and Primates in Eastern Canada, and much more.
+</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.844850</ogr:Longitude>
+      <ogr:Latitude>45.003180</ogr:Latitude>
+      <ogr:Gadd>1007 Ward Road</ogr:Gadd>
+      <ogr:Gtown>Aylesford</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F13">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7193097.5042353813,5652962.3564438457</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>174.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Tides Photography Inc.</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Photography</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>4079 Nova Scotia 359</ogr:StreetAddr>
+      <ogr:Town>Centreville</ogr:Town>
+      <ogr:PostalCode>B0P 1J0</ogr:PostalCode>
+      <ogr:Contact>Dick Killam</ogr:Contact>
+      <ogr:ContactTit>Photographer</ogr:ContactTit>
+      <ogr:PhoneNum>679-1949</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>Dick Killam has been in business for over 30 years and is located in Halls Harbour, Nova Scotia, Canada. His home is located overlooking the Bay of Fundy which displays the highest tides in the world. This loc</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.524690</ogr:Longitude>
+      <ogr:Latitude>45.127970</ogr:Latitude>
+      <ogr:Gadd>4079 Nova Scotia 359</ogr:Gadd>
+      <ogr:Gtown>Centreville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F14">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164543.5781583386,5635970.9221649757</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>148.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Rainbows End Books &amp; discs</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Literature</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>388 Nova Scotia 1 Trunk</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1C9</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>697-3090</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.360190</ogr:Longitude>
+      <ogr:Latitude>45.091710</ogr:Latitude>
+      <ogr:Gadd>388 Nova Scotia 1 Trunk</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F15">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7171224.9739957508,5646319.2385133011</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>122.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Aspinall Pottery</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Craft (pottery)</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>9842 Main Street</ogr:StreetAddr>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Denise Aspinall</ogr:Contact>
+      <ogr:ContactTit>Artisan/Owner</ogr:ContactTit>
+      <ogr:PhoneNum>582-7028</ogr:PhoneNum>
+      <ogr:Email>aspinallpottery@eastlink.ca</ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>Aspinall Pottery is funcional tableware made from porcelain clay and kiln fired. Bowls, platters, mugs and serving dishes decorated with blue and green leaf pattern on an ivory background.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.420210</ogr:Longitude>
+      <ogr:Latitude>45.157300</ogr:Latitude>
+      <ogr:Gadd>9842 Main Street</ogr:Gadd>
+      <ogr:Gtown>Canning</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F16">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7181038.9003040846,5633632.7997274594</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>166.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Digital Dungeon Studio</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>80 Park Street</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1M3</ogr:PostalCode>
+      <ogr:Contact>Derek</ogr:Contact>
+      <ogr:ContactTit>Musician</ogr:ContactTit>
+      <ogr:PhoneNum>365-2586</ogr:PhoneNum>
+      <ogr:Email>digitaldungeonstudio@live.ca</ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>Digital Dungeon Studio is fully equipped to record all your musical needs with Pro tools 8 up to 48 tracks available. Call or email for booking. $35/hour. Drum lesson are also available at $20/half hour or $30/4</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.508370</ogr:Longitude>
+      <ogr:Latitude>45.076880</ogr:Latitude>
+      <ogr:Gadd>80 Park Street</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F17">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7162022.1916918708,5636365.1361133428</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>170.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>The Annapolis Academy of Music</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>18-360 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B0P 1X0</ogr:PostalCode>
+      <ogr:Contact>Debbie Mailman</ogr:Contact>
+      <ogr:ContactTit>Owner</ogr:ContactTit>
+      <ogr:PhoneNum>542-4456</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>Music School offering private and group instruction to all ages and abilities. A multi studio operation serving the community since 1993. Original and fun music programs for children birth to 8 years old. Summe</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.337540</ogr:Longitude>
+      <ogr:Latitude>45.094210</ogr:Latitude>
+      <ogr:Gadd>18-360 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F18">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7176027.2968285736,5649237.0297069289</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>189.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Carr/Bateman Studio</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>299 Woodside Road</ogr:StreetAddr>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Holly Carr &amp; Alan Bateman</ogr:Contact>
+      <ogr:ContactTit>Artists</ogr:ContactTit>
+      <ogr:PhoneNum>582-3309</ogr:PhoneNum>
+      <ogr:Email>mail@alanbateman.com</ogr:Email>
+      <ogr:Website>http://www.alanbateman.com</ogr:Website>
+      <ogr:Descriptio>Alan &amp; Holly are full-time artists who exhibit nationally. Their studio is at the base of the idyllic North Mountain.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.463350</ogr:Longitude>
+      <ogr:Latitude>45.175780</ogr:Latitude>
+      <ogr:Gadd>299 Woodside Road</ogr:Gadd>
+      <ogr:Gtown>Canning</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F19">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7166857.9103719294,5631665.6523443693</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>99.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Benjamin Bridge Vineyards</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1841 White Rock Road</ogr:StreetAddr>
+      <ogr:Town>Gaspereau</ogr:Town>
+      <ogr:PostalCode>B4P 2R1</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>542-9738</ogr:PhoneNum>
+      <ogr:Email>wines@benjaminbridge.com</ogr:Email>
+      <ogr:Website>http://www.benjaminbridge.com</ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.380980</ogr:Longitude>
+      <ogr:Latitude>45.064400</ogr:Latitude>
+      <ogr:Gadd>1841 White Rock Road</ogr:Gadd>
+      <ogr:Gtown>Gaspereau</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F20">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7186256.4448375655,5632467.9065811811</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>153.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Apple Valley Scoop</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Media</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1561 Harrington Road</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 3V7</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>678-8228</ogr:PhoneNum>
+      <ogr:Email>information@applevalleyscoop.com</ogr:Email>
+      <ogr:Website>http://applevalleyscoop.com</ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.555240</ogr:Longitude>
+      <ogr:Latitude>45.069490</ogr:Latitude>
+      <ogr:Gadd>1561 Harrington Road</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F21">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7177053.6625336865,5632702.7646592502</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>200.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Ink Spot Prining &amp; Embroidery</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>8772 Commercial Street</ogr:StreetAddr>
+      <ogr:Town>New Minas</ogr:Town>
+      <ogr:PostalCode>B4N 3C5</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>681-4465</ogr:PhoneNum>
+      <ogr:Email>mail@inkspot.ca</ogr:Email>
+      <ogr:Website>http://www.inkspot.ca</ogr:Website>
+      <ogr:Descriptio>At Inkspot Printing &amp; Embroidery, we offer a one-stop shopping experience for your business, organization, team or personal needs.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.472570</ogr:Longitude>
+      <ogr:Latitude>45.070980</ogr:Latitude>
+      <ogr:Gadd>8772 Commercial Street</ogr:Gadd>
+      <ogr:Gtown>New Minas</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F22">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7163202.1782942787,5636052.9172448544</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>206.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Printemps Studio-Gallery</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>163 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B0P 1X0</ogr:PostalCode>
+      <ogr:Contact>Gudrun Mueller-Both</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum>542-9483</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>A graduate of printmaking at the University of Victoria, Gudrun works mainly with intaglio, woodcut-collage. She has exhibited in solo and group shows in Canada and Germany.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.348140</ogr:Longitude>
+      <ogr:Latitude>45.092230</ogr:Latitude>
+      <ogr:Gadd>163 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F23">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7179615.1240168391,5636030.8415729869</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>177.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Photos by Trish</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Photography</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1164 Mc Kittrick Road</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 2V9</ogr:PostalCode>
+      <ogr:Contact>Trish Robicheau</ogr:Contact>
+      <ogr:ContactTit>Photographer</ogr:ContactTit>
+      <ogr:PhoneNum>679-1818</ogr:PhoneNum>
+      <ogr:Email>trishrobicheau@hotmail.com</ogr:Email>
+      <ogr:Website>http://www.photosbytrish.ca</ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.495580</ogr:Longitude>
+      <ogr:Latitude>45.092090</ogr:Latitude>
+      <ogr:Gadd>1164 Mc Kittrick Road</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F24">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7182349.1307107219,5632925.0185461408</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>143.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Wild Lupin Media</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Film</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>41 Fielding Avenue</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 2T4</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>678-7601</ogr:PhoneNum>
+      <ogr:Email>info@wildlupin.ca</ogr:Email>
+      <ogr:Website>http://www.wildlupin.ca</ogr:Website>
+      <ogr:Descriptio>One stop shopping for all your media needs. Whether you are in need of a completed project or professional consultation, we are here to help you achieve professional results for your business.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.520140</ogr:Longitude>
+      <ogr:Latitude>45.072390</ogr:Latitude>
+      <ogr:Gadd>41 Fielding Avenue</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F25">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7167070.5305993455,5634994.9226798695</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>108.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Stirling Fruit Farms</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>10328 Nova Scotia 1 Trunk</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R2</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>542-3763</ogr:PhoneNum>
+      <ogr:Email>Hal@Stirlingsfruitfarms.ca</ogr:Email>
+      <ogr:Website>http://www.stirlingfruitfarms.ca</ogr:Website>
+      <ogr:Descriptio>At Stirling Fruit Farms we have been growing apples for over three generations. On our farms in the Annapolis Valley we grow over 35 apple varieties. Today we are much more then apples! In our orchards we a</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.382890</ogr:Longitude>
+      <ogr:Latitude>45.085520</ogr:Latitude>
+      <ogr:Gadd>10328 Nova Scotia 1 Trunk</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F26">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7161970.9847261049,5636360.4054436646</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>204.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>I Box Publishing</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1 - 614 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1E8</ogr:PostalCode>
+      <ogr:Contact>Mark Oakley</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum></ogr:PhoneNum>
+      <ogr:Email>moak@iboxpublishing.com</ogr:Email>
+      <ogr:Website>http://iboxpublishing.com/index.php</ogr:Website>
+      <ogr:Descriptio>Graphic novels, fantasy, and sci-fi cartoonist.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.337080</ogr:Longitude>
+      <ogr:Latitude>45.094180</ogr:Latitude>
+      <ogr:Gadd>1 - 614 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F27">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164166.2050845493,5632341.8108102987</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>100.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Gaspereau Vineyards</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>2239 White Rock Road</ogr:StreetAddr>
+      <ogr:Town>Gaspereau</ogr:Town>
+      <ogr:PostalCode>B4P 2R1</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>542-1455</ogr:PhoneNum>
+      <ogr:Email>info@gaspereauwine.com</ogr:Email>
+      <ogr:Website>http://www.gaspereauwine.com</ogr:Website>
+      <ogr:Descriptio>The beautiful Gaspereau Valley is home to Gaspereau Vineyards, a small boutique winery showcasing some of the best wines Nova Scotia has to offer.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.356800</ogr:Longitude>
+      <ogr:Latitude>45.068690</ogr:Latitude>
+      <ogr:Gadd>2239 White Rock Road</ogr:Gadd>
+      <ogr:Gtown>Gaspereau</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F28">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7169778.9338103458,5646766.0033892384</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>172.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>David Elliott Photography</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Photography</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>153 Pereau Road</ogr:StreetAddr>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>David Elliott</ogr:Contact>
+      <ogr:ContactTit>Photographer</ogr:ContactTit>
+      <ogr:PhoneNum>582-3642</ogr:PhoneNum>
+      <ogr:Email>davephotoart@gmail.com</ogr:Email>
+      <ogr:Website>http://www.davidelliottphotography.com</ogr:Website>
+      <ogr:Descriptio>David became seriously interested in photography about 10 years ago as a hobby. He not only does the photo shoot but also oversees and edits the photo from the time of capture to the final print.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.407220</ogr:Longitude>
+      <ogr:Latitude>45.160130</ogr:Latitude>
+      <ogr:Gadd>153 Pereau Road</ogr:Gadd>
+      <ogr:Gtown>Canning</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F29">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164493.4843874816,5635974.0758080902</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>178.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Dave Hines Photography</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Photography</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>383 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B0P 1X0</ogr:PostalCode>
+      <ogr:Contact>Dave Hines</ogr:Contact>
+      <ogr:ContactTit>Portrait Photographer</ogr:ContactTit>
+      <ogr:PhoneNum>542-4463</ogr:PhoneNum>
+      <ogr:Email>d.hines@ns.sympatico.ca</ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>Professional photography for graduation, families, weddings, business portraits, children and babies, passports.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.359740</ogr:Longitude>
+      <ogr:Latitude>45.091730</ogr:Latitude>
+      <ogr:Gadd>383 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F30">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7171358.5573847005,5646664.9662812771</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>217.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Dragonfire Art</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art/Literature</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1122 First Street</ogr:StreetAddr>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Nancy J. Logeman</ogr:Contact>
+      <ogr:ContactTit>Artist/Writer</ogr:ContactTit>
+      <ogr:PhoneNum>582-7681</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>Nancy works mainly in acrylics and watercolour, some graphite, pen and ink. She prefers doing abstract and semi-abstract work, also landscapes and animal subjects. As a writer, she creates mainly poetry and</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.421410</ogr:Longitude>
+      <ogr:Latitude>45.159490</ogr:Latitude>
+      <ogr:Gadd>1122 First Street</ogr:Gadd>
+      <ogr:Gtown>Canning</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F31">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7176558.290799656,5632130.6043478344</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>167.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Long &amp; McQuade</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1007 Dow Road</ogr:StreetAddr>
+      <ogr:Town>New Minas</ogr:Town>
+      <ogr:PostalCode>B4N 3R4</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>681-1461</ogr:PhoneNum>
+      <ogr:Email>newminas@long-mcquade.com</ogr:Email>
+      <ogr:Website>http://www.long-mcquade.com</ogr:Website>
+      <ogr:Descriptio>Long &amp; McQuade is the largest chain of musical instrument retailers in Canada.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.468120</ogr:Longitude>
+      <ogr:Latitude>45.067350</ogr:Latitude>
+      <ogr:Gadd>1007 Dow Road</ogr:Gadd>
+      <ogr:Gtown>New Minas</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F32">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7213770.1701820316,5645226.8892308371</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>126.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Keltica Quilt Designs</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Craft (quilting)</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>28 Russia Road</ogr:StreetAddr>
+      <ogr:Town>Harbourville</ogr:Town>
+      <ogr:PostalCode>B0P 1E0</ogr:PostalCode>
+      <ogr:Contact>Jean Huntley-Maynard</ogr:Contact>
+      <ogr:ContactTit>Artisan/Owner</ogr:ContactTit>
+      <ogr:PhoneNum>538-0080</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website>http://www.kelticaquiltdesigns.ca</ogr:Website>
+      <ogr:Descriptio>Keltica Quilt Designs features quilts, wall hangings, runners and note cards - all with traditional celtic knots and animals. The gallery is open daily from May to September, by appointment or chance. Commissio</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.802400</ogr:Longitude>
+      <ogr:Latitude>45.150380</ogr:Latitude>
+      <ogr:Gadd>28 Russia Rd</ogr:Gadd>
+      <ogr:Gtown>Harbourville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F33">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7175948.2599901073,5632256.6971626459</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>144.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Empire Cinemas</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Film</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>8944 Commercial Street</ogr:StreetAddr>
+      <ogr:Town>New Minas</ogr:Town>
+      <ogr:PostalCode>B4N 3C9</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>681-8080</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website>http://www.empiretheatres.com</ogr:Website>
+      <ogr:Descriptio>National chain of movie theatres and cinemas in Canada.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.462640</ogr:Longitude>
+      <ogr:Latitude>45.068150</ogr:Latitude>
+      <ogr:Gadd>8944 Commercial Street</ogr:Gadd>
+      <ogr:Gtown>New Minas</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F34">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7169264.6377628809,5630433.2515952038</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>116.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Little Foot Yurts</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Craft</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1459 White Rock Road</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R1</ogr:PostalCode>
+      <ogr:Contact>Selene and Alex Cole</ogr:Contact>
+      <ogr:ContactTit>Owners</ogr:ContactTit>
+      <ogr:PhoneNum>670-4556</ogr:PhoneNum>
+      <ogr:Email>info@lfy.ca</ogr:Email>
+      <ogr:Website>http://www.lfy.ca</ogr:Website>
+      <ogr:Descriptio>We are builders of Nova Scotia coppice wood yurts, inspired by the Kyrgyz and Mongolian style yurts. Our mission is to make these beautiful shelters accessible through rentals, sales, and educational workshop</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.402600</ogr:Longitude>
+      <ogr:Latitude>45.056580</ogr:Latitude>
+      <ogr:Gadd>1459 White Rock Road</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F35">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7179644.0670844447,5634078.9353709659</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>175.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Dreamcatchers Studios</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Photography</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>3 River Street</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode></ogr:PostalCode>
+      <ogr:Contact>Chelsea Brewster</ogr:Contact>
+      <ogr:ContactTit>Photographer</ogr:ContactTit>
+      <ogr:PhoneNum>365-5998</ogr:PhoneNum>
+      <ogr:Email>dreamcapturing@gmail.com</ogr:Email>
+      <ogr:Website>http://www.dreamcapturing.com</ogr:Website>
+      <ogr:Descriptio>Specializing in photography, scrapbooking and portfolio development.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.495840</ogr:Longitude>
+      <ogr:Latitude>45.079710</ogr:Latitude>
+      <ogr:Gadd>3 River Street</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F36">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164682.154474671,5635911.4186868826</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>157.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>The Grapevine</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Media</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>495 Main Street</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1L4</ogr:PostalCode>
+      <ogr:Contact>Jeremy Novak &amp; Jocelyn Hatt</ogr:Contact>
+      <ogr:ContactTit>Co-Editors/Owners</ogr:ContactTit>
+      <ogr:PhoneNum>692-8546.</ogr:PhoneNum>
+      <ogr:Email>grapevine.wolfville@gmail.com</ogr:Email>
+      <ogr:Website>http://grapevine.wolfville.org</ogr:Website>
+      <ogr:Descriptio>Radiating from Wolfville outwards, The Grapevine is a once-every-two-week countertop arts publication focusing on community, awareness and involvement.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.499870</ogr:Longitude>
+      <ogr:Latitude>45.077620</ogr:Latitude>
+      <ogr:Gadd>495 Main Street</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F37">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7177068.1340674888,5624292.6716729784</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>187.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Capflex Networking</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>990 Alders Rd</ogr:StreetAddr>
+      <ogr:Town>Kings, Subd. C</ogr:Town>
+      <ogr:PostalCode>B4N 4K1
+</ogr:PostalCode>
+      <ogr:Contact>Bruce Dienes
+</ogr:Contact>
+      <ogr:ContactTit>Contact</ogr:ContactTit>
+      <ogr:PhoneNum>678-6390</ogr:PhoneNum>
+      <ogr:Email>info@capflex.com</ogr:Email>
+      <ogr:Website>http://www.capflex.com</ogr:Website>
+      <ogr:Descriptio>CAPFLEX Networking aims to provide you with a high quality one-stop-shop for all your IT services, from web design to computer repair; from technical support to creative photography; from backup software to</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.472700</ogr:Longitude>
+      <ogr:Latitude>45.017600</ogr:Latitude>
+      <ogr:Gadd>990 Alders Rd</ogr:Gadd>
+      <ogr:Gtown>Kings</ogr:Gtown>
+      <ogr:Gprov>Subd. C</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F38">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7179491.5593820596,5633637.5289646946</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>195.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Manitou Art Gallery</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>4623 Highway #2, North Alton, RR #2</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 3V8</ogr:PostalCode>
+      <ogr:Contact>Bruce Rafuse</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum>678-0453</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>Bruce is self-trained and uses oil and charcoal in a photo-realism style. concentrating on wildlife, landscapes, native-Canadian and non-industrial subjects. Bruce also sculpts with bone, stone and wood.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.494470</ogr:Longitude>
+      <ogr:Latitude>45.076910</ogr:Latitude>
+      <ogr:Gadd>4623 Highway #2</ogr:Gadd>
+      <ogr:Gtown>North Alton</ogr:Gtown>
+      <ogr:Gprov>RR #2</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24>NS</ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F39">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7173784.2090890883,5632286.6444655005</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>147.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Coles</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Literature</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>9256 Commercial Street</ogr:StreetAddr>
+      <ogr:Town>New Minas</ogr:Town>
+      <ogr:PostalCode>B4N 4A9</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>681-0880</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.443200</ogr:Longitude>
+      <ogr:Latitude>45.068340</ogr:Latitude>
+      <ogr:Gadd>9256 Commercial Street</ogr:Gadd>
+      <ogr:Gtown>New Minas</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F40">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7192528.1849488588,5650167.1956856316</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>129.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Stained Glass Studio</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Craft (stained glass)</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>674 West Hall's Harbour Road</ogr:StreetAddr>
+      <ogr:Town>Hall's Harbour</ogr:Town>
+      <ogr:PostalCode>B0P 1J0</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>678-3485</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.611580</ogr:Longitude>
+      <ogr:Latitude>45.181670</ogr:Latitude>
+      <ogr:Gadd>674 West Hall's Harbour Road</ogr:Gadd>
+      <ogr:Gtown>Hall's Harbour</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F41">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164645.9920898676,5634529.8228180604</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>611.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Rhythm &amp; Sole Dance Studio</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Dance</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>12 Skyway Drive</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1L1</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>678-7284</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.361110</ogr:Longitude>
+      <ogr:Latitude>45.082570</ogr:Latitude>
+      <ogr:Gadd>12 Skyway Drive</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F42">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164015.9237719774,5634419.4636644833</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>128.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>RHONDA does WHAT!</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Craft (rug-making)</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>51 John Pryor Drive</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1P3</ogr:PostalCode>
+      <ogr:Contact>Rhonda Brennan</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum>542-9826</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>Reclamates/renovates/rejuvenates clothes, wood, paper, glass, textiles, furniture, plastic, metal. Creates rugs using 100% recycled materials, paintings, sculptures and ever so much more.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.355450</ogr:Longitude>
+      <ogr:Latitude>45.081870</ogr:Latitude>
+      <ogr:Gadd>51 John Pryor Drive</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F43">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7227672.8613872034,5616595.2869836781</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>213.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Atlantic Fabrics Crafts &amp; More</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art/Craft</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>963 Central Avenue</ogr:StreetAddr>
+      <ogr:Town>Greenwood</ogr:Town>
+      <ogr:PostalCode>B0P 1N0</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>765-0600</ogr:PhoneNum>
+      <ogr:Email>info@atlanticfabrics.com</ogr:Email>
+      <ogr:Website>http://www.atlanticfabrics.com</ogr:Website>
+      <ogr:Descriptio>Graphite and Pastel portraits were a means of support throughout the college years and Eileen still does an occasional commission. Her other realist works feature a variety of materials including acrylic, waterco</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.927290</ogr:Longitude>
+      <ogr:Latitude>44.968620</ogr:Latitude>
+      <ogr:Gadd>963 Central Avenue</ogr:Gadd>
+      <ogr:Gtown>Greenwood</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F44">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7172222.3966332581,5646333.4462419515</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>131.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Steven Kennard Studio Gallery</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Craft (Wood Turner)</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>9545 Nova Scotia 221</ogr:StreetAddr>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Steven Kennard</ogr:Contact>
+      <ogr:ContactTit>Owner/Artisan</ogr:ContactTit>
+      <ogr:PhoneNum>582-3795</ogr:PhoneNum>
+      <ogr:Email>steve@stevenkennard.com</ogr:Email>
+      <ogr:Website>http://www.stevenkennard.com</ogr:Website>
+      <ogr:Descriptio>Steven's studio gallery features his award winning, turned and sculpted boxes of rare quality and beauty made from exotic woods.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.429170</ogr:Longitude>
+      <ogr:Latitude>45.157390</ogr:Latitude>
+      <ogr:Gadd>9545 Nova Scotia 221</ogr:Gadd>
+      <ogr:Gtown>Canning</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F45">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7157385.7349003302,5638096.728152331</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>110.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Tangled Garden</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Artisanal Food</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>11827 Nova Scotia 1 Trunk</ogr:StreetAddr>
+      <ogr:Town>Grand Pre</ogr:Town>
+      <ogr:PostalCode>BOP 1MO</ogr:PostalCode>
+      <ogr:Contact>Beverly McClare</ogr:Contact>
+      <ogr:ContactTit>Owner</ogr:ContactTit>
+      <ogr:PhoneNum>542-9811</ogr:PhoneNum>
+      <ogr:Email>tangledgarden@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>http://www.tangledgarden.ns.ca</ogr:Website>
+      <ogr:Descriptio>Tangled Garden began 20 years ago with a handyman special on one acre of land in Grand Pre in the Annapolis Valley of Nova Scotia. The property now features our home, herb garden, labyrinth, gallery and a</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.295890</ogr:Longitude>
+      <ogr:Latitude>45.105190</ogr:Latitude>
+      <ogr:Gadd>11827 Nova Scotia 1 Trunk</ogr:Gadd>
+      <ogr:Gtown>Grand Pre</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F46">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7190587.8862243323,5624409.2060829494</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>186.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Studio by the Lake</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>412 Lake Drive</ogr:StreetAddr>
+      <ogr:Town>Kings, Subd. A</ogr:Town>
+      <ogr:PostalCode>B0P 1G0</ogr:PostalCode>
+      <ogr:Contact>Dianne Arenburg</ogr:Contact>
+      <ogr:ContactTit>Arist</ogr:ContactTit>
+      <ogr:PhoneNum>678-1637</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>Produces original works in watercolour, pastel, oil, and pencil as well as unique clay creations. Dianne welcomes custom work and does portraits from photos. She invites you to visit her studio by appointment.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.594150</ogr:Longitude>
+      <ogr:Latitude>45.018340</ogr:Latitude>
+      <ogr:Gadd>412 Lake Drive</ogr:Gadd>
+      <ogr:Gtown></ogr:Gtown>
+      <ogr:Gprov></ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F47">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7154020.5466936491,5633159.8885415299</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>210.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>The Pale Green Horse Studio/gallery</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>465 West Brooklyn Mountain Road</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B0P 1X0</ogr:PostalCode>
+      <ogr:Contact>Jeanne Aisthorpe-Smith</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum>542-0595</ogr:PhoneNum>
+      <ogr:Email>info@novascotiaart.com</ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>Jeanne Aisthorpe-Smith works in several mediums, primarily oils. Her brightly colored landscapes are shown in several galleries across North America.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.265660</ogr:Longitude>
+      <ogr:Latitude>45.073880</ogr:Latitude>
+      <ogr:Gadd>465 West Brooklyn Mountain Road</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F48">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164871.970656178,5635925.194463932</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>203.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Harvest Gallery</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>462 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1E2</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>542-7093</ogr:PhoneNum>
+      <ogr:Email>info@harvestgallery.ca</ogr:Email>
+      <ogr:Website>http://www.harvestgallery.ca</ogr:Website>
+      <ogr:Descriptio>Located in the charming town of Wolfville in Nova Scotia's bountiful Annapolis Valley, Harvest Gallery features a wonderfully diverse collection of art and fine craft from many of the region's best-loved artists a</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.363140</ogr:Longitude>
+      <ogr:Latitude>45.091500</ogr:Latitude>
+      <ogr:Gadd>462 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F49">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7179631.8219404574,5633541.368295542</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>155.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Gaspereau Press</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Media</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>47 Church Avenue</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 2M7</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>678 6002</ogr:PhoneNum>
+      <ogr:Email>info@gaspereau.com</ogr:Email>
+      <ogr:Website>http://www.gaspereau.com</ogr:Website>
+      <ogr:Descriptio>At the core of our philosophy is a commitment to making books that reinstate the importance of the book as a physical object, reuniting publishing and the book arts.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.495730</ogr:Longitude>
+      <ogr:Latitude>45.076380</ogr:Latitude>
+      <ogr:Gadd>47 Church Avenue</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F50">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7170632.7543047294,5646221.3636590233</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>123.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Sun Porch Pottery Studio</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Craft (pottery)</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>10228 Nova Scotia 221</ogr:StreetAddr>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Jane Harrington</ogr:Contact>
+      <ogr:ContactTit>Artisan</ogr:ContactTit>
+      <ogr:PhoneNum>582-7762</ogr:PhoneNum>
+      <ogr:Email>sunporchpottery@yahoo.ca</ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>I have a small pottery studio in Habitant Nova Scotia. I sometimes teach classes or individuals. The studio is open by chance or appointment.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.414890</ogr:Longitude>
+      <ogr:Latitude>45.156600</ogr:Latitude>
+      <ogr:Gadd>10228 Nova Scotia 221</ogr:Gadd>
+      <ogr:Gtown>Canning</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F51">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7170632.7543047294,5646196.1058049826</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>98.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Blomidon Estate Winery</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>10318 Nova Scotia 221</ogr:StreetAddr>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>582-7565</ogr:PhoneNum>
+      <ogr:Email>retail@blomidonwine.com</ogr:Email>
+      <ogr:Website>http://www.blomidonwine.com</ogr:Website>
+      <ogr:Descriptio>Rising majestically from the shores of the Minas Basin, Cape Blomidon is famous for its spectacular scenery and our proximity to this natural landmark provided the inspiration for our name.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.414890</ogr:Longitude>
+      <ogr:Latitude>45.156600</ogr:Latitude>
+      <ogr:Gadd>10318 Nova Scotia 221</ogr:Gadd>
+      <ogr:Gtown>Canning</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F52">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7187573.3544136509,5632179.4651041469</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>136.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Dance ConXion</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Dance</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1562 Newcombe Boulevard</ogr:StreetAddr>
+      <ogr:Town>Coldbrook</ogr:Town>
+      <ogr:PostalCode>B4R 1A1</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>365-7300</ogr:PhoneNum>
+      <ogr:Email>info@danceconxion.com</ogr:Email>
+      <ogr:Website>http://www.danceconxion.com</ogr:Website>
+      <ogr:Descriptio>At Dance ConXion our goal is to encourage creative expression and positive self esteem through dance.Our certified staff is dedicated to providing quality instruction in an energetic, fun filled yet structured envir</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.567070</ogr:Longitude>
+      <ogr:Latitude>45.067660</ogr:Latitude>
+      <ogr:Gadd>1562 Newcombe Boulevard</ogr:Gadd>
+      <ogr:Gtown>Coldbrook</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F53">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7167192.9820392178,5627880.7324338891</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>134.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Ironwood Forge and Woodworks</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Craft (Woodwork/Blacksmith)</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>149 Allison Coldwell Road</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B0P 1X0</ogr:PostalCode>
+      <ogr:Contact>Ian Hope-Simpson</ogr:Contact>
+      <ogr:ContactTit>Artisan</ogr:ContactTit>
+      <ogr:PhoneNum>542-2057</ogr:PhoneNum>
+      <ogr:Email>ian@hope-simpson.com</ogr:Email>
+      <ogr:Website>http://www.hope-simpson.com</ogr:Website>
+      <ogr:Descriptio>Largely self-taught, Ian is a traditional artist and blacksmith producing functional and sculptural creations for home and garden in iron and wood.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.383990</ogr:Longitude>
+      <ogr:Latitude>45.040380</ogr:Latitude>
+      <ogr:Gadd>149 Allison Coldwell Road</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F54">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7206354.0657053841,5646191.3699652459</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>119.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Ravens Light Studio</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Craft (Glass artist)</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1181 Russia Road</ogr:StreetAddr>
+      <ogr:Town>Black Rock</ogr:Town>
+      <ogr:PostalCode>B0P 1V0</ogr:PostalCode>
+      <ogr:Contact>Raven Hazelwood-Clark</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum>538-3462</ogr:PhoneNum>
+      <ogr:Email>ravenglass99@yahoo.com</ogr:Email>
+      <ogr:Website>http://www.ravenslight.ca</ogr:Website>
+      <ogr:Descriptio>Bringing 24 years of passion and experience to the creation of art glass panels, Raven is a member of the Glass Artists Association of Canada. He creates dynamic commissioned free-hanging and architectural pi</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.735780</ogr:Longitude>
+      <ogr:Latitude>45.156490</ogr:Latitude>
+      <ogr:Gadd>1181 Russia Road</ogr:Gadd>
+      <ogr:Gtown>Black Rock</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F55">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7171020.1461326899,5646560.7729523303</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>164.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Webster's Guitar Academy</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>994 Pleasant Street</ogr:StreetAddr>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>582-1786</ogr:PhoneNum>
+      <ogr:Email>info@webstersguitaracademy.com</ogr:Email>
+      <ogr:Website>http://www.webstersguitaracademy.com</ogr:Website>
+      <ogr:Descriptio>We specialize in fretted instruments. If you have an interest in guitar lessons (acoustic, electric, classical, Celtic or bass), or even bouzouki or mandolin lessons, then Webster's Guitar Academy is for you!</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.418370</ogr:Longitude>
+      <ogr:Latitude>45.158830</ogr:Latitude>
+      <ogr:Gadd>994 Pleasant Street</ogr:Gadd>
+      <ogr:Gtown>Canning</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F56">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7205963.3342926987,5629591.7857712274</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>185.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Serendipity Studios</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>204 Main Street</ogr:StreetAddr>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>B0P 1E0</ogr:PostalCode>
+      <ogr:Contact>Sue Redford</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum>538-0008</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>Mainly self-taught, Sue's work is vignettes of everyday life, as well as architecture and wildlife. She has exhibited in juried competitions in BC and her work is in collections in Canada. Instruction offered.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.732270</ogr:Longitude>
+      <ogr:Latitude>45.051240</ogr:Latitude>
+      <ogr:Gadd>204 Main Street</ogr:Gadd>
+      <ogr:Gtown>Berwick</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F57">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7209789.3851912636,5617462.2918771245</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>109.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Ran-Cher Acres</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Artisanal Food</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>744 Canaan Road</ogr:StreetAddr>
+      <ogr:Town>Kings, Subd. A</ogr:Town>
+      <ogr:PostalCode>B0P 1C0</ogr:PostalCode>
+      <ogr:Contact>Randy, Cheryl &amp; Sara Hiltz</ogr:Contact>
+      <ogr:ContactTit>Owners</ogr:ContactTit>
+      <ogr:PhoneNum>847-3895</ogr:PhoneNum>
+      <ogr:Email>ran_cher_acres@eastlink.ca</ogr:Email>
+      <ogr:Website>http://www.rancheracres.com</ogr:Website>
+      <ogr:Descriptio>Ran-Cher Acres is a dairy goat farm specializing in cheese making, owned and operated by Randy and Cheryl Hiltz and their youngest daughter, Sara.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.766640</ogr:Longitude>
+      <ogr:Latitude>44.974210</ogr:Latitude>
+      <ogr:Gadd>744 Canaan Road</ogr:Gadd>
+      <ogr:Gtown>Kings, Subd. A</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F58">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7209626.8587347055,5623554.1304968596</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>184.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Eileen Boyd Art Studio</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1976 Hall Road</ogr:StreetAddr>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>B0P 1E0</ogr:PostalCode>
+      <ogr:Contact>Eileen Boyd</ogr:Contact>
+      <ogr:ContactTit>Visual Artist</ogr:ContactTit>
+      <ogr:PhoneNum>538-1338</ogr:PhoneNum>
+      <ogr:Email>eileenboyd@eastlink.ca</ogr:Email>
+      <ogr:Website>http://www.eileenboyd.ca</ogr:Website>
+      <ogr:Descriptio>Graphite and Pastel portraits were a means of support throughout the college years and Eileen still does an occasional commission. Her other realist works feature a variety of materials including acrylic, waterco</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.765180</ogr:Longitude>
+      <ogr:Latitude>45.012910</ogr:Latitude>
+      <ogr:Gadd>1976 Hall Road</ogr:Gadd>
+      <ogr:Gtown>Berwick</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F59">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164962.1394437207,5636101.7992822872</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>162.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Wolfville Community Radio</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Media</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>21 Elm Avenue</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2A1</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>542-5760</ogr:PhoneNum>
+      <ogr:Email>info@wolfvilleradio.ca</ogr:Email>
+      <ogr:Website>http://www.wolfvilleradio.ca</ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.363950</ogr:Longitude>
+      <ogr:Latitude>45.092460</ogr:Latitude>
+      <ogr:Gadd>21 Elm Avenue</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F60">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7172473.6732195206,5656587.9978645733</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>180.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Two Planks &amp; A Passion Theatre</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Theatre</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>555 Ross Creek Road</ogr:StreetAddr>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Ken Schwartz</ogr:Contact>
+      <ogr:ContactTit>Artistic Director</ogr:ContactTit>
+      <ogr:PhoneNum>582-3073</ogr:PhoneNum>
+      <ogr:Email>mail@twoplanks.ca</ogr:Email>
+      <ogr:Website>http://www.twoplanks.ca</ogr:Website>
+      <ogr:Descriptio>committed to creating unforgettable shared experiences through one of the oldest mediums that exists: the theatre.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.428110</ogr:Longitude>
+      <ogr:Latitude>45.158350</ogr:Latitude>
+      <ogr:Gadd>555 Ross Creek Road</ogr:Gadd>
+      <ogr:Gtown>Canning</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F61">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164197.37454197,5635992.9976899661</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>209.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Terry Drahos Studio</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>311 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1C7</ogr:PostalCode>
+      <ogr:Contact>Terry Drahos</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum></ogr:PhoneNum>
+      <ogr:Email>tdrahos@mac.com</ogr:Email>
+      <ogr:Website>http://www.terryhavlisdrahos.com</ogr:Website>
+      <ogr:Descriptio>Originally from Chicago, IL, Terry Havlis Drahos received her Bachelor of Design from Southern Illinois University in 1983. She completed her Bachelor of Education at Acadia and NSCAD Universities (Wolfvill</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.357080</ogr:Longitude>
+      <ogr:Latitude>45.091850</ogr:Latitude>
+      <ogr:Gadd>311 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F62">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7179645.1802793546,5634074.2059019776</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>127.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Lynn Denney Rug Hooking Studio</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Craft (rug hooking)</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>38 River Street</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1G9</ogr:PostalCode>
+      <ogr:Contact>Lynn Denney</ogr:Contact>
+      <ogr:ContactTit>Owner</ogr:ContactTit>
+      <ogr:PhoneNum>365-3220</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website>http://www.nslocal.ca/lynndenney</ogr:Website>
+      <ogr:Descriptio>We offer traditional rug hooking wool, rug hooking kits, patterns, workshops, custom hooked portraits, custom dying, and more.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.495850</ogr:Longitude>
+      <ogr:Latitude>45.079680</ogr:Latitude>
+      <ogr:Gadd>38 River Street</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F63">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7170006.0255715633,5638819.1117921099</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>202.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Starr's Point Studio</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>228 Collins Road</ogr:StreetAddr>
+      <ogr:Town>Port Williams</ogr:Town>
+      <ogr:PostalCode>B0P 1T0</ogr:PostalCode>
+      <ogr:Contact>Marie-Jose Pelletier</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum>542-7611</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>Marie-Jose, an award-winning artist, brings an unusual perspective to the portraits and still life work she creates in paints and pastels.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.409260</ogr:Longitude>
+      <ogr:Latitude>45.109770</ogr:Latitude>
+      <ogr:Gadd>228 Collins Road</ogr:Gadd>
+      <ogr:Gtown>Port Williams</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F64">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7227136.3014415801,5618326.2326010978</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>152.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>The Aurora Newspaper</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Media</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>14 Wing Greenwood</ogr:StreetAddr>
+      <ogr:Town>Greenwood</ogr:Town>
+      <ogr:PostalCode>B0P 1N0</ogr:PostalCode>
+      <ogr:Contact>Stephen Boates</ogr:Contact>
+      <ogr:ContactTit>Managing Editor</ogr:ContactTit>
+      <ogr:PhoneNum>765-1494 ext 5441</ogr:PhoneNum>
+      <ogr:Email>editor@auroranewspaper.com</ogr:Email>
+      <ogr:Website>http://www.auroranewspaper.com</ogr:Website>
+      <ogr:Descriptio>The Aurora Newspaper is published each Monday by 14 Wing under the authority of Colonel J.A. Irvine, M.S.M., CD, Wing Commander.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.922470</ogr:Longitude>
+      <ogr:Latitude>44.979700</ogr:Latitude>
+      <ogr:Gadd>14 Wing Greenwood</ogr:Gadd>
+      <ogr:Gtown>Greenwood</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F65">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7217926.839968252,5626787.4669589056</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>182.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Windsong Studio &amp; Gallery</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1331 Victoria Road</ogr:StreetAddr>
+      <ogr:Town>Aylesford</ogr:Town>
+      <ogr:PostalCode>B0P 1C0</ogr:PostalCode>
+      <ogr:Contact>Twila Robart-Decoste</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum>847-9847</ogr:PhoneNum>
+      <ogr:Email>windsong1331@yahoo.ca</ogr:Email>
+      <ogr:Website>http://www.windsong-nature-gallery.com</ogr:Website>
+      <ogr:Descriptio>Woodlands, gardens, and the Nova Scotia coast are the inspiration of Twila's realistic paintings. She works in watercolour, acrylic, and oil. Visitors are welcome to enjoy our gardens.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.839740</ogr:Longitude>
+      <ogr:Latitude>45.033440</ogr:Latitude>
+      <ogr:Gadd>1331 Victoria Road</ogr:Gadd>
+      <ogr:Gtown>Aylesford</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F66">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7193501.1172983926,5653143.1097911885</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>214.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Captain Hall's Treasure Chest</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art/Craft</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1157 West Hall's Harbour Road</ogr:StreetAddr>
+      <ogr:Town>Hall's Harbour</ogr:Town>
+      <ogr:PostalCode>B0P 1J0</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>678-3855 *May to October</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>Catch one of the six local artists from Paints and Pots Creative Artists, at work in the shop.Opening May 27th to October 9th; daily, open 11am to 6pm. Featuring fine art painting, functional pottery and horsehair</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.620320</ogr:Longitude>
+      <ogr:Latitude>45.200590</ogr:Latitude>
+      <ogr:Gadd>1157 West Hall's Harbour Road</ogr:Gadd>
+      <ogr:Gtown>Hall's Harbour</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F67">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7179529.4080089293,5633648.5638612425</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>138.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Cornwallis Academy of Dance</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Dance</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>354 Main Street</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1K6</ogr:PostalCode>
+      <ogr:Contact>Linda Jess</ogr:Contact>
+      <ogr:ContactTit>Educator</ogr:ContactTit>
+      <ogr:PhoneNum>679-3616</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.494810</ogr:Longitude>
+      <ogr:Latitude>45.076980</ogr:Latitude>
+      <ogr:Gadd>354 Main Street</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F68">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7171212.7288517626,5646314.5026087351</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>190.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Kingsport Studios</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>9844 Main Street</ogr:StreetAddr>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Ron Hayes</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum>692-0909</ogr:PhoneNum>
+      <ogr:Email>info@kingsportstudios.com</ogr:Email>
+      <ogr:Website>http://www.kingsportstudios.com</ogr:Website>
+      <ogr:Descriptio>Nova Scotia artist, Ron Hayes' latest landscape paintings are large, textured canvases of the Annapolis valley where he now lives. With long beaches forever being covered and revealed in an endless tidal cycle h</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.420100</ogr:Longitude>
+      <ogr:Latitude>45.157270</ogr:Latitude>
+      <ogr:Gadd>9844 Main Street</ogr:Gadd>
+      <ogr:Gtown>Canning</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F69">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7167189.6424544938,5627877.5816224059</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>117.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Tracy Horsman Ceramics</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Craft (ceramics)</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>100 Allison Coldwell Road</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode></ogr:PostalCode>
+      <ogr:Contact>Tracy Horsman</ogr:Contact>
+      <ogr:ContactTit>Potter</ogr:ContactTit>
+      <ogr:PhoneNum></ogr:PhoneNum>
+      <ogr:Email>tracyhorsman@gmail.com</ogr:Email>
+      <ogr:Website>http://thceramics.blogspot.com/p/home.html</ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.383960</ogr:Longitude>
+      <ogr:Latitude>45.040360</ogr:Latitude>
+      <ogr:Gadd>100 Allison Coldwell Road</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F70">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7218825.1882589525,5624804.4894214077</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>130.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>de Weever's Wovens</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Craft (Weaving)</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>3486 Nova Scotia 1 Trunk</ogr:StreetAddr>
+      <ogr:Town>Aylesford</ogr:Town>
+      <ogr:PostalCode>B0P 1C0</ogr:PostalCode>
+      <ogr:Contact>Hilda de Weever</ogr:Contact>
+      <ogr:ContactTit>Weaver</ogr:ContactTit>
+      <ogr:PhoneNum>847-9270</ogr:PhoneNum>
+      <ogr:Email>dwvrs@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>http://www.deweeverswovens.com</ogr:Website>
+      <ogr:Descriptio>Beautiful and functional handwoven clothing in an array of colours and styles. Available in wool, cotton and chenille. Custom orders a speciality.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.847810</ogr:Longitude>
+      <ogr:Latitude>45.020850</ogr:Latitude>
+      <ogr:Gadd>3486 Nova Scotia 1 Trunk</ogr:Gadd>
+      <ogr:Gtown>Aylesford</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F71">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7194170.1474380586,5630675.9361127308</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>141.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Valley Drive-In Theatre</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Film</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>5934 Nova Scotia 1 Trunk</ogr:StreetAddr>
+      <ogr:Town>Cambridge</ogr:Town>
+      <ogr:PostalCode></ogr:PostalCode>
+      <ogr:Contact>Kirk Longmire</ogr:Contact>
+      <ogr:ContactTit>Contact person</ogr:ContactTit>
+      <ogr:PhoneNum>538-0772</ogr:PhoneNum>
+      <ogr:Email>valleydrivein@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>http://valleydrivein.com</ogr:Website>
+      <ogr:Descriptio>Originally one of Canada's oldest solo screens, the Valley had gone dark when it's lease was not renewed. In an interesting turn of events, it was the local Lions Club that came to the rescue, and succeeded in obt</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.626330</ogr:Longitude>
+      <ogr:Latitude>45.058120</ogr:Latitude>
+      <ogr:Gadd>5934 Nova Scotia 1 Trunk</ogr:Gadd>
+      <ogr:Gtown>Cambridge</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F72">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164681.6143269213,5635950.4235116597</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>145.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Cinematopia Video</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Film</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>418 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode></ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>697-3456</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website>http://cinematopia.ca</ogr:Website>
+      <ogr:Descriptio>With a deep felt respect for cinematic history, the collection from all the genres, including international offerings, classics, cult favourites,  documentaries, a variety of kids' entertainment, and the best of the newest releases.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.361430</ogr:Longitude>
+      <ogr:Latitude>45.091580</ogr:Latitude>
+      <ogr:Gadd>418 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F73">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7193102.6089252364,5653085.9127944959</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>215.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Chicken Coop NS Folk Art Gallery</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art/Craft</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>4092 Nova Scotia 359</ogr:StreetAddr>
+      <ogr:Town>Hall's Harbour</ogr:Town>
+      <ogr:PostalCode>B0P 1J0</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>679 7073</ogr:PhoneNum>
+      <ogr:Email>copperfoxgallery@hotmail.com</ogr:Email>
+      <ogr:Website>http://www.copperfoxgallery.com</ogr:Website>
+      <ogr:Descriptio>One of the only Folk Art gallery on the Nova Scotia North Shore!! Nova Scotia Folk art is known all over the world..Folk art is also known as the &quot;art from the heart&quot;. Those funky, fun creations are colorful, bright,</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.599350</ogr:Longitude>
+      <ogr:Latitude>45.192500</ogr:Latitude>
+      <ogr:Gadd>4092 Nova Scotia 359</ogr:Gadd>
+      <ogr:Gtown>Hall's Harbour</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F74">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7193124.5641746037,5653056.8964670887</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>194.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Green Shutter Gallery</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>4092 Nova Scotia 359</ogr:StreetAddr>
+      <ogr:Town>Hall's Harbour</ogr:Town>
+      <ogr:PostalCode>B0P 1J0</ogr:PostalCode>
+      <ogr:Contact>David Lacey</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum>679-7073</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>David's style is impressionism and magic realism using various mediums. His work is in galleries throughout Nova Scotia and in collections throughout the world. He is found Co-Chair and member of the AKA</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.599350</ogr:Longitude>
+      <ogr:Latitude>45.192500</ogr:Latitude>
+      <ogr:Gadd>4092 Nova Scotia 359</ogr:Gadd>
+      <ogr:Gtown>Hall's Harbour</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F75">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7193094.3915316267,5653049.9255371233</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>193.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Copper Fox Gallery</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>4092 Nova Scotia 359</ogr:StreetAddr>
+      <ogr:Town>Hall's Harbour</ogr:Town>
+      <ogr:PostalCode>B0P 1J0</ogr:PostalCode>
+      <ogr:Contact>Fabienne Leydecker</ogr:Contact>
+      <ogr:ContactTit>Artist/Owner</ogr:ContactTit>
+      <ogr:PhoneNum>679-7073</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website>http://www.fabienneleydecker.com</ogr:Website>
+      <ogr:Descriptio>Copper Fox Gallery features fine art and quality crafts by many well-known artists. Paintings, pottery, sculptures, folk art, stone carvings, wood carvings, we have a wonderful selection.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.599350</ogr:Longitude>
+      <ogr:Latitude>45.192500</ogr:Latitude>
+      <ogr:Gadd>4092 Nova Scotia 359</ogr:Gadd>
+      <ogr:Gtown>Hall's Harbour</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F76">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7192859.0748583879,5652862.6027695034</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>124.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Creative Diversion</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Craft (pottery)</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>4029 Nova Scotia 359</ogr:StreetAddr>
+      <ogr:Town>Halls Harbour</ogr:Town>
+      <ogr:PostalCode>B0P 1J0</ogr:PostalCode>
+      <ogr:Contact>Terry-Lee Bourgeois-King</ogr:Contact>
+      <ogr:ContactTit>Artisan</ogr:ContactTit>
+      <ogr:PhoneNum>679-0777</ogr:PhoneNum>
+      <ogr:Email>mud@creativediversion.com</ogr:Email>
+      <ogr:Website>http://www.creativediversion.com</ogr:Website>
+      <ogr:Descriptio>Creative Diversion welcomes locals and visitors to take a class to relax. We encourage everyone to stop in on their way to beautiful Hall's Harbour. Creative Diversion is owned and operated by Terry-Lee Bourgeo</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.599350</ogr:Longitude>
+      <ogr:Latitude>45.192500</ogr:Latitude>
+      <ogr:Gadd>4029 Nova Scotia 359</ogr:Gadd>
+      <ogr:Gtown>Halls Harbour</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F77">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164699.4254454486,5635947.2698768275</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>140.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Sister Lotus</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Dance</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>424 Nova Scotia 1 Trunk</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode></ogr:PostalCode>
+      <ogr:Contact>Angie Oriana Jenkins</ogr:Contact>
+      <ogr:ContactTit>Contact</ogr:ContactTit>
+      <ogr:PhoneNum>680-8839</ogr:PhoneNum>
+      <ogr:Email>oriana@sisterlotus.com</ogr:Email>
+      <ogr:Website>http://www.sisterlotus.com</ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.361590</ogr:Longitude>
+      <ogr:Latitude>45.091560</ogr:Latitude>
+      <ogr:Gadd>424 Nova Scotia 1 Trunk</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F78">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7173055.0664243912,5647002.8135582572</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>142.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Creative Action Digital Photo</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Film</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1064 J. Jordan Road</ogr:StreetAddr>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Kimberly Smith</ogr:Contact>
+      <ogr:ContactTit>Filmmaker/producer</ogr:ContactTit>
+      <ogr:PhoneNum>582 3888</ogr:PhoneNum>
+      <ogr:Email>ks@creativeaction.ca</ogr:Email>
+      <ogr:Website>http://www.creativeaction.ca</ogr:Website>
+      <ogr:Descriptio>My mission is to help you communicate with video either by making the video for you or by showing you how to do it yourself. For over a decade I have helped many people - especially those who are normally m</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.436650</ogr:Longitude>
+      <ogr:Latitude>45.161630</ogr:Latitude>
+      <ogr:Gadd>1064 J. Jordan Road</ogr:Gadd>
+      <ogr:Gtown>Canning</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F79">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7227542.617582974,5617563.0020193839</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>137.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Mary's Islanders Dance School</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Dance</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>110 Church Street</ogr:StreetAddr>
+      <ogr:Town>Greenwood</ogr:Town>
+      <ogr:PostalCode>B0P 1R0</ogr:PostalCode>
+      <ogr:Contact>Mary Dunlop</ogr:Contact>
+      <ogr:ContactTit>Instructor</ogr:ContactTit>
+      <ogr:PhoneNum>847-3782</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website>http://rayport.ca/PhotoAlbums/album_1275183106</ogr:Website>
+      <ogr:Descriptio>The school runs from September to May in the Greenwood Mall. Highland, Irish, square, step, clogging, line and hip hop dance styles are taught. Classes available for children, seniors, and partners.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.926120</ogr:Longitude>
+      <ogr:Latitude>44.974850</ogr:Latitude>
+      <ogr:Gadd>110 Church Street</ogr:Gadd>
+      <ogr:Gtown>Greenwood</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F80">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7177025.832660987,5632660.2060298165</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>160.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>KROCK 89.3</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Media</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>8794 Commercial Street</ogr:StreetAddr>
+      <ogr:Town>New Minas</ogr:Town>
+      <ogr:PostalCode>B4N 3C5</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>365 - 8930</ogr:PhoneNum>
+      <ogr:Email>info@893krock.com</ogr:Email>
+      <ogr:Website>http://krock8932009.ncc.ca</ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.472320</ogr:Longitude>
+      <ogr:Latitude>45.070710</ogr:Latitude>
+      <ogr:Gadd>8794 Commercial Street</ogr:Gadd>
+      <ogr:Gtown>New Minas</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F81">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7179236.6377481418,5634619.6876990851</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>156.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Magic 94.9</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Media</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>29 Oakdene Avenue</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1H5</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>678-2111</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website>http://www.magic949.ca</ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.492180</ogr:Longitude>
+      <ogr:Latitude>45.083060</ogr:Latitude>
+      <ogr:Gadd>29 Oakdene Avenue</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F82">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7179236.6377481418,5634594.462378812</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>154.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>AVR 97.7</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Media</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>29 Oakdene Avenue</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1H5</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>678-2111</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website>http://avrnetwork.com</ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.492180</ogr:Longitude>
+      <ogr:Latitude>45.083060</ogr:Latitude>
+      <ogr:Gadd>29 Oakdene Avenue</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F83">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7166161.0503595639,5635029.6090556588</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>208.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Steve Slipp Designs</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>39 Kent Avenue</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1V4</ogr:PostalCode>
+      <ogr:Contact>Steven Slipp</ogr:Contact>
+      <ogr:ContactTit>Graphic Designer</ogr:ContactTit>
+      <ogr:PhoneNum>542-2533</ogr:PhoneNum>
+      <ogr:Email>steven@slippdesign.ca</ogr:Email>
+      <ogr:Website>http://slippdesign.ca</ogr:Website>
+      <ogr:Descriptio>Steven Slipp is a 30 year veteran of the Nova Scotia creative design community. His specializations are visual and brand identity, interpretive media and exhibition design, wayfinding and orientation signage, a</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.374720</ogr:Longitude>
+      <ogr:Latitude>45.085740</ogr:Latitude>
+      <ogr:Gadd>39 Kent Avenue</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F84">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7163125.3678456312,5634884.5578274345</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>169.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Marilyn Manzer Music Studio</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>53 Pleasant Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1M9</ogr:PostalCode>
+      <ogr:Contact>Marilyn Manzer</ogr:Contact>
+      <ogr:ContactTit>Musician/Educator</ogr:ContactTit>
+      <ogr:PhoneNum>542-0558</ogr:PhoneNum>
+      <ogr:Email>manzer@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>http://www3.ns.sympatico.ca/manzer/index.htm</ogr:Website>
+      <ogr:Descriptio>Marilyn has been teaching private music lessons (mostly piano) in her home in Wolfville since 1990. She also teaches voice, recorder, violin, and music theory. She taught Kindermusik to young children and pare</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.347450</ogr:Longitude>
+      <ogr:Latitude>45.084820</ogr:Latitude>
+      <ogr:Gadd>53 Pleasant Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F85">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7169223.4495512871,5634548.7416658718</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>104.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Noggins Farm</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>10009 Nova Scotia 1 Trunk</ogr:StreetAddr>
+      <ogr:Town>Greenwich</ogr:Town>
+      <ogr:PostalCode>B4P 2R2</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>542-5515</ogr:PhoneNum>
+      <ogr:Email>cebishop@nogginsfarm.ca</ogr:Email>
+      <ogr:Website>http://www.nogginsfarm.ca</ogr:Website>
+      <ogr:Descriptio>Noggins Corner Farm combines the latest agricultural technology with the farming instincts of a family who is deeply rooted in the land.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.402230</ogr:Longitude>
+      <ogr:Latitude>45.082690</ogr:Latitude>
+      <ogr:Gadd>10009 Nova Scotia 1 Trunk</ogr:Gadd>
+      <ogr:Gtown>Greenwich</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F86">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164515.7482856391,5635884.1974121192</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>115.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Applewicks</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Craft</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>10 Gaspereau Avenue</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2C2</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>542-9771</ogr:PhoneNum>
+      <ogr:Email>applewicks@larchehomefires.org</ogr:Email>
+      <ogr:Website>http://www.larchehomefires.org/applewicks/index.htm</ogr:Website>
+      <ogr:Descriptio>Since November 1, 1990, L'Arche Homefires has operated Applewicks, a workshop providing meaningful work and opportunities for adults with special needs. The workshop had various locations before movin</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.359940</ogr:Longitude>
+      <ogr:Latitude>45.091160</ogr:Latitude>
+      <ogr:Gadd>10 Gaspereau Avenue</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F87">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164899.7206050772,5635925.194463932</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>149.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>The Box of Delights Bookshop</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Literature</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>466 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1E2</ogr:PostalCode>
+      <ogr:Contact>Mitzi DeWolfe</ogr:Contact>
+      <ogr:ContactTit>Owner</ogr:ContactTit>
+      <ogr:PhoneNum>542-9511</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website>http://www.boxofdelightsbooks.com</ogr:Website>
+      <ogr:Descriptio>As a general bookshop we carry as many different and interesting titles as we can.  We do focus on local history, children's books, and fiction but tend to have a 'little bit of everything'.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.363320</ogr:Longitude>
+      <ogr:Latitude>45.091460</ogr:Latitude>
+      <ogr:Gadd>466 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F88">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7166340.2747397404,5634991.7693796074</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>120.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Nova Gems</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Craft (jewellery)</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>22 Hillcrest Ave</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B0P 1X0</ogr:PostalCode>
+      <ogr:Contact>Ivi Daborn</ogr:Contact>
+      <ogr:ContactTit>Artisan</ogr:ContactTit>
+      <ogr:PhoneNum>542-5373</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>Ivi specializes in one-of-a-kind handcrafted sterling jewellery using stones from Nova Scotia as well as other locations.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.376330</ogr:Longitude>
+      <ogr:Latitude>45.085500</ogr:Latitude>
+      <ogr:Gadd>22 Hillcrest Ave</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F89">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7177661.4669534173,5634491.9852416506</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>198.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>The Poor Man's Carpet</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>126 Eagle Creek Road</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 5J4</ogr:PostalCode>
+      <ogr:Contact>Sheri Wheaton</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum>678-6679</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>Hand-painted, stencilled, custom-designed floorcloths you can walk on, hand on the wall, eat off, or set your drink on. Choose from in-stock or order to suit your decor. Made of 100% cotton, water base paints, an</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.478030</ogr:Longitude>
+      <ogr:Latitude>45.082330</ogr:Latitude>
+      <ogr:Gadd>126 Eagle Creek Road</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F90">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7179676.3497367753,5633687.9743163949</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>176.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Eden's Garden Studios</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Photography</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>401 Main Street</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode></ogr:PostalCode>
+      <ogr:Contact>Natasha Penney</ogr:Contact>
+      <ogr:ContactTit>Photographer</ogr:ContactTit>
+      <ogr:PhoneNum>678-9966</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website>http://www.edensgarden.ca</ogr:Website>
+      <ogr:Descriptio>Fine Art, prenatal, infant, baby, children, high schools seniors, family photography</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.496130</ogr:Longitude>
+      <ogr:Latitude>45.077230</ogr:Latitude>
+      <ogr:Gadd>401 Main Street</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F91">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7179735.3490668964,5633818.8182640085</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>158.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>The Register/Adverstiser</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Media</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>28 Aberdeen Street Suite 6</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 2N1</ogr:PostalCode>
+      <ogr:Contact>Jennifer Vardy Little</ogr:Contact>
+      <ogr:ContactTit>Editor</ogr:ContactTit>
+      <ogr:PhoneNum>681-2121</ogr:PhoneNum>
+      <ogr:Email>events@kentvilleadvertiser.ca</ogr:Email>
+      <ogr:Website>http://www.kingscountynews.ca</ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.496660</ogr:Longitude>
+      <ogr:Latitude>45.078060</ogr:Latitude>
+      <ogr:Gadd>28 Aberdeen Street Suite 6</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F92">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7165787.0168704987,5634493.5618041623</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>211.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>West-Wind Studio</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>16 Grandview Drive</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B0P 1X0</ogr:PostalCode>
+      <ogr:Contact>Jan Gyorfi-West</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum>542-5469</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>Jan was born and educated in England. She has been painting portraits for thirty years and has given numerous exhibitions and workshops in Nova Scotia and Quebec. She does portraits from sittings or photos.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.371360</ogr:Longitude>
+      <ogr:Latitude>45.082340</ogr:Latitude>
+      <ogr:Gadd>16 Grandview Drive</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F93">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7161638.1394486343,5632147.9420052273</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>101.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>L'Acadie Vineyards</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>310 Slayter Road</ogr:StreetAddr>
+      <ogr:Town>Gaspereau</ogr:Town>
+      <ogr:PostalCode>B4P 2R1</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>542-8463</ogr:PhoneNum>
+      <ogr:Email>info@lacadievineyards.ca</ogr:Email>
+      <ogr:Website>http://www.lacadievineyards.ca</ogr:Website>
+      <ogr:Descriptio>L'Acadie Vineyards is the premier producer of Traditional Method Sparkling Nova Scotia wine, an authentic wine style ideally suited for our cool climate terroir. With over 25 years of winemaking experience, we</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.334090</ogr:Longitude>
+      <ogr:Latitude>45.067460</ogr:Latitude>
+      <ogr:Gadd>310 Slayter Road</ogr:Gadd>
+      <ogr:Gtown>Gaspereau</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F94">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7180724.9793400476,5633478.3126762984</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>196.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Mona Kay Studio</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>27 Glenview Avenue</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 2R4</ogr:PostalCode>
+      <ogr:Contact>Mona K. Balcom</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum>678-2672</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>An eclectic approach creates striking use of colour, design and texture. Includes acrylics on fibre-glass, silkscreen prints with pen and ink etching, monoprints with printer's ink. Please phone for appointment.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.505550</ogr:Longitude>
+      <ogr:Latitude>45.075900</ogr:Latitude>
+      <ogr:Gadd>27 Glenview Avenue</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F95">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7161679.247736427,5632726.408429143</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>114.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Gaspereau Valley Fibres</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Craft</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>830 Gaspereau River Road</ogr:StreetAddr>
+      <ogr:Town>Gaspereau</ogr:Town>
+      <ogr:PostalCode>B4P 2N5</ogr:PostalCode>
+      <ogr:Contact>Brenda Gilmour</ogr:Contact>
+      <ogr:ContactTit>Owner/Operator</ogr:ContactTit>
+      <ogr:PhoneNum>542-2656</ogr:PhoneNum>
+      <ogr:Email>brenda@gaspereauvalleyfibres.ca</ogr:Email>
+      <ogr:Website>http://www.gaspereauvalleyfibres.ca</ogr:Website>
+      <ogr:Descriptio>We raise Cotswold sheep and produce yarn, spinning fibres, sheepskins, from our own flock. We also carry a large selection of yarns, equipment for knitters, spinners fibres and weavers.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.334390</ogr:Longitude>
+      <ogr:Latitude>45.071170</ogr:Latitude>
+      <ogr:Gadd>830 Gaspereau River Road</ogr:Gadd>
+      <ogr:Gtown>Gaspereau</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F96">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164522.4274550872,5636092.3382220753</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>207.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Sea Mist Gallery</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>112 Front Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1A4</ogr:PostalCode>
+      <ogr:Contact>Edwin Hollet</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum>542-1094</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>Edwin's paintings show the sea, wildlife, and the small villages, hamlets and towns of the Atlantic. Take a step into the past beauty of the Atlantic. You can purchase prints of the original paintings here, such as</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.360000</ogr:Longitude>
+      <ogr:Latitude>45.092400</ogr:Latitude>
+      <ogr:Gadd>112 Front Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F97">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164522.4274550872,5636067.1087767752</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>150.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>The Odd Book</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Literature</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>112 Front Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1A4</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>542-9491</ogr:PhoneNum>
+      <ogr:Email>info@theoddbook.ca</ogr:Email>
+      <ogr:Website>http://www.theoddbook.ca</ogr:Website>
+      <ogr:Descriptio>Founded in 1977, The Odd Book provides second hand and rare books to satisfy a variety of tastes.  Travellers and Wolfville residents shop here for mysteries, westerns, science fiction and other light reading at a</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.360000</ogr:Longitude>
+      <ogr:Latitude>45.092400</ogr:Latitude>
+      <ogr:Gadd>112 Front Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F98">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7160937.1798683163,5637555.6552207358</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>107.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Muir Murray Estate Winery</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>90 Dyke Road</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R1</ogr:PostalCode>
+      <ogr:Contact></ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>542-0343</ogr:PhoneNum>
+      <ogr:Email>info@muirmurrayestatewinery.com</ogr:Email>
+      <ogr:Website>http://www.muirmurraywinery.com</ogr:Website>
+      <ogr:Descriptio>Nestled in the beautiful Annapolis Valley near the town of Wolfville is Nova Scotia's newest Estate Winery.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.334910</ogr:Longitude>
+      <ogr:Latitude>45.103000</ogr:Latitude>
+      <ogr:Gadd>90 Dyke Road</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F99">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7180604.7542899912,5634649.6428586738</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>121.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>From Rags to Witches Studio</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Craft (leather)</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>272 Randall Road</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 3B5</ogr:PostalCode>
+      <ogr:Contact>Tyra Innis-Harvie</ogr:Contact>
+      <ogr:ContactTit>Artisan</ogr:ContactTit>
+      <ogr:PhoneNum>678-0205</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>With natural materials and discarded objects, Tyra creates a world of fantasy and spiritual being. She loves to work with driftwood, stone, fur, perennials, herbs and permanent garden structures.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.504470</ogr:Longitude>
+      <ogr:Latitude>45.083330</ogr:Latitude>
+      <ogr:Gadd>272 Randall Road</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F100">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7192303.3195774565,5649810.2785172882</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>125.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Hall's Harbour Quilt Studio</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Craft (quilting)</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>641 W. Halls Harbour Road</ogr:StreetAddr>
+      <ogr:Town>Halls Harbour</ogr:Town>
+      <ogr:PostalCode>B0P 1J0</ogr:PostalCode>
+      <ogr:Contact>Janet Gordon</ogr:Contact>
+      <ogr:ContactTit>Owner</ogr:ContactTit>
+      <ogr:PhoneNum>679-2791</ogr:PhoneNum>
+      <ogr:Email>janet@novascotiaquilts.com</ogr:Email>
+      <ogr:Website>http://www.novascotiaquilts.com</ogr:Website>
+      <ogr:Descriptio>Quilt studio in owner's c.1820 home. Award winning traditional designs in all sizes; antique textiles and Nova Scotia folk art. Commissions welcome. I will demonstrate whatever aspect of quiltmaking I am wor</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.609560</ogr:Longitude>
+      <ogr:Latitude>45.179410</ogr:Latitude>
+      <ogr:Gadd>641 W Halls Harbour Road</ogr:Gadd>
+      <ogr:Gtown>Halls Harbour</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F101">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7184379.5982227912,5644046.2908880608</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>191.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>John Neville Gallery</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1143 West Hall's Harbour Road</ogr:StreetAddr>
+      <ogr:Town>Centreville</ogr:Town>
+      <ogr:PostalCode>B0P 1J0</ogr:PostalCode>
+      <ogr:Contact>John Neville</ogr:Contact>
+      <ogr:ContactTit>Artist/Owner</ogr:ContactTit>
+      <ogr:PhoneNum>679-7148</ogr:PhoneNum>
+      <ogr:Email>john@jneville.ca</ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>John Neville's nostalgic portrals of bygone days chronicle the folklore and daily lives of the local fishermen and their women from his childhood village. This popular Canadian artist, who splits his time between</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.538380</ogr:Longitude>
+      <ogr:Latitude>45.142900</ogr:Latitude>
+      <ogr:Gadd>1143 West Hall's Harbour Road</ogr:Gadd>
+      <ogr:Gtown>Centreville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F102">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7157790.937846818,5625862.8631934468</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>133.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Riven Woodwork</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Craft (Woodwork)</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1341 Meadow Road</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B0P 1X0</ogr:PostalCode>
+      <ogr:Contact>Barry Brown</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum>542-3178</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>Barry creates walking sticks, pioneer whisks, coat hooks, spoons, spatulas, and Pennsylvania Dutch hay forks.</ogr:Descriptio>
+      <ogr:Public>no</ogr:Public>
+      <ogr:Longitude>-64.299530</ogr:Longitude>
+      <ogr:Latitude>45.027570</ogr:Latitude>
+      <ogr:Gadd>1341 Meadow Road</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F103">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7176922.3055345491,5632239.3592959642</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>139.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Cadance Academy</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Dance</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1019 Roy Avenue</ogr:StreetAddr>
+      <ogr:Town>New Minas</ogr:Town>
+      <ogr:PostalCode>B4N 3R7</ogr:PostalCode>
+      <ogr:Contact>Gaea Jess</ogr:Contact>
+      <ogr:ContactTit>Manager</ogr:ContactTit>
+      <ogr:PhoneNum>679-3616</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website>http://www.cadanceacademy.ca</ogr:Website>
+      <ogr:Descriptio>Cadance offers many different styles of dance including Ballet, Jazz, Modern, Hip Hop, Zumba, Yoga and so many more. Cadance is dedicated to providing qualified instruction in a non-competitive atmosphere.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.471390</ogr:Longitude>
+      <ogr:Latitude>45.068040</ogr:Latitude>
+      <ogr:Gadd>1019 Roy Avenue</ogr:Gadd>
+      <ogr:Gtown>New Minas</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F104">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7225938.5037206439,5622280.3284642892</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>199.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Larry Lee Art &amp; Design</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1328 Nova Scotia 1 Trunk</ogr:StreetAddr>
+      <ogr:Town>Kingston</ogr:Town>
+      <ogr:PostalCode>B0P 1R0</ogr:PostalCode>
+      <ogr:Contact>Larry Lee</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum>765-2587</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>Self-taught with over 25 years experience, Larry is a muralist who uses a realism style. His work can be seen at the Greenwood Mall, Capitol Lounge and Grill in Middleton, and Roxy Restaurant and Lounge in K</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.911710</ogr:Longitude>
+      <ogr:Latitude>45.004820</ogr:Latitude>
+      <ogr:Gadd>1328 Nova Scotia 1 Trunk</ogr:Gadd>
+      <ogr:Gtown>Kingston</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F105">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7205902.1085727625,5629010.3693335652</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>183.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Celtic Valley Studio</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>148 Maple Avenue</ogr:StreetAddr>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>B0P 1E0</ogr:PostalCode>
+      <ogr:Contact>Sybil Redden</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum>538-7947</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio></ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.731720</ogr:Longitude>
+      <ogr:Latitude>45.047550</ogr:Latitude>
+      <ogr:Gadd>148 Maple Avenue</ogr:Gadd>
+      <ogr:Gtown>Berwick</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F106">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7171237.219139738,5646338.1821564874</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>212.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Ocean Spirit Studio</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art/Craft</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>9840 Main Street</ogr:StreetAddr>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Kathie Beyea</ogr:Contact>
+      <ogr:ContactTit>Owner</ogr:ContactTit>
+      <ogr:PhoneNum>582-3089</ogr:PhoneNum>
+      <ogr:Email>info@oceanspiritstudio.com</ogr:Email>
+      <ogr:Website>http://www.oceanspiritstudio.com</ogr:Website>
+      <ogr:Descriptio>Ocean Spirit Studio strives to promote healthy and balanced lifestyle choices through participation in productive, purposeful and creative activities. Kathie Beyea has conceptualized a welcoming space that is in</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.420320</ogr:Longitude>
+      <ogr:Latitude>45.157340</ogr:Latitude>
+      <ogr:Gadd>9840 Main Street</ogr:Gadd>
+      <ogr:Gtown>Canning</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F107">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7171237.219139738,5646312.9239744358</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>188.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Apple Tree Studio</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>9840 Main Street</ogr:StreetAddr>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Neil Bennett</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum>582-3537</ogr:PhoneNum>
+      <ogr:Email>appletree@ns.sympatico.ca</ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>Trained in graphic design, self-taught pastel artist, custom framer.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.420320</ogr:Longitude>
+      <ogr:Latitude>45.157340</ogr:Latitude>
+      <ogr:Gadd>9840 Main Street</ogr:Gadd>
+      <ogr:Gtown>Canning</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F108">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7187529.9398122411,5623391.9429868115</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>163.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Brigadoon Camp</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1650 N River Rd</ogr:StreetAddr>
+      <ogr:Town>South Alton</ogr:Town>
+      <ogr:PostalCode></ogr:PostalCode>
+      <ogr:Contact>Jen Kelday</ogr:Contact>
+      <ogr:ContactTit>Director of Programs</ogr:ContactTit>
+      <ogr:PhoneNum>681-8100 ext: 224</ogr:PhoneNum>
+      <ogr:Email></ogr:Email>
+      <ogr:Website></ogr:Website>
+      <ogr:Descriptio>Year-round recreation for children and families with chronic illness and conditions. Alternative rental facility for off/low season bookings for school, corporate, or private groups. Programming includes Arts, Ou</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>-64.566680</ogr:Longitude>
+      <ogr:Latitude>45.011880</ogr:Latitude>
+      <ogr:Gadd>1650 N River Rd</ogr:Gadd>
+      <ogr:Gtown>South Alton</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F109">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7169943.2879401185,5642419.345135319</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>999.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Brush of the Wind Gallery</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats></ogr:NumSeats>
+      <ogr:StreetAddr>441 Canard Street</ogr:StreetAddr>
+      <ogr:Town>Port Williams</ogr:Town>
+      <ogr:PostalCode>B0P 1T0</ogr:PostalCode>
+      <ogr:Contact>Rik Berry</ogr:Contact>
+      <ogr:ContactTit>Artist</ogr:ContactTit>
+      <ogr:PhoneNum>902-582-3121</ogr:PhoneNum>
+      <ogr:Email>artist@rikberry.com</ogr:Email>
+      <ogr:Website>http://valleygate.getmyip.com/rikberry</ogr:Website>
+      <ogr:Descriptio>I use acrylic and watercolors to explore new icons and symbols representing our journey with God and God’s way among us.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>0.000000</ogr:Longitude>
+      <ogr:Latitude>0.000000</ogr:Latitude>
+      <ogr:Gadd></ogr:Gadd>
+      <ogr:Gtown></ogr:Gtown>
+      <ogr:Gprov></ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CulturalIndustry4 fid="F110">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164943.9786954354,5635913.3559364798</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>998.000000</ogr:CULTID>
+      <ogr:GISREADY>0.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Wolfville Ghostly Walking Tours</ogr:Organizati>
+      <ogr:Criteria>Cultural Industry</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats></ogr:NumSeats>
+      <ogr:StreetAddr></ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode></ogr:PostalCode>
+      <ogr:Contact>Jeremy Novak</ogr:Contact>
+      <ogr:ContactTit></ogr:ContactTit>
+      <ogr:PhoneNum>(902) 692-8546 (cell)</ogr:PhoneNum>
+      <ogr:Email>jerome@valleyghostwalks.com</ogr:Email>
+      <ogr:Website>http://www.wolfvillewalkingtours.com</ogr:Website>
+      <ogr:Descriptio>A 1.5 hour historical production of Wolfville's intriguing past, starting at 8:30pm at the ClockTower on Main.</ogr:Descriptio>
+      <ogr:Public></ogr:Public>
+      <ogr:Longitude>0.000000</ogr:Longitude>
+      <ogr:Latitude>0.000000</ogr:Latitude>
+      <ogr:Gadd></ogr:Gadd>
+      <ogr:Gtown></ogr:Gtown>
+      <ogr:Gprov></ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalIndustry.png</ogr:F23>
+      <ogr:F24></ogr:F24>
+    </ogr:CulturalIndustry4>
+  </gml:featureMember>
+</ogr:FeatureCollection>

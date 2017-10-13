@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema targetNamespace="http://ogr.maptools.org/" xmlns:ogr="http://ogr.maptools.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:gml="http://www.opengis.net/gml" elementFormDefault="qualified" version="1.0">
+<xs:import namespace="http://www.opengis.net/gml" schemaLocation="http://schemas.opengeospatial.net/gml/2.1.2/feature.xsd"/><xs:element name="FeatureCollection" type="ogr:FeatureCollectionType" substitutionGroup="gml:_FeatureCollection"/>
+<xs:complexType name="FeatureCollectionType">
+  <xs:complexContent>
+    <xs:extension base="gml:AbstractFeatureCollectionType">
+      <xs:attribute name="lockId" type="xs:string" use="optional"/>
+      <xs:attribute name="scope" type="xs:string" use="optional"/>
+    </xs:extension>
+  </xs:complexContent>
+</xs:complexType>
+<xs:element name="CulturalFacility05" type="ogr:CulturalFacility05_Type" substitutionGroup="gml:_Feature"/>
+<xs:complexType name="CulturalFacility05_Type">
+  <xs:complexContent>
+    <xs:extension base="gml:AbstractFeatureType">
+      <xs:sequence>
+<xs:element name="geometryProperty" type="gml:GeometryPropertyType" nillable="true" minOccurs="1" maxOccurs="1"/>
+    <xs:element name="CULTID" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:decimal">
+          <xs:totalDigits value="16"/>
+          <xs:fractionDigits value="6"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+    <xs:element name="GISREADY" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:decimal">
+          <xs:totalDigits value="16"/>
+          <xs:fractionDigits value="6"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+    <xs:element name="Contacted" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:decimal">
+          <xs:totalDigits value="16"/>
+          <xs:fractionDigits value="6"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+    <xs:element name="Organizati" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:maxLength value="254"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+    <xs:element name="Criteria" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:maxLength value="254"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+    <xs:element name="Discipline" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:maxLength value="254"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+    <xs:element name="NumSeats" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:maxLength value="254"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+    <xs:element name="StreetAddr" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:maxLength value="254"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+    <xs:element name="Town" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:maxLength value="254"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+    <xs:element name="PostalCode" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:maxLength value="254"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+    <xs:element name="Contact" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:maxLength value="254"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+    <xs:element name="ContactTit" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:maxLength value="254"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+    <xs:element name="PhoneNum" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:maxLength value="254"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+    <xs:element name="Email" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:maxLength value="254"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+    <xs:element name="Website" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:maxLength value="254"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+    <xs:element name="Descriptio" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:maxLength value="254"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+    <xs:element name="Public" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:maxLength value="254"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+    <xs:element name="Longitude" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:decimal">
+          <xs:totalDigits value="16"/>
+          <xs:fractionDigits value="6"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+    <xs:element name="Latitude" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:decimal">
+          <xs:totalDigits value="16"/>
+          <xs:fractionDigits value="6"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+    <xs:element name="Gadd" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:maxLength value="254"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+    <xs:element name="Gtown" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:maxLength value="254"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+    <xs:element name="Gprov" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:maxLength value="254"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+    <xs:element name="F23" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:maxLength value="254"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+    <xs:element name="F24" nillable="true" minOccurs="0" maxOccurs="1">
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:maxLength value="254"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:element>
+      </xs:sequence>
+    </xs:extension>
+  </xs:complexContent>
+</xs:complexType>
+</xs:schema>

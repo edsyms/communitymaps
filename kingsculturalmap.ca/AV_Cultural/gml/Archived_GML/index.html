@@ -1,0 +1,288 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>OGR2Layers</title>
+<style>
+ #map{width:100%;height:1024px;}
+</style>
+<script src="http://www.openlayers.org/api/OpenLayers.js"></script>
+<script type="text/javascript">
+var map, selectsControls
+function init(){
+	var option = {
+		projection: new OpenLayers.Projection("EPSG:900913"),
+		displayProjection: new OpenLayers.Projection("EPSG:4326")
+	};
+	map = new OpenLayers.Map('map', option);
+	olmapnik = new OpenLayers.Layer.OSM("OpenStreetMap Mapnik", "http://tile.openstreetmap.org/${z}/${x}/${y}.png");
+	map.addLayer(olmapnik);
+	map.setBaseLayer(olmapnik);
+	var ls= new OpenLayers.Control.LayerSwitcher(); 
+	map.addControl(ls); 
+	ls.maximizeControl(); 
+	//START QUERY XYSheet2
+	function onPopupCloseXYSheet2(evt) {
+		selectControl.unselect(selectedFeature);
+	}
+	function onFeatureSelectXYSheet2(feature){
+		selectedFeature = feature;
+		tableXYSheet2="<html><meta http-equiv='Content-Type' content='text/html; charset=UTF-8'><body><table><tr><td><b>CULTID:</b></td><td><i>"+feature.attributes.CULTID+"</i></td></tr><tr><td><b>GISREADY:</b></td><td><i>"+feature.attributes.GISREADY+"</i></td></tr><tr><td><b>Contacted:</b></td><td><i>"+feature.attributes.Contacted+"</i></td></tr><tr><td><b>Organizati:</b></td><td><i>"+feature.attributes.Organizati+"</i></td></tr><tr><td><b>Criteria:</b></td><td><i>"+feature.attributes.Criteria+"</i></td></tr><tr><td><b>Discipline:</b></td><td><i>"+feature.attributes.Discipline+"</i></td></tr><tr><td><b>NumSeats:</b></td><td><i>"+feature.attributes.NumSeats+"</i></td></tr><tr><td><b>StreetAddr:</b></td><td><i>"+feature.attributes.StreetAddr+"</i></td></tr><tr><td><b>Town:</b></td><td><i>"+feature.attributes.Town+"</i></td></tr><tr><td><b>PostalCode:</b></td><td><i>"+feature.attributes.PostalCode+"</i></td></tr><tr><td><b>Contact:</b></td><td><i>"+feature.attributes.Contact+"</i></td></tr><tr><td><b>ContactTit:</b></td><td><i>"+feature.attributes.ContactTit+"</i></td></tr><tr><td><b>PhoneNum:</b></td><td><i>"+feature.attributes.PhoneNum+"</i></td></tr><tr><td><b>Email:</b></td><td><i>"+feature.attributes.Email+"</i></td></tr><tr><td><b>Website:</b></td><td><i>"+feature.attributes.Website+"</i></td></tr><tr><td><b>Descriptio:</b></td><td><i>"+feature.attributes.Descriptio+"</i></td></tr><tr><td><b>Public:</b></td><td><i>"+feature.attributes.Public+"</i></td></tr><tr><td><b>Longitude:</b></td><td><i>"+feature.attributes.Longitude+"</i></td></tr><tr><td><b>Latitude:</b></td><td><i>"+feature.attributes.Latitude+"</i></td></tr><tr><td><b>Gadd:</b></td><td><i>"+feature.attributes.Gadd+"</i></td></tr><tr><td><b>Gtown:</b></td><td><i>"+feature.attributes.Gtown+"</i></td></tr><tr><td><b>Gprov:</b></td><td><i>"+feature.attributes.Gprov+"</i></td></tr><tr><td><b>F23:</b></td><td><i>"+feature.attributes.F23+"</i></td></tr><tr><td><b>F24:</b></td><td><i>"+feature.attributes.F24+"</i></td></tr></table></body></html>"; 
+		popup = new OpenLayers.Popup.FramedCloud("chicken", 
+			feature.geometry.getBounds().getCenterLonLat(),
+			new OpenLayers.Size(1000,500),
+			tableXYSheet2,
+			null,
+			true,
+			onPopupCloseXYSheet2
+		); 
+		feature.popup = popup;
+		map.addPopup(popup);
+	}
+	function onFeatureUnselectXYSheet2(feature) {
+		map.removePopup(feature.popup);
+		feature.popup.destroy();
+		feature.popup = null;
+	}
+	//STOP QUERY XYSheet2
+	var XYSheet2 = new OpenLayers.Layer.GML("XYSheet2 GML", "XYSheet2.GML");
+	map.addLayer(XYSheet2);
+	//START QUERY CulturalFacility3
+	function onPopupCloseCulturalFacility3(evt) {
+		selectControl.unselect(selectedFeature);
+	}
+	function onFeatureSelectCulturalFacility3(feature){
+		selectedFeature = feature;
+		tableCulturalFacility3="<html><meta http-equiv='Content-Type' content='text/html; charset=UTF-8'><body><table><tr><td><b>CULTID:</b></td><td><i>"+feature.attributes.CULTID+"</i></td></tr><tr><td><b>GISREADY:</b></td><td><i>"+feature.attributes.GISREADY+"</i></td></tr><tr><td><b>Contacted:</b></td><td><i>"+feature.attributes.Contacted+"</i></td></tr><tr><td><b>Organizati:</b></td><td><i>"+feature.attributes.Organizati+"</i></td></tr><tr><td><b>Criteria:</b></td><td><i>"+feature.attributes.Criteria+"</i></td></tr><tr><td><b>Discipline:</b></td><td><i>"+feature.attributes.Discipline+"</i></td></tr><tr><td><b>NumSeats:</b></td><td><i>"+feature.attributes.NumSeats+"</i></td></tr><tr><td><b>StreetAddr:</b></td><td><i>"+feature.attributes.StreetAddr+"</i></td></tr><tr><td><b>Town:</b></td><td><i>"+feature.attributes.Town+"</i></td></tr><tr><td><b>PostalCode:</b></td><td><i>"+feature.attributes.PostalCode+"</i></td></tr><tr><td><b>Contact:</b></td><td><i>"+feature.attributes.Contact+"</i></td></tr><tr><td><b>ContactTit:</b></td><td><i>"+feature.attributes.ContactTit+"</i></td></tr><tr><td><b>PhoneNum:</b></td><td><i>"+feature.attributes.PhoneNum+"</i></td></tr><tr><td><b>Email:</b></td><td><i>"+feature.attributes.Email+"</i></td></tr><tr><td><b>Website:</b></td><td><i>"+feature.attributes.Website+"</i></td></tr><tr><td><b>Descriptio:</b></td><td><i>"+feature.attributes.Descriptio+"</i></td></tr><tr><td><b>Public:</b></td><td><i>"+feature.attributes.Public+"</i></td></tr><tr><td><b>Longitude:</b></td><td><i>"+feature.attributes.Longitude+"</i></td></tr><tr><td><b>Latitude:</b></td><td><i>"+feature.attributes.Latitude+"</i></td></tr><tr><td><b>Gadd:</b></td><td><i>"+feature.attributes.Gadd+"</i></td></tr><tr><td><b>Gtown:</b></td><td><i>"+feature.attributes.Gtown+"</i></td></tr><tr><td><b>Gprov:</b></td><td><i>"+feature.attributes.Gprov+"</i></td></tr><tr><td><b>F23:</b></td><td><i>"+feature.attributes.F23+"</i></td></tr><tr><td><b>F24:</b></td><td><i>"+feature.attributes.F24+"</i></td></tr></table></body></html>"; 
+		popup = new OpenLayers.Popup.FramedCloud("chicken", 
+			feature.geometry.getBounds().getCenterLonLat(),
+			new OpenLayers.Size(1000,500),
+			tableCulturalFacility3,
+			null,
+			true,
+			onPopupCloseCulturalFacility3
+		); 
+		feature.popup = popup;
+		map.addPopup(popup);
+	}
+	function onFeatureUnselectCulturalFacility3(feature) {
+		map.removePopup(feature.popup);
+		feature.popup.destroy();
+		feature.popup = null;
+	}
+	//STOP QUERY CulturalFacility3
+	var CulturalFacility3 = new OpenLayers.Layer.GML("CulturalFacility3 GML", "CulturalFacility3.GML");
+	map.addLayer(CulturalFacility3);
+	//START QUERY CulturalHeritage3
+	function onPopupCloseCulturalHeritage3(evt) {
+		selectControl.unselect(selectedFeature);
+	}
+	function onFeatureSelectCulturalHeritage3(feature){
+		selectedFeature = feature;
+		tableCulturalHeritage3="<html><meta http-equiv='Content-Type' content='text/html; charset=UTF-8'><body><table><tr><td><b>CULTID:</b></td><td><i>"+feature.attributes.CULTID+"</i></td></tr><tr><td><b>GISREADY:</b></td><td><i>"+feature.attributes.GISREADY+"</i></td></tr><tr><td><b>Contacted:</b></td><td><i>"+feature.attributes.Contacted+"</i></td></tr><tr><td><b>Organizati:</b></td><td><i>"+feature.attributes.Organizati+"</i></td></tr><tr><td><b>Criteria:</b></td><td><i>"+feature.attributes.Criteria+"</i></td></tr><tr><td><b>Discipline:</b></td><td><i>"+feature.attributes.Discipline+"</i></td></tr><tr><td><b>NumSeats:</b></td><td><i>"+feature.attributes.NumSeats+"</i></td></tr><tr><td><b>StreetAddr:</b></td><td><i>"+feature.attributes.StreetAddr+"</i></td></tr><tr><td><b>Town:</b></td><td><i>"+feature.attributes.Town+"</i></td></tr><tr><td><b>PostalCode:</b></td><td><i>"+feature.attributes.PostalCode+"</i></td></tr><tr><td><b>Contact:</b></td><td><i>"+feature.attributes.Contact+"</i></td></tr><tr><td><b>ContactTit:</b></td><td><i>"+feature.attributes.ContactTit+"</i></td></tr><tr><td><b>PhoneNum:</b></td><td><i>"+feature.attributes.PhoneNum+"</i></td></tr><tr><td><b>Email:</b></td><td><i>"+feature.attributes.Email+"</i></td></tr><tr><td><b>Website:</b></td><td><i>"+feature.attributes.Website+"</i></td></tr><tr><td><b>Descriptio:</b></td><td><i>"+feature.attributes.Descriptio+"</i></td></tr><tr><td><b>Public:</b></td><td><i>"+feature.attributes.Public+"</i></td></tr><tr><td><b>Longitude:</b></td><td><i>"+feature.attributes.Longitude+"</i></td></tr><tr><td><b>Latitude:</b></td><td><i>"+feature.attributes.Latitude+"</i></td></tr><tr><td><b>Gadd:</b></td><td><i>"+feature.attributes.Gadd+"</i></td></tr><tr><td><b>Gtown:</b></td><td><i>"+feature.attributes.Gtown+"</i></td></tr><tr><td><b>Gprov:</b></td><td><i>"+feature.attributes.Gprov+"</i></td></tr><tr><td><b>F23:</b></td><td><i>"+feature.attributes.F23+"</i></td></tr><tr><td><b>F24:</b></td><td><i>"+feature.attributes.F24+"</i></td></tr></table></body></html>"; 
+		popup = new OpenLayers.Popup.FramedCloud("chicken", 
+			feature.geometry.getBounds().getCenterLonLat(),
+			new OpenLayers.Size(1000,500),
+			tableCulturalHeritage3,
+			null,
+			true,
+			onPopupCloseCulturalHeritage3
+		); 
+		feature.popup = popup;
+		map.addPopup(popup);
+	}
+	function onFeatureUnselectCulturalHeritage3(feature) {
+		map.removePopup(feature.popup);
+		feature.popup.destroy();
+		feature.popup = null;
+	}
+	//STOP QUERY CulturalHeritage3
+	var CulturalHeritage3 = new OpenLayers.Layer.GML("CulturalHeritage3 GML", "CulturalHeritage3.GML");
+	map.addLayer(CulturalHeritage3);
+	//START QUERY CulturalIndustry3
+	function onPopupCloseCulturalIndustry3(evt) {
+		selectControl.unselect(selectedFeature);
+	}
+	function onFeatureSelectCulturalIndustry3(feature){
+		selectedFeature = feature;
+		tableCulturalIndustry3="<html><meta http-equiv='Content-Type' content='text/html; charset=UTF-8'><body><table><tr><td><b>CULTID:</b></td><td><i>"+feature.attributes.CULTID+"</i></td></tr><tr><td><b>GISREADY:</b></td><td><i>"+feature.attributes.GISREADY+"</i></td></tr><tr><td><b>Contacted:</b></td><td><i>"+feature.attributes.Contacted+"</i></td></tr><tr><td><b>Organizati:</b></td><td><i>"+feature.attributes.Organizati+"</i></td></tr><tr><td><b>Criteria:</b></td><td><i>"+feature.attributes.Criteria+"</i></td></tr><tr><td><b>Discipline:</b></td><td><i>"+feature.attributes.Discipline+"</i></td></tr><tr><td><b>NumSeats:</b></td><td><i>"+feature.attributes.NumSeats+"</i></td></tr><tr><td><b>StreetAddr:</b></td><td><i>"+feature.attributes.StreetAddr+"</i></td></tr><tr><td><b>Town:</b></td><td><i>"+feature.attributes.Town+"</i></td></tr><tr><td><b>PostalCode:</b></td><td><i>"+feature.attributes.PostalCode+"</i></td></tr><tr><td><b>Contact:</b></td><td><i>"+feature.attributes.Contact+"</i></td></tr><tr><td><b>ContactTit:</b></td><td><i>"+feature.attributes.ContactTit+"</i></td></tr><tr><td><b>PhoneNum:</b></td><td><i>"+feature.attributes.PhoneNum+"</i></td></tr><tr><td><b>Email:</b></td><td><i>"+feature.attributes.Email+"</i></td></tr><tr><td><b>Website:</b></td><td><i>"+feature.attributes.Website+"</i></td></tr><tr><td><b>Descriptio:</b></td><td><i>"+feature.attributes.Descriptio+"</i></td></tr><tr><td><b>Public:</b></td><td><i>"+feature.attributes.Public+"</i></td></tr><tr><td><b>Longitude:</b></td><td><i>"+feature.attributes.Longitude+"</i></td></tr><tr><td><b>Latitude:</b></td><td><i>"+feature.attributes.Latitude+"</i></td></tr><tr><td><b>Gadd:</b></td><td><i>"+feature.attributes.Gadd+"</i></td></tr><tr><td><b>Gtown:</b></td><td><i>"+feature.attributes.Gtown+"</i></td></tr><tr><td><b>Gprov:</b></td><td><i>"+feature.attributes.Gprov+"</i></td></tr><tr><td><b>F23:</b></td><td><i>"+feature.attributes.F23+"</i></td></tr><tr><td><b>F24:</b></td><td><i>"+feature.attributes.F24+"</i></td></tr></table></body></html>"; 
+		popup = new OpenLayers.Popup.FramedCloud("chicken", 
+			feature.geometry.getBounds().getCenterLonLat(),
+			new OpenLayers.Size(1000,500),
+			tableCulturalIndustry3,
+			null,
+			true,
+			onPopupCloseCulturalIndustry3
+		); 
+		feature.popup = popup;
+		map.addPopup(popup);
+	}
+	function onFeatureUnselectCulturalIndustry3(feature) {
+		map.removePopup(feature.popup);
+		feature.popup.destroy();
+		feature.popup = null;
+	}
+	//STOP QUERY CulturalIndustry3
+	var CulturalIndustry3 = new OpenLayers.Layer.GML("CulturalIndustry3 GML", "CulturalIndustry3.GML");
+	map.addLayer(CulturalIndustry3);
+	//START QUERY CulturalOrganizations3
+	function onPopupCloseCulturalOrganizations3(evt) {
+		selectControl.unselect(selectedFeature);
+	}
+	function onFeatureSelectCulturalOrganizations3(feature){
+		selectedFeature = feature;
+		tableCulturalOrganizations3="<html><meta http-equiv='Content-Type' content='text/html; charset=UTF-8'><body><table><tr><td><b>CULTID:</b></td><td><i>"+feature.attributes.CULTID+"</i></td></tr><tr><td><b>GISREADY:</b></td><td><i>"+feature.attributes.GISREADY+"</i></td></tr><tr><td><b>Contacted:</b></td><td><i>"+feature.attributes.Contacted+"</i></td></tr><tr><td><b>Organizati:</b></td><td><i>"+feature.attributes.Organizati+"</i></td></tr><tr><td><b>Criteria:</b></td><td><i>"+feature.attributes.Criteria+"</i></td></tr><tr><td><b>Discipline:</b></td><td><i>"+feature.attributes.Discipline+"</i></td></tr><tr><td><b>NumSeats:</b></td><td><i>"+feature.attributes.NumSeats+"</i></td></tr><tr><td><b>StreetAddr:</b></td><td><i>"+feature.attributes.StreetAddr+"</i></td></tr><tr><td><b>Town:</b></td><td><i>"+feature.attributes.Town+"</i></td></tr><tr><td><b>PostalCode:</b></td><td><i>"+feature.attributes.PostalCode+"</i></td></tr><tr><td><b>Contact:</b></td><td><i>"+feature.attributes.Contact+"</i></td></tr><tr><td><b>ContactTit:</b></td><td><i>"+feature.attributes.ContactTit+"</i></td></tr><tr><td><b>PhoneNum:</b></td><td><i>"+feature.attributes.PhoneNum+"</i></td></tr><tr><td><b>Email:</b></td><td><i>"+feature.attributes.Email+"</i></td></tr><tr><td><b>Website:</b></td><td><i>"+feature.attributes.Website+"</i></td></tr><tr><td><b>Descriptio:</b></td><td><i>"+feature.attributes.Descriptio+"</i></td></tr><tr><td><b>Public:</b></td><td><i>"+feature.attributes.Public+"</i></td></tr><tr><td><b>Longitude:</b></td><td><i>"+feature.attributes.Longitude+"</i></td></tr><tr><td><b>Latitude:</b></td><td><i>"+feature.attributes.Latitude+"</i></td></tr><tr><td><b>Gadd:</b></td><td><i>"+feature.attributes.Gadd+"</i></td></tr><tr><td><b>Gtown:</b></td><td><i>"+feature.attributes.Gtown+"</i></td></tr><tr><td><b>Gprov:</b></td><td><i>"+feature.attributes.Gprov+"</i></td></tr><tr><td><b>F23:</b></td><td><i>"+feature.attributes.F23+"</i></td></tr><tr><td><b>F24:</b></td><td><i>"+feature.attributes.F24+"</i></td></tr></table></body></html>"; 
+		popup = new OpenLayers.Popup.FramedCloud("chicken", 
+			feature.geometry.getBounds().getCenterLonLat(),
+			new OpenLayers.Size(1000,500),
+			tableCulturalOrganizations3,
+			null,
+			true,
+			onPopupCloseCulturalOrganizations3
+		); 
+		feature.popup = popup;
+		map.addPopup(popup);
+	}
+	function onFeatureUnselectCulturalOrganizations3(feature) {
+		map.removePopup(feature.popup);
+		feature.popup.destroy();
+		feature.popup = null;
+	}
+	//STOP QUERY CulturalOrganizations3
+	var CulturalOrganizations3 = new OpenLayers.Layer.GML("CulturalOrganizations3 GML", "CulturalOrganizations3.GML");
+	map.addLayer(CulturalOrganizations3);
+	//START QUERY FestivalsandEvents3
+	function onPopupCloseFestivalsandEvents3(evt) {
+		selectControl.unselect(selectedFeature);
+	}
+	function onFeatureSelectFestivalsandEvents3(feature){
+		selectedFeature = feature;
+		tableFestivalsandEvents3="<html><meta http-equiv='Content-Type' content='text/html; charset=UTF-8'><body><table><tr><td><b>CULTID:</b></td><td><i>"+feature.attributes.CULTID+"</i></td></tr><tr><td><b>GISREADY:</b></td><td><i>"+feature.attributes.GISREADY+"</i></td></tr><tr><td><b>Contacted:</b></td><td><i>"+feature.attributes.Contacted+"</i></td></tr><tr><td><b>Organizati:</b></td><td><i>"+feature.attributes.Organizati+"</i></td></tr><tr><td><b>Criteria:</b></td><td><i>"+feature.attributes.Criteria+"</i></td></tr><tr><td><b>Discipline:</b></td><td><i>"+feature.attributes.Discipline+"</i></td></tr><tr><td><b>NumSeats:</b></td><td><i>"+feature.attributes.NumSeats+"</i></td></tr><tr><td><b>StreetAddr:</b></td><td><i>"+feature.attributes.StreetAddr+"</i></td></tr><tr><td><b>Town:</b></td><td><i>"+feature.attributes.Town+"</i></td></tr><tr><td><b>PostalCode:</b></td><td><i>"+feature.attributes.PostalCode+"</i></td></tr><tr><td><b>Contact:</b></td><td><i>"+feature.attributes.Contact+"</i></td></tr><tr><td><b>ContactTit:</b></td><td><i>"+feature.attributes.ContactTit+"</i></td></tr><tr><td><b>PhoneNum:</b></td><td><i>"+feature.attributes.PhoneNum+"</i></td></tr><tr><td><b>Email:</b></td><td><i>"+feature.attributes.Email+"</i></td></tr><tr><td><b>Website:</b></td><td><i>"+feature.attributes.Website+"</i></td></tr><tr><td><b>Descriptio:</b></td><td><i>"+feature.attributes.Descriptio+"</i></td></tr><tr><td><b>Public:</b></td><td><i>"+feature.attributes.Public+"</i></td></tr><tr><td><b>Longitude:</b></td><td><i>"+feature.attributes.Longitude+"</i></td></tr><tr><td><b>Latitude:</b></td><td><i>"+feature.attributes.Latitude+"</i></td></tr><tr><td><b>Gadd:</b></td><td><i>"+feature.attributes.Gadd+"</i></td></tr><tr><td><b>Gtown:</b></td><td><i>"+feature.attributes.Gtown+"</i></td></tr><tr><td><b>Gprov:</b></td><td><i>"+feature.attributes.Gprov+"</i></td></tr><tr><td><b>F23:</b></td><td><i>"+feature.attributes.F23+"</i></td></tr><tr><td><b>F24:</b></td><td><i>"+feature.attributes.F24+"</i></td></tr></table></body></html>"; 
+		popup = new OpenLayers.Popup.FramedCloud("chicken", 
+			feature.geometry.getBounds().getCenterLonLat(),
+			new OpenLayers.Size(1000,500),
+			tableFestivalsandEvents3,
+			null,
+			true,
+			onPopupCloseFestivalsandEvents3
+		); 
+		feature.popup = popup;
+		map.addPopup(popup);
+	}
+	function onFeatureUnselectFestivalsandEvents3(feature) {
+		map.removePopup(feature.popup);
+		feature.popup.destroy();
+		feature.popup = null;
+	}
+	//STOP QUERY FestivalsandEvents3
+	var FestivalsandEvents3 = new OpenLayers.Layer.GML("FestivalsandEvents3 GML", "FestivalsandEvents3.GML");
+	map.addLayer(FestivalsandEvents3);
+	//START QUERY NaturalHeritage3
+	function onPopupCloseNaturalHeritage3(evt) {
+		selectControl.unselect(selectedFeature);
+	}
+	function onFeatureSelectNaturalHeritage3(feature){
+		selectedFeature = feature;
+		tableNaturalHeritage3="<html><meta http-equiv='Content-Type' content='text/html; charset=UTF-8'><body><table><tr><td><b>CULTID:</b></td><td><i>"+feature.attributes.CULTID+"</i></td></tr><tr><td><b>GISREADY:</b></td><td><i>"+feature.attributes.GISREADY+"</i></td></tr><tr><td><b>Contacted:</b></td><td><i>"+feature.attributes.Contacted+"</i></td></tr><tr><td><b>Organizati:</b></td><td><i>"+feature.attributes.Organizati+"</i></td></tr><tr><td><b>Criteria:</b></td><td><i>"+feature.attributes.Criteria+"</i></td></tr><tr><td><b>Discipline:</b></td><td><i>"+feature.attributes.Discipline+"</i></td></tr><tr><td><b>NumSeats:</b></td><td><i>"+feature.attributes.NumSeats+"</i></td></tr><tr><td><b>StreetAddr:</b></td><td><i>"+feature.attributes.StreetAddr+"</i></td></tr><tr><td><b>Town:</b></td><td><i>"+feature.attributes.Town+"</i></td></tr><tr><td><b>PostalCode:</b></td><td><i>"+feature.attributes.PostalCode+"</i></td></tr><tr><td><b>Contact:</b></td><td><i>"+feature.attributes.Contact+"</i></td></tr><tr><td><b>ContactTit:</b></td><td><i>"+feature.attributes.ContactTit+"</i></td></tr><tr><td><b>PhoneNum:</b></td><td><i>"+feature.attributes.PhoneNum+"</i></td></tr><tr><td><b>Email:</b></td><td><i>"+feature.attributes.Email+"</i></td></tr><tr><td><b>Website:</b></td><td><i>"+feature.attributes.Website+"</i></td></tr><tr><td><b>Descriptio:</b></td><td><i>"+feature.attributes.Descriptio+"</i></td></tr><tr><td><b>Public:</b></td><td><i>"+feature.attributes.Public+"</i></td></tr><tr><td><b>Longitude:</b></td><td><i>"+feature.attributes.Longitude+"</i></td></tr><tr><td><b>Latitude:</b></td><td><i>"+feature.attributes.Latitude+"</i></td></tr><tr><td><b>Gadd:</b></td><td><i>"+feature.attributes.Gadd+"</i></td></tr><tr><td><b>Gtown:</b></td><td><i>"+feature.attributes.Gtown+"</i></td></tr><tr><td><b>Gprov:</b></td><td><i>"+feature.attributes.Gprov+"</i></td></tr><tr><td><b>F23:</b></td><td><i>"+feature.attributes.F23+"</i></td></tr><tr><td><b>F24:</b></td><td><i>"+feature.attributes.F24+"</i></td></tr></table></body></html>"; 
+		popup = new OpenLayers.Popup.FramedCloud("chicken", 
+			feature.geometry.getBounds().getCenterLonLat(),
+			new OpenLayers.Size(1000,500),
+			tableNaturalHeritage3,
+			null,
+			true,
+			onPopupCloseNaturalHeritage3
+		); 
+		feature.popup = popup;
+		map.addPopup(popup);
+	}
+	function onFeatureUnselectNaturalHeritage3(feature) {
+		map.removePopup(feature.popup);
+		feature.popup.destroy();
+		feature.popup = null;
+	}
+	//STOP QUERY NaturalHeritage3
+	var NaturalHeritage3 = new OpenLayers.Layer.GML("NaturalHeritage3 GML", "NaturalHeritage3.GML");
+	map.addLayer(NaturalHeritage3);
+	selectControl = new OpenLayers.Control.SelectFeature(
+		[XYSheet2, CulturalFacility3, CulturalHeritage3, CulturalIndustry3, CulturalOrganizations3, FestivalsandEvents3, NaturalHeritage3, ],
+		{
+			clickout: true, toggle: false, 
+			multiple: false, hover: false, 
+			toggleKey: "ctrlKey", // ctrl key removes from selection
+			multipleKey: "shiftKey" // shift key adds to selection
+		}
+	);
+	map.addControl(selectControl);
+	selectControl.activate();
+	XYSheet2.events.on({
+		"featureselected": function(e) {
+			onFeatureSelectXYSheet2(e.feature);
+		},
+		"featureunselected": function(e) {
+			onFeatureUnselectXYSheet2(e.feature);
+		}
+	});
+	
+	CulturalFacility3.events.on({
+		"featureselected": function(e) {
+			onFeatureSelectCulturalFacility3(e.feature);
+		},
+		"featureunselected": function(e) {
+			onFeatureUnselectCulturalFacility3(e.feature);
+		}
+	});
+	
+	CulturalHeritage3.events.on({
+		"featureselected": function(e) {
+			onFeatureSelectCulturalHeritage3(e.feature);
+		},
+		"featureunselected": function(e) {
+			onFeatureUnselectCulturalHeritage3(e.feature);
+		}
+	});
+	
+	CulturalIndustry3.events.on({
+		"featureselected": function(e) {
+			onFeatureSelectCulturalIndustry3(e.feature);
+		},
+		"featureunselected": function(e) {
+			onFeatureUnselectCulturalIndustry3(e.feature);
+		}
+	});
+	
+	CulturalOrganizations3.events.on({
+		"featureselected": function(e) {
+			onFeatureSelectCulturalOrganizations3(e.feature);
+		},
+		"featureunselected": function(e) {
+			onFeatureUnselectCulturalOrganizations3(e.feature);
+		}
+	});
+	
+	FestivalsandEvents3.events.on({
+		"featureselected": function(e) {
+			onFeatureSelectFestivalsandEvents3(e.feature);
+		},
+		"featureunselected": function(e) {
+			onFeatureUnselectFestivalsandEvents3(e.feature);
+		}
+	});
+	
+	NaturalHeritage3.events.on({
+		"featureselected": function(e) {
+			onFeatureSelectNaturalHeritage3(e.feature);
+		},
+		"featureunselected": function(e) {
+			onFeatureUnselectNaturalHeritage3(e.feature);
+		}
+	});
+	extent = new OpenLayers.Bounds(-64.976035,44.834861,-64.161465,45.317569).transform(new OpenLayers.Projection("EPSG:4326"), new OpenLayers.Projection("EPSG:900913"));
+	map.zoomToExtent(extent);
+	map.maxExtent(extent);
+};
+</script>
+</head>
+<body onload="init()">
+<h1></h1>
+<div id="map"></div>
+</body>
+</html>

@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://ogr.maptools.org/ CulturalOrganizations.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-7228051.826329709</gml:X><gml:Y>5616691.235622331</gml:Y></gml:coord>
+      <gml:coord><gml:X>-7162858.178803829</gml:X><gml:Y>5653156.127630482</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>                    
+  <gml:featureMember>
+    <ogr:Cultural_Organizations fid="F0">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7178187.5628669048,5634918.8180861678</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>214</ogr:Cult_ID>
+      <ogr:Org>Kings County Photo Club</ogr:Org>
+      <ogr:Type>Cultural Organizations</ogr:Type>
+      <ogr:Discipline>Photography</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>236 Belcher Street</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>George Koszucki</ogr:Contact>
+      <ogr:Title>President</ogr:Title>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>koszucki@eastlink.ca</ogr:Email>
+      <ogr:Website>http://kcphotoclub.org</ogr:Website>
+      <ogr:Mandate>Our club is a non-profit organization established in 2005 by a group of local ph</ogr:Mandate>
+    </ogr:Cultural_Organizations>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Organizations fid="F1">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7193501.2508817818,5653156.1276304815</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>215</ogr:Cult_ID>
+      <ogr:Org>Paints and Pots Creative Artists</ogr:Org>
+      <ogr:Type>Cultural Organizations</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1157 West Hall's Harbour Road</ogr:StrAddress>
+      <ogr:Town>Hall's Harbour</ogr:Town>
+      <ogr:PostalCode>B0P 1J0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>678-2895</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://paintsandpots.tripod.com</ogr:Website>
+      <ogr:Mandate>Paints and Pots Creative Artists, six local artists selling their artwork at Cap</ogr:Mandate>
+    </ogr:Cultural_Organizations>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Organizations fid="F2">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7178187.5628669048,5634918.8180861678</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>216</ogr:Cult_ID>
+      <ogr:Org>Grow with Art</ogr:Org>
+      <ogr:Type>Cultural Organizations</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>236 Belcher Street</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 016</ogr:PostalCode>
+      <ogr:Contact>Irene Hazell</ogr:Contact>
+      <ogr:Title>Contact person</ogr:Title>
+      <ogr:PhoneNum>542 0234</ogr:PhoneNum>
+      <ogr:Email>irenehazell@hotmail.com</ogr:Email>
+      <ogr:Website>http://growwithart.comuv.com</ogr:Website>
+      <ogr:Mandate>Grow with Art is an art education and appreciation program for children. The Gro</ogr:Mandate>
+    </ogr:Cultural_Organizations>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Organizations fid="F3">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7180474.3880343232,5636378.5396909341</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>220</ogr:Cult_ID>
+      <ogr:Org>Dukes of Kent</ogr:Org>
+      <ogr:Type>Cultural Organizations</ogr:Type>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>539 Aldershot Road</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 3A5</ogr:PostalCode>
+      <ogr:Contact>Murray Phillips</ogr:Contact>
+      <ogr:Title>Contact Person</ogr:Title>
+      <ogr:PhoneNum>542-1342</ogr:PhoneNum>
+      <ogr:Email>murray@dukesofkent.ca</ogr:Email>
+      <ogr:Website>http://dukesofkent.ca/index.htm</ogr:Website>
+      <ogr:Mandate>We practice weekly and perform regularly for the public and for special occasion</ogr:Mandate>
+    </ogr:Cultural_Organizations>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Organizations fid="F4">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164891.9525047755,5635931.5332555259</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>221</ogr:Cult_ID>
+      <ogr:Org>Deep Roots Music Cooperative</ogr:Org>
+      <ogr:Type>Cultural Organizations</ogr:Type>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>466 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1E2</ogr:PostalCode>
+      <ogr:Contact>Colby Clarke</ogr:Contact>
+      <ogr:Title>Board Chair</ogr:Title>
+      <ogr:PhoneNum>542-7668</ogr:PhoneNum>
+      <ogr:Email>office@deeprootsmusic.ca</ogr:Email>
+      <ogr:Website>http://www.deeprootsmusic.ca</ogr:Website>
+      <ogr:Mandate>Presents regular concerts and educational musical events, nurtures local musicia</ogr:Mandate>
+    </ogr:Cultural_Organizations>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Organizations fid="F5">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7162858.1788038285,5634957.4457776221</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>222</ogr:Cult_ID>
+      <ogr:Org>Wolfville Children?s Chorus</ogr:Org>
+      <ogr:Type>Cultural Organizations</ogr:Type>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>100 Sherwood Drive</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-0649</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Organizations>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Organizations fid="F6">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7165853.8419608204,5635306.931433633</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>229</ogr:Cult_ID>
+      <ogr:Org>Wolfville Community Chorus 
+</ogr:Org>
+      <ogr:Type>Cultural Organizations</ogr:Type>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>30 Wickwire Avenue</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1W3</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-0649</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>This secular chorus has only one agenda--to make singing a joyful experience!</ogr:Mandate>
+    </ogr:Cultural_Organizations>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Organizations fid="F7">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7183191.5632211976,5633188.5620160867</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>230</ogr:Cult_ID>
+      <ogr:Org>The Shiretown Singers</ogr:Org>
+      <ogr:Type>Cultural Organizations</ogr:Type>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>15 Acadia Drive</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 5E1</ogr:PostalCode>
+      <ogr:Contact>Madonna MacDonald</ogr:Contact>
+      <ogr:Title>Contact person</ogr:Title>
+      <ogr:PhoneNum>679-1915</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>A delightful SATB choir accompanied by a musical ensemble who present concerts i</ogr:Mandate>
+    </ogr:Cultural_Organizations>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Organizations fid="F8">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164541.6634630952,5635979.3896992365</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>234</ogr:Cult_ID>
+      <ogr:Org>Fezziwig Society</ogr:Org>
+      <ogr:Type>Cultural Organizations</ogr:Type>
+      <ogr:Discipline>Theatre</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>386 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1C9</ogr:PostalCode>
+      <ogr:Contact>Wendy Elliott</ogr:Contact>
+      <ogr:Title>Director</ogr:Title>
+      <ogr:PhoneNum>542-7203</ogr:PhoneNum>
+      <ogr:Email>welliott@bellaliant.net</ogr:Email>
+      <ogr:Website>http://fezziwig.daysend.ca</ogr:Website>
+      <ogr:Mandate>The Fezziwig Society in an community theatre group in Wolfville, Nova Scotia tha</ogr:Mandate>
+    </ogr:Cultural_Organizations>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Organizations fid="F9">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164877.3919153782,5635276.4380099829</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>243</ogr:Cult_ID>
+      <ogr:Org>Fundy Film Society</ogr:Org>
+      <ogr:Type>Cultural Organizations</ogr:Type>
+      <ogr:Discipline>Film</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>7 Wallace Place</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1L5</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-5157</ogr:PhoneNum>
+      <ogr:Email>info@fundyfilm.ca</ogr:Email>
+      <ogr:Website>http://www.fundyfilm.ca</ogr:Website>
+      <ogr:Mandate>The Fundy Film Society is a registered (2001), nonprofit society and member (200</ogr:Mandate>
+    </ogr:Cultural_Organizations>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Organizations fid="F10">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164830.2258471297,5635937.8089789553</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>244</ogr:Cult_ID>
+      <ogr:Org>Acadia Cinema Coop</ogr:Org>
+      <ogr:Type>Cultural Organizations</ogr:Type>
+      <ogr:Discipline>Film</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>450 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-3344</ogr:PhoneNum>
+      <ogr:Email>manager@alwhittletheatre.ca</ogr:Email>
+      <ogr:Website>http://www.acadiacinema.coop</ogr:Website>
+      <ogr:Mandate>The Acadia Cinema Cooperative Ltd. (ACC) is a unique nonprofit community arts co</ogr:Mandate>
+    </ogr:Cultural_Organizations>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Organizations fid="F11">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7179660.6536885733,5633854.5405684104</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>247</ogr:Cult_ID>
+      <ogr:Org>Valley African Nova Scotian Development Agency</ogr:Org>
+      <ogr:Type>Cultural Organizations</ogr:Type>
+      <ogr:Discipline>Culture</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>55 Webster Street</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1H6</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>678-7410</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://www.vansda.ca</ogr:Website>
+      <ogr:Mandate>VANSDA'S mission is to improve the quality of life for African Nova Scotians in</ogr:Mandate>
+    </ogr:Cultural_Organizations>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Organizations fid="F12">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7171456.340425414,5646406.5532538528</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>251</ogr:Cult_ID>
+      <ogr:Org>Fieldwood Heritage Society</ogr:Org>
+      <ogr:Type>Cultural Organizations</ogr:Type>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>9809 Main</ogr:StrAddress>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Roleen Olgivie</ogr:Contact>
+      <ogr:Title>Contact Person</ogr:Title>
+      <ogr:PhoneNum>582-1506</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://fieldwoodhs.ednet.ns.ca/cfhsabout.html</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Organizations>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Organizations fid="F13">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7183239.6643731697,5642520.376077163</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>252</ogr:Cult_ID>
+      <ogr:Org>Hall's Harbour Historical Society</ogr:Org>
+      <ogr:Type>Cultural Organizations</ogr:Type>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>3586 Nova Scotia 359</ogr:StrAddress>
+      <ogr:Town>Centreville</ogr:Town>
+      <ogr:PostalCode>B0P 1J0</ogr:PostalCode>
+      <ogr:Contact>Joey St. Clair Patterson</ogr:Contact>
+      <ogr:Title>Past President</ogr:Title>
+      <ogr:PhoneNum>684-3498</ogr:PhoneNum>
+      <ogr:Email>j-p.harvie@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>http://nsgna.ednet.ns.ca/hantsport</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Organizations>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Organizations fid="F14">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7182703.5274416115,5641391.8677180652</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>254</ogr:Cult_ID>
+      <ogr:Org>Charles MacDonald Concrete House Society</ogr:Org>
+      <ogr:Type>Cultural Organizations</ogr:Type>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>19 Saxon Street</ogr:StrAddress>
+      <ogr:Town>Centreville</ogr:Town>
+      <ogr:PostalCode>B0P 1J0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>678-3177</ogr:PhoneNum>
+      <ogr:Email>info@concretehouse.ca</ogr:Email>
+      <ogr:Website>http://www.concretehouse.ca</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Organizations>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Organizations fid="F15">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7191328.4057409856,5635579.6266968492</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>255</ogr:Cult_ID>
+      <ogr:Org>Burial Ground Care Society</ogr:Org>
+      <ogr:Type>Cultural Organizations</ogr:Type>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>659 North Bishop Road</ogr:StrAddress>
+      <ogr:Town>Brooklyn Corner</ogr:Town>
+      <ogr:PostalCode>B0P 1G0</ogr:PostalCode>
+      <ogr:Contact>Lana Ashby</ogr:Contact>
+      <ogr:Title>Secretary</ogr:Title>
+      <ogr:PhoneNum>679-5807</ogr:PhoneNum>
+      <ogr:Email>lana.ashby@acadiau.ca</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Organizations>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Organizations fid="F16">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7179453.3434008677,5633810.4473473169</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>257</ogr:Cult_ID>
+      <ogr:Org>The Kings Historical Society</ogr:Org>
+      <ogr:Type>Cultural Organizations</ogr:Type>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>37 Cornwallis Street</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 2E2</ogr:PostalCode>
+      <ogr:Contact>Bria Stokesbury</ogr:Contact>
+      <ogr:Title>Curator</ogr:Title>
+      <ogr:PhoneNum>678-6237</ogr:PhoneNum>
+      <ogr:Email>museum@okcm.ca</ogr:Email>
+      <ogr:Website>http://www.okcm.ca/okcmkhs.html</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Organizations>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Organizations fid="F17">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164003.0218429947,5636020.5921722949</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>258</ogr:Cult_ID>
+      <ogr:Org>Wolfville Historical Society</ogr:Org>
+      <ogr:Type>Cultural Organizations</ogr:Type>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>259 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1C6</ogr:PostalCode>
+      <ogr:Contact>Bonnie Elliott or John Whidden</ogr:Contact>
+      <ogr:Title>Contacts</ogr:Title>
+      <ogr:PhoneNum>542-9775</ogr:PhoneNum>
+      <ogr:Email>randallhouse@ns.aliantzinc.ca</ogr:Email>
+      <ogr:Website>http://wolfvillehs.ednet.ns.ca</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Organizations>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Organizations fid="F18">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7228051.826329709,5616691.2356223306</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>262</ogr:Cult_ID>
+      <ogr:Org>Royal Canadian Airforce Association 107</ogr:Org>
+      <ogr:Type>Cultural Organizations</ogr:Type>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>904 Central Avenue</ogr:StrAddress>
+      <ogr:Town>Greenwood</ogr:Town>
+      <ogr:PostalCode>B0P 1R0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>765-8415</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Organizations>
+  </gml:featureMember>
+</ogr:FeatureCollection>

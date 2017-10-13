@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+
+
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+<html lang="en" class="no-js">
+	
+	
+<!-- Mirrored from cogsmapping.t15.org/tippy/index03f.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 May 2016 18:04:30 GMT -->
+<head>
+	
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Waste Diversion</title>
+
+		<meta name="description" content="A free HTML5/CSS3 template made exclusively for Codrops by Peter Finlan" />
+		<meta name="keywords" content="html5 template, css3, one page, animations, agency, portfolio, web design" />
+		<meta name="author" content="Peter Finlan" />
+<!--
+A new tab title
+A short video
+a new header title
+New main photo
+3 key concepts
+embedded map with at least 10 points
+three key stories 
+-->
+		
+<style>
+#map { height: 700px; }
+
+section, footer {
+    background-color: rgba(245, 237, 219, .5);
+} 
+
+
+</style>
+
+	<!-- Bootstrap -->
+		<script src="js/modernizr.custom.js"></script>
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="css/jquery.fancybox.css" rel="stylesheet">
+		<link href="css/flickity.css" rel="stylesheet" >
+		<link href="css/animate.css" rel="stylesheet">
+		<link href="../../maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+		<link href='http://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
+		<link href="css/styles.css" rel="stylesheet">
+		<link href="css/queries.css" rel="stylesheet">
+		
+		<link rel="stylesheet" href="../../cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
+			<link rel="stylesheet" href="../../libs.cartocdn.com/cartodb.js/v3/3.15/themes/css/cartodb.css" />
+			<link rel="stylesheet" href="css/leaflet.label.css" />
+			<link rel="stylesheet" href="http://redirect.main-hosting.com/error404.php/5?domain=cogsmapping.t15.org" />
+		
+
+	
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+<!--  Link & Call fancy - http://www.granneman.com/webdev/coding/css/fancybox-a-better-lightbox/#link-to-fancybox -->
+		
+		<script src="../../ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/jquery.fancybox.pack.js"></script>
+
+<script type="text/javascript">
+		$(document).ready(function() {
+			$('.fancybox').fancybox();
+ 		});
+</script>
+		
+		
+</head>
+<body>
+
+		<!--[if lt IE 7]>
+		<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+		<![endif]-->
+		<!-- open/close -->
+		
+<header>
+			<section class="hero">
+				<div class="texture-overlay"></div>
+				<div class="container">
+					<div class="row nav-wrapper">
+						<div class="col-md-12 col-sm-12 col-xs-12 text-right navicon">
+							<p>MENU</p><a id="trigger-overlay" class="nav_slide_button nav-toggle" href="#"><span></span></a>
+						</div>
+						<div class="col-md-12 text-left">
+							<h1 class="animated fadeInDown">WASTE DIVERSION</h1>
+						</div>
+						<div class="row hero-content">
+						<div class="col-md-12 col-sm-6 col-xs-6 text-right">
+							<a href="#" style="background-color: rgba(87,70,56, 0.30); padding: 5px 64px 5px 982px; margin: 0px 15px 0 0px"><img src="img/cogslogobrown.png" width="8%" alt="Boxify Logo"></a>
+						</div>	
+					</div>
+					</div>
+					
+				</div>
+			</section>
+		</header>
+		<section class="video" id="about">
+			<div class="container">
+				<div class="row">
+				
+				<!--div id="map" style="width: 600px; height: 400px"></div-->
+				<!-- <div id="map"></div> -->
+    <script src="https://maps.googleapis.com/maps/api/js?v=3&amp;sensor=false"></script>
+	<script src="../../cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
+	<script src="../../libs.cartocdn.com/cartodb.js/v3/3.15/cartodb.js"></script>
+	<script src="js/L.CartoDB.js"></script>
+	<script src="js/leaflet.label.js"></script>
+	<script src="js/leaflet-search.js"></script>
+				
+					<div class="col-md-12 text-center">
+				
+					<h1><a href="https://www.youtube.com/watch?v=Kr_DGf77OhM" class="youtube-media"><i class="fa fa-play-circle-o"></i> A short video on Reusing, Recycling and Redefining Waste</a></h1>
+		
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="features-intro">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-6 nopadding features-intro-img">
+						<div id="map"></div>
+						<!-- <div class="features-bg">
+							<div class="texture-overlay"></div>
+						</div> -->
+					</div>
+					<div class="col-md-6 nopadding">
+						<div class="features-slider">
+								<ul class="slides" id="featuresSlider">
+									<li>
+										<h1>Source Reduction: Newton, MA, USA</h1>
+<!-- 										<img src="img/bananafuel.jpg" align="right" style="width:200px;height:250px;"> -->
+										<p>The training manual focuses on Source Reduction of waste, or what they describe as “pre-cycling”. The idea is to prevent or reduce waste before it is even generated, to minimize the need for disposal and to focus on environmentally friendly products. The city’s project focuses on reducing paper, junk mail and duplicate publications; purchasing more environmentally friendly products; increasing recycling opportunities; and creating safer and healthier public buildings and workplaces.
+
+										This may be accomplished through using fewer materials from the outset, or by maximizing the use of a given material before throwing it away by maintenance and repair measures. Source reduction can increase efficiency, produce cost savings, promote environmental sustainability, and produce recycled product markets. 
+</p>
+										<p><div id="map-navigation1" class="map-navigation"><a href="#" data-zoom="14" data-position="42.33785, -71.20608">Click to view on the map <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Ban on Commercial Food Waste: France</h1>
+										<p>France passed legislation that has banned supermarkets from disposing of unsold food that is still deemed edible. The food must be donated to charities or for use in animal feed or farm compost operations. Contracts between supermarkets and charities must be signed to maintain donations. 
+
+										It is estimated that 20 to 30 kilos of food are thrown away per person annually, causing significant economic and environment impacts. With the new legislation in place the government aims to cut food waste in half by 2025; however, some feel the new law should extend beyond large supermarkets which represent only a 5 percent portion of total food waste according to the head of the French federation for commerce and distribution. 
+</p>
+										<p><div id="map-navigation2" class="map-navigation"><a href="#" data-zoom="7" data-position="47.32095, 2.39502">Click to view on the map <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Organic Biofuel Facility: Surrey, BC</h1>
+										<p>Projected to start services in 2017, the Organic BioFuel Facility will take Surrey’s organic waste (primarily residential) and convert it into 100% renewable natural gas. The natural gas product will be used not only to fuel the trucks operating to retrieve the city’s waste, but it also provide energy to heat and cool the city centre. 
+
+										The facility is being jointly funded through a public-private partnership between the city of Surrey and Orgaworld Canada. Additional components of the project include the construction of educational centre and an interpretive garden on site to promote learning about organic waste management. 
+</p>
+										<p><div id="map-navigation3" class="map-navigation"><a href="#" data-zoom="12" data-position="49.17973, -122.68785">Click to view on the map <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Construction and Demolition Green Points Program, Boulder, CO</h1>
+										<p>Much of the material waste created in the process of construction and demolition can be recycled. Disposed, these materials make up 36% of Boulder County’s “waste” annually.  The city of Boulder Colorado has implemented a Green Building and Green Points program to mitigate this trend. The program sets out minimum recycling standards and additional green building measures necessary to achieve a permit for the majority of construction and demolition projects. 
+
+										Some overarching requirements include 50% of construction scraps must be recycled for construction permits and deconstruction permits must recycle 65% of materials by weight. For all construction, additions and remodeling on residences greater than 500 square feet, applicants must earn specified “Green Points” determined by square footage, by selecting from a list of green building measures.  
+</p>
+										<p><div id="map-navigation4" class="map-navigation"><a href="#" data-zoom="14" data-position="40.01467, -105.2813">Click to view on the map <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Environmentally Preferable Purchasing, Winter Park, FL</h1>
+										<p>Environmentally Preferable Purchasing is a policy adopted by the city’s Purchasing Division to promote the use of products, materials, and services that reduce environmental impacts and waste. In particular, Winter Park has focused on the use of 100% recycled paper, the elimination of styrofoam products, bottled water, and a requirement that all employees use reusable cups, bottles, and mugs in the workplace.
+										The program uses the Environmental Protection Agency’s guiding principles of Environmental Preferable Purchasing: <br>
+										1.	Include environmental considerations as part of the normal purchasing process;
+										2.	Emphasize pollution prevention as part of the purchasing process;
+										3.	Examine multiple environmental attributes throughout the product and service’s life cycle;
+										4.	Compare environmental impacts when selecting products and services;
+										5.	Collect accurate and meaningful environmental information about environmental performance of products and services.
+ 
+ </p>
+										<p><div id="map-navigation5" class="map-navigation"><a href="#" data-zoom="14" data-position="28.58862, -81.35239">Click to view on the map <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Pay As You Throw (PAYT): Malden, MA</h1>
+										<p>Pay As You Throw guidelines exist for municipalities across Massachusetts. In the case of Malden residents pay $2 for each 33 gallon bag and $1 for each 15 gallon bag. Estimates suggest that the average household spends less than $200 per year for PAYT garbage. There are no limits to garbage purchased each week, but the cost provides incentive to put more effort into recycling which is free. 
+
+										Within the first year of implementation in October 2008-September 2009 the city saw a 98% compliance rate, recycling increased by 74% and solid waste tonnage was reduced by 49%. The city saved almost $2.5 million dollars from solid waste disposal savings and revenue from the sale of PAYT bags. 
+</p>
+										<p><div id="map-navigation6" class="map-navigation"><a href="#" data-zoom="14" data-position="42.42668, -71.07176">Click to view on the map <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Energy From Waste, Amsterdam, NE</h1>
+										<p>Two waste to energy plants located in Amsterdam provide the city with enough electricity to power the city hall, trams, underground trains, street lights and 25% of the electricity used in 50,000 homes. On top of that, they also provide heat and hot water for 12,000 houses from the heat produced during the incineration process. 
+
+										Together the facilities have the energy potential to provide electricity for 75% of all houses in Amsterdam. The original plant has a capacity to handle 850000 tonnes of waste annually with a 24% electricity yield, while the later plant receives 530000 tonnes with a 30% yield. The reduction in the need to burn natural gas has helped Amsterdam to reach its target to reduce CO2 emmissions by 40%.  
+</p>
+										<p><div id="map-navigation7" class="map-navigation"><a href="#" data-zoom="10" data-position="52.2574, 4.80103">Click to view on the map <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Solid Waste-Management Strategy, Nova Scotia, CA</h1>
+										<p>The province has been a leader in waste-resource management since 1996, committing to 50% waste diversion by the year 2000. The strategy focuses on shifting the way waste is viewed, converting it to a resource that not only promotes environmental sustainability, but creates jobs. Implementation involved consistent and enforced regulations, public education and awareness, the promotion of a sense of stewardship and responsibility and regional cooperation to achieve the overall goals of the program. 
+
+										This has been achieved through source reduction, material reuse, recycling, composting, and business development. These initiatives have included bans on the disposal of specified materials, expansion of deposit/refund systems, curbside compost and recycling programs, landfill reduction, and overall municipal cooperation. 
+</p>
+										<p><div id="map-navigation8" class="map-navigation"><a href="#" data-zoom="7" data-position="44.87066, -63.89099">Click to view on the map<i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>E.ON Complex of Energy Plants, Norrkoping, SE</h1>
+										<p>A complex of industrial facilities in Sweden that use one another’s byproducts or “waste” in a synergistic relationship to produce useful once again useful products. Rather than focusing on self-sufficiency, the industries developed a symbiotic relationship the runs full circle to benefit each operation, and diverts waste.
+
+										The central complex receives municipal household waste and biogas, along with biofuel and commercial waste from a facility dealing with sludge (Econova). In return it provides vehicle gas and district heating to the municipality, ash to Econova, and powers an agricultural facility with steam produced in the process. The agricultural facility takes in manure and wheat products, feeds those products into a biogas facility which eventually sells vehicle gas back to the municipality. 
+</p>
+										<p><div id="map-navigation9" class="map-navigation"><a href="#" data-zoom="10" data-position="58.55335, 16.18286">Click to view on the map <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Salmon Arm Landfill Waste to Energy Facility, Columbia Shuswap Regional District, AB</h1>
+										<p>Upgrades to the Salmon Arm Landfill involved capturing natural gas and using it to heat local residential homes, and trapping leachate runoff in a poplar tree plantation used to avoid releasing environmental contaminants into the surrounding area. The plantation also serves to remove additional greenhouse gases from the air. 
+
+										By the year 2011 the project has elimiated 260 tonnes of methane, treated over one million litres of leachate with an average tree growth of 1.35 metres. 
+</p>
+										<p><div id="map-navigation10" class="map-navigation"><a href="#" data-zoom="12" data-position="50.69868, -119.23754">Click to view on the map<i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+								</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="features-list" id="features">
+			<div class="container">
+				<div class="row">
+				
+				<h1> Key Concepts</h1>
+					<div class="col-md-12">
+
+						<div class="col-md-4 feature-1 wp2">
+							<div class="feature-icon">
+								<i class="fa fa-lightbulb-o"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Minimizing Waste at the Source</h1>
+								<p>Source reduction or "waste prevention" is the first step towards greater waste diversion. A major problem faced by municipalities today is where and how to dispose of the mass quantities of waste produced by residents and businesses alike. The idea behind minimizing waste at the source is to reduce waste before generating it in the first place, thereby reducing the need to “deal” with the problem of disposal. <br>
+
+								This umbrella concept encompasses aspects from other key waste diversion tactics, but rather than dealing with waste after the fact, it promotes prevention from the outset. Source reduction can be facilitated by governments, businesses and individuals at all levels. Governments can set policies regarding allowable quantities of waste and the standard quality of products made; businesses may choose to reduce packaging or reuse more materials; and individuals can make smart purchasing and consumption choices. Some examples of source reduction techniques include Environmentally Preferable Purchasing, and consumer education, and business consultation.  
+ 
+ 
+</p>
+								<a href="http://www3.epa.gov/epawaste/nonhaz/municipal/pubs/envfact.pdf" class="read-more-btn">Explore this concept <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+						<div class="col-md-4 feature-2 wp2 delay-05s">
+							<div class="feature-icon">
+								<i class="fa fa-usd"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Waste Policy and Reduction Incentives</h1>
+								<p>In an effort to reduce waste, municipalities may put policies and incentives in place that either promote active waste diversion, or deter initial waste production. Municipal policies may include bans, permits, technology and performance standards, and labelling requirements. <br>
+								Many communities’ waste management strategies ban particular products such as organics, plastics and paper from landfills. Another method, called Pay as you Throw (PAYT), involves charging per garbage bag while providing free services for recyclables. Incentive programs exist where individuals, businesses and/or contract agencies are encouraged to offset their waste activities through means of a credit system. For example, construction and demolition companies may gain access permits via credits based on the use of a percentage of recycled materials, or demonstrated green building design. <br>
+								Furthermore, permits can also help to regulate the criteria surrounding the treatment of hazardous waste. Labelling requirements ensure proper disposal methods of various products and materials. Finally, quality and performance standards can dictate the quality of technology, and maximum levels of waste production (such as greenhouse gas emissions).
+ 
+</p>
+								<a href="https://www.novascotia.ca/nse/waste/docs/solid-waste-public-discussion.pdf" class="read-more-btn">Explore this concept  <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+						<div class="col-md-4 feature-3 wp2 delay-1s">
+							<div class="feature-icon">
+								<i class="fa fa-recycle"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Waste as a Resource</h1>
+								<p>Beyond reduction, policy and incentives, one method of waste diversion is redefining waste itself. Much of what is considered disposable garbage can serve a greater purpose than simply winding up in a dump. Several approaches geared toward redefining waste have discovered much of what is thrown away can, in one way or another, be resourceful once again providing great economic and environmental benefits. On a small scale, this can include initiatives and programs that recycle/upcycle clothes, or furniture, or repurposing used cooking oil to make new products. On a larger scale, waste can be a major source of energy. <br>
+								Waste to energy facilities take garbage, or byproducts from other activities such as household garbage, organics, and sludge and convert them into fuel, heat, and electricity. The processes can involve incineration producing steam, capturing natural gas, and the conversion of waste to ethanol and biogas, along with many other innovative approaches. Some methods, such as incineration, remain controversial due to their contribution to air pollution emissions; however the benefits range from waste facilities fueling their own collection fleets, to providing power to vast numbers of municipal homes, businesses, and transportation mechanisms. 
+</p>
+								<a href="http://www.alternative-energy-news.info/technology/garbage-energy/" class="read-more-btn">Explore this concept  <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+						<!-- <div class="col-md-3 feature-4 wp2 delay-1s">
+							<div class="feature-icon">
+								<i class="fa fa-cogs"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Waste-to-Energy</h1>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. . </p>
+								<a href="http://cogsmapping.t15.org/JT3/postconfed.html" class="read-more-btn">Explore this concept  <i class="fa fa-chevron-circle-right"></i></a>
+							</div> -->
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="screenshots-intro">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<h1>More on Waste Diversion</h1>
+						<p>Click on the linked images below to learn more about waste diversion initiatives and programs! </p>
+
+
+						
+						<!-- <p><a href="#screenshots" class="arrow-btn">Click on the images below to learn more! <i class="fa fa-long-arrow-right"></i></a></p> -->
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="screenshots" id="screenshots">
+			<div class="container-fluid">
+				<div class="row">
+					<ul class="grid">
+						<li>
+							<figure>
+								<img src="img/garbagebag.jpg" alt="Compost">
+								<figcaption>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://www.conferenceboard.ca/hcp/details/environment/municipal-waste-generation.aspx">
+								<!--a href="http://www.novascotia.ca/nse/waste/strategysummary.asp" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Canada's Municipal Waste Report Card</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/cans.jpg" alt="Clothes">
+								<figcaption>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://www.fcm.ca/Documents/tools/GMF/Getting_to_50_percent_en.pdf">
+								<!--a href="http://www.patagonia.com/us/reuse-recycle" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Waste Diversion Success Stories</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/foodwaste.jpg" alt="Veggies">
+								<figcaption>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://www.secondharvest.ca/about?gclid=Cj0KEQiAv5-zBRCAzfWGu-2jo70BEiQAj_F8oB9hgmSNKMmBTgPSIzfXshA5jRApe4cXiSX8-VV4tXMaAruT8P8HAQ">
+								<!--a href="https://www.shfb.org/farmtofamily" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Second Harvest Food Rescue</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/garbageincan.jpg" alt="Hochst WTE Plant">
+								<figcaption>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://www.whatiswaste.com/">
+								<!--a href="http://www.industriepark-hoechst.com/en/index/industriepark/investitionsprojekte/energiesicherheit/gasturbinenanlage.htm" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>What is Waste?</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+				<div class="row">
+					<ul class="grid">
+						<li>
+							<figure>
+								<img src="img/un.jpg" alt="Recycling Green Points Program">
+								<figcaption>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://www.unep.or.jp/ietc/Publications/spc/IWM_scoreboard-binder.pdf">
+								<!--a href="http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>UN Waste Scoreboard</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/clothes.jpg" alt="Screenshot 01">
+								<figcaption>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://www.patagonia.com/us/reuse-recycle">
+								<!--a href="http://www.novascotia.ca/nse/waste/strategysummary.asp" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Common Thread Garment Recycling</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/recyclesign.jpg" alt="Screenshot 01">
+								<figcaption>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://www.norcalcompactors.net/11-common-waste-reduction-tips/">
+								<!--a href="http://www.novascotia.ca/nse/waste/strategysummary.asp" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Waste Reduction Tips</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/wastemanagement.jpg" alt="Screenshot 01">
+								<figcaption>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://www.thisisrubbish.org.uk/">
+								<!--a href="http://www.novascotia.ca/nse/waste/strategysummary.asp" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>This is Rubbish</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+
+		<footer>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-5">
+						<h1 class="footer-logo">
+						<img src="img/cogslogobrown.png" width="70%" alt="Footer Logo Blue">
+						</h1>
+						<p>© Boxify 2015 - <a href="http://tympanus.net/codrops/licensing/">Licence</a> - Designed &amp; Developed by <a href="http://www.peterfinlan.com/">Peter Finlan</a></p>
+					</div>
+					<div class="col-md-7">
+						<ul class="footer-nav">
+							<li><a href="#about">Innovative at a local level</a></li>
+							<li><a href="#features">Key Concepts</a></li>
+							<li><a href="#screenshots">Get More Info</a></li>
+							<li><a href="../index.html">Home</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<div class="overlay overlay-boxify">
+			<nav>
+				<ul>
+					<li><a href="#about"><i class="fa fa-heart"></i>Innovative initiatives</a></li>
+					<li><a href="#features"><i class="fa fa-flash"></i>Key Concepts</a></li>
+				</ul>
+				<ul>
+					<li><a href="#screenshots"><i class="fa fa-desktop"></i>Get more Info</a></li>
+					<li><a href="../index.html"><i class="fa fa-download"></i>Home</a></li>
+				</ul>
+			</nav>
+		</div>
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="js/min/toucheffects-min.js"></script>
+		<script src="../../ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/flickity.pkgd.min.js"></script>
+		<script src="js/jquery.fancybox.pack.js"></script>
+		<!--Include all compiled plugins (below), or include individual files as needed-->
+		<script src="js/retina.js"></script>
+		<script src="js/waypoints.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/scripts.js"></script>
+		<!--script src="js/min/scripts-min.js"></script-->
+		<script src="js/eds_map01.js"></script>
+	</body>
+
+<!-- Mirrored from cogsmapping.t15.org/tippy/index03f.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 May 2016 18:04:38 GMT -->
+</html>
+<p align="center">This website created with FreeHostingNoAds 
+<a href="http://freehostingnoads.net/freewebsitebuilder.php">Free Website Builder and Hosting</a></p>

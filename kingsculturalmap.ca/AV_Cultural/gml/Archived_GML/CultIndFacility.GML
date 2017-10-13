@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://ogr.maptools.org/ CultIndFacility.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-7217925.960544273</gml:X><gml:Y>5622129.373590993</gml:Y></gml:coord>
+      <gml:coord><gml:X>-7154021.092159154</gml:X><gml:Y>5653156.127630482</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>                    
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F0">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164830.2258471297,5635937.8089789553</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Just Us Cafe &amp; Gallery</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>450 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R3</ogr:PostalCode>
+      <ogr:Contact>Dan Sparkman</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-7474 x301</ogr:PhoneNum>
+      <ogr:Email>info@justuscoffee.com</ogr:Email>
+      <ogr:Website>http://www.justuscoffee.com/</ogr:Website>
+      <ogr:Mandate>This was the second coffeehouse to open and is housed in a Cinema in the center</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F1">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7157159.0438892776,5638059.900757526</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Fair Trade Museum</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>11865 Nova Scotia 1 Trunk</ogr:StrAddress>
+      <ogr:Town>Grand Pre</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>Frank Harris</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-7474 x221</ogr:PhoneNum>
+      <ogr:Email>info@justuscoffee.com</ogr:Email>
+      <ogr:Website>http://www.justuscoffee.com/</ogr:Website>
+      <ogr:Mandate>While enjoying your coffee or tea, you can tour our Roastery, Fair Trade museum</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F2">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7171174.7689054012,5646299.805534116</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Art Can Gallery &amp; Cafe</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>9850 Main Street</ogr:StrAddress>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Ron Hayes</ogr:Contact>
+      <ogr:Title>Owner/Artist</ogr:Title>
+      <ogr:PhoneNum>582-7071</ogr:PhoneNum>
+      <ogr:Email>ron@artcan.com</ogr:Email>
+      <ogr:Website>www.artcan.com</ogr:Website>
+      <ogr:Mandate>Overlooking the Habitant River, ArtCan Gallery &amp; Cafe exhibits local art and off</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F3">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164963.007735746,5636031.535378987</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Mudcreek Grill and Lounge</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>12 D Elm Avenue</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>697-3500</ogr:PhoneNum>
+      <ogr:Email>info@mudcreekgrill.com</ogr:Email>
+      <ogr:Website>www.mudcreekgrill.com</ogr:Website>
+      <ogr:Mandate>The best place to enjoy the company of friends and family and eat amazing meals</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F4">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7179578.644619707,5633671.1066204812</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Designer Cafe</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>373 Main Street</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1K7</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>679-9930</ogr:PhoneNum>
+      <ogr:Email>info@designerkentville.com</ogr:Email>
+      <ogr:Website>www.designerkentville.com</ogr:Website>
+      <ogr:Mandate>The Designer Caf? features organic, fair trade Laughing Whale locally roasted co</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F5">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7169774.8261211328,5636696.5730174491</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Port Pub and Bistro</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>980 Terrys Creek Road</ogr:StrAddress>
+      <ogr:Town>Port Williams</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542 5555</ogr:PhoneNum>
+      <ogr:Email>portpub@ns.aliantzinc.ca</ogr:Email>
+      <ogr:Website>http://www.theportpub.com/</ogr:Website>
+      <ogr:Mandate>The Port Pub and Bistro, situated on the banks of the Cornwallis River, is one o</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F6">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7166857.6098093055,5631666.3142928798</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Benjamin Bridge Vineyards</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1841 White Rock Road</ogr:StrAddress>
+      <ogr:Town>Gaspereau</ogr:Town>
+      <ogr:PostalCode>B4P 2R1</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-9738</ogr:PhoneNum>
+      <ogr:Email>wines@benjaminbridge.com</ogr:Email>
+      <ogr:Website>http://www.benjaminbridge.com/</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F7">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7170632.3090267647,5646208.276924544</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Blomidon Estate Winery</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>10318 Nova Scotia 221</ogr:StrAddress>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>582-7565</ogr:PhoneNum>
+      <ogr:Email>retail@blomidonwine.com</ogr:Email>
+      <ogr:Website>www.blomidonwine.com</ogr:Website>
+      <ogr:Mandate>Rising majestically from the shores of the Minas Basin, Cape Blomidon is famous</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F8">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164165.937917769,5632342.0945238033</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Gaspereau Vineyards</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>2239 White Rock Road</ogr:StrAddress>
+      <ogr:Town>Gaspereau</ogr:Town>
+      <ogr:PostalCode>B4P 2R1</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-1455</ogr:PhoneNum>
+      <ogr:Email>info@gaspereauwine.com</ogr:Email>
+      <ogr:Website>http://www.gaspereauwine.com/</ogr:Website>
+      <ogr:Mandate>The beautiful Gaspereau Valley is home to Gaspereau Vineyards, a small boutique</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F9">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7158713.7541615963,5637451.8998758812</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Domaine de Grand Pre &amp; Le Caveau Restaurant</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>11611 Nova Scotia 1 Trunk</ogr:StrAddress>
+      <ogr:Town>Grand Pre</ogr:Town>
+      <ogr:PostalCode>BOP 1M0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-1753</ogr:PhoneNum>
+      <ogr:Email>mail@grandprewines.ns.ca</ogr:Email>
+      <ogr:Website>www.grandprewines</ogr:Website>
+      <ogr:Mandate>At Domaine de Grand Pr?, we take great pride in making the finest Nova Scotia wi</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F10">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7161638.2173722778,5632148.572466122</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>L'Acadie Vineyards</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>310 Slayter Road</ogr:StrAddress>
+      <ogr:Town>Gaspereau</ogr:Town>
+      <ogr:PostalCode>B4P 2R1</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-8463</ogr:PhoneNum>
+      <ogr:Email>info@lacadievineyards.ca</ogr:Email>
+      <ogr:Website>http://www.lacadievineyards.ca/</ogr:Website>
+      <ogr:Mandate>L?Acadie Vineyards is the premier producer of Traditional Method Sparkling Nova</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F11">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7157818.2779137576,5633474.0249102172</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Luckett Vineyards</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1293 Grand Pre Road</ogr:StrAddress>
+      <ogr:Town>Grand Pre</ogr:Town>
+      <ogr:PostalCode>B4P 2R3</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-2600</ogr:PhoneNum>
+      <ogr:Email>wine@luckettvineyards.com</ogr:Email>
+      <ogr:Website>http://www.luckettvineyards.com</ogr:Website>
+      <ogr:Mandate>and certified organic.  For a unique wine experience, visit our geothermal winer</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F12">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7161729.8444451476,5637751.3451545881</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Muir Murray Estate Winery</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>90 Dyke Road</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R1</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-0343</ogr:PhoneNum>
+      <ogr:Email>info@muirmurrayestatewinery.com</ogr:Email>
+      <ogr:Website>http://www.muirmurraywinery.com/</ogr:Website>
+      <ogr:Mandate>Nestled in the beautiful Annapolis Valley near the town of Wolfville is Nova Sco</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F13">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7167070.4749395996,5634994.701948816</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Stirling Fruit Farms</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>10328 Nova Scotia 1 Trunk</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R2</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-3763</ogr:PhoneNum>
+      <ogr:Email>greatapples@stirlingfruitfarms.ca</ogr:Email>
+      <ogr:Website>www.stirlingfruitfarms.ca</ogr:Website>
+      <ogr:Mandate>At Stirling Fruit Farms we have been growing apples for over three generations.</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F14">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7167452.1226818338,5634993.8347911518</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Hennigar's Farm Market</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>10272 Nova Scotia 1 Trunk</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R2</ogr:PostalCode>
+      <ogr:Contact>Doug &amp; Heather Hennigar</ogr:Contact>
+      <ogr:Title>Owners</ogr:Title>
+      <ogr:PhoneNum>542-3503</ogr:PhoneNum>
+      <ogr:Email>info@hennigars.com</ogr:Email>
+      <ogr:Website>http://www.hennigars.com/</ogr:Website>
+      <ogr:Mandate>Hennigar's needs no introduction to many locals; a stop here is like &quot;coming hom</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F15">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7169223.6610583197,5634548.8520259364</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Noggins Farm</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>10009 Nova Scotia 1 Trunk</ogr:StrAddress>
+      <ogr:Town>Greenwich</ogr:Town>
+      <ogr:PostalCode>B4P 2R2</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-5515</ogr:PhoneNum>
+      <ogr:Email>cebishop@nogginsfarm.ca</ogr:Email>
+      <ogr:Website>http://www.nogginsfarm.ca/</ogr:Website>
+      <ogr:Mandate>Noggins Corner Farm combines the latest agricultural technology with the farming</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F16">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7168297.9504367812,5639478.5661732908</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>TapRoot Farms</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1736 Church Street</ogr:StrAddress>
+      <ogr:Town>Port Williams</ogr:Town>
+      <ogr:PostalCode>B0P 1T0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542 3277</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://www.taprootfarms.ca/</ogr:Website>
+      <ogr:Mandate>Tucked in the heartland of the Annapolis Valley's farming belt, Taproot Farms me</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F17">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7173084.7442006376,5622129.3735909928</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Mountain Maple</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>347 Sunken Lake Road</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R2</ogr:PostalCode>
+      <ogr:Contact>Judi &amp; Perry Munroe</ogr:Contact>
+      <ogr:Title>Owners</ogr:Title>
+      <ogr:PhoneNum>542-2658</ogr:PhoneNum>
+      <ogr:Email>mountain.maple@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>www.perrymunro.com</ogr:Website>
+      <ogr:Mandate>Judi and Perry express their love of local flora and fauna in their watercolour</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F18">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7217028.7365804305,5631010.7569236243</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Dempsey Corner Orchards</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Agri-tourism</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>2717 Route 221</ogr:StrAddress>
+      <ogr:Town>Aylesford</ogr:Town>
+      <ogr:PostalCode>B0P 1C0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>847-1855</ogr:PhoneNum>
+      <ogr:Email>dempseycornerorchards@ns.aliantzinc.ca</ogr:Email>
+      <ogr:Website>www.dempseycorner.com</ogr:Website>
+      <ogr:Mandate>The ultimate agri-adventure!</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F19">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7165495.8050825847,5626809.2522081239</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Half Rabbit Studio</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>793 Newtonville Road</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>Mark Adam</ogr:Contact>
+      <ogr:Title>Owner</ogr:Title>
+      <ogr:PhoneNum>697-2001</ogr:PhoneNum>
+      <ogr:Email>markadam@eastlink.ca</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F20">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7171212.3169696471,5646314.4552497044</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Kingsport Studios</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>9844 Main Street</ogr:StrAddress>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Ron Hayes</ogr:Contact>
+      <ogr:Title>Artist</ogr:Title>
+      <ogr:PhoneNum>692-0909</ogr:PhoneNum>
+      <ogr:Email>info@kingsportstudios.com</ogr:Email>
+      <ogr:Website>www.kingsportstudios.com</ogr:Website>
+      <ogr:Mandate>Nova Scotia artist, Ron Hayes? latest landscape paintings are large, textured ca</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F21">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164197.2632224793,5635993.1080677295</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Terry Drahos Studio</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>311 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1C7</ogr:PostalCode>
+      <ogr:Contact>Terry Drahos</ogr:Contact>
+      <ogr:Title>Artist</ogr:Title>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>tdrahos@mac.com</ogr:Email>
+      <ogr:Website>http://www.terryhavlisdrahos.com/Terry_Havlis_Drahos/Terry_Havlis_Drahos.html</ogr:Website>
+      <ogr:Mandate>Originally from Chicago, IL, Terry Havlis Drahos received her Bachelor of Design</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F22">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7209627.2706168192,5623553.9572853372</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Eileen Boyd Art Studio</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1976 Hall Road</ogr:StrAddress>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>B0P 1E0</ogr:PostalCode>
+      <ogr:Contact>Eileen Boyd</ogr:Contact>
+      <ogr:Title>Visual Artist</ogr:Title>
+      <ogr:PhoneNum>538-1338</ogr:PhoneNum>
+      <ogr:Email>eileenboyd@eastlink.ca</ogr:Email>
+      <ogr:Website>www.eileenboyd.ca/</ogr:Website>
+      <ogr:Mandate>Graphite and Pastel portraits were a means of support throughout the college yea</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F23">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7165787.3285650732,5634494.2712573744</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>West-Wind Studio</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>16 Grandview Drive</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B0P 1X0</ogr:PostalCode>
+      <ogr:Contact>Jan Gyorfi-West</ogr:Contact>
+      <ogr:Title>Artist</ogr:Title>
+      <ogr:PhoneNum>542-5469</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>Jan was born and educated in England. She has been painting portraits for thirty</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F24">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7180582.0451138699,5648851.6154384324</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>The Printmaker Studio</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1688 Brow of the Mountain Road RR #3</ogr:StrAddress>
+      <ogr:Town>Centreville</ogr:Town>
+      <ogr:PostalCode>B0P 1J0</ogr:PostalCode>
+      <ogr:Contact>Bob Hainstock</ogr:Contact>
+      <ogr:Title>Artist</ogr:Title>
+      <ogr:PhoneNum>582-3656</ogr:PhoneNum>
+      <ogr:Email>bhainsto@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>www.printmaker.ca</ogr:Website>
+      <ogr:Mandate>Bob is a printmaker and painter of landscapes. He creates small editions in wood</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F25">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7163202.0781067368,5636052.5230359556</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Printemps Studio-Gallery</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>163 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B0P 1X0</ogr:PostalCode>
+      <ogr:Contact>Gudrun Mueller-Both</ogr:Contact>
+      <ogr:Title>Artist</ogr:Title>
+      <ogr:PhoneNum>542-9483</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>A graduate of printmaking at the University of Victoria, Gudrun works mainly wit</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F26">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7170005.9253840204,5638818.4019980729</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Starr's Point Studio</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>228 Collins Road</ogr:StrAddress>
+      <ogr:Town>Port Williams</ogr:Town>
+      <ogr:PostalCode>B0P 1T0</ogr:PostalCode>
+      <ogr:Contact>Marie-Jose Pelletier</ogr:Contact>
+      <ogr:Title>Artist</ogr:Title>
+      <ogr:PhoneNum>542-7611</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>Marie-Jose, an award-winning artist, brings an unusual perspective to the portra</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F27">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7205963.3788204947,5629591.1082180459</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Serendipity Studios</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>204 Main Street</ogr:StrAddress>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>B0P 1E0</ogr:PostalCode>
+      <ogr:Contact>Sue Redford</ogr:Contact>
+      <ogr:Title>Artist</ogr:Title>
+      <ogr:PhoneNum>538-0008</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>Mainly self-taught, Sue's work is vignettes of everyday life, as well as archite</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F28">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7205902.3980034385,5629010.8262585793</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Celtic Valley Studio</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>148 Maple Avenue</ogr:StrAddress>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>B0P 1E0</ogr:PostalCode>
+      <ogr:Contact>Sybil Redden</ogr:Contact>
+      <ogr:Title>Artist</ogr:Title>
+      <ogr:PhoneNum>538-7947</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F29">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7171236.7293339763,5646324.9373884285</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Apple Tree Studio</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>9840 Main Street</ogr:StrAddress>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Neil Bennett</ogr:Contact>
+      <ogr:Title>Artist</ogr:Title>
+      <ogr:PhoneNum>582-3537</ogr:PhoneNum>
+      <ogr:Email>appletree@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>Trained in graphic design, self-taught pastel artist, custom framer.</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F30">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7217925.9605442733,5626786.9471379789</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Windsong Studio &amp; Gallery</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1331 Victoria Road</ogr:StrAddress>
+      <ogr:Town>Aylesford</ogr:Town>
+      <ogr:PostalCode>B0P 1C0</ogr:PostalCode>
+      <ogr:Contact>Twila Robart-Decoste</ogr:Contact>
+      <ogr:Title>Artist</ogr:Title>
+      <ogr:PhoneNum>847-9847</ogr:PhoneNum>
+      <ogr:Email>windsong1331@yahoo.ca</ogr:Email>
+      <ogr:Website>www.windsong-nature-gallery.com</ogr:Website>
+      <ogr:Mandate>Woodlands, gardens, and the Nova Scotia coast are the inspiration of Twila's rea</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F31">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7180618.8696014248,5633784.7986547938</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Studio Twelve</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>4541 Nova Scotia 12 Trunk</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 3V8</ogr:PostalCode>
+      <ogr:Contact>Erma Walker</ogr:Contact>
+      <ogr:Title>Artist</ogr:Title>
+      <ogr:PhoneNum>678-8047</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>Erma paints whatever grabs her: people in activity, landscapes, still life. Self</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F32">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7177660.9660157086,5634491.3861479657</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>The Poor Man's Carpet</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>126 Eagle Creek Road</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 5J4</ogr:PostalCode>
+      <ogr:Contact>Sheri Wheaton</ogr:Contact>
+      <ogr:Title>Artist</ogr:Title>
+      <ogr:PhoneNum>678-6679</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>Hand-painted, stencilled, custom-designed floorcloths you can walk on, hand on t</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F33">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7167777.1088032564,5643514.1884095855</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Sea Pines Studio</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>2178 Saxon Street</ogr:StrAddress>
+      <ogr:Town>Port Williams</ogr:Town>
+      <ogr:PostalCode>B0P 1T0</ogr:PostalCode>
+      <ogr:Contact>Donna Hermiston</ogr:Contact>
+      <ogr:Title>Artist</ogr:Title>
+      <ogr:PhoneNum>582-3292</ogr:PhoneNum>
+      <ogr:Email>dhermiston@msn.com</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>Donna specializes in realist painting in oil, watercolour and acrylics. Art plac</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F34">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7176026.9517381508,5649237.8192807082</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Carr/Bateman Studio</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>299 Woodside Rd. RR#5</ogr:StrAddress>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Holly Carr &amp; Alan Bateman</ogr:Contact>
+      <ogr:Title>Artists</ogr:Title>
+      <ogr:PhoneNum>582-3309</ogr:PhoneNum>
+      <ogr:Email>mail@alanbateman.com</ogr:Email>
+      <ogr:Website>www.alanbateman.com</ogr:Website>
+      <ogr:Mandate>Alan &amp; Holly are full-time artists who exhibit nationally. Their studio is at th</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F35">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164872.0040520243,5635937.1151801767</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Harvest Gallery</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>462 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1E2</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-7093</ogr:PhoneNum>
+      <ogr:Email>info@harvestgallery.ca</ogr:Email>
+      <ogr:Website>www.harvestgallery.ca</ogr:Website>
+      <ogr:Mandate>Located in the charming town of Wolfville in Nova Scotia's bountiful Annapolis V</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F36">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7154021.0921591539,5633160.456020074</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>The Pale Green Horse Studio/gallery</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>465 West Brooklyn Mountain Road</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B0P 1X0</ogr:PostalCode>
+      <ogr:Contact>Jeanne Aisthorpe-Smith</ogr:Contact>
+      <ogr:Title>Artist</ogr:Title>
+      <ogr:PhoneNum>542-0595</ogr:PhoneNum>
+      <ogr:Email>info@novascotiaart.com</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>Jeanne Aisthorpe-Smith works in several mediums, primarily oils. Her brightly co</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F37">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164694.5051239552,5636065.4688652763</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Sea Mist Gallery</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>112 Front Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1A4</ogr:PostalCode>
+      <ogr:Contact>Edwin Hollet</ogr:Contact>
+      <ogr:Title>Artist</ogr:Title>
+      <ogr:PhoneNum>542-1094</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>Edwin's paintings show the sea, wildlife, and the small villages, hamlets and to</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F38">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7190946.4129083296,5647905.5279540932</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Copper Fox Gallery</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>4092 Route 359, Hall's Harbour</ogr:StrAddress>
+      <ogr:Town>Centreville</ogr:Town>
+      <ogr:PostalCode>B0P 1J0</ogr:PostalCode>
+      <ogr:Contact>Fabienne Leydecker</ogr:Contact>
+      <ogr:Title>Artist/Owner</ogr:Title>
+      <ogr:PhoneNum>679-7073</ogr:PhoneNum>
+      <ogr:Email>fabienne_leydecker@hotmail.com</ogr:Email>
+      <ogr:Website>www.fabienneleydecker.com</ogr:Website>
+      <ogr:Mandate>Copper Fox Gallery features fine art and quality crafts by many well-known artis</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F39">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7193501.2508817818,5653156.1276304815</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Captain Hall's Treasure Chest</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art/Craft</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1157 West Hall's Harbour Road</ogr:StrAddress>
+      <ogr:Town>Hall's Harbour</ogr:Town>
+      <ogr:PostalCode>B0P 1J0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>678-3855 *May to October</ogr:PhoneNum>
+      <ogr:Email>carmenelspeth@gmail.com</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>Catch one of the six local artists from Paints and Pots Creative Artists, at wor</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F40">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7193462.4003794957,5653076.5358447051</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>John Neville Gallery</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1143 West Hall's Harbour Road</ogr:StrAddress>
+      <ogr:Town>Centreville</ogr:Town>
+      <ogr:PostalCode>B0P 1J0</ogr:PostalCode>
+      <ogr:Contact>John Neville</ogr:Contact>
+      <ogr:Title>Artist/Owner</ogr:Title>
+      <ogr:PhoneNum>679-7148</ogr:PhoneNum>
+      <ogr:Email>john@jneville.ca</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>John Neville?s nostalgic portrals of bygone days chronicle the folklore and dail</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F41">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7180724.6342496248,5633478.4545509471</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Mona Kay Studio</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>27 Glenview Avenue</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 2R4</ogr:PostalCode>
+      <ogr:Contact>Mona K. Balcom</ogr:Contact>
+      <ogr:Title>Artist</ogr:Title>
+      <ogr:PhoneNum>678-2672</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>An eclectic approach creates striking use of colour, design and texture. Include</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F42">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7206354.021177588,5646191.3226068644</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Ravens Light Studio</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Craft (Glass artist)</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1181 Russia Road</ogr:StrAddress>
+      <ogr:Town>Black Rock</ogr:Town>
+      <ogr:PostalCode>B0P 1V0</ogr:PostalCode>
+      <ogr:Contact>Raven Hazelwood-Clark</ogr:Contact>
+      <ogr:Title>Artist</ogr:Title>
+      <ogr:PhoneNum>538-3462</ogr:PhoneNum>
+      <ogr:Email>ravenglass99@yahoo.com</ogr:Email>
+      <ogr:Website>www.ravenslight.ca</ogr:Website>
+      <ogr:Mandate>Bringing 24 years of passion and experience to the creation of art glass panels,</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F43">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7192303.831647112,5649809.5362706818</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Hall's Harbour Quilt Studio</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Craft (quilting)</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>641 West Hall's Harbour Road</ogr:StrAddress>
+      <ogr:Town>Hall's Harbour</ogr:Town>
+      <ogr:PostalCode>B0P 1J0</ogr:PostalCode>
+      <ogr:Contact>Janet Gordon</ogr:Contact>
+      <ogr:Title>Owner</ogr:Title>
+      <ogr:PhoneNum>679-2791</ogr:PhoneNum>
+      <ogr:Email>janet@novascotiaquilts.com</ogr:Email>
+      <ogr:Website>www.novascotiaquilts.com</ogr:Website>
+      <ogr:Mandate>Quilt studio in owner's c.1820 home. Award winning traditional designs in all si</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F44">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7213769.7694318658,5645226.4946199488</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Keltica Quilt Designs</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Craft (quilting)</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>28 Russia Road</ogr:StrAddress>
+      <ogr:Town>Harbourville</ogr:Town>
+      <ogr:PostalCode>B0P 1E0</ogr:PostalCode>
+      <ogr:Contact>Jean Huntley-Maynard</ogr:Contact>
+      <ogr:Title>Artisan/Owner</ogr:Title>
+      <ogr:PhoneNum>538-0080</ogr:PhoneNum>
+      <ogr:Email>jhm@av.eastlink.ca</ogr:Email>
+      <ogr:Website>www.kelticaquiltdesigns.ca</ogr:Website>
+      <ogr:Mandate>Keltica Quilt Designs features quilts, wall hangings, runners and note cards - a</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F45">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7161671.1234137556,5632732.0041304268</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Gaspereau Valley Fibres</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Craft</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>830 Gaspereau River Road</ogr:StrAddress>
+      <ogr:Town>Gaspereau</ogr:Town>
+      <ogr:PostalCode>B4P 2N5</ogr:PostalCode>
+      <ogr:Contact>Brenda Gilmour</ogr:Contact>
+      <ogr:Title>Owner/Operator</ogr:Title>
+      <ogr:PhoneNum>542-2656</ogr:PhoneNum>
+      <ogr:Email>brenda@gaspereauvalleyfibres.ca</ogr:Email>
+      <ogr:Website>www.gaspereauvalleyfibres.ca</ogr:Website>
+      <ogr:Mandate>We raise Cotswold sheep and produce yarn, spinning fibres, sheepskins, from our</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F46">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7180604.3201439772,5634649.296008883</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>From Rags to Witches Studio</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Craft (leather)</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>272 Randall Road</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 3B5</ogr:PostalCode>
+      <ogr:Contact>Tyra Innis-Harvie</ogr:Contact>
+      <ogr:Title>Artisan</ogr:Title>
+      <ogr:PhoneNum>678-0205</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>With natural materials and discarded objects, Tyra creates a world of fantasy an</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F47">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164015.9571678247,5634419.4321334912</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>RHONDA does WHAT!</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Craft (rug-making)</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>51 John Pryor Drive</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1P3</ogr:PostalCode>
+      <ogr:Contact>Rhonda Brennan</ogr:Contact>
+      <ogr:Title>Artist</ogr:Title>
+      <ogr:PhoneNum>542-9826</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>Reclamates/renovates/rejuvenates clothes, wood, paper, glass, textiles, furnitur</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F48">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7172222.5858763922,5646333.4936010838</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Steven Kennard Studio Gallery</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Craft (Wood Turner)</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>9545 Nova Scotia 221</ogr:StrAddress>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Steven Kennard</ogr:Contact>
+      <ogr:Title>Owner/Artisan</ogr:Title>
+      <ogr:PhoneNum>582-3795</ogr:PhoneNum>
+      <ogr:Email>steve@stevenkennard.com</ogr:Email>
+      <ogr:Website>www.stevenkennard.com</ogr:Website>
+      <ogr:Mandate>Steven's studio gallery features his award winning, turned and sculpted boxes of</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:CultIndFacility fid="F49">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7157385.2339626215,5638097.4694333449</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Org>Tangled Garden</ogr:Org>
+      <ogr:Type>Cultural Industry/Facility</ogr:Type>
+      <ogr:Discipline>Artisanal Food</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>11827 Nova Scotia 1 Trunk</ogr:StrAddress>
+      <ogr:Town>Grand Pre</ogr:Town>
+      <ogr:PostalCode>BOP 1MO</ogr:PostalCode>
+      <ogr:Contact>Beverly McClare</ogr:Contact>
+      <ogr:Title>Owner</ogr:Title>
+      <ogr:PhoneNum>542-9811</ogr:PhoneNum>
+      <ogr:Email>tangledgarden@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>www.tangledgarden.ns.ca</ogr:Website>
+      <ogr:Mandate>Tangled Garden began 20 years ago with a handyman special on one acre of land in</ogr:Mandate>
+    </ogr:CultIndFacility>
+  </gml:featureMember>
+</ogr:FeatureCollection>

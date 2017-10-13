@@ -1,0 +1,38 @@
+<html>
+<head>
+<script>
+function toggle2(showHideDiv, switchTextDiv) {
+	var ele = document.getElementById(showHideDiv);
+	var text = document.getElementById(switchTextDiv);
+	if(ele.style.display == "block") {
+    		ele.style.display = "none";
+		text.innerHTML = "Show Help";
+  	}
+	else {
+		ele.style.display = "block";
+		text.innerHTML = "Hide Help";
+	}
+}
+</script>
+</head>
+<body>
+<table>
+   <tr>
+      <td>
+         <div style="border: 1px solid blue; background-color: #99CCFF; padding: 5px; width: 350px;">
+            <a id="myHeader1" href="javascript:toggle2('myContent1','myHeader1');" >Show Help</a>
+         </div>
+         <div id="myContent1" style="border: 1px solid black; background-color: #CCCCCC; display: none;padding: 5px; width: 350px;">
+		 To interact with the map there are two tools on the left hand side.  The one which is active will have an orange background.</br></br>
+		 To Select a feature use the select tool <img border="0" src="panhand.png" alt="select tool" width="20" height="20"  /></br>
+		 To Zoom in on an area use the zoom tool <img border="0" src="zoombox.png" alt="select tool" width="20" height="20"  /></br></br>
+		 
+		 Alternatively you can use the slider located above the select tool or your mouse wheel to zoom in or out</br></br>
+		 Layers can be turned on or off using the LayerSwitcher on the right side of the map
+		 </div>
+      </td>
+   </tr>
+</table>
+
+</body>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=7,IE=9" />
+    <!-- On iOS, as part of optimizing your web application, have it use the
+    standalone mode to look more like a native application. When you use this
+    standalone mode, Safari is not used to display the web content—specifically,
+    there is no browser URL text field at the top of the screen or button bar
+    at the bottom of the screen. -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <!-- Controls the dimensions and scaling of the browser window in iOS,
+    Android, webOS, Opera Mini, Opera Mobile and Blackberry. width: controls
+    the width of the viewport initial-scale: controls the zoom level when the
+    page is first loaded maximum-scale: control how users are allowed to zoom
+    the page in or out user-scalable: control how users are allowed to zoom
+    the page in or out -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <!-- Sets the style of the status bar for a web application when in standalone mode -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="//serverapi.arcgisonline.com/jsapi/arcgis/3.3/js/dojo/dijit/themes/claro/claro.css">
+    <link rel="stylesheet" type="text/css" href="//serverapi.arcgisonline.com/jsapi/arcgis/3.3/js/esri/css/esri.css" />
+
+     <link rel="stylesheet"  href="css/layout.css"/>
+    <script type="text/javascript">
+      var dojoConfig = {
+        parseOnLoad: true,
+        packages: [ { 
+                name: "utilities",
+                location: location.pathname.replace(/\/[^/]+$/, '') + '/javascript' 
+             } 
+        ]
+      };
+    </script>
+		
+    <script type="text/javascript" src="//serverapi.arcgisonline.com/jsapi/arcgis/3.3"></script>
+    <script type="text/javascript" src="javascript/layout.js"></script>
+
+    
+    <script type="text/javascript">
+    dojo.require("utilities.app");
+    dojo.ready(function(){
+        var defaults = {
+            webmap: "16237946beb94ef7990ed1b6939b5011",
+            bingmapskey: "",
+            sharingurl: "http://www.arcgis.com/sharing/content/items"
+        };
+
+      var app = new utilities.App(defaults, null, defaults.proxyurl );
+          app.init().then(function(options){
+                    options.i18n = app.i18n;
+                    init(options);
+          });
+    });
+    </script>
+  </head>
+  
+  <body class="claro">
+
+  </body>
+</html>

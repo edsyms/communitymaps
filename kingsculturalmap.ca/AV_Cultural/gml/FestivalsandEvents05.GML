@@ -1,0 +1,1491 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://ogr.maptools.org/ FestivalsandEvents05.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-7230940.088441984</gml:X><gml:Y>5613872.080081374</gml:Y></gml:coord>
+      <gml:coord><gml:X>-7157811.055278959</gml:X><gml:Y>5649565.498383787</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>
+                                                                                        
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F0">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7228295.1373407356,5613872.0800813744</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>544.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Western Kings Community Fair (Tremont World's Fair)</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>738 Tremont Mountain Road</ogr:StreetAddr>
+      <ogr:Town>Tremont</ogr:Town>
+      <ogr:PostalCode>B0P 1N0</ogr:PostalCode>
+      <ogr:Contact>Glen E. Jefferson,</ogr:Contact>
+      <ogr:ContactTit>Executive Director</ogr:ContactTit>
+      <ogr:PhoneNum>902-443-2039 
+</ogr:PhoneNum>
+      <ogr:Website>http://www.eans.ca</ogr:Website>
+      <ogr:Descriptio>Held on Labour Day weekend at the fair grounds in Tremont, events include a beef and dairy show, light horse show, horse and ox pulls, children and pet parades, live music, arts and crafts.</ogr:Descriptio>
+      <ogr:Longitude>-64.932880</ogr:Longitude>
+      <ogr:Latitude>44.951310</ogr:Latitude>
+      <ogr:Gadd>738 Tremont Mountain Road</ogr:Gadd>
+      <ogr:Gtown>Tremont</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F1">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7178188.0081448685,5634931.8568843082</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>519.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Valley Gardeners Open Gardens Tour</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Gardening</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>NSCC Kingstec, 236 Belcher Street</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 2N1</ogr:PostalCode>
+      <ogr:Contact>Lorna McNeil</ogr:Contact>
+      <ogr:ContactTit>President</ogr:ContactTit>
+      <ogr:PhoneNum>678-7961</ogr:PhoneNum>
+      <ogr:Email>valleygardeners@yahoo.ca</ogr:Email>
+      <ogr:Website>http://www.valleygardeners.ca/events/events.htm</ogr:Website>
+      <ogr:Descriptio>One summer Saturday afternoon is spent visiting members who have invited us to tour their gardens.</ogr:Descriptio>
+      <ogr:Longitude>-64.482760</ogr:Longitude>
+      <ogr:Latitude>45.085040</ogr:Latitude>
+      <ogr:Gadd>NSCC Kingstec</ogr:Gadd>
+      <ogr:Gtown>236 Belcher Street</ogr:Gtown>
+      <ogr:Gprov>Kentville</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F2">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7178181.0454982687,5634927.1079191491</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>518.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Flower and Vegetable Show</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Gardening</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>NSCC Kingstec, 236 Belcher Street</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 2N1</ogr:PostalCode>
+      <ogr:Contact>Lorna McNeil</ogr:Contact>
+      <ogr:ContactTit>President</ogr:ContactTit>
+      <ogr:PhoneNum>678-7961</ogr:PhoneNum>
+      <ogr:Email>valleygardeners@yahoo.ca</ogr:Email>
+      <ogr:Website>http://www.valleygardeners.ca/events/events.htm</ogr:Website>
+      <ogr:Descriptio>Members display the results of their gardening endeavours in August each year for the judges and other members.</ogr:Descriptio>
+      <ogr:Longitude>-64.482760</ogr:Longitude>
+      <ogr:Latitude>45.085040</ogr:Latitude>
+      <ogr:Gadd>NSCC Kingstec</ogr:Gadd>
+      <ogr:Gtown>236 Belcher Street</ogr:Gtown>
+      <ogr:Gprov>Kentville</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F3">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7157818.7677195165,5633486.1946045682</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>515.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Wolfville Harvest Festival</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1293 Grand Pre Road</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4A 4B5</ogr:PostalCode>
+      <ogr:Contact>Belinda Atwell</ogr:Contact>
+      <ogr:Website>http://www.annapolis-valley-vacation.com/harvest-festivals.html</ogr:Website>
+      <ogr:Descriptio>Ask for your free admission sticker at the main Administration desk at the Grand Pre National Historic Site of Canada to walk on the grounds. Musuem entrance fee required for movie and exhibits.</ogr:Descriptio>
+      <ogr:Longitude>-64.299780</ogr:Longitude>
+      <ogr:Latitude>45.075870</ogr:Latitude>
+      <ogr:Gadd>1293 Grand Pre Road</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F4">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7157811.0552789588,5633467.2779883109</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>510.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Cheese and Wine Festival</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1293 Grand Pre Road</ogr:StreetAddr>
+      <ogr:Town>Grand Pre</ogr:Town>
+      <ogr:PostalCode>B4P 2R3</ogr:PostalCode>
+      <ogr:PhoneNum>542-2600</ogr:PhoneNum>
+      <ogr:Email>events@luckettvineyards.com</ogr:Email>
+      <ogr:Website>http://www.luckettvineyards.com</ogr:Website>
+      <ogr:Descriptio>Children's art workshop Saturday and Sunday,1:30 to 3:30. Exhibition and Sale of Art in the Art Tent. on both Saturday and Sunday.</ogr:Descriptio>
+      <ogr:Longitude>-64.299780</ogr:Longitude>
+      <ogr:Latitude>45.075870</ogr:Latitude>
+      <ogr:Gadd>1293 Grand Pre Road</ogr:Gadd>
+      <ogr:Gtown>Grand Pre</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F5">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7174170.4877221398,5632151.0943101551</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>540.000000</ogr:CULTID>
+      <ogr:GISREADY>3.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>New Minas Easter Bunny Hop</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>9209 Commercial Street</ogr:StreetAddr>
+      <ogr:Town>New Minas</ogr:Town>
+      <ogr:PostalCode>B4N 3G1</ogr:PostalCode>
+      <ogr:ContactTit>New Minas Recreation Department</ogr:ContactTit>
+      <ogr:PhoneNum>681-6577</ogr:PhoneNum>
+      <ogr:Email>village.newminas@ns.aliantzinc.ca</ogr:Email>
+      <ogr:Website>http://www.newminas.com</ogr:Website>
+      <ogr:Longitude>-64.446670</ogr:Longitude>
+      <ogr:Latitude>45.067400</ogr:Latitude>
+      <ogr:Gadd>9209 Commercial Street</ogr:Gadd>
+      <ogr:Gtown>New Minas</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F6">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7174162.0180319725,5632142.3815563079</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>539.000000</ogr:CULTID>
+      <ogr:GISREADY>3.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>New Minas Celebration of Lights</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>9209 Commercial Street</ogr:StreetAddr>
+      <ogr:Town>New Minas</ogr:Town>
+      <ogr:PostalCode>B4N 3G1</ogr:PostalCode>
+      <ogr:Contact>John Ansara</ogr:Contact>
+      <ogr:ContactTit>New Minas Recreation Department</ogr:ContactTit>
+      <ogr:PhoneNum>681-6577</ogr:PhoneNum>
+      <ogr:Email>village.newminas@ns.aliantzinc.ca</ogr:Email>
+      <ogr:Website>http://www.newminas.com/celebrationoflights.htm</ogr:Website>
+      <ogr:Descriptio>Celebrate the holiday season with a Santa Claus parade, lighting of the village tree, fireworks, a children's party with a visit from Santa, musical entertainment, a gingerbread decorating contest.</ogr:Descriptio>
+      <ogr:Longitude>-64.446670</ogr:Longitude>
+      <ogr:Latitude>45.067400</ogr:Latitude>
+      <ogr:Gadd>9209 Commercial Street</ogr:Gadd>
+      <ogr:Gtown>New Minas</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F7">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7174165.2531657415,5632128.2840422895</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>538.000000</ogr:CULTID>
+      <ogr:GISREADY>3.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>New Minas Celebration Days</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>9209 Commercial Street</ogr:StreetAddr>
+      <ogr:Town>New Minas</ogr:Town>
+      <ogr:PostalCode>B4N 3G1</ogr:PostalCode>
+      <ogr:Contact>John Ansara</ogr:Contact>
+      <ogr:ContactTit>New Minas Recreation Department</ogr:ContactTit>
+      <ogr:PhoneNum>681-6577</ogr:PhoneNum>
+      <ogr:Email>village.newminas@ns.aliantzinc.ca</ogr:Email>
+      <ogr:Website>http://www.newminas.com/celebration_days.htm</ogr:Website>
+      <ogr:Longitude>-64.446670</ogr:Longitude>
+      <ogr:Latitude>45.067400</ogr:Latitude>
+      <ogr:Gadd>9209 Commercial Street</ogr:Gadd>
+      <ogr:Gtown>New Minas</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F8">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7174175.7222785372,5632128.2840422895</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>536.000000</ogr:CULTID>
+      <ogr:GISREADY>3.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Celebration of Lights</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>9209 Commercial Street</ogr:StreetAddr>
+      <ogr:Town>New Minas</ogr:Town>
+      <ogr:PostalCode>B4N 3G1</ogr:PostalCode>
+      <ogr:Contact>John Ansara</ogr:Contact>
+      <ogr:ContactTit>New Minas Recreation Department</ogr:ContactTit>
+      <ogr:PhoneNum>681-6577</ogr:PhoneNum>
+      <ogr:Email>village.newminas@ns.aliantzinc.ca</ogr:Email>
+      <ogr:Website>http://www.newminas.com/celebrationoflights.htm</ogr:Website>
+      <ogr:Longitude>-64.446670</ogr:Longitude>
+      <ogr:Latitude>45.067400</ogr:Latitude>
+      <ogr:Gadd>9209 Commercial Street</ogr:Gadd>
+      <ogr:Gtown>New Minas</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F9">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7165125.9878615243,5635926.9915685095</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>558.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Fezziwig's Annual Christmas Frolic</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Theatre</ogr:Discipline>
+      <ogr:NumSeats>504</ogr:NumSeats>
+      <ogr:StreetAddr>386 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1C9</ogr:PostalCode>
+      <ogr:Contact>Wendy Elliott</ogr:Contact>
+      <ogr:ContactTit>Director</ogr:ContactTit>
+      <ogr:PhoneNum>542-7203</ogr:PhoneNum>
+      <ogr:Website>http://fezziwig.daysend.ca</ogr:Website>
+      <ogr:Descriptio>For the past ten years, a group of amateur theatre and choral music enthusiasts have created a dramatic representation of the Fezziwig family organizing this evening of merriment.</ogr:Descriptio>
+      <ogr:Longitude>-64.360170</ogr:Longitude>
+      <ogr:Latitude>45.091760</ogr:Latitude>
+      <ogr:Gadd>386 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F10">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7165121.2582581835,5635897.92802977</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>545.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Acadia Performing Arts Series</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>386 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1C9</ogr:PostalCode>
+      <ogr:Contact>Peter Smith</ogr:Contact>
+      <ogr:ContactTit>Series Coordinator</ogr:ContactTit>
+      <ogr:PhoneNum>585-1282</ogr:PhoneNum>
+      <ogr:Email>pas@acadiau.ca</ogr:Email>
+      <ogr:Website>http://www.acadiau.ca/artsacadia</ogr:Website>
+      <ogr:Descriptio>The Acadia Performing Arts Series presents approximately eight top-calibre concerts during each academic year, generally in the friendly surroundings of Acadia's lovely Festival Theatre.</ogr:Descriptio>
+      <ogr:Longitude>-64.360170</ogr:Longitude>
+      <ogr:Latitude>45.091760</ogr:Latitude>
+      <ogr:Gadd>386 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F11">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7158826.2091111951,5638715.0092650987</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>528.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Acadian Days</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>2205 Grand Pre Road</ogr:StreetAddr>
+      <ogr:Town>Grand Pre</ogr:Town>
+      <ogr:PostalCode>B0P 1M0</ogr:PostalCode>
+      <ogr:PhoneNum>542-3631</ogr:PhoneNum>
+      <ogr:Email>contact@grand-pre.com</ogr:Email>
+      <ogr:Descriptio>All are welcome to Grand Pre National Historic Park to take in Acadian Days, featuring historical lectures, live theatre in French and English, Mass, live music, food concessions, and more!</ogr:Descriptio>
+      <ogr:Longitude>-64.308830</ogr:Longitude>
+      <ogr:Latitude>45.109030</ogr:Latitude>
+      <ogr:Gadd>2205 Grand Pre Road</ogr:Gadd>
+      <ogr:Gtown>Grand Pre</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F12">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7179502.6913311379,5633659.5987713058</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>559.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Kentville Pumpkin People Festival</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>354 Nova Scotia 1 Trunk</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4B 1K6</ogr:PostalCode>
+      <ogr:Contact>Nola Folker-Hill</ogr:Contact>
+      <ogr:ContactTit>Councilor</ogr:ContactTit>
+      <ogr:PhoneNum>679-2500</ogr:PhoneNum>
+      <ogr:Email>recreation@kentville.ca</ogr:Email>
+      <ogr:Website>http://www.kentville.ca/explorekentville_events.cfm</ogr:Website>
+      <ogr:Descriptio>Kentville is famous for their pumpkin people festival each fall. The whole town is decorated with straw people who have pumpkin heads.</ogr:Descriptio>
+      <ogr:Longitude>-64.494570</ogr:Longitude>
+      <ogr:Latitude>45.076970</ogr:Latitude>
+      <ogr:Gadd>354 Nova Scotia 1 Trunk</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F13">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7179493.7857718747,5633646.9874466211</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>532.000000</ogr:CULTID>
+      <ogr:GISREADY>3.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Torch Light Parade</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>354 Nova Scotia 1 Trunk</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4B 1K6</ogr:PostalCode>
+      <ogr:Contact>Nola Folker-Hill</ogr:Contact>
+      <ogr:ContactTit>Councilor</ogr:ContactTit>
+      <ogr:PhoneNum>679-2500</ogr:PhoneNum>
+      <ogr:Email>recreation@kentville.ca</ogr:Email>
+      <ogr:Website>http://www.kentville.ca/explorekentville_events.cfm</ogr:Website>
+      <ogr:Descriptio>Join in the parade through downtown Kentville and father in Centre Square to sing carols and light up the square. Following the light up, enjoy a free skate and festive treats at Kentville Centennial Arena.</ogr:Descriptio>
+      <ogr:Longitude>-64.494570</ogr:Longitude>
+      <ogr:Latitude>45.076970</ogr:Latitude>
+      <ogr:Gadd>354 Nova Scotia 1 Trunk</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F14">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7179502.6913311379,5633634.376139597</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>531.000000</ogr:CULTID>
+      <ogr:GISREADY>3.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Street Fest</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>354 Nova Scotia 1 Trunk</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4B 1K6</ogr:PostalCode>
+      <ogr:Contact>Nola Folker-Hill</ogr:Contact>
+      <ogr:ContactTit>Councilor</ogr:ContactTit>
+      <ogr:PhoneNum>679-2500</ogr:PhoneNum>
+      <ogr:Email>recreation@kentville.ca</ogr:Email>
+      <ogr:Website>http://www.kentville.ca/explorekentville_events.cfm</ogr:Website>
+      <ogr:Descriptio>The town of Kentville's community celebration concert takes place in August.</ogr:Descriptio>
+      <ogr:Longitude>-64.494570</ogr:Longitude>
+      <ogr:Latitude>45.076970</ogr:Latitude>
+      <ogr:Gadd>354 Nova Scotia 1 Trunk</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F15">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7179511.5968904011,5633646.9874466211</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>530.000000</ogr:CULTID>
+      <ogr:GISREADY>3.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Kentville Canada Day</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>354 Nova Scotia 1 Trunk</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4B 1K6</ogr:PostalCode>
+      <ogr:Contact>Nola Folker-Hill</ogr:Contact>
+      <ogr:ContactTit>Councilor</ogr:ContactTit>
+      <ogr:PhoneNum>679-2500</ogr:PhoneNum>
+      <ogr:Email>recreation@kentville.ca</ogr:Email>
+      <ogr:Website>http://www.kentville.ca/explorekentville_events.cfm</ogr:Website>
+      <ogr:Descriptio>Celebrate Canada Day in downtown Kentville and enjoy a variety of activities for all ages.</ogr:Descriptio>
+      <ogr:Longitude>-64.494570</ogr:Longitude>
+      <ogr:Latitude>45.076970</ogr:Latitude>
+      <ogr:Gadd>354 Nova Scotia 1 Trunk</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F16">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164500.1635569287,5635991.4208649565</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>553.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Open Mike &amp; Donna</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:StreetAddr>378 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R3</ogr:PostalCode>
+      <ogr:Contact>Mike &amp; Donna</ogr:Contact>
+      <ogr:ContactTit>Performers/Organizers</ogr:ContactTit>
+      <ogr:PhoneNum>542-1214</ogr:PhoneNum>
+      <ogr:Website>http://www.facebook.com/OpenMikeandDonna</ogr:Website>
+      <ogr:Descriptio>Every Tuesday Night - 8pm to 10pm at T.A.N. Coffee. Come play or recite or sing or do something cool, or just watch and have fun!!</ogr:Descriptio>
+      <ogr:Longitude>-64.359800</ogr:Longitude>
+      <ogr:Latitude>45.091760</ogr:Latitude>
+      <ogr:Gadd>378 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F17">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7217028.4916775506,5630997.4243688332</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>505.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Pumpkin Festival</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>2717 Nova Scotia 221</ogr:StreetAddr>
+      <ogr:Town>Aylesford</ogr:Town>
+      <ogr:PostalCode>B0P 1C0</ogr:PostalCode>
+      <ogr:Contact>Christia</ogr:Contact>
+      <ogr:PhoneNum>847-1855</ogr:PhoneNum>
+      <ogr:Website>http://www.dempseycorner.com/events.htm</ogr:Website>
+      <ogr:Descriptio>Pumpkin pie, pumpkin bowling, pumpkin pickin', pumpkin painting, and chicken and pumpkin on a dumplin', BUT YOU HAVE TO PICK IT FIRST!</ogr:Descriptio>
+      <ogr:Longitude>-64.831670</ogr:Longitude>
+      <ogr:Latitude>45.060240</ogr:Latitude>
+      <ogr:Gadd>2717 Nova Scotia 221</ogr:Gadd>
+      <ogr:Gtown>Aylesford</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F18">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7208336.6658364115,5617108.241704274</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>549.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Fox Mountain Smokin' Blues Festival</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>6128 Aylesford Road</ogr:StreetAddr>
+      <ogr:Town>Morristown</ogr:Town>
+      <ogr:PhoneNum>691-4747</ogr:PhoneNum>
+      <ogr:Email>smokinentertainment@hotmail.com</ogr:Email>
+      <ogr:Website>http://www.ticketatlantic.com</ogr:Website>
+      <ogr:Descriptio>An annual event since 1999 held mid to end of June at the Fox Mountain Camping Park. Bluegrass bands come from all over eastern Canada and the US to play during this four-day event.</ogr:Descriptio>
+      <ogr:Longitude>-64.753590</ogr:Longitude>
+      <ogr:Latitude>44.971960</ogr:Latitude>
+      <ogr:Gadd>6128 Aylesford Road</ogr:Gadd>
+      <ogr:Gtown>Morristown</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F19">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164860.8387070987,5635934.6553485449</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>554.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Paddy's Music Sessions</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:StreetAddr>460 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1E2
+</ogr:PostalCode>
+      <ogr:Contact>Judy Jordan</ogr:Contact>
+      <ogr:ContactTit>Manager</ogr:ContactTit>
+      <ogr:PhoneNum>542-0059</ogr:PhoneNum>
+      <ogr:Email>judy@paddys.ca</ogr:Email>
+      <ogr:Website>http://www.paddyspub.ca/index.html</ogr:Website>
+      <ogr:Longitude>-64.363040</ogr:Longitude>
+      <ogr:Latitude>45.091480</ogr:Latitude>
+      <ogr:Gadd>460 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F20">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7165386.3466274412,5635384.3637504959</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>555.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Sunday Music in the Garden Room</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:StreetAddr>32 University Avenue</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R6</ogr:PostalCode>
+      <ogr:Contact>Chris Olsen</ogr:Contact>
+      <ogr:ContactTit>Series Manager</ogr:ContactTit>
+      <ogr:Email>christopher.olsen@utoronto.ca</ogr:Email>
+      <ogr:Website>http://artsacadia.acadiau.ca/Sunday_Music_in_the_Garden_Room.html</ogr:Website>
+      <ogr:Descriptio>A series of free Sunday afternoon concerts entirely supported by donations from individual members of the Associated Alumni of Acadia University and by the AAAU board of directors.</ogr:Descriptio>
+      <ogr:Longitude>-64.367830</ogr:Longitude>
+      <ogr:Latitude>45.088030</ogr:Latitude>
+      <ogr:Gadd>32 University Avenue</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F21">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7168537.7214879999,5634916.0905044191</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>542.000000</ogr:CULTID>
+      <ogr:GISREADY>3.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Port Williams Day</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1045 Nova Scotia 1 Trunk</ogr:StreetAddr>
+      <ogr:Town>Port Williams</ogr:Town>
+      <ogr:PostalCode>B0P 1T0</ogr:PostalCode>
+      <ogr:Contact>Port Williams Village Office</ogr:Contact>
+      <ogr:ContactTit>Administrative Assistant</ogr:ContactTit>
+      <ogr:PhoneNum>542-3432</ogr:PhoneNum>
+      <ogr:Email>pwdlc@xcountry.tv</ogr:Email>
+      <ogr:Website>http://www.portwilliams.com</ogr:Website>
+      <ogr:Descriptio>Save the second Saturday in June to attend the Port Williams Day celebrations. One of the main events is a village wide yard sale, which boasts dozens of vendors and hundreds of shoppers.</ogr:Descriptio>
+      <ogr:Longitude>-64.396070</ogr:Longitude>
+      <ogr:Latitude>45.085020</ogr:Latitude>
+      <ogr:Gadd>1045 Nova Scotia 1 Trunk</ogr:Gadd>
+      <ogr:Gtown>Port Williams</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F22">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7159693.7652609842,5642437.4991669888</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>562.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Uncommon Common Art</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>462 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1A1</ogr:PostalCode>
+      <ogr:Contact>Terry Drahos</ogr:Contact>
+      <ogr:ContactTit>Organizer</ogr:ContactTit>
+      <ogr:Website>http://www.uncommoncommonart.com</ogr:Website>
+      <ogr:Descriptio>An environmental art project produced by the Alliance of Kings Artist designed to highlight two of Kings County?s greatest assets ? creative people and the beautiful environment.</ogr:Descriptio>
+      <ogr:Longitude>-64.363140</ogr:Longitude>
+      <ogr:Latitude>45.091500</ogr:Latitude>
+      <ogr:Gadd>462 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F23">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164993.3089011442,5635762.7841611579</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>560.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Annual Acadia Art Exhibition</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>10 Highland Avenue</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R6</ogr:PostalCode>
+      <ogr:Contact>Laurie Dalton</ogr:Contact>
+      <ogr:ContactTit>Gallery Manager</ogr:ContactTit>
+      <ogr:PhoneNum>585-1373</ogr:PhoneNum>
+      <ogr:Email>gallery@acadiau.ca</ogr:Email>
+      <ogr:Website>http://www.gallery.acadiau.ca</ogr:Website>
+      <ogr:Descriptio>The Annual Acadia Art Exhibition celebrates visual creativity in our community. This non-juried art exhibition features he diverse work of gallery members.</ogr:Descriptio>
+      <ogr:Longitude>-64.364230</ogr:Longitude>
+      <ogr:Latitude>45.090310</ogr:Latitude>
+      <ogr:Gadd>10 Highland Avenue</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F24">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7163950.2452724092,5635882.6206061626</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>546.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Mudcreek Days</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>7 Victoria Avenue</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1A1</ogr:PostalCode>
+      <ogr:Contact>Town Hall</ogr:Contact>
+      <ogr:PhoneNum>542-5767</ogr:PhoneNum>
+      <ogr:Email>jboyd@wolfville.ca</ogr:Email>
+      <ogr:Website>http://www.wolfville.ca</ogr:Website>
+      <ogr:Longitude>-64.354860</ogr:Longitude>
+      <ogr:Latitude>45.091150</ogr:Latitude>
+      <ogr:Gadd>7 Victoria Avenue</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F25">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7179696.3872451177,5633703.7385467337</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>511.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Kentville Harvest Festival</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>401 Nova Scotia 1 Trunk</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 2N1</ogr:PostalCode>
+      <ogr:Contact>Belinda Atwell</ogr:Contact>
+      <ogr:Website>http://www.annapolis-valley-vacation.com/harvest-festivals.html</ogr:Website>
+      <ogr:Descriptio>Kentville celebrates the season with live performances, food and craft vendors, children's games and activities, pony and hay rides, and the famous pumpkin people displays.</ogr:Descriptio>
+      <ogr:Longitude>-64.496310</ogr:Longitude>
+      <ogr:Latitude>45.077250</ogr:Latitude>
+      <ogr:Gadd>401 Nova Scotia 1 Trunk</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F26">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7179631.8219404574,5633566.590666825</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>523.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Wayzgoose</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Literature</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>47 Church Avenue</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 2M7</ogr:PostalCode>
+      <ogr:Contact>Kevin Estey</ogr:Contact>
+      <ogr:ContactTit>Contact Person</ogr:ContactTit>
+      <ogr:PhoneNum>678-6002</ogr:PhoneNum>
+      <ogr:Email>info@gaspereau.com</ogr:Email>
+      <ogr:Descriptio>The Gaspereau Press wayzgoose in Kentville has become an annual public event to celebrate the process of creating books, from authors and writing, to typesetting, printing and binding.</ogr:Descriptio>
+      <ogr:Longitude>-64.495730</ogr:Longitude>
+      <ogr:Latitude>45.076380</ogr:Latitude>
+      <ogr:Gadd>47 Church Avenue</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F27">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164973.2713928008,5636134.9130712962</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>561.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>The Great Pumpkin Mosaic</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>24 Elm Avenue</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1Z9 
+</ogr:PostalCode>
+      <ogr:Contact>Deborah Nicholson</ogr:Contact>
+      <ogr:ContactTit>Coordinator</ogr:ContactTit>
+      <ogr:PhoneNum>582-7959</ogr:PhoneNum>
+      <ogr:Email>www.allianceofkingsartists@gmail.com</ogr:Email>
+      <ogr:Website>http://allianceofkingsartists.blogspot.com/p/pumpkin-mosaic.html</ogr:Website>
+      <ogr:Descriptio>The Great Pumpkin Mosaic has been an important fund-raising initiative for the Alliance of Kings Artists since its inception in 2005.</ogr:Descriptio>
+      <ogr:Longitude>-64.364050</ogr:Longitude>
+      <ogr:Latitude>45.092670</ogr:Latitude>
+      <ogr:Gadd>24 Elm Ave</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F28">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7165223.7402470838,5649565.4983837865</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>533.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Kingsport Gala Days</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>29 Medford Rd</ogr:StreetAddr>
+      <ogr:Town>Kingsport</ogr:Town>
+      <ogr:PostalCode>B0P 1T0</ogr:PostalCode>
+      <ogr:Contact>Liz Huyer</ogr:Contact>
+      <ogr:ContactTit>Contact person</ogr:ContactTit>
+      <ogr:PhoneNum>582-2481</ogr:PhoneNum>
+      <ogr:Email>kingsportnovascotia@hotmail.com</ogr:Email>
+      <ogr:Website>http://www.kingsport.ca</ogr:Website>
+      <ogr:Descriptio>The Kingsport Gala Days are held on a weekend in mid to late June.</ogr:Descriptio>
+      <ogr:Longitude>-64.366300</ogr:Longitude>
+      <ogr:Latitude>45.177860</ogr:Latitude>
+      <ogr:Gadd>29 Medford Road</ogr:Gadd>
+      <ogr:Gtown>Kingsport</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F29">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7206880.6068968354,5628581.8153764252</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>508.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Kings County 4-H Achievement Days</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>250 Veterans Drive</ogr:StreetAddr>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PhoneNum>538-9070</ogr:PhoneNum>
+      <ogr:Email>info@kmccberwick.ca</ogr:Email>
+      <ogr:Descriptio>Through out the year members, ages 9 to 21 from both farm and non-farm families work hard at training animals and creating a variety of projects while learning new skills and practicing old ones.</ogr:Descriptio>
+      <ogr:Longitude>-64.740510</ogr:Longitude>
+      <ogr:Latitude>45.044750</ogr:Latitude>
+      <ogr:Gadd>250 Veterans Drive</ogr:Gadd>
+      <ogr:Gtown>Berwick</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F30">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7178316.025559281,5634920.8204154912</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>529.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Apple Blossom Festival</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>217 Belcher Street</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1E2</ogr:PostalCode>
+      <ogr:Contact>Rose Stevenson-Davidson</ogr:Contact>
+      <ogr:ContactTit>President</ogr:ContactTit>
+      <ogr:PhoneNum>678-8322</ogr:PhoneNum>
+      <ogr:Email>info@appleblossom.com</ogr:Email>
+      <ogr:Website>http://www.appleblossom.com</ogr:Website>
+      <ogr:Descriptio>The Apple Blossom Festival is an annual agricultural and heritage celebration held in Nova Scotia's Annapolis Valley usually the last weekend of May.</ogr:Descriptio>
+      <ogr:Longitude>-64.483910</ogr:Longitude>
+      <ogr:Latitude>45.085050</ogr:Latitude>
+      <ogr:Gadd>217 Belcher Street</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F31">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7172731.126706183,5633038.5120075261</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>541.000000</ogr:CULTID>
+      <ogr:GISREADY>3.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Winter Carnival Celebrations</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>9443 Commercial Street</ogr:StreetAddr>
+      <ogr:Town>New Minas</ogr:Town>
+      <ogr:PostalCode>B4N 3G1</ogr:PostalCode>
+      <ogr:Contact>John Ansara</ogr:Contact>
+      <ogr:ContactTit>New Minas Recreation Department</ogr:ContactTit>
+      <ogr:PhoneNum>681-6577</ogr:PhoneNum>
+      <ogr:Email>village.newminas@ns.aliantzinc.ca</ogr:Email>
+      <ogr:Website>http://www.newminas.com/winteractivities.htm</ogr:Website>
+      <ogr:Descriptio>Come and enjoy: tobogganing, snowshoeing, bonfire, wagon rides, a snow sculpture contest, barbequed hot dogs, and a free hot chocolate and coffee.</ogr:Descriptio>
+      <ogr:Longitude>-64.433740</ogr:Longitude>
+      <ogr:Latitude>45.073030</ogr:Latitude>
+      <ogr:Gadd>9443 Commercial Street</ogr:Gadd>
+      <ogr:Gtown>New Minas</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F32">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7172723.4142656252,5633019.5963313356</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>537.000000</ogr:CULTID>
+      <ogr:GISREADY>3.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>New Minas Canada Day Celebrations</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>9443 Commercial Street</ogr:StreetAddr>
+      <ogr:Town>New Minas</ogr:Town>
+      <ogr:PostalCode>B4N 3G1</ogr:PostalCode>
+      <ogr:Contact>John Ansara</ogr:Contact>
+      <ogr:ContactTit>New Minas Recreation Department</ogr:ContactTit>
+      <ogr:PhoneNum>681-6577</ogr:PhoneNum>
+      <ogr:Email>village.newminas@ns.aliantzinc.ca</ogr:Email>
+      <ogr:Website>http://www.newminas.com/canada_day.htm</ogr:Website>
+      <ogr:Descriptio>This event offers fun activities for the entire family including live music, face painting, wagon rides, soap slides and balloon twisting.</ogr:Descriptio>
+      <ogr:Longitude>-64.433740</ogr:Longitude>
+      <ogr:Latitude>45.073030</ogr:Latitude>
+      <ogr:Gadd>9443 Commercial Street</ogr:Gadd>
+      <ogr:Gtown>New Minas</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F33">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7172738.8391467398,5633019.5963313356</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>512.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>New Minas Family Fun Fall Harvest Festival</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>9443 Commercial Street</ogr:StreetAddr>
+      <ogr:Town>New Minas</ogr:Town>
+      <ogr:PostalCode>B4N 1L4</ogr:PostalCode>
+      <ogr:Contact>John Ansara</ogr:Contact>
+      <ogr:ContactTit>New Minas Recreation Department</ogr:ContactTit>
+      <ogr:PhoneNum>681-6577</ogr:PhoneNum>
+      <ogr:Email>village.newminas@ns.aliantzinc.ca</ogr:Email>
+      <ogr:Website>http://www.annapolis-valley-vacation.com/lockhart-ryan-memorial-park.html</ogr:Website>
+      <ogr:Descriptio>Entertainment, vendors, wagon and pony rides, magic show, BBQ, corn boil, contest and more! A fun day for the whole family to get out and enjoy the Fall Harvest Festival.</ogr:Descriptio>
+      <ogr:Longitude>-64.433740</ogr:Longitude>
+      <ogr:Latitude>45.073030</ogr:Latitude>
+      <ogr:Gadd>9443 Commercial Street</ogr:Gadd>
+      <ogr:Gtown>New Minas</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F34">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7216094.5211497936,5640385.5269574784</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>527.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Burlingtons Canada Day</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>2222 Long Point Road</ogr:StreetAddr>
+      <ogr:Town>Burlington</ogr:Town>
+      <ogr:PostalCode>B0N 1E0</ogr:PostalCode>
+      <ogr:Contact>Brian Hirtle</ogr:Contact>
+      <ogr:ContactTit>Organizer</ogr:ContactTit>
+      <ogr:PhoneNum>538-7192</ogr:PhoneNum>
+      <ogr:Email>BrianHirtle@eastlink.ca</ogr:Email>
+      <ogr:Descriptio>The Burlington Community Club holds Canada Day celebrations each year. A street parade, horse pulls, musical entertainment, games of chance, bingo, barbecue, and other activities are all part of the fun.</ogr:Descriptio>
+      <ogr:Longitude>-64.823280</ogr:Longitude>
+      <ogr:Latitude>45.119700</ogr:Latitude>
+      <ogr:Gadd>2222 Long Point Road</ogr:Gadd>
+      <ogr:Gtown>Burlington</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F35">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164892.0081645204,5635944.1162430998</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>551.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Deep Roots Music Festival</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>466 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1E2</ogr:PostalCode>
+      <ogr:Contact>Lisa Hammet-Vaughan</ogr:Contact>
+      <ogr:ContactTit>Festival Committee Chair</ogr:ContactTit>
+      <ogr:PhoneNum>542-7668</ogr:PhoneNum>
+      <ogr:Email>office@deeprootsmusic.ca</ogr:Email>
+      <ogr:Website>http://www.deeprootsmusic.ca</ogr:Website>
+      <ogr:Descriptio>The Festival brings together some of the finest folk and roots singers, songwriters and musicians in the world for a weekend of concerts, workshops and celebration.</ogr:Descriptio>
+      <ogr:Longitude>-64.363320</ogr:Longitude>
+      <ogr:Latitude>45.091460</ogr:Latitude>
+      <ogr:Gadd>466 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F36">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7169164.0812061606,5633211.6637769984</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>547.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Race Relations and Anti- Discrimination Committee Celebration of Multiculturalism and Inclusion</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>153 Nova Scotia 101</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R2
+</ogr:PostalCode>
+      <ogr:Contact>Warden Diana Brothers</ogr:Contact>
+      <ogr:ContactTit>Committee Chair</ogr:ContactTit>
+      <ogr:PhoneNum>690-6132</ogr:PhoneNum>
+      <ogr:Email>Warden.brothers@county.kings.ns.ca</ogr:Email>
+      <ogr:Descriptio>The event is a celebration of inclusion and diversity and is intended to provide people with the opportunity to experience some of what other cultures have to offer.</ogr:Descriptio>
+      <ogr:Longitude>-64.346970</ogr:Longitude>
+      <ogr:Latitude>45.082670</ogr:Latitude>
+      <ogr:Gadd>153 Nova Scotia 101</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F37">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7230940.0884419838,5619697.0624041203</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>535.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>The Kingston Steer BBQ and Village Fair</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1489 Westwood Ave</ogr:StreetAddr>
+      <ogr:Town>Kingston</ogr:Town>
+      <ogr:PostalCode>B0P 1R0</ogr:PostalCode>
+      <ogr:Contact>Glen Abriel</ogr:Contact>
+      <ogr:ContactTit>Recreation Coordinator
+</ogr:ContactTit>
+      <ogr:PhoneNum>765-2800</ogr:PhoneNum>
+      <ogr:Email>gabriel@kingstonnovascotia.ca
+</ogr:Email>
+      <ogr:Website>http://www.kingstonnovascotia.ca</ogr:Website>
+      <ogr:Descriptio>Held at the Western Kings Arena grounds in July and is the longest running steer BBQ in North America.</ogr:Descriptio>
+      <ogr:Longitude>-64.956640</ogr:Longitude>
+      <ogr:Latitude>44.988410</ogr:Latitude>
+      <ogr:Gadd>1489 Westwood Ave</ogr:Gadd>
+      <ogr:Gtown>Kingston</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F38">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7206610.1005342063,5628638.5345830908</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>526.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Berwick Winter Carnival Day</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>205 Cottage Street</ogr:StreetAddr>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>B0P 1E0</ogr:PostalCode>
+      <ogr:Contact>Carol Boylan</ogr:Contact>
+      <ogr:ContactTit>Recreation Coordinator</ogr:ContactTit>
+      <ogr:PhoneNum>538-8616</ogr:PhoneNum>
+      <ogr:Email>berwickvic@destinationsouthwestnova.com</ogr:Email>
+      <ogr:Website>http://www.town.berwick.ns.ca/special-events.html</ogr:Website>
+      <ogr:Descriptio>The Berwick Winter Carnival is a one day fun-filled event held mid-February. It is put on by the Berwick Recreation and its community partners. There is food, fun and games from sun rise until after sun set.</ogr:Descriptio>
+      <ogr:Longitude>-64.738080</ogr:Longitude>
+      <ogr:Latitude>45.045110</ogr:Latitude>
+      <ogr:Gadd>205 Cottage Street</ogr:Gadd>
+      <ogr:Gtown>Berwick</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F39">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7206610.1005342063,5628613.3260027291</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>525.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Berwick Gala Days</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>205 Cottage Street</ogr:StreetAddr>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>B0P 1E0</ogr:PostalCode>
+      <ogr:Contact>Carol Boylan-Hartling</ogr:Contact>
+      <ogr:ContactTit>Recreation Coordinator</ogr:ContactTit>
+      <ogr:PhoneNum>538-8616</ogr:PhoneNum>
+      <ogr:Email>berwickvic@destinationsouthwestnova.com</ogr:Email>
+      <ogr:Website>http://www.acmuseum.ednet.ns.ca</ogr:Website>
+      <ogr:Descriptio>You can enjoy lots of entertainment, a Midway, Craft Fair and a Parade at the Berwick Gala Days during the Labor Day weekend.</ogr:Descriptio>
+      <ogr:Longitude>-64.738080</ogr:Longitude>
+      <ogr:Latitude>45.045110</ogr:Latitude>
+      <ogr:Gadd>205 Cottage Street</ogr:Gadd>
+      <ogr:Gtown>Berwick</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F40">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7179733.1226770803,5633836.1591707822</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>548.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Rosie's Music Sessions</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:StreetAddr>42 Aberdeen Street</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 2N1</ogr:PostalCode>
+      <ogr:Contact>Judy Jordan</ogr:Contact>
+      <ogr:ContactTit>Manager</ogr:ContactTit>
+      <ogr:PhoneNum>678-3199</ogr:PhoneNum>
+      <ogr:Email>judy@paddys.ca</ogr:Email>
+      <ogr:Website>http://www.paddyspub.ca/index.html</ogr:Website>
+      <ogr:Longitude>-64.496640</ogr:Longitude>
+      <ogr:Latitude>45.078170</ogr:Latitude>
+      <ogr:Gadd>42 Aberdeen Street</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F41">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7161671.5352958711,5632745.323489733</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>516.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Back to Back Challenge</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Craft (Shearing &amp; Knitting)</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>830 Gaspereau River Road</ogr:StreetAddr>
+      <ogr:Town>Gaspereau</ogr:Town>
+      <ogr:PostalCode>B4P 2N5</ogr:PostalCode>
+      <ogr:Contact>Brenda Gilmour</ogr:Contact>
+      <ogr:ContactTit>Contact Person</ogr:ContactTit>
+      <ogr:PhoneNum>542-2656</ogr:PhoneNum>
+      <ogr:Email>brenda@gaspereauvalleyfibres.ca</ogr:Email>
+      <ogr:Website>http://www.gaspereauvalleyfibres.ca</ogr:Website>
+      <ogr:Descriptio>An international fundraiser race to shear a sheep, spin the wool and knit a sweater all in one sitting.</ogr:Descriptio>
+      <ogr:Longitude>-64.334390</ogr:Longitude>
+      <ogr:Latitude>45.071170</ogr:Latitude>
+      <ogr:Gadd>830 Gaspereau River Road</ogr:Gadd>
+      <ogr:Gtown>Gaspereau</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F42">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7230886.6550864028,5619580.5888595376</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>534.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Kingston New Year's Event</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1490 Westwood Street</ogr:StreetAddr>
+      <ogr:Town>Kingston</ogr:Town>
+      <ogr:PostalCode>B0P 1R0</ogr:PostalCode>
+      <ogr:Contact>Glen Abriel</ogr:Contact>
+      <ogr:ContactTit>Recreation Coordinator
+</ogr:ContactTit>
+      <ogr:PhoneNum>765-2800</ogr:PhoneNum>
+      <ogr:Email>gabriel@kingstonnovascotia.ca</ogr:Email>
+      <ogr:Website>http://www.kingstonnovascotia.ca</ogr:Website>
+      <ogr:Descriptio>This popular family event begins at 7pm with skating, sleigh rides, entertainment, balloon animals, hot dogs, hot chocolate, cider, and ends with fireworks.</ogr:Descriptio>
+      <ogr:Longitude>-64.956160</ogr:Longitude>
+      <ogr:Latitude>44.987670</ogr:Latitude>
+      <ogr:Gadd>1490 Westwood Street</ogr:Gadd>
+      <ogr:Gtown>Kingston</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F43">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164829.6692496762,5635950.4235116597</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>613.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Wanda's Theatre Festival</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Theatre</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>450 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:Contact>Wanda Carroll</ogr:Contact>
+      <ogr:ContactTit>Producer</ogr:ContactTit>
+      <ogr:PhoneNum>542-9511</ogr:PhoneNum>
+      <ogr:Email>wandacarroll@xcountry.tv</ogr:Email>
+      <ogr:Website>http://wandacarroll.com/wordpress/?page_id=61</ogr:Website>
+      <ogr:Descriptio>A theatre festival paying tribute to female comedy.</ogr:Descriptio>
+      <ogr:Longitude>-64.362760</ogr:Longitude>
+      <ogr:Latitude>45.091500</ogr:Latitude>
+      <ogr:Gadd>450 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F44">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164823.944866525,5635947.472270051</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>612.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Annapolis Valley Short Film Festival</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Film</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>450 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PhoneNum>542-7790</ogr:PhoneNum>
+      <ogr:Email>info@avshortfilmfest.ca</ogr:Email>
+      <ogr:Website>http://avshortfilmfest.ca</ogr:Website>
+      <ogr:Descriptio>The AVSFF offers independent, low budget filmmakers the opportunity to show their films, and the opportunity for film lovers to see creative and unique films shot in Nova Scotia.</ogr:Descriptio>
+      <ogr:Longitude>-64.362760</ogr:Longitude>
+      <ogr:Latitude>45.091500</ogr:Latitude>
+      <ogr:Gadd>450 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F45">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164820.8989858683,5635939.9994683089</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>552.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Night Kitchen</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumSeats>160</ogr:NumSeats>
+      <ogr:StreetAddr>450 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R3</ogr:PostalCode>
+      <ogr:Contact>Ariana Nasr</ogr:Contact>
+      <ogr:Email>nightkitchen@wolfville.org</ogr:Email>
+      <ogr:Website>http://nightkitchen.wolfville.org</ogr:Website>
+      <ogr:Descriptio>A community event featuring performances of Wolfville area (and beyond) artists.</ogr:Descriptio>
+      <ogr:Longitude>-64.362760</ogr:Longitude>
+      <ogr:Latitude>45.091500</ogr:Latitude>
+      <ogr:Gadd>450 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F46">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164821.9568091193,5635931.5017192392</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>550.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>AMP Festival</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumSeats>160</ogr:NumSeats>
+      <ogr:StreetAddr>450 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1E2</ogr:PostalCode>
+      <ogr:Contact>Andy Flinn</ogr:Contact>
+      <ogr:ContactTit>Organizer</ogr:ContactTit>
+      <ogr:Website>http://www.ampfest.ca</ogr:Website>
+      <ogr:Longitude>-64.362760</ogr:Longitude>
+      <ogr:Latitude>45.091500</ogr:Latitude>
+      <ogr:Gadd>450 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F47">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7164826.6233690204,5635925.9552117707</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>517.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Slow Food Film Festival</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Film</ogr:Discipline>
+      <ogr:NumSeats>160</ogr:NumSeats>
+      <ogr:StreetAddr>450 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R3</ogr:PostalCode>
+      <ogr:PhoneNum>542-3344</ogr:PhoneNum>
+      <ogr:Email>manager@alwhittletheatre.ca</ogr:Email>
+      <ogr:Website>http://slowmotionfilmfest.ca</ogr:Website>
+      <ogr:Longitude>-64.362760</ogr:Longitude>
+      <ogr:Latitude>45.091500</ogr:Latitude>
+      <ogr:Gadd>450 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F48">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7177945.3316549398,5645743.0550929336</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>557.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Sheffield Mills Eagle Watch</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Nature</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>98 Black Hole Road</ogr:StreetAddr>
+      <ogr:Town>Sheffield Mills</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Richard Hennigar</ogr:Contact>
+      <ogr:ContactTit>Organizer</ogr:ContactTit>
+      <ogr:PhoneNum>800-565-0000</ogr:PhoneNum>
+      <ogr:Website>http://www.eaglens.ca</ogr:Website>
+      <ogr:Descriptio>Hundreds of Bald Eagles come to our area each year, and our community hosts this event to share these spectacular birds with anyone who is interested.</ogr:Descriptio>
+      <ogr:Longitude>-64.480580</ogr:Longitude>
+      <ogr:Latitude>45.153570</ogr:Latitude>
+      <ogr:Gadd>98 Black Hole Road</ogr:Gadd>
+      <ogr:Gtown>Sheffield Mills</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F49">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7177945.3316549398,5645717.7985818312</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>513.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Sheffield Mills Harvest Festival</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>98 Black Hole Road</ogr:StreetAddr>
+      <ogr:Town>Sheffield Mills</ogr:Town>
+      <ogr:Contact>Richard Hennigar</ogr:Contact>
+      <ogr:ContactTit>Contact Person</ogr:ContactTit>
+      <ogr:PhoneNum>582-3044</ogr:PhoneNum>
+      <ogr:Descriptio>Head out to Sheffield Mills on the first Saturday of September for their Annual Harvest Festival. The events are free of charge and you will be welcomed into a true country atmosphere.</ogr:Descriptio>
+      <ogr:Longitude>-64.480580</ogr:Longitude>
+      <ogr:Latitude>45.153570</ogr:Latitude>
+      <ogr:Gadd>98 Black Hole Road</ogr:Gadd>
+      <ogr:Gtown>Sheffield Mills</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F50">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7170830.9029983422,5623223.4600216011</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>509.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>New Farmers Gathering</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1229 Deep Hallow Road</ogr:StreetAddr>
+      <ogr:Town>Black River</ogr:Town>
+      <ogr:PostalCode>B4P 2R2</ogr:PostalCode>
+      <ogr:PhoneNum>691-6303</ogr:PhoneNum>
+      <ogr:Email>new.farmers.gathering@gmail.com</ogr:Email>
+      <ogr:Website>http://www.thedandelion.ca/thegathering</ogr:Website>
+      <ogr:Descriptio>Held on the third week of June, the New Farmers Gathering is for anyone interested in backyard gardening, small scale sustainable agriculture, or just want to know where their food comes from.</ogr:Descriptio>
+      <ogr:Longitude>-64.416670</ogr:Longitude>
+      <ogr:Latitude>45.010810</ogr:Latitude>
+      <ogr:Gadd>1229 Deep Hallow Road</ogr:Gadd>
+      <ogr:Gtown>Black River</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/FestivalsandEvents.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F51">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7165144.000733437,5635923.8322863821</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>1003.000000</ogr:CULTID>
+      <ogr:GISREADY>0.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Acadia craft expo</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Food/Craft</ogr:Discipline>
+      <ogr:StreetAddr>550 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R6</ogr:PostalCode>
+      <ogr:Contact>Darwin Event Group</ogr:Contact>
+      <ogr:ContactTit>Organizers</ogr:ContactTit>
+      <ogr:PhoneNum>679-7177</ogr:PhoneNum>
+      <ogr:Email>matthew@darwineventgroup.com</ogr:Email>
+      <ogr:Website>http://www.acadiacraftexpo.com/</ogr:Website>
+      <ogr:Descriptio>Some of the finest artisans and craftspeople from across Canada will come together in November to create a unique marketplace selling to thousands of eager shoppers.</ogr:Descriptio>
+      <ogr:Longitude>0.000000</ogr:Longitude>
+      <ogr:Latitude>0.000000</ogr:Latitude>
+      <ogr:F23>AV_Cultural/png/Festivals&amp;Events.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F52">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7169534.2734000776,5632902.6762309372</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>1004.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Horton high school food &amp; craft fair</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Food &amp; Crafts</ogr:Discipline>
+      <ogr:StreetAddr>75 Greenwich Rd S.</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:Contact>Horton High School Parents Association</ogr:Contact>
+      <ogr:ContactTit>Organizers</ogr:ContactTit>
+      <ogr:PhoneNum>542-6060</ogr:PhoneNum>
+      <ogr:Descriptio>Featuring a Large Variety of Crafters &amp; Artisans! Horton High Music Students will entertain you while you enjoy our Tea &amp; Barbeque.</ogr:Descriptio>
+      <ogr:Longitude>0.000000</ogr:Longitude>
+      <ogr:Latitude>0.000000</ogr:Latitude>
+      <ogr:F23>AV_Cultural/png/Festivals&amp;Events.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F53">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7177947.7851977181,5632814.8392645819</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>1017.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Rhododendron Sunday</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Gardening</ogr:Discipline>
+      <ogr:StreetAddr>32 Main Street</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PhoneNum>679-5333</ogr:PhoneNum>
+      <ogr:Descriptio>Tour Atlantic Canada?s largest collection of rhododendrons and azaleas are in full display beginning of June.</ogr:Descriptio>
+      <ogr:Longitude>0.000000</ogr:Longitude>
+      <ogr:Latitude>0.000000</ogr:Latitude>
+      <ogr:F23>AV_Cultural/png/Festivals&amp;Events.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="F54">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7170486.7101360159,5633632.6515310686</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>1018.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Greenwich Women's Association Annual Tea</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:StreetAddr>9798 Highway 1</ogr:StreetAddr>
+      <ogr:Town>Greenwich</ogr:Town>
+      <ogr:PhoneNum>542-3498</ogr:PhoneNum>
+      <ogr:Email>jdhennigar@xcountry.tv</ogr:Email>
+      <ogr:Descriptio>Held in June, the Greenwich Women's Association invite everyone to a community tea. Events include cake walks, touch and take, book sales, fashion shows, and more!</ogr:Descriptio>
+      <ogr:Longitude>0.000000</ogr:Longitude>
+      <ogr:Latitude>0.000000</ogr:Latitude>
+      <ogr:F23>AV_Cultural/png/Festivals&amp;Events.png</ogr:F23>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="FestivalsandEvents05.55">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7158966.937766281,5638631.8770383233</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>520.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Acadian National Holiday August 15</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>Grand Pre National Historic Site</ogr:StreetAddr>
+      <ogr:Town>Grand Pre</ogr:Town>
+      <ogr:PostalCode>n/a</ogr:PostalCode>
+      <ogr:Contact>Victor Tetrault</ogr:Contact>
+      <ogr:ContactTit>n/a</ogr:ContactTit>
+      <ogr:PhoneNum>542-1952</ogr:PhoneNum>
+      <ogr:Email>vtetrault@grand-pre.com</ogr:Email>
+      <ogr:Website>http://www.grand-pre.com/en/15-august-acadian-national-holiday.html</ogr:Website>
+      <ogr:Descriptio>The National Acadian Day is observed in Canada each year on August 15, celebrating the Assumption of Mary.</ogr:Descriptio>
+      <ogr:Public>n/a</ogr:Public>
+      <ogr:Longitude>396939.770000</ogr:Longitude>
+      <ogr:Latitude>4995847.510000</ogr:Latitude>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="FestivalsandEvents05.56">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7158966.937766281,5638631.8770383233</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>521.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Commemoration of the Deportation September 5</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>Grand Pre National Historic Site</ogr:StreetAddr>
+      <ogr:Town>Grand Pre</ogr:Town>
+      <ogr:PostalCode>n/a</ogr:PostalCode>
+      <ogr:Contact>Victor Tetrault</ogr:Contact>
+      <ogr:ContactTit>n/a</ogr:ContactTit>
+      <ogr:PhoneNum>542-1952</ogr:PhoneNum>
+      <ogr:Email>vtetrault@grand-pre.com</ogr:Email>
+      <ogr:Website>http://www.grand-pre.com/en/5-september-2011.html</ogr:Website>
+      <ogr:Descriptio>The annual reading of the Order of Deportation to commemorate the deportation of the Acadians from the Grand-Pr? region.</ogr:Descriptio>
+      <ogr:Public>n/a</ogr:Public>
+      <ogr:Longitude>396939.770000</ogr:Longitude>
+      <ogr:Latitude>4995847.510000</ogr:Latitude>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:FestivalsandEvents05 fid="FestivalsandEvents05.57">
+      <ogr:geometryProperty><gml:Point><gml:coordinates>-7159202.355831177,5638835.1323499857</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>522.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>July 28 Commemoration</ogr:Organizati>
+      <ogr:Criteria>Festivals &amp; Events</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>Covenanter Church</ogr:StreetAddr>
+      <ogr:Town>Grand Pre</ogr:Town>
+      <ogr:PostalCode>n/a</ogr:PostalCode>
+      <ogr:Contact>Victor Tetrault</ogr:Contact>
+      <ogr:ContactTit>n/a</ogr:ContactTit>
+      <ogr:PhoneNum>542-1952</ogr:PhoneNum>
+      <ogr:Email>vtetrault@grand-pre.com</ogr:Email>
+      <ogr:Website>http://www.grand-pre.com/en/july-28-commemoration.html</ogr:Website>
+      <ogr:Descriptio>Since 2005, the United Church of Canada has rung the bells at the Covenanter Church in Grand-Pr? at exactly 5:55 p.m. (17:55) to pay tribute to the thousands of Acadians deported in 1755.</ogr:Descriptio>
+      <ogr:Public>n/a</ogr:Public>
+      <ogr:Longitude>396775.730000</ogr:Longitude>
+      <ogr:Latitude>4995993.360000</ogr:Latitude>
+    </ogr:FestivalsandEvents05>
+  </gml:featureMember>
+</ogr:FeatureCollection>

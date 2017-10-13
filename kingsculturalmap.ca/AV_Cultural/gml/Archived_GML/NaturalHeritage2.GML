@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://ogr.maptools.org/ NaturalHeritage.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-7217028.491677551</gml:X><gml:Y>5631010.031985153</gml:Y></gml:coord>
+      <gml:coord><gml:X>-7144580.65387438</gml:X><gml:Y>5652825.568822035</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>                     
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Natural_Heritage fid="F0">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7168298.3845827943,5639478.4557527965</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>580.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>TapRoot Farms</ogr:Organizati>
+      <ogr:Criteria>Natural Heritage</ogr:Criteria>
+      <ogr:Discipline>Agriculture</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1736 Church Street</ogr:StreetAddr>
+      <ogr:Town>Port Williams</ogr:Town>
+      <ogr:PostalCode>B0P 1T0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>542 3277</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://www.taprootfarms.ca/</ogr:Website>
+      <ogr:Descriptio>Tucked in the heartland of the Annapolis Valley's farming belt, Taproot Farms merges deeply-held family farming traditions with the most established organic heritage in Nova Scotia.</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.393920</ogr:Longitude>
+      <ogr:Latitude>45.113950</ogr:Latitude>
+      <ogr:Gadd>1736 Church Street</ogr:Gadd>
+      <ogr:Gtown>Port Williams</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>None</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Natural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Natural_Heritage fid="F1">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7217028.4916775506,5631010.0319851525</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>581.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Dempsey Corner Orchards</ogr:Organizati>
+      <ogr:Criteria>Natural Heritage</ogr:Criteria>
+      <ogr:Discipline>Agri-tourism</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>2717 Nova Scotia 221</ogr:StreetAddr>
+      <ogr:Town>Aylesford</ogr:Town>
+      <ogr:PostalCode>B0P 1C0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>847-1855</ogr:PhoneNum>
+      <ogr:Email>dempseycornerorchards@ns.aliantzinc.ca</ogr:Email>
+      <ogr:Website>http://www.dempseycorner.com</ogr:Website>
+      <ogr:Descriptio>The ultimate agri-adventure!</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.831670</ogr:Longitude>
+      <ogr:Latitude>45.060240</ogr:Latitude>
+      <ogr:Gadd>2717 Nova Scotia 221</ogr:Gadd>
+      <ogr:Gtown>Aylesford</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>None</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Natural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Natural_Heritage fid="F2">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7144580.6538743796,5631608.9140815251</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>583.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Blue Beach Fossil Museum &amp; Research Centre</ogr:Organizati>
+      <ogr:Criteria>Natural Heritage</ogr:Criteria>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>127 Blue Beach Road</ogr:StreetAddr>
+      <ogr:Town>Hantsport</ogr:Town>
+      <ogr:PostalCode>B0P 1P1</ogr:PostalCode>
+      <ogr:Contact>Chris Mansky or Sonja Wood</ogr:Contact>
+      <ogr:ContactTit>684-9541</ogr:ContactTit>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>bbfossil@glinx.com</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.180860</ogr:Longitude>
+      <ogr:Latitude>45.064040</ogr:Latitude>
+      <ogr:Gadd>127 Blue Beach Road</ogr:Gadd>
+      <ogr:Gtown>Hantsport</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>None</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Natural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Natural_Heritage fid="F3">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7170680.6216857685,5652825.5688220346</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>584.000000</ogr:CULTID>
+      <ogr:GISREADY>2.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Look Off</ogr:Organizati>
+      <ogr:Criteria>Natural Heritage</ogr:Criteria>
+      <ogr:Discipline>Park</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>Nova Scotia 358</ogr:StreetAddr>
+      <ogr:Town>Upper Blomidon</ogr:Town>
+      <ogr:PostalCode>B0P 1H1</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.415320</ogr:Longitude>
+      <ogr:Latitude>45.198500</ogr:Latitude>
+      <ogr:Gadd>Nova Scotia 358</ogr:Gadd>
+      <ogr:Gtown>Upper Blomidon</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>None</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Natural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Natural_Heritage fid="F4">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7169118.8092299411,5649257.5586477295</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>588.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Blomidon Provincial Park</ogr:Organizati>
+      <ogr:Criteria>Natural Heritage</ogr:Criteria>
+      <ogr:Discipline>Provincial Park</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>3138 Pereau Road</ogr:StreetAddr>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>582-7319</ogr:ContactTit>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://www.novascotiaparks.ca/parks/blomidon.asp</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.401290</ogr:Longitude>
+      <ogr:Latitude>45.175910</ogr:Latitude>
+      <ogr:Gadd>3138 Pereau Road</ogr:Gadd>
+      <ogr:Gtown>Canning</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>None</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Natural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Natural_Heritage fid="F5">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7177933.0865109507,5632814.6790516842</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>589.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Agricultural Research Station Gardens</ogr:Organizati>
+      <ogr:Criteria>Natural Heritage</ogr:Criteria>
+      <ogr:Discipline>Public Garden</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>32 Main Street</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1J5
+</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>679-5333</ogr:ContactTit>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.480470</ogr:Longitude>
+      <ogr:Latitude>45.071690</ogr:Latitude>
+      <ogr:Gadd>32 Main Street</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>None</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Natural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Natural_Heritage fid="F6">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7163512.7596735926,5636054.4940806283</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>590.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Blomidon Inn Victorian Gardens</ogr:Organizati>
+      <ogr:Criteria>Natural Heritage</ogr:Criteria>
+      <ogr:Discipline>Public Garden</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>195 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1C4</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>542-2291</ogr:ContactTit>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>innkeeper@blomidon.ns.ca</ogr:Email>
+      <ogr:Website>http://www.blomidon.ns.ca/</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.350930</ogr:Longitude>
+      <ogr:Latitude>45.092240</ogr:Latitude>
+      <ogr:Gadd>195 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>None</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Natural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Natural_Heritage fid="F7">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7165394.0590679962,5635390.6706270436</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>591.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Harriet Irving Botanical Gardens</ogr:Organizati>
+      <ogr:Criteria>Natural Heritage</ogr:Criteria>
+      <ogr:Discipline>Public Garden</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>32 University Avenue</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R7</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>585-2665</ogr:ContactTit>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://botanicalgardens.acadiau.ca/botanical-gardens.html</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.367830</ogr:Longitude>
+      <ogr:Latitude>45.088030</ogr:Latitude>
+      <ogr:Gadd>32 University Avenue</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>None</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Natural_Heritage>
+  </gml:featureMember>
+</ogr:FeatureCollection>

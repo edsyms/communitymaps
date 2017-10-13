@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://ogr.maptools.org/ CulturalFacility.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-7242096.9842192</gml:X><gml:Y>5613814.824468156</gml:Y></gml:coord>
+      <gml:coord><gml:X>-7149104.232702255</gml:X><gml:Y>5656374.529590326</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>                      
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F0">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164973.0821496639,5636121.9513736684</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>83</ogr:Cult_ID>
+      <ogr:Org>Wolfville Farmers Market</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Food/Craft</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>24 Elm Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>697-3344</ogr:PhoneNum>
+      <ogr:Email>info@wolfvillefarmersmarket.ca</ogr:Email>
+      <ogr:Website>http://www.wolfvillefarmersmarket.ca</ogr:Website>
+      <ogr:Mandate>The Wolfville Farmers' Market started in 1992 with 3 vendors and now boasts over</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F1">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7206422.1932337489,5628792.8914093459</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>85</ogr:Cult_ID>
+      <ogr:Org>Berwick Farmers Market</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Food/Craft</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>236 Commercial Street</ogr:StrAddress>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>Patricia Peters</ogr:Contact>
+      <ogr:Title>Contact person</ogr:Title>
+      <ogr:PhoneNum>847-3288</ogr:PhoneNum>
+      <ogr:Email>committee@berwickfarmersmarket.com</ogr:Email>
+      <ogr:Website>http://www.berwickfarmersmarket.com</ogr:Website>
+      <ogr:Mandate>The members of the Berwick Farmers? Market Cooperative are as intent on creating</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F2">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7163155.891650008,5636086.5196749819</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>117</ogr:Cult_ID>
+      <ogr:Org>Al Whittle Theatre</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Theatre/Film</ogr:Discipline>
+      <ogr:NumbrSeats>160</ogr:NumbrSeats>
+      <ogr:StrAddress>150 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1E2</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>Theatre Manager</ogr:Title>
+      <ogr:PhoneNum>542-3344</ogr:PhoneNum>
+      <ogr:Email>manager@alwhittletheatre.ca</ogr:Email>
+      <ogr:Website>http://www.alwhittletheatre.ca</ogr:Website>
+      <ogr:Mandate>A soft-seat venue in Wolfville, owned and operated by the volunteer-run Acadia C</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F3">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7179812.4266823214,5634096.8600809798</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>119</ogr:Cult_ID>
+      <ogr:Org>CentreStage Theatre</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Theatre</ogr:Discipline>
+      <ogr:NumbrSeats>100</ogr:NumbrSeats>
+      <ogr:StrAddress>61 River Street</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1G8</ogr:PostalCode>
+      <ogr:Contact>George Henry</ogr:Contact>
+      <ogr:Title>Chair of Board</ogr:Title>
+      <ogr:PhoneNum>678-3502</ogr:PhoneNum>
+      <ogr:Email>centrestage@centrestagetheatre.ca</ogr:Email>
+      <ogr:Website>http://www.centrestagetheatre.ca</ogr:Website>
+      <ogr:Mandate>CentreStage now produces eight different plays a year, each of them running for</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F4">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7172335.9647777649,5656374.5295903264</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>121</ogr:Cult_ID>
+      <ogr:Org>Theatre off the Grid</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Theatre</ogr:Discipline>
+      <ogr:NumbrSeats>None</ogr:NumbrSeats>
+      <ogr:StrAddress>555 Ross Creek Road</ogr:StrAddress>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Ken Schwartz</ogr:Contact>
+      <ogr:Title>Artistic Director</ogr:Title>
+      <ogr:PhoneNum>582-3073</ogr:PhoneNum>
+      <ogr:Email>mail@twoplanks.ca</ogr:Email>
+      <ogr:Website>http://www.twoplanks.ca</ogr:Website>
+      <ogr:Mandate>Our award-winning Theatre Off The Grid, set on 186 acres at the Ross Creek Centr</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F5">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7172335.9647777649,5656374.5295903264</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>122</ogr:Cult_ID>
+      <ogr:Org>Ross Creek Centre for the Arts</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>555 Ross Creek Road</ogr:StrAddress>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Chris O'Neill</ogr:Contact>
+      <ogr:Title>Executive Director</ogr:Title>
+      <ogr:PhoneNum>582-3842</ogr:PhoneNum>
+      <ogr:Email>mail@artscentre.ca</ogr:Email>
+      <ogr:Website>http://www.artscentre.ca</ogr:Website>
+      <ogr:Mandate>The Ross Creek Centre for the Arts is a multi disciplinary arts education and de</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F6">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7163937.9333367273,5636065.9419166408</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>125</ogr:Cult_ID>
+      <ogr:Org>Carriage House Gallery</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>246 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B0P 1X0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-3500</ogr:PhoneNum>
+      <ogr:Email>sheriff.kip@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>Monday to Saturday 12:00pm to 7:00pm in season.</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F7">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7180172.9014574075,5634763.6152685871</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>128</ogr:Cult_ID>
+      <ogr:Org>Apple Bin Art Gallery</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>150 Exhibition Street</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 5E5</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>678-5414</ogr:PhoneNum>
+      <ogr:Email>vrh.foundation@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>http://www.vrhfoundation.ca/apple-bin-gallery</ogr:Website>
+      <ogr:Mandate>Open 10:00am-4:00pm &amp; 6:30pm-8:30pm</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F8">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7163641.8123592688,5636074.5356873954</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>133</ogr:Cult_ID>
+      <ogr:Org>Edgemere Gallery and Crafts</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Visual Art/Craft</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>215 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B0P 1X0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-1046</ogr:PhoneNum>
+      <ogr:Email>edgemere@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>Fine arts and handcrafts by Atlantic Canadians with an emphasis on the best of N</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F9">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164830.2258471297,5635937.8089789553</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>153</ogr:Cult_ID>
+      <ogr:Org>Jack?s Gallery</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>450 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1E2</ogr:PostalCode>
+      <ogr:Contact>Barbara Kaiser</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-4526</ogr:PhoneNum>
+      <ogr:Email>jacksgallerywolfville@gmail.com</ogr:Email>
+      <ogr:Website>http://www.acadiacinema.coop/jacksgallery</ogr:Website>
+      <ogr:Mandate>Jack?s Gallery opened on January 8, 2009 in the Acadia Cinema?s Al Whittle Theat</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F10">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164992.9081509775,5635750.3591051986</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>155</ogr:Cult_ID>
+      <ogr:Org>Acadia University Art Gallery</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>10 Highland Avenue</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R6</ogr:PostalCode>
+      <ogr:Contact>Laurie Dalton</ogr:Contact>
+      <ogr:Title>Gallery Director</ogr:Title>
+      <ogr:PhoneNum>585-1373</ogr:PhoneNum>
+      <ogr:Email>artgallery@acadiau.ca</ogr:Email>
+      <ogr:Website>http://gallery.acadiau.ca/Acadia_Art_Gallery/Welcome.html</ogr:Website>
+      <ogr:Mandate>Opened in 1978, the Acadia University Art Gallery offers a year-round exhibition</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F11">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7178187.5628669048,5634918.8180861678</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>156</ogr:Cult_ID>
+      <ogr:Org>NSCC Grow with Art Gallery</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>236 Belcher Street</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 0A6</ogr:PostalCode>
+      <ogr:Contact>Irene Hazell</ogr:Contact>
+      <ogr:Title>Contact Person</ogr:Title>
+      <ogr:PhoneNum>542-0234</ogr:PhoneNum>
+      <ogr:Email>irenehazell@hotmail.com</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F12">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7206103.1738370322,5627235.40621386</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>189</ogr:Cult_ID>
+      <ogr:Org>Berwick Camp</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>115 Commercial Street</ogr:StrAddress>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>Gordon Cameron</ogr:Contact>
+      <ogr:Title>President</ogr:Title>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>gcameron@obestates.ca</ogr:Email>
+      <ogr:Website>http://www.berwickcamp.org</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F13">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7168818.7698064065,5633413.2239762926</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>192</ogr:Cult_ID>
+      <ogr:Org>Old Orchard Heritage Barn</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>153 Greenwich Road South</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R2</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-5751</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://www.oldorchardinn.com</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F14">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164541.6634630952,5635979.3896992365</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>193</ogr:Cult_ID>
+      <ogr:Org>Atlantic Festival Theatre</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>514</ogr:NumbrSeats>
+      <ogr:StrAddress>386 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1C9</ogr:PostalCode>
+      <ogr:Contact>Bob Cassie</ogr:Contact>
+      <ogr:Title>Theater Manager</ogr:Title>
+      <ogr:PhoneNum>585-1579</ogr:PhoneNum>
+      <ogr:Email>bob.cassie@acadiau.ca</ogr:Email>
+      <ogr:Website>http://virtualtour.acadiau.ca/festival-theatre.html</ogr:Website>
+      <ogr:Mandate>Constructed in Acadia's 60-year-old former hockey rink, Atlantic Festival Theatr</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F15">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7165405.3802602123,5635468.2928718636</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>194</ogr:Cult_ID>
+      <ogr:Org>University Hall</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>1600</ogr:NumbrSeats>
+      <ogr:StrAddress>13 University Avenue</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R6</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>585-2201</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://virtualtour.acadiau.ca/university-hall.html</ogr:Website>
+      <ogr:Mandate>One of Acadia?s iconic buildings, University Hall is a highly anticipated destin</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F16">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7165104.7063155789,5635619.3609543266</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>195</ogr:Cult_ID>
+      <ogr:Org>Harvey Denton Hall</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>400</ogr:NumbrSeats>
+      <ogr:StrAddress>12 Horton Avenue</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R6</ogr:PostalCode>
+      <ogr:Contact>Barbara Jordan</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>585-1512</ogr:PhoneNum>
+      <ogr:Email>barbara.jordan@acadiau.ca</ogr:Email>
+      <ogr:Website>http://virtualtour.acadiau.ca/harvey-denton-hall.html</ogr:Website>
+      <ogr:Mandate>Appreciation for good music and theatre can be found in Harvey Denton Hall?home</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F17">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7165394.1147277439,5635390.5444894712</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>196</ogr:Cult_ID>
+      <ogr:Org>K.C. Irving Centre</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>None</ogr:NumbrSeats>
+      <ogr:StrAddress>32 University Avenue</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R6</ogr:PostalCode>
+      <ogr:Contact>Peter Romkey</ogr:Contact>
+      <ogr:Title>Executive Director</ogr:Title>
+      <ogr:PhoneNum>585-1757</ogr:PhoneNum>
+      <ogr:Email>peter.romkey@acadiau.ca</ogr:Email>
+      <ogr:Website>http://kcirvingcentre.acadiau.ca/welcome.html</ogr:Website>
+      <ogr:Mandate>The main building of The K.C. Irving Environmental Science Centre contains state</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F18">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7206880.8406677665,5628568.6439672727</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>197</ogr:Cult_ID>
+      <ogr:Org>Appledome</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>250 Veterans Drive</ogr:StrAddress>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>B0P 1E0</ogr:PostalCode>
+      <ogr:Contact>Bob Best</ogr:Contact>
+      <ogr:Title>Arena Manager</ogr:Title>
+      <ogr:PhoneNum>538-9070</ogr:PhoneNum>
+      <ogr:Email>info@kmccberwick.ca</ogr:Email>
+      <ogr:Website>http://kmccberwick.ca/index.html</ogr:Website>
+      <ogr:Mandate>It will assure future generations of Berwick and District the activities-recreat</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F19">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7179523.9533538772,5634125.0635887403</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>203</ogr:Cult_ID>
+      <ogr:Org>Kentville Public Library</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Literature</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>95 Cornwallis Street</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 2E5</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>679-2544</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F20">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164962.3620827012,5636089.972958575</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>204</ogr:Cult_ID>
+      <ogr:Org>Wolfville Memorial Library</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Literature</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>21 Elm Avenue</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2A1</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-5760</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F21">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7242096.9842192,5613814.8244681563</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>205</ogr:Cult_ID>
+      <ogr:Org>Kingston Public Library</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Literature</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>671 Main Street</ogr:StrAddress>
+      <ogr:Town>Kingston</ogr:Town>
+      <ogr:PostalCode>B0P 1R0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>765-3631</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F22">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7206422.1932337489,5628792.8914093459</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>206</ogr:Cult_ID>
+      <ogr:Org>Berwick Public Library</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Literature</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>236 Commercial Street</ogr:StrAddress>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>B0P 1E0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>538-4030</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F23">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7165126.4024843341,5635634.4032546859</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>208</ogr:Cult_ID>
+      <ogr:Org>Vaughan Memorial Library</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Literature</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>50 Acadia Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R6</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>585 1249</ogr:PhoneNum>
+      <ogr:Email>libweb@acadiau.ca</ogr:Email>
+      <ogr:Website>http://library.acadiau.ca</ogr:Website>
+      <ogr:Mandate>The Library is a very popular destination on campus. Our main floor is a hub of</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F24">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7180427.9566747127,5634064.9203850823</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>564</ogr:Cult_ID>
+      <ogr:Org>Kentville Lions Hall</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>78 River Street</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>Peggy LeBlanc</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>679-2367
+</ogr:PhoneNum>
+      <ogr:Email>kentvillelions@gmail.com</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F25">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7165007.1570457956,5636281.3563210154</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>565</ogr:Cult_ID>
+      <ogr:Org>Wolfville &amp; District Lions Hall</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>36 Elm Ave</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1Z9</ogr:PostalCode>
+      <ogr:Contact>Debbie and Gordon Arnold</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>678-0071</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F26">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7221149.984504682,5624317.3957395004</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>566</ogr:Cult_ID>
+      <ogr:Org>Aylesford &amp; District Lions Hall</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>2160 Highway #1 Auburn</ogr:StrAddress>
+      <ogr:Town>Aylesford</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>Bob Bellingham</ogr:Contact>
+      <ogr:Title>Secretary</ogr:Title>
+      <ogr:PhoneNum>847-9414</ogr:PhoneNum>
+      <ogr:Email>bojean@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F27">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7191178.6476300238,5631558.4330885895</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>567</ogr:Cult_ID>
+      <ogr:Org>Coldbrook &amp; District Lions Hall</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1416 South Bishop Road</ogr:StrAddress>
+      <ogr:Town>Coldbrook</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>679-2858</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F28">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7206880.8406677665,5628568.6439672727</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>568</ogr:Cult_ID>
+      <ogr:Org>Berwick Lions Hall</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>250 Veterans Avenue</ogr:StrAddress>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>B0P 1E0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>538-3663</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F29">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7229899.9525158601,5619430.6707333848</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>569</ogr:Cult_ID>
+      <ogr:Org>Kingston Lions Hall</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1482 Veterans Lane</ogr:StrAddress>
+      <ogr:Town>Kingston</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>765-2128</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F30">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7171156.6126964549,5646563.3935576268</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>570</ogr:Cult_ID>
+      <ogr:Org>Canning District Lions Hall</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1000 Seminary Avenue</ogr:StrAddress>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>582-7286</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F31">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7174170.4543262934,5632139.0525112627</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>571</ogr:Cult_ID>
+      <ogr:Org>New Minas District Lions Hall</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>9209 Commercial Street</ogr:StrAddress>
+      <ogr:Town>New Minas</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>582-7980</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F32">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164230.4364307364,5636013.527976769</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>572</ogr:Cult_ID>
+      <ogr:Org>Royal Canadian Legion, Doctor C.B. Lumsden Branch</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>310 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1C4</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-5869</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F33">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7206434.0710234148,5629599.034017737</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>575</ogr:Cult_ID>
+      <ogr:Org>Berwick Legion Hall</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>232 Main Street</ogr:StrAddress>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>538-9340</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F34">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164971.0227390863,5636111.8122484954</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>577</ogr:Cult_ID>
+      <ogr:Org>Wolfville Curling Club</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>22 Elm Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1Z9</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-3819</ogr:PhoneNum>
+      <ogr:Email>wolfcurl@gmail.com</ogr:Email>
+      <ogr:Website>http://www.wolfvillecurlingclub.ca</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F35">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7169244.5557267414,5634427.3937128549</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>580</ogr:Cult_ID>
+      <ogr:Org>Greenwich Community Centre</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>106 Greenwich Road</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F36">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7229696.3491671998,5637676.1162208952</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>581</ogr:Cult_ID>
+      <ogr:Org>Morden Community Hall</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>2321 Morden Road</ogr:StrAddress>
+      <ogr:Town>Morden</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+	  <ogr:Thumb>AV_Cultural\png\panhand.png</ogr:Thumb>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F37">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7212614.2842493793,5633286.3898514668</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>582</ogr:Cult_ID>
+      <ogr:Org>Burlington Community hall</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1124 Long Point Road</ogr:StrAddress>
+      <ogr:Town>Burlington</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F38">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7154325.3505913904,5633601.0666098129</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>586</ogr:Cult_ID>
+      <ogr:Org>West Brooklyn Hall</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>410 West Brooklyn Mountain Road</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R3</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F39">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7149104.2327022552,5634208.6026131343</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>587</ogr:Cult_ID>
+      <ogr:Org>Lockhartville Community Hall</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>204 Hutchinson Road</ogr:StrAddress>
+      <ogr:Town>Avonport</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>684-0977</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F40">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7207230.2725493666,5623743.2007259401</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>588</ogr:Cult_ID>
+      <ogr:Org>Windermere Community Hall</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>402 Windermere Road</ogr:StrAddress>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>brucebeattie155@gmail.com</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F41">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7205647.7991960458,5646724.4517411953</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>589</ogr:Cult_ID>
+      <ogr:Org>Black Rock Culture and Recreation Centre</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>4404 Black Rock Road</ogr:StrAddress>
+      <ogr:Town>Waterville</ogr:Town>
+      <ogr:PostalCode>B0P 1V0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>538-7412</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F42">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7166829.1899433061,5635106.0772196064</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>590</ogr:Cult_ID>
+      <ogr:Org>Port Williams Community Centre</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1045 Main Street</ogr:StrAddress>
+      <ogr:Town>Port Williams</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Facility fid="F43">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7157531.5189054729,5638082.1548954351</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>591</ogr:Cult_ID>
+      <ogr:Org>Horton Community Centre</ogr:Org>
+      <ogr:Type>Cultural Facility</ogr:Type>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>11794 Nova Scotia 1 Trunk</ogr:StrAddress>
+      <ogr:Town>Grand Pre</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Facility>
+  </gml:featureMember>
+</ogr:FeatureCollection>

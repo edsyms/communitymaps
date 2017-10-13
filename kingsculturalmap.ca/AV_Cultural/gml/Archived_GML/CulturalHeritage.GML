@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://ogr.maptools.org/ CulturalHeritage.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-7206246.063535416</gml:X><gml:Y>5628072.618929218</gml:Y></gml:coord>
+      <gml:coord><gml:X>-7158354.537296755</gml:X><gml:Y>5646647.569068778</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>                    
+  <gml:featureMember>
+    <ogr:Cultural_Heritage fid="F0">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7158826.2313750945,5638703.0375516703</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>491</ogr:Cult_ID>
+      <ogr:Org>Grand Pre National Historic Site</ogr:Org>
+      <ogr:Type>Cultural Heritage</ogr:Type>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>2205 Grand Pre Road</ogr:StrAddress>
+      <ogr:Town>Grand Pre</ogr:Town>
+      <ogr:PostalCode>B0P 1M0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-3631</ogr:PhoneNum>
+      <ogr:Email>grandpre.info@pc.gc.ca</ogr:Email>
+      <ogr:Website>http://www.pc.gc.ca/lhn-nhs/ns/grandpre/index_e.asp</ogr:Website>
+      <ogr:Mandate>This site commemorates the Acadians of Minas Basin and the event which took them</ogr:Mandate>
+    </ogr:Cultural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Heritage fid="F1">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7190178.5755886342,5643398.6059473576</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>492</ogr:Cult_ID>
+      <ogr:Org>Northville Farm Heritage Centre</ogr:Org>
+      <ogr:Type>Cultural Heritage</ogr:Type>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1158 Steadman Road</ogr:StrAddress>
+      <ogr:Town>Billtown</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>Pat Reeves</ogr:Contact>
+      <ogr:Title>Secretary</ogr:Title>
+      <ogr:PhoneNum>538-9902</ogr:PhoneNum>
+      <ogr:Email>info@northvillefarm.ca</ogr:Email>
+      <ogr:Website>http://www.northvillefarm.ca</ogr:Website>
+      <ogr:Mandate>The heritage centre preserves and demonstrates farm life and the farming methods</ogr:Mandate>
+    </ogr:Cultural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Heritage fid="F2">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164003.0218429947,5636020.5921722949</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>493</ogr:Cult_ID>
+      <ogr:Org>Randall House Museum</ogr:Org>
+      <ogr:Type>Cultural Heritage</ogr:Type>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>259 Main Street</ogr:StrAddress>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1C6</ogr:PostalCode>
+      <ogr:Contact>Bonnie Elliott or John Whidden</ogr:Contact>
+      <ogr:Title>Contacts</ogr:Title>
+      <ogr:PhoneNum>542-9775</ogr:PhoneNum>
+      <ogr:Email>randallhouse@ns.aliantzinc.ca</ogr:Email>
+      <ogr:Website>http://wolfvillehs.ednet.ns.ca</ogr:Website>
+      <ogr:Mandate>The Randall House is a historic Horton farmhouse, maintained and operated by the</ogr:Mandate>
+    </ogr:Cultural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Heritage fid="F3">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7166964.0980341984,5638209.5770602748</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>494</ogr:Cult_ID>
+      <ogr:Org>Prescott House Museum</ogr:Org>
+      <ogr:Type>Cultural Heritage</ogr:Type>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1633 Starr's Point Road</ogr:StrAddress>
+      <ogr:Town>Port Williams</ogr:Town>
+      <ogr:PostalCode>B0P 1T0</ogr:PostalCode>
+      <ogr:Contact>Nancy Morton</ogr:Contact>
+      <ogr:Title>Site Manager</ogr:Title>
+      <ogr:PhoneNum>542-3984</ogr:PhoneNum>
+      <ogr:Email>mortonni@ednet.ns.ca</ogr:Email>
+      <ogr:Website>http://museum.gov.ns.ca/prh</ogr:Website>
+      <ogr:Mandate>The Prescott house is one of the best surviving examples of Georgian architectur</ogr:Mandate>
+    </ogr:Cultural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Heritage fid="F4">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7190783.8530559232,5639572.9919684185</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>495</ogr:Cult_ID>
+      <ogr:Org>Valley Medical Heritage Museum</ogr:Org>
+      <ogr:Type>Cultural Heritage</ogr:Type>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>6745 Nova Scotia 221</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 3V7</ogr:PostalCode>
+      <ogr:Contact>Vilda Skerry</ogr:Contact>
+      <ogr:Title>President</ogr:Title>
+      <ogr:PhoneNum>678-3025</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Heritage fid="F5">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7201960.3855913151,5637294.4455223251</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>496</ogr:Cult_ID>
+      <ogr:Org>Don's Train Museum</ogr:Org>
+      <ogr:Type>Cultural Heritage</ogr:Type>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>2756 Black Rock Road</ogr:StrAddress>
+      <ogr:Town>Grafton</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>Don Foster</ogr:Contact>
+      <ogr:Title>Contact Person</ogr:Title>
+      <ogr:PhoneNum>538-1203</ogr:PhoneNum>
+      <ogr:Email>fosters@glinx.com</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Heritage fid="F6">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164681.5364032779,5646647.5690687783</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>497</ogr:Cult_ID>
+      <ogr:Org>Skoda Heritage Society of Kingsport</ogr:Org>
+      <ogr:Type>Cultural Heritage</ogr:Type>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>23 Main Street, Kingsport</ogr:StrAddress>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>Richard Harvie</ogr:Contact>
+      <ogr:Title>Contact Person</ogr:Title>
+      <ogr:PhoneNum>582-3668</ogr:PhoneNum>
+      <ogr:Email>harvie@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Heritage fid="F7">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7182703.5274416115,5641391.8677180652</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>499</ogr:Cult_ID>
+      <ogr:Org>Charles MacDonald House Gallery &amp; Cultural Centre</ogr:Org>
+      <ogr:Type>Cultural Heritage</ogr:Type>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>19 Saxon Street</ogr:StrAddress>
+      <ogr:Town>Centreville</ogr:Town>
+      <ogr:PostalCode>B0P 1J0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>678-3177</ogr:PhoneNum>
+      <ogr:Email>info@concretehouse.ca</ogr:Email>
+      <ogr:Website>http://www.concretehouse.ca</ogr:Website>
+      <ogr:Mandate>On the road to Halls Harbour, north of Kentville, is a delightful landmark in ou</ogr:Mandate>
+    </ogr:Cultural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Heritage fid="F8">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7171477.5801842585,5646394.2871471066</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>501</ogr:Cult_ID>
+      <ogr:Org>Wilf Carter Centre/Canning Heritage Centre</ogr:Org>
+      <ogr:Type>Cultural Heritage</ogr:Type>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>9806 Main Street</ogr:StrAddress>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>582 7699</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://fieldwoodhs.ednet.ns.ca</ogr:Website>
+      <ogr:Mandate>The Canning Heritage Centre is operated by the Fieldwood Heritage Society. They</ogr:Mandate>
+    </ogr:Cultural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Heritage fid="F9">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7179453.3434008677,5633810.4473473169</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>503</ogr:Cult_ID>
+      <ogr:Org>Kings Courthouse Museum</ogr:Org>
+      <ogr:Type>Cultural Heritage</ogr:Type>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>37 Cornwallis Street</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 2E2</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>678-6237</ogr:PhoneNum>
+      <ogr:Email>museum@okcm.ca</ogr:Email>
+      <ogr:Website>http://www.okcm.ca</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Heritage fid="F10">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7179375.4531531595,5633586.5006260313</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>504</ogr:Cult_ID>
+      <ogr:Org>Cornwallis Inn</ogr:Org>
+      <ogr:Type>Cultural Heritage</ogr:Type>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>325 Main Street</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1K5</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>678-0955</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Heritage fid="F11">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7177933.4872611193,5632814.2219337299</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>506</ogr:Cult_ID>
+      <ogr:Org>Blair House Museum</ogr:Org>
+      <ogr:Type>Cultural Heritage</ogr:Type>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>32 Main Street</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1J5</ogr:PostalCode>
+      <ogr:Contact>Dela Erith</ogr:Contact>
+      <ogr:Title>Executive Director</ogr:Title>
+      <ogr:PhoneNum>678-1093</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://www.nsapples.com/museumb.htm</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Heritage fid="F12">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7179928.811209945,5633741.5255191801</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>507</ogr:Cult_ID>
+      <ogr:Org>Kentville Volunteer Fire Department Museum</ogr:Org>
+      <ogr:Type>Cultural Heritage</ogr:Type>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>463 Main Street</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1K9</ogr:PostalCode>
+      <ogr:Contact>Art Hamilton</ogr:Contact>
+      <ogr:Title>Contact Person</ogr:Title>
+      <ogr:PhoneNum>678-7798 ext 7</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Heritage fid="F13">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7179742.8074727794,5634089.1195026245</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>508</ogr:Cult_ID>
+      <ogr:Org>Kentville Legion War Museum</ogr:Org>
+      <ogr:Type>Cultural Heritage</ogr:Type>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>37 River Street</ogr:StrAddress>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1G8</ogr:PostalCode>
+      <ogr:Contact>Don Taggart</ogr:Contact>
+      <ogr:Title>Curator</ogr:Title>
+      <ogr:PhoneNum>679-0720</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>The Museum is a wonderful tribute to the memory of our local veterans. The artif</ogr:Mandate>
+    </ogr:Cultural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Heritage fid="F14">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7206246.0635354156,5628072.6189292176</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>509</ogr:Cult_ID>
+      <ogr:Org>Apple Capital Interpretive Centre &amp; Berwick Historical Society</ogr:Org>
+      <ogr:Type>Cultural Heritage</ogr:Type>
+      <ogr:Discipline>Heritage</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>173 Commercial Street</ogr:StrAddress>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>B0P 1E0</ogr:PostalCode>
+      <ogr:Contact>Deputy Chair John Rainforth</ogr:Contact>
+      <ogr:Title>Contact Person</ogr:Title>
+      <ogr:PhoneNum>538-9229 (summer) 538-9768 (winter)</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://www.acmuseum.ednet.ns.ca</ogr:Website>
+      <ogr:Mandate>None</ogr:Mandate>
+    </ogr:Cultural_Heritage>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:Cultural_Heritage fid="F15">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7158354.5372967552,5637269.81198732</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:Cult_ID>512</ogr:Cult_ID>
+      <ogr:Org>Grand Pre Covenanter Church</ogr:Org>
+      <ogr:Type>Cultural Heritage</ogr:Type>
+      <ogr:Discipline>Church</ogr:Discipline>
+      <ogr:NumbrSeats>n/a</ogr:NumbrSeats>
+      <ogr:StrAddress>1989 Grand Pre Road</ogr:StrAddress>
+      <ogr:Town>Grand Pre</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:Title>None</ogr:Title>
+      <ogr:PhoneNum>542-3796</ogr:PhoneNum>
+      <ogr:Email>officewolfuc@eastlink.ca</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Mandate>The old Covenanter Church was built by Presbyterians in 1804. It is now in the t</ogr:Mandate>
+    </ogr:Cultural_Heritage>
+  </gml:featureMember>
+</ogr:FeatureCollection>

@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+
+
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+<html lang="en" class="no-js">
+	
+	<head>
+	
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Ecological Design</title>
+
+		<meta name="description" content="A free HTML5/CSS3 template made exclusively for Codrops by Peter Finlan" />
+		<meta name="keywords" content="html5 template, css3, one page, animations, agency, portfolio, web design" />
+		<meta name="author" content="Peter Finlan" />
+		
+<style>
+#map { height: 500px; } 
+
+
+
+figure {
+    position: relative;
+} 
+
+
+.imgCredit {
+    position: absolute;
+    bottom: 4px;
+    left: 16px;
+    font-size: 10px;
+    color: rgba(255,255,255,0.8);
+	text-shadow: black 0.1em 0.1em 0.2em;
+	/* background-color: rgba(255,255,255,0.8);*/
+}
+	
+	table.tableizer-table {
+		font-size: 11px;
+		border: 1px solid #CCC; 
+		font-family: Arial, Helvetica, sans-serif;
+		margin: 0 auto; /* or margin: 0 auto 0 auto */
+		overflow-y: scroll;
+	} 
+	
+	.tableizer-table tr:hover {
+		background-color:#70a970;
+		}
+	
+	tbody tr:nth-child(odd) {
+		background-color:  #9fc69f;
+	}
+
+		
+	.tableizer-table td {
+		padding: 4px;
+		margin: 3px;
+		border: 3px solid #CCC;
+		word-wrap: break-word;
+		max-width: 350px;
+		min-width: 50px;
+	}
+	.tableizer-table th {
+		font-size: 13px;
+		background-color: #104E8B; 
+		color: #CCC;
+		font-weight: bold;
+		text-align: center;
+		word-wrap: break-word;
+		max-width: 350px;
+		min-width: 50px;
+	}
+</style>
+
+	<!-- Bootstrap -->
+		<script src="js/modernizr.custom.js"></script>
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="css/jquery.fancybox.css" rel="stylesheet">
+		<link href="css/flickity.css" rel="stylesheet" >
+		<link href="css/animate.css" rel="stylesheet">
+		<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+		<link href='http://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
+		<link href="css/styles.css" rel="stylesheet">
+		<link href="css/queries.css" rel="stylesheet">
+		<link href="css/leaflet-search.css" rel="stylesheet">
+		
+		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
+			<link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/3.15/themes/css/cartodb.css" />
+			<link rel="stylesheet" href="css/leaflet.label.css" />
+		
+
+	
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+<!--  Link & Call fancy - http://www.granneman.com/webdev/coding/css/fancybox-a-better-lightbox/#link-to-fancybox -->
+		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/jquery.fancybox.pack.js"></script>
+
+<script type="text/javascript">
+		$(document).ready(function() {
+			$('.fancybox').fancybox();
+ 		});
+</script>
+		
+		
+</head>
+<body>
+
+		<!--[if lt IE 7]>
+		<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+		<![endif]-->
+		<!-- open/close -->
+		
+<header>
+			<section class="hero">
+				<div class="texture-overlay"></div>
+				<div class="container">
+					<div class="imgCredit">SandWand (2016); Sam Hudson</div>
+					<div class="row hero-content">
+						<div class="col-md-12">
+							
+							<h1 class="animated fadeInDown"></h1> </br></br></br></br></br></br></br></br></br></br></br></br>
+						</div>
+					</div>
+					<div class="row nav-wrapper">
+						<div class="col-md-6 col-sm-6 col-xs-6 text-left">
+							<a href="#"><img src="img/cogslogogiod.png" width="40%" alt="Boxify Logo"></a>
+						</div>
+						<div class="col-md-6 col-sm-6 col-xs-6 text-right navicon">
+							<p>MENU</p><a id="trigger-overlay" class="nav_slide_button nav-toggle" href="#"><span></span></a>
+						</div>
+					</div>
+				</div>
+			</section>
+		</header>
+		<section class="video" id="about">
+			<div class="container">
+				<div class="row">
+				
+	<script src="https://maps.googleapis.com/maps/api/js?v=3&sensor=false"></script>
+	
+	<script src="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
+	<script src="http://libs.cartocdn.com/cartodb.js/v3/3.15/cartodb.js"></script>
+	<script src="js/L.CartoDB.js"></script>
+	<script src="js/leaflet-search.js"></script>
+	<script src="js/leaflet.label.js"></script>
+	
+	
+				
+					<div class="col-md-12 text-center">
+				
+				<h1> Settlement Heirachy Used to Classify Our Communities</h1> <!--line 164 appoximately; before video-->
+						<div style="overflow-x:auto;">		
+						<table class="tableizer-table">
+						<thead><tr class="tableizer-firstrow"><th>Settlement</th><th>Code</th><th>Population Size </th><th>Description</th><th>Examples</th></tr></thead><tbody>
+						 
+						 <tr><td>Rural Area</td><td>0</td><td>Not Applicable</td><td>Relatively few isolated homes  if any and sparsely population (i.e.,  a population density less than 100 people/km<sup>2</sup>)  </td><td>Most of the Annapolis Valley, West Paradise</td></tr>
+						 
+						 <tr><td>Hamlet </td><td>1</td><td>&lt; 250</td><td>Small cluster of houses, typically lacks a compact core, few if any businesses (Density typically 100-300 people/km<sup>2</sup>)</td><td>Centrelea, Paradise, Granville Ferry, Margaretsville, Round Hill, Tupperville</td></tr>
+						 
+						 <tr><td>Village</td><td>2</td><td>500-1,500</td><td>Variable in size, villages may have a discernable but limited business centre/core; typically smaller than towns,  less complex economically (often lack bank & have limited business diversity) and offer fewer services.Density typically 300-500 people/km<sup>2</sup></td><td>Lawrencetown, Aylesford, Baddeck, Cambridge, Falmouth, Pugwash, Canning, Port Williams</td></tr>
+						 
+						 <tr><td>Town</td><td>3</td><td>1,500-7,500</td><td>Larger than villages, usually include a full range of businesses and services in an obvious commercial core; can support many amenities attributed to cities such as museums, universities, multiple financial institutions etc. Density typically 300-500 people/km<sup>2</sup></td><td>Middleton, Wolfville, Windsor, Pictou, Antigonish, Shelburne, Digby, Lunenburg (Chester,Tatamagouche, Weymouth)</td></tr>
+						 
+						 <tr><td>Large Town</td><td>4</td><td>7,500-30,000</td><td>Full size mall/big box  stores, franchises, transit emergent but difficult; Density typically > 500 people/km<sup>2</sup></td><td>Truro/BibleHill, New Glasgow, Glace Bay, Amherst, Yarmouth, Bridgewater, Kentville/New Minas, Kingston/Greenwood</td></tr>
+						 
+						 <tr><td>Small City</td><td>5</td><td>30,000- 100,000</td><td>Cities are larger than towns and more densely populated.  Frequently cities merge with, or incorporate surrounding areas and often the centre of power mainly rests in the cities not towns.Regional airport. Small transit system.</td><td>Sydney, Charlottetown, Fredericton, Red Deer, Nanimo, Lethbridge, Peterborough, Kamloops, Sault Ste. Marie, Prince George, Bellville, Fort Mac, Grand Prairie, North Bay, Brandon, Cornwall</td></tr>
+						 
+						 <tr><td>Medium Size City</td><td>6</td><td>100,000-300,000</td><td>More robust airport, museums, Costco? Symphony; Medical School; Not uncommon to have population density > 800 people/km<sup>2</sup></td><td>Thunder Bay, Moncton, St. John's, Saint John, Saskatoon, Regina, Barrie, Kelowna, Windsor, Guelph, Kingston, Sudbury</td></tr>
+						 
+						 <tr><td>Large City</td><td>7</td><td>300,000-1,000,000</td><td>Signficant Airport; Multiple Universities; Cultural center (ballet/opera); Large Business HQ; Attract more multicultural/diversity, Ikea?</td><td>Edmonton,Winnipeg, Hamilton, Quebec, St. Catharines–Niagara, Victoria, London, Kitchener, Halifax, Oshawa</td></tr>
+						 <tr><td>Metropolis</td><td>8</td><td>>1,000,000</td><td> Major League Sport Franchises, Large Interanational Airport; LRT/Subway:  Typically much Higher density (>1200 people/km<sup>2</sup>)</td><td>Toronto, Montreal, Vancouver, Calgary, Ottawa </td></tr>
+						</tbody></table>
+						</div>
+				
+					<h1><a href="https://www.youtube.com/watch?v=ju9Ui1lQHtA" class="youtube-media"><i class="fa fa-play-circle-o"></i> A video on ecological design</a></h1>
+		
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="features-intro">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-6 nopadding features-intro-img">
+						<div id="map"></div>						
+					</div>
+					<div class="col-md-6 nopadding">
+						<div class="features-slider">
+								<ul class="slides" id="featuresSlider">
+									<li>
+										<h1>Wholistic Site Assesments</h1>
+										<img src = "img/OldMillerTopoftheField_Cite.jpg" align="right" style="width:250px;height:195px;padding:5px;">
+										<p>Wholistic site assessments are a form of surveying that looks at the physical characteristics of a site through collection of information to determine ecological, social, and economic areas of value. This information my then be used to create value added services and/or products.  <a class="fancybox fancybox.iframe" href="http://www.silvafor.org/ebcp"> http://www.silvafor.org </p>
+										<div id ="map-navigation9" class="map-navigation"><a href="#" data-zoom="16" data-position="46.30950706, -61.07916713">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Wholistic Site Assesments example <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Environmental Monitoring</h1>
+										<img src = "img/Monitor_Cite.jpg" align="right" style="width:250px;height:195px;">
+										<p>Environmental monitoring is a wide ranging field encompassing the collection of data on features of interest such as air, water, soil, etc. most often this involves collecting samples at regular intervals over a set time period and analyzing these samples. <a class="fancybox fancybox.iframe" href="pdf/Env_Mon_Overview_and_Significance.pdf#page=1"> http://www.smu.ca</p>
+										<div id ="map-navigation3" class="map-navigation"><a href="#" data-zoom="16" data-position="44.6443, -63.3497">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Environmental Monitoring example <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Fish Habitat Restoration</h1>
+										<img src = "img/streamRestoration_Cite.jpg" align="right" style="width:250px;height:195px;">
+										<p>Fish habitat restoration is the process of maintaining or enhancing aquatic habitats through varied processes that range from connecting blockages between sections of streams to increasing the habitat value of individual stream sections. This often involves both data collect and physical restoration work. <a class="fancybox fancybox.iframe" href="http://nsadoptastream.org/?q=project-resources">http://nsadoptastream.org</p>
+										<div id ="map-navigation4" class="map-navigation"><a href="#" data-zoom="16" data-position="45.8180, -60.6732">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Fish Habitat Restoration example <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Living Shorelines</h1>
+										<img src = "img/LivingShoreline_cr_Cite.jpg" align="right" style="width:250px;height:195px;">
+										<p> Living shorelines are an erosion control technique that uses the strategic placement of
+										organic materials such as dirt, hay, sticks, logs, etc. combined with vegetation planted in these materials to reduce or eliminate erosion. This method of erosion mitigation is most effective against gradual erosion processes.
+										<a class="fancybox fancybox.iframe" href="http://www.habitat.noaa.gov/restoration/techniques/livingshorelines.html">http://www.habitat.noaa.gov</p>
+										<div id ="map-navigation5" class="map-navigation"><a href="#" data-zoom="16" data-position="44.66837819, -63.42292428">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Living Shorelines example <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Nutrient Bioextraxtion</h1>
+										<img src = "img/Mussels_Cite.jpg" align="right" style="width:250px;height:195px;">
+										<p>Nutrient bioextraction is the process of using cultivated seaweed and shellfish to convert nutrients from a potently harmful source of algae blooms into a useful and profitable crop. This often takes the form of placing species which take in the excess nutrients in strategic locations to harness this characteristic. <a class="fancybox fancybox.iframe" href="http://longislandsoundstudy.net/issues-actions/water-quality/nutrient-bioextraction-overview/"> http://longislandsoundstudy.net</p>
+										<div id ="map-navigation10" class="map-navigation"><a href="#" data-zoom="16" data-position="41.2648, -72.7520">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Nutrient Bioextraxtion example <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Beehives</h1>
+										<img src = "img/Beehive_Cite.jpg" align="right" style="width:250px;height:195px;">
+										<p>Beehives are the homes of bee colonies whether in the form of hollow logs or manufactured hives. These structures provide shelter to bees which are major pollinators that provide a wide range of natural services and products.  <a href="http://www.friendsofthehoneybee.com/learn-about-bees/life-inside-a-beehive/" target="_blank"> http://www.friendsofthehoneybee.com</p>
+										<div id ="map-navigation6" class="map-navigation"><a href="#" data-zoom="16" data-position="44.6165, -65.7750">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Beehives example <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Perennial Food Systems</h1>
+										<img src = "img/Sweet_chestnut_Cite.jpg" align="right" style="width:250px;height:195px;">
+										<p>Perennial food systems are a form of edible landscape focusing on the cultivation of a number of plants that bear year after year ranging from vegetables, to fruits, to nuts, to spices. This diverse range of species are often planted in complementary fashions in which each plant benefits the other in some way. <a class="fancybox fancybox.iframe" href="http://www.perennialsolutions.org/perennial-farming-systems-organic-agriculture-edible-permaculture-eric-toensmeier-large-scale-farmland.html">http://www.perennialsolutions.org</p>
+										<div id ="map-navigation1" class="map-navigation"><a href="#" data-zoom="16" data-position="44.29323431, -72.94051766">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Perennial Food Systems example <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Urban Greening</h1>
+										<img src = "img/UrbanGreening_Cite.JPG" align="right" style="width:250px;height:195px;">
+										<p>Urban greenery is any vegetation or “green space” contained within a predominantly urban setting. These pockets of nature have been scientifically proven to provide numerous benefits from positive physiological effects for local residents, to buffering against both extremes of hot and cold, to creating local pockets of wildlife habit. <a class="fancybox fancybox.iframe" href="https://www.asla.org/ContentDetail.aspx?id=43532"> https://www.asla.org </p>
+										<div id ="map-navigation11" class="map-navigation"><a href="#" data-zoom="17" data-position="44.8398, -65.29107">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Urban Greening example <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Grey Water</h1>
+										<img src = "img/Greywater_Cite.jpg" align="right" style="width:250px;height:195px;">
+										<p>Greywater is the by-product of household activities such as washing laundry, washing hands, bathing, etc (though not toilet use). Grey water may be used for a number of applications from irrigation to toilet flushing, and can be utilized using a number of designs, some simple some complex.  <a class="fancybox fancybox.iframe" href="http://greywateraction.org/contentabout-greywater-reuse/"> http://greywateraction.org</p>
+										<div id ="map-navigation8" class="map-navigation"><a href="#" data-zoom="16" data-position="39.2672, -77.5804">
+										<!-- <p><a href="#features" class="arrow-btn"> --> Grey Water example <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Composting Toilets</h1>
+										<img src = "img/Composingtoilet_Cite.jpg" align="right" style="width:250px;height:195px;">
+										<p>Composing toilets are lavatories constructed to compost the human body’s “waste” products into useable fertilizer using no or minimal water in the process. Varying in complexity and cost these systems may be as simple as a bucket to more complex systems which regulate environmental conditions for optimal composting.  <a class="fancybox fancybox.iframe" href="http://greywateraction.org/contentabout-composting-toilets/"> http://greywateraction.org</p>
+										<div id ="map-navigation7" class="map-navigation"><a href="#" data-zoom="16" data-position="39.1980, -77.4478">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Composting Toilets example <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Biogas</h1>
+										<img src = "img/Biogas_Cite.jpg" align="right" style="width:250px;height:195px;">
+										<p>Biogas is the methane released from organic material when it breaks down without oxygen. Methane is produced naturally by wetlands, bogs, etc. but this process may also be replicated in a contained system to capture biogas for a host of uses while producing fertilizer from the solid and liquid components of the input material. <a class="fancybox fancybox.iframe" href="http://www.greenworld365.com/what-is-biogas-and-whats-it-good-for/"> http://www.greenworld365.com</p>
+										<div id ="map-navigation2" class="map-navigation"><a href="#" data-zoom="16" data-position="45.1342, -64.5287">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Biogas example <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+									<li>
+										<h1>Passive Buildings</h1>
+										<img src = "img/passivehouse_Cite.jpg" align="right" style="width:250px;height:195px;">
+										<p>Passive buildings are buildings that achieve 90% or greater heating and cooling energy savings over “conventional” buildings, through a diverse range of practices. These buildings generally cost about the same as conventional buildings but have a greatly reduced maintenance cost over their lifespan. <a href="https://vimeo.com/32007211" target="_blank"> https://vimeo.com </p>
+										<div id ="map-navigation12" class="map-navigation"><a href="#" data-zoom="15" data-position="45.06592, -64.54251">
+										<!-- <p><a href="#features" class="arrow-btn"> -->Passive Buildings example <i class="fa fa-long-arrow-right"></i></a></p>
+									</li>
+								</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--
+		<section class="features-list" id="features">
+			<div class="container">
+				<div class="row">
+				
+				<h1 style="text-align:center; margin-bottom: 50px;"> Key Concepts</h1>
+					<div class="col-md-12">
+
+						<div class="col-md-4 feature-1 wp2">
+							<div class="feature-icon">
+								<i class="fa fa-users"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Promoting Resilience</h1>
+								<p>Torjman (2007) suggests that shared places help to promote strong and vibrant communities because it helps to build resilient communities capable of prospering in times of adversity. By bringing together people, a foundation for engagement is provided whereby which people can find common understanding. From this engagement and understanding, we are able to work towards common goals to help further support and build stronger communities. Shared spaces present great opportunities for great discussion. (Torjman, S. (2007). Shared Space: The Communities Agenda. ON: The Caledon Institute of Social Policy) .</p>
+								<a href="http://tamarackcommunity.ca/g3s61_CC4I3.html" class="read-more-btn">Explore this concept <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+						<div class="col-md-4 feature-2 wp2 delay-05s">
+							<div class="feature-icon">
+								<i class="fa fa-home"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Importance of Place</h1>
+								<p>The concept of shared and public spaces is rooted in the notion of place. Whether it be the physical space in which we live or emotional place, place provides meaning and belonging in our daily lives. Places are the foundation upon which a network for people can be built. The importance of place takes significance when we think about well-being and development; quality of places and their attributes impacts our health, social cohesion, and economic welfare (Torjman, S. (2007). Shared Space: The Communities Agenda. ON: The Caledon Institute of Social Policy).</p>
+								<a href="http://www.pps.org/reference/public_space_benefits/" class="read-more-btn">Explore this concept  <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+						<div class="col-md-4 feature-3 wp2 delay-1s">
+							<div class="feature-icon">
+								<i class="fa fa-heart"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Social Capital</h1>
+								<p>The purpose of shared spaces is to bring people together, they are a location whereby which human interaction occurs. The way a place is planned ultimately impacts community health as increased social activity helps to foster an environment of support, security and trust. The socio-spatial attributes associated with these places help create unique spaces for community gatherings. Regardless of their size or geometry, public spaces serve as a means of community development and social development creating and reinforcing social bonds among people. (Friedman, A. (2014). Planning Small and Mid-Sized Towns. NY: Routledge). </p>
+								<a href="http://infed.org/mobi/social-capital/" class="read-more-btn">Explore this concept  <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+						<!--div class="col-md-3 feature-4 wp2 delay-1s">
+							<div class="feature-icon">
+								<i class="fa fa-cogs"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Social Capital: Socio-spatial attributes</h1>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. . </p>
+								<a href="http://cogsmapping.t15.org/JT3/postconfed.html" class="read-more-btn">Explore this concept  <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</section>
+-->
+		<section class="screenshots-intro">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<h1>Click on the images below to learn more about concepts about ecological design that creates economic opportunities</h1>
+						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p-->
+
+
+						
+						<p><a href="#screenshots" class="arrow-btn">Click the images below! <i class="fa fa-long-arrow-right"></i></a></p>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="screenshots" id="screenshots">
+			<div class="container-fluid">
+				<div class="row">
+					<ul class="grid">
+						<li>
+							<figure>
+								<img src="img/saltmarsh_cr.jpg" alt="Screenshot 01">
+								<figcaption>
+								<div class="imgCredit" >Salt Marsh (n.d.); Klaus Lang</div>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://www.dep.state.fl.us/northwest/Ecosys/section/restoresaltmarsh.htm">
+										<i class="fa fa-search"></i><br>
+										<p>Salt Marsh Restoration</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>							
+						</li>
+						<li>
+							<figure>
+								<img src="img/Permaculture_cr.jpg" alt="Screenshot 02">
+								<figcaption>
+								<div class="imgCredit">Permaculture (2016); Randy Fredericks</div>
+								<div class="caption-content">
+									<a class="fancybox fancybox.iframe" href="https://deepgreenpermaculture.com/permaculture/permaculture-design-principles/" class="single_image">
+										<i class="fa fa-search"></i><br>
+										<p>Permaculture</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/Ecotourism_cr.jpg" alt="Screenshot 03">
+								<figcaption>
+								<div class="imgCredit">Ecotourism (n.d.); Konstantin Mikhailov</div>
+								<div >
+								<a class="fancybox fancybox.iframe" href="pdf/-Ecotourism_  Principles, Practices and Policies for Sustainability-2002518.pdf#page=1">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Ecotourism</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/Phycology_cr.jpg" alt="Screenshot 04">
+								<figcaption>
+								<div class="imgCredit"> Phycology (n.d.); Oleksiy Maksymenko</div>
+								<div >
+								<a class="fancybox fancybox.iframe" href="https://depts.washington.edu/hhwb/Thm_Mental.html">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Phycology of Green Space</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+				<div class="row">
+					<ul class="grid">
+						<li>
+							<figure>
+								<img src="img/MoneyTree_cr.jpg" alt="Screenshot 05">
+								<figcaption>
+								<div class="imgCredit">Woman's Hand Plucking Money Off of Money Tree (n.d.); John Lund</div>
+								<div >
+								<a href="https://www.youtube.com/watch?v=d05jEprJxtE" target="_blank">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Ecological Economics</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/ForestEcosystemClassification_cr.jpg" alt="Screenshot 06">
+								<figcaption>
+								<div class="imgCredit">Forest Ecosystem Classification (2016); Randy Fredericks</div>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://novascotia.ca/natr/forestry/veg-types/">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Forest Ecosystem Classification</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/Solarpanel_cr.jpg" alt="Screenshot 07">
+								<figcaption>
+								<div class="imgCredit">Solar Panel (n.d.); Larry Miller</div>
+								<div >
+								<a class="fancybox fancybox.iframe" href="pdf/Smart_Energy_FINAL_Oct_16_2015.pdf#page=1">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Renewable Energy</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/raingarden_cr.jpg" alt="Screenshot 08">
+								<figcaption>
+								<div class="imgCredit">Rain Garden at Dansko in West Grove, Pennsylvania (n.d.); Environmental Images</div>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://clean.ns.ca/infographic/">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Stormwater Management</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+
+		<footer>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-5">
+						<h5 class=" h1footer-logo">
+						This website is produced as a portion of the requirements of the
+Geographic Sciences Program
+at the Centre of Geographic Sciences, NSCC, Lawrencetown, Nova Scotia.
+The product is unedited, unverified and intended
+for educational purposes only.
+						<img src="img/COGS01.jpg" width="70%" alt="Footer Logo Blue">
+						</h1>
+						<p>© Boxify 2016 - <a href="http://tympanus.net/codrops/licensing/">Licence</a> - Designed &amp; Developed by <a href="http://www.peterfinlan.com/">Peter Finlan</a></p>
+					</div>
+					<div class="col-md-7">
+						<ul class="footer-nav">
+							<li><a href="#about">Innovative at a local level</a></li>
+							<li><a href="#features">Key Concepts</a></li>
+							<li><a href="#screenshots">Get More Info</a></li>
+							<li><a href="http://www.cogsmapping.t15.org/">Home</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<div class="overlay overlay-boxify">
+			<nav>
+				<ul>
+					<li><a href="#about"><i class="fa fa-heart"></i>Innovative initiatives</a></li>
+					<li><a href="#features"><i class="fa fa-flash"></i>Key Concepts</a></li>
+				</ul>
+				<ul>
+					<li><a href="#screenshots"><i class="fa fa-desktop"></i>Get more Info</a></li>
+					<li><a href="http://www.cogsmapping.t15.org/"><i class="fa fa-download"></i>Home</a></li>
+				</ul>
+			</nav>
+		</div>
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="js/min/toucheffects-min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/flickity.pkgd.min.js"></script>
+		<script src="js/jquery.fancybox.pack.js"></script>
+		<!--Include all compiled plugins (below), or include individual files as needed-->
+		<script src="js/retina.js"></script>
+		<script src="js/waypoints.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/scripts.js"></script>
+		<!-- <script src="js/min/scripts-min.js"></script> -->
+		<script src="js/map01.js"> </script>
+
+	</body>
+</html>

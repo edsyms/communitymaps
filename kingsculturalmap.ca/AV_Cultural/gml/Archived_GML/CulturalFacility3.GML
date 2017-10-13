@@ -1,0 +1,1873 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ogr:FeatureCollection
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://ogr.maptools.org/ CulturalFacility3.xsd"
+     xmlns:ogr="http://ogr.maptools.org/"
+     xmlns:gml="http://www.opengis.net/gml">
+  <gml:boundedBy>
+    <gml:Box>
+      <gml:coord><gml:X>-7229900.364397976</gml:X><gml:Y>5613859.496398984</gml:Y></gml:coord>
+      <gml:coord><gml:X>-7149104.677980219</gml:X><gml:Y>5651877.752044346</gml:Y></gml:coord>
+    </gml:Box>
+  </gml:boundedBy>                    
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F0">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7206421.9705947693,5628792.9386763126</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>2.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Berwick Farmers Market</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Food/Craft</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>236 Commercial Street</ogr:StreetAddr>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>B0P 1 E0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>Contact person</ogr:ContactTit>
+      <ogr:PhoneNum>847-3288</ogr:PhoneNum>
+      <ogr:Email>berwickfarmersmarket@gmail.com</ogr:Email>
+      <ogr:Website>http://www.berwickfarmersmarket.com</ogr:Website>
+      <ogr:Descriptio>The Market is intent on creating a consistent and remarkable social gathering space for families and individuals and making sure that folks producing amazingly good stuff can continue to grow it, produce it, and sell it.</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.736390</ogr:Longitude>
+      <ogr:Latitude>45.046170</ogr:Latitude>
+      <ogr:Gadd>236 Commercial Street</ogr:Gadd>
+      <ogr:Gtown>Berwick</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F1">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7228450.9846278494,5617064.1830990352</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>3.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Greenwood Farmers Market</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Food/Craft</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>963 Central Ave. Greenwood Mall</ogr:StreetAddr>
+      <ogr:Town>Greenwood</ogr:Town>
+      <ogr:PostalCode>B0P 1N0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>kingstonfarmersmarket@hotmail.com</ogr:Email>
+      <ogr:Website>http://www.getfreshkingston.com</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.934280</ogr:Longitude>
+      <ogr:Latitude>44.971680</ogr:Latitude>
+      <ogr:Gadd>963 Central Ave. Greenwood Mall</ogr:Gadd>
+      <ogr:Gtown>Greenwood</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F2">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7179696.3872451177,5633691.1271602558</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>4.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Kentville Farmers Market</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Food/Craft</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>401 Nova Scotia 1 Trunk</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1K7</ogr:PostalCode>
+      <ogr:Contact>M. Summer Fike</ogr:Contact>
+      <ogr:ContactTit>Contact person</ogr:ContactTit>
+      <ogr:PhoneNum>679-2539</ogr:PhoneNum>
+      <ogr:Email>kentvillemarket@gmail.com</ogr:Email>
+      <ogr:Website>http://www.kentville.ca/explorekentville_events_market.cfm</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.496310</ogr:Longitude>
+      <ogr:Latitude>45.077250</ogr:Latitude>
+      <ogr:Gadd>401 Nova Scotia 1 Trunk</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F3">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7166385.9157309663,5646835.4670593077</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>5.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Tailgate Market</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Food/Craft</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>7 Longspell Road</ogr:StreetAddr>
+      <ogr:Town>Kingsport</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.376740</ogr:Longitude>
+      <ogr:Latitude>45.160570</ogr:Latitude>
+      <ogr:Gadd>7 Longspell Road</ogr:Gadd>
+      <ogr:Gtown>Kingsport</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F4">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164973.2713927999,5636122.2982801702</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>6.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Wolfville Farmers Market</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Food/Craft</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>24 Elm Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>697-3344</ogr:PhoneNum>
+      <ogr:Email>info@wolfvillefarmersmarket.ca</ogr:Email>
+      <ogr:Website>http://www.wolfvillefarmersmarket.ca</ogr:Website>
+      <ogr:Descriptio>The Wolfville Farmers' Market started in 1992 with 3 vendors and now boasts over 60 vendors year-round.</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.364050</ogr:Longitude>
+      <ogr:Latitude>45.092670</ogr:Latitude>
+      <ogr:Gadd>24 Elm Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F5">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7206421.9705947693,5628792.9386763126</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>7.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Berwick Public Library</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Literature</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>236 Commercial Street</ogr:StreetAddr>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>B0P 1E0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>538-4030</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.736390</ogr:Longitude>
+      <ogr:Latitude>45.046170</ogr:Latitude>
+      <ogr:Gadd>236 Commercial Street</ogr:Gadd>
+      <ogr:Gtown>Berwick</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F6">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7179454.823950096,5633922.8642054135</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>8.000000</ogr:CULTID>
+      <ogr:GISREADY>2.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Kentville Public Library</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Literature</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>95 Cornwallis Street</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 2E5</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>679-2544</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>YES</ogr:Public>
+      <ogr:Longitude>-64.494140</ogr:Longitude>
+      <ogr:Latitude>45.078720</ogr:Latitude>
+      <ogr:Gadd>95 Cornwallis Street</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F7">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7229704.82847,5619796.48131</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>9.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Kingston Public Library</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Literature</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>671 Nova Scotia 1 Trunk</ogr:StreetAddr>
+      <ogr:Town>Kingston</ogr:Town>
+      <ogr:PostalCode>B0P 1R0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>765-3631</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.939310</ogr:Longitude>
+      <ogr:Latitude>44.991670</ogr:Latitude>
+      <ogr:Gadd>671 Nova Scotia 1 Trunk</ogr:Gadd>
+      <ogr:Gtown>Kingston</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F8">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7170700.6591941118,5637831.7635295186</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>10.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Murdoch C. Smith Memorial Library</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Literature</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>131 Nova Scotia 358</ogr:StreetAddr>
+      <ogr:Town>Port Williams</ogr:Town>
+      <ogr:PostalCode>B0P 1T0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>542-3005</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.415500</ogr:Longitude>
+      <ogr:Latitude>45.103510</ogr:Latitude>
+      <ogr:Gadd>131 Nova Scotia 358</ogr:Gadd>
+      <ogr:Gtown>Port Williams</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F9">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7165126.8922900958,5635635.0654949043</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>11.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Vaughan Memorial Library</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Literature</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>50 Acadia Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R6</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>585 1249</ogr:PhoneNum>
+      <ogr:Email>libweb@acadiau.ca</ogr:Email>
+      <ogr:Website>http://library.acadiau.ca</ogr:Website>
+      <ogr:Descriptio>Unlike the libraries of old, we're more concerned that you find what you need, meet who you need to meet, get help when you need it and be comfortable here!</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.365430</ogr:Longitude>
+      <ogr:Latitude>45.089580</ogr:Latitude>
+      <ogr:Gadd>50 Acadia Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F10">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164962.1394437216,5636089.1845375467</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>12.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Wolfville Memorial Library</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Literature</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>21 Elm Avenue</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2A1</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>542-5760</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.363950</ogr:Longitude>
+      <ogr:Latitude>45.092460</ogr:Latitude>
+      <ogr:Gadd>21 Elm Avenue</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F11">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7172646.3979730187,5656656.9967438728</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>13.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Ross Creek Centre for the Arts</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Multi</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>555 Ross Creek Road</ogr:StreetAddr>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Chris O'Neill</ogr:Contact>
+      <ogr:ContactTit>Executive Director</ogr:ContactTit>
+      <ogr:PhoneNum>582-3842</ogr:PhoneNum>
+      <ogr:Email>mail@artscentre.ca</ogr:Email>
+      <ogr:Website>http://www.artscentre.ca</ogr:Website>
+      <ogr:Descriptio>A multi disciplinary arts education and development centre on 186 acres of farm and forest. Our facilities and programs are designed with a focus on professional artist development, youth education and Aboriginal arts programming.</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.428110</ogr:Longitude>
+      <ogr:Latitude>45.158350</ogr:Latitude>
+      <ogr:Gadd>555 Ross Creek Road</ogr:Gadd>
+      <ogr:Gtown>Canning</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F12">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7227672.8613872034,5616582.6995042795</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>14.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Greenwoord T.A.N. Cafe</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>963 Central Avenue</ogr:StreetAddr>
+      <ogr:Town>Greenwood</ogr:Town>
+      <ogr:PostalCode>B0P 1N0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>242-3225</ogr:PhoneNum>
+      <ogr:Email>info@tancoffee.com</ogr:Email>
+      <ogr:Website>http://www.tancoffee.ca</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.927290</ogr:Longitude>
+      <ogr:Latitude>44.968620</ogr:Latitude>
+      <ogr:Gadd>963 Central Avenue</ogr:Gadd>
+      <ogr:Gtown>Greenwood</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F13">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7169774.4810307147,5636696.2891667569</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>15.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Port Pub and Bistro</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>980 Terrys Creek Road</ogr:StreetAddr>
+      <ogr:Town>Port Williams</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>542 5555</ogr:PhoneNum>
+      <ogr:Email>portpub@ns.aliantzinc.ca</ogr:Email>
+      <ogr:Website>http://www.theportpub.com</ogr:Website>
+      <ogr:Descriptio>Situated on the banks of the Cornwallis River, The Port Pub was purposefully designed and built as a gastropub by local tradesmen and showcases a unique architectural design, local menu items, and our own micro-brewed beers.</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.407180</ogr:Longitude>
+      <ogr:Latitude>45.096310</ogr:Latitude>
+      <ogr:Gadd>980 Terrys Creek Road</ogr:Gadd>
+      <ogr:Gtown>Port Williams</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F14">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7165495.3598046228,5626809.5199953197</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>16.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Half Rabbit Studio</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>793 Newtonville Road</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>Mark Adam</ogr:Contact>
+      <ogr:ContactTit>Owner</ogr:ContactTit>
+      <ogr:PhoneNum>697-2001</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.368740</ogr:Longitude>
+      <ogr:Latitude>45.033580</ogr:Latitude>
+      <ogr:Gadd>793 Newtonville Road</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F15">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164984.4033418773,5636015.0732690673</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>17.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Mudcreek Grill and Lounge</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>12 D Elm Avenue</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>697-3500</ogr:PhoneNum>
+      <ogr:Email>info@mudcreekgrill.com</ogr:Email>
+      <ogr:Website>http://www.mudcreekgrill.com</ogr:Website>
+      <ogr:Descriptio>The best place to enjoy the company of friends and family and eat amazing meals too. Come check out the live music and relaxing atmosphere.</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.364150</ogr:Longitude>
+      <ogr:Latitude>45.091990</ogr:Latitude>
+      <ogr:Gadd>12 Elm Avenue</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F16">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164904.2533085067,5635914.156777774</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>18.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>The Library Pub &amp; Wine Merchant</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Music</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>472 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>542-4315</ogr:PhoneNum>
+      <ogr:Email>drew@thelibrarypub.ca</ogr:Email>
+      <ogr:Website>http://www.thelibrarypub.ca</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.363430</ogr:Longitude>
+      <ogr:Latitude>45.091350</ogr:Latitude>
+      <ogr:Gadd>472 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F17">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7172104.3979730187,5646484.9967438728</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>19.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Theatre off the Grid</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Theatre</ogr:Discipline>
+      <ogr:NumSeats>None</ogr:NumSeats>
+      <ogr:StreetAddr>555 Ross Creek Road</ogr:StreetAddr>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Ken Schwartz</ogr:Contact>
+      <ogr:ContactTit>Artistic Director</ogr:ContactTit>
+      <ogr:PhoneNum>582-3073</ogr:PhoneNum>
+      <ogr:Email>mail@twoplanks.ca</ogr:Email>
+      <ogr:Website>http://www.twoplanks.ca</ogr:Website>
+      <ogr:Descriptio>Set on 186 acres at the Ross Creek Centre for the Arts, Theatre off the Grid is an award-winning forum where stories and legends come to life through the ingenious invention of some of Canada�s most accomplished artists.</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.428110</ogr:Longitude>
+      <ogr:Latitude>45.158350</ogr:Latitude>
+      <ogr:Gadd>555 Ross Creek Road</ogr:Gadd>
+      <ogr:Gtown>Canning</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F18">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164829.6692496752,5635937.808978959</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>20.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Al Whittle Theatre</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Theatre/Film</ogr:Discipline>
+      <ogr:NumSeats>160</ogr:NumSeats>
+      <ogr:StreetAddr>450 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1E2</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>Theatre Manager</ogr:ContactTit>
+      <ogr:PhoneNum>542-3344</ogr:PhoneNum>
+      <ogr:Email>manager@alwhittletheatre.ca</ogr:Email>
+      <ogr:Website>http://www.alwhittletheatre.ca</ogr:Website>
+      <ogr:Descriptio>The Al Whittle Theatre has hosted a large array of events including music concerts, dance performances, live theatre, film screenings, fundraisers, meetings, literary readings, rehearsals and more.</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.362760</ogr:Longitude>
+      <ogr:Latitude>45.091500</ogr:Latitude>
+      <ogr:Gadd>450 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F19">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7149104.677980219,5634208.2084849505</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>21.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Lockhartville Community Hall</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>204 Hutchinson Road</ogr:StreetAddr>
+      <ogr:Town>Avonport</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>684-0977</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.221500</ogr:Longitude>
+      <ogr:Latitude>45.080530</ogr:Latitude>
+      <ogr:Gadd>204 Hutchinson Road</ogr:Gadd>
+      <ogr:Gtown>Avonport</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F20">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7220664.1862468598,5624270.6247918587</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>22.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Aylesford &amp; District Lions Hall</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>2160 Nova Scotia 1 Trunk</ogr:StreetAddr>
+      <ogr:Town>Aylesford</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>Bob Bellingham</ogr:Contact>
+      <ogr:ContactTit>Secretary</ogr:ContactTit>
+      <ogr:PhoneNum>847-9414</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>
+  http://www.e-clubhouse.org/sites/aylesfordlions/index.php
+</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.864330</ogr:Longitude>
+      <ogr:Latitude>45.017460</ogr:Latitude>
+      <ogr:Gadd>2160 Nova Scotia 1 Trunk</ogr:Gadd>
+      <ogr:Gtown>Aylesford</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F21">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7206880.6068968354,5628569.2111567473</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>23.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Appledome</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>250 Veterans Drive
+</ogr:StreetAddr>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>B0P 1E0</ogr:PostalCode>
+      <ogr:Contact>Bob Best</ogr:Contact>
+      <ogr:ContactTit>Arena Manager</ogr:ContactTit>
+      <ogr:PhoneNum>538-9070</ogr:PhoneNum>
+      <ogr:Email>info@kmccberwick.ca</ogr:Email>
+      <ogr:Website>http://kmccberwick.ca/index.html</ogr:Website>
+      <ogr:Descriptio>It will assure future generations of Berwick and District the activities-recreation arena-facility they need and deserve.</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.740510</ogr:Longitude>
+      <ogr:Latitude>45.044750</ogr:Latitude>
+      <ogr:Gadd>250 Veterans Drive</ogr:Gadd>
+      <ogr:Gtown>Berwick</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F22">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7206103.5968510993,5627234.8391083125</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>24.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Berwick Camp</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>115 Commercial Street</ogr:StreetAddr>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>Gordon Cameron</ogr:Contact>
+      <ogr:ContactTit>President</ogr:ContactTit>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://www.berwickcamp.org</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.733530</ogr:Longitude>
+      <ogr:Latitude>45.036280</ogr:Latitude>
+      <ogr:Gadd>115 Commercial Street</ogr:Gadd>
+      <ogr:Gtown>Berwick</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F23">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7206434.2157387538,5629599.6643003197</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>25.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Berwick Legion Hall</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>232 Main Street</ogr:StreetAddr>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>538-9340</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.736500</ogr:Longitude>
+      <ogr:Latitude>45.051290</ogr:Latitude>
+      <ogr:Gadd>232 Main Street</ogr:Gadd>
+      <ogr:Gtown>Berwick</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F24">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7206880.6068968354,5628569.2111567473</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>26.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Berwick Lions Hall</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>250 Veterans Avenue</ogr:StreetAddr>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>B0P 1E0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>538-3663</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>http://berwicknsca.lionwap.org/</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.740510</ogr:Longitude>
+      <ogr:Latitude>45.044750</ogr:Latitude>
+      <ogr:Gadd>250 Veterans Avenue</ogr:Gadd>
+      <ogr:Gtown>Berwick</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F25">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7200657.847361492,5631010.0319851525</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>27.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Black Rock Community Centre</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>4404 Black Rock Rd
+</ogr:StreetAddr>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>B0P 1E0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>538-1406</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.684610</ogr:Longitude>
+      <ogr:Latitude>45.060240</ogr:Latitude>
+      <ogr:Gadd>4404 Black Rock Rd</ogr:Gadd>
+      <ogr:Gtown>Berwick</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F26">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7207230.1500979261,5623743.0904981187</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>28.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Windermere Community Hall</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>402 Windermere Road</ogr:StreetAddr>
+      <ogr:Town>Berwick</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.743650</ogr:Longitude>
+      <ogr:Latitude>45.014110</ogr:Latitude>
+      <ogr:Gadd>402 Windermere Road</ogr:Gadd>
+      <ogr:Gtown>Berwick</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F27">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7212614.6738675954,5633285.9957636306</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>29.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Burlington Community hall</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1124 Long Point Road</ogr:StreetAddr>
+      <ogr:Town>Burlington</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.792020</ogr:Longitude>
+      <ogr:Latitude>45.074680</ogr:Latitude>
+      <ogr:Gadd>1124 Long Point Road</ogr:Gadd>
+      <ogr:Gtown>Burlington</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F28">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7171157.0691063674,5646563.9303082032</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>30.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Canning District Lions Hall</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1000 Seminary Avenue</ogr:StreetAddr>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>Darrell Steele</ogr:Contact>
+      <ogr:ContactTit>president</ogr:ContactTit>
+      <ogr:PhoneNum>582-7286</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.419600</ogr:Longitude>
+      <ogr:Latitude>45.158850</ogr:Latitude>
+      <ogr:Gadd>1000 Seminary Avenue</ogr:Gadd>
+      <ogr:Gtown>Canning</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F29">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7171157.0691063674,5646563.9303082032</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>31.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Canning Legion Hall</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1000 Seminary Avenue</ogr:StreetAddr>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>582-7286</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.419600</ogr:Longitude>
+      <ogr:Latitude>45.158850</ogr:Latitude>
+      <ogr:Gadd>1000 Seminary Avenue</ogr:Gadd>
+      <ogr:Gtown>Canning</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F30">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7191178.9927204447,5631558.4803700605</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>32.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Coldbrook &amp; District Lions Hall</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1416 South Bishop Road</ogr:StreetAddr>
+      <ogr:Town>Coldbrook</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>679-2858</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>http://coldbrooknsca.lionwap.org/</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.599460</ogr:Longitude>
+      <ogr:Latitude>45.063720</ogr:Latitude>
+      <ogr:Gadd>1416 South Bishop Road</ogr:Gadd>
+      <ogr:Gtown>Coldbrook</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F31">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7199870.8185615819,5629705.2372547006</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>35.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Grafton Community Hall</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>718 Station RD,NS</ogr:StreetAddr>
+      <ogr:Town>Grafton</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>Danielle Kier</ogr:Contact>
+      <ogr:ContactTit>Chair</ogr:ContactTit>
+      <ogr:PhoneNum>905-355-5051</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://fourinfo.cioc.ca/record/SHA0264</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.677540</ogr:Longitude>
+      <ogr:Latitude>45.051960</ogr:Latitude>
+      <ogr:Gadd>718 Station RD</ogr:Gadd>
+      <ogr:Gtown>NS</ogr:Gtown>
+      <ogr:Gprov>Grafton</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F32">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7157531.5634332681,5638082.5334212901</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>36.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Horton Community Centre</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>11794 Nova Scotia 1 Trunk</ogr:StreetAddr>
+      <ogr:Town>Grand Pre</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.297200</ogr:Longitude>
+      <ogr:Latitude>45.105100</ogr:Latitude>
+      <ogr:Gadd>11794 Nova Scotia 1 Trunk</ogr:Gadd>
+      <ogr:Gtown>Grand Pre</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F33">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7191166.7475764574,5651877.7520443462</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>38.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Halls Harbour Fundy View Community Centre</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>4120 Nova Scotia 359</ogr:StreetAddr>
+      <ogr:Town>Hall's Harbour</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.599350</ogr:Longitude>
+      <ogr:Latitude>45.192500</ogr:Latitude>
+      <ogr:Gadd>4120 Nova Scotia 359</ogr:Gadd>
+      <ogr:Gtown>Hall's Harbour</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F34">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7229900.3643979756,5619431.0642160187</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>39.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Kingston Legion Hall</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1482 Veterans Lane, NS</ogr:StreetAddr>
+      <ogr:Town>Kingston</ogr:Town>
+      <ogr:PostalCode>B0P 1R0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>765-2128</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.947300</ogr:Longitude>
+      <ogr:Latitude>44.986720</ogr:Latitude>
+      <ogr:Gadd>1482 Veterans Lane</ogr:Gadd>
+      <ogr:Gtown>NS</ogr:Gtown>
+      <ogr:Gprov>Kingston</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F35">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7229987.3643979756,5619494.0642160187</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>40.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Kingston Lions Hall</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1482 Veterans Lane</ogr:StreetAddr>
+      <ogr:Town>Kingston</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>Hugh Moore</ogr:Contact>
+      <ogr:ContactTit>president</ogr:ContactTit>
+      <ogr:PhoneNum>765-2128</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>http://e-clubhouse.org/sites/kingstonns/index.php</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.947300</ogr:Longitude>
+      <ogr:Latitude>44.986720</ogr:Latitude>
+      <ogr:Gadd>1482 Veterans Lane</ogr:Gadd>
+      <ogr:Gtown>Kingston</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F36">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7229696.6497298256,5637675.6273137406</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>41.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Morden Community Hall</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>2321 Morden Road</ogr:StreetAddr>
+      <ogr:Town>Morden</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.945470</ogr:Longitude>
+      <ogr:Latitude>45.102520</ogr:Latitude>
+      <ogr:Gadd>2321 Morden Road</ogr:Gadd>
+      <ogr:Gtown>Morden</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F37">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7174170.4877221398,5632138.4850970572</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>42.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>New Minas District Lions Hall</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>9209 Commercial Street</ogr:StreetAddr>
+      <ogr:Town>New Minas</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>Morley Wills</ogr:Contact>
+      <ogr:ContactTit>Secretary</ogr:ContactTit>
+      <ogr:PhoneNum>582-7980</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>http://www.newminas.com/lionsclub.htm</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.446670</ogr:Longitude>
+      <ogr:Latitude>45.067400</ogr:Latitude>
+      <ogr:Gadd>9209 Commercial Street</ogr:Gadd>
+      <ogr:Gtown>New Minas</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F38">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7170700.6591941118,5637831.7635295186</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>43.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Port Williams Community Centre</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>1045 Nova Scotia 358</ogr:StreetAddr>
+      <ogr:Town>Port Williams</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.415500</ogr:Longitude>
+      <ogr:Latitude>45.103510</ogr:Latitude>
+      <ogr:Gadd>1045 Nova Scotia 358</ogr:Gadd>
+      <ogr:Gtown>Port Williams</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F39">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7228295.1373407366,5613859.4963989835</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>44.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Tremont Fair Grounds</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>738 Tremont Road</ogr:StreetAddr>
+      <ogr:Town>Tremont</ogr:Town>
+      <ogr:PostalCode>B0P 1R0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.932880</ogr:Longitude>
+      <ogr:Latitude>44.951310</ogr:Latitude>
+      <ogr:Gadd>738 Tremont Road</ogr:Gadd>
+      <ogr:Gtown>Tremont</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F40">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7202469.0154766999,5639219.7600212721</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>45.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Black Rock Culture and Recreation Centre</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>4404 Black Rock Road</ogr:StreetAddr>
+      <ogr:Town>Waterville</ogr:Town>
+      <ogr:PostalCode>B0P 1V0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>538-7412</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.700880</ogr:Longitude>
+      <ogr:Latitude>45.112310</ogr:Latitude>
+      <ogr:Gadd>4404 Black Rock Road</ogr:Gadd>
+      <ogr:Gtown>Waterville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F41">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7170740.7342107967,5629399.5517956326</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>46.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>White Rock Community Centre</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>15154 Russell Avenue</ogr:StreetAddr>
+      <ogr:Town>White Rock</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>Jeannie Schofield</ogr:Contact>
+      <ogr:ContactTit>Contact Person</ogr:ContactTit>
+      <ogr:PhoneNum>542-7410</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://www.whiterockcity.ca/EN/main/community/leisure/amenities/white-rock-community-centre.html</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.415860</ogr:Longitude>
+      <ogr:Latitude>45.050020</ogr:Latitude>
+      <ogr:Gadd>15154 Russell Avenue</ogr:Gadd>
+      <ogr:Gtown>White Rock</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F42">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7165032.270722921,5635895.2350615533</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>47.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Atlantic Festival Theatre</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>514</ogr:NumSeats>
+      <ogr:StreetAddr>504 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1C9</ogr:PostalCode>
+      <ogr:Contact>Bob Cassie</ogr:Contact>
+      <ogr:ContactTit>Theater Manager</ogr:ContactTit>
+      <ogr:PhoneNum>585-1579</ogr:PhoneNum>
+      <ogr:Email>bob.cassie@acadiau.ca</ogr:Email>
+      <ogr:Website>http://virtualtour.acadiau.ca/festival-theatre.html</ogr:Website>
+      <ogr:Descriptio>Constructed in Acadia's 60-year-old former hockey rink, Atlantic Festival Theatre holds a 514-seat thrust stage, based on the Stratford model.</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.364580</ogr:Longitude>
+      <ogr:Latitude>45.091230</ogr:Latitude>
+      <ogr:Gadd>504 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F43">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7169244.6002545394,5634427.3464163244</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>49.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Greenwich Community Centre</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>106 Greenwich Road</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>None</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.402420</ogr:Longitude>
+      <ogr:Latitude>45.081920</ogr:Latitude>
+      <ogr:Gadd>106 Greenwich Road</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F44">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7165104.6283919336,5635619.2978839353</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>50.000000</ogr:CULTID>
+      <ogr:GISREADY>2.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Harvey Denton Hall</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>400</ogr:NumSeats>
+      <ogr:StreetAddr>12 Horton Avenue</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R6</ogr:PostalCode>
+      <ogr:Contact>Barbara Jordan</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>585-1512</ogr:PhoneNum>
+      <ogr:Email>barbara.jordan@acadiau.ca</ogr:Email>
+      <ogr:Website>http://virtualtour.acadiau.ca/harvey-denton-hall.html</ogr:Website>
+      <ogr:Descriptio>Appreciation for good music and theatre can be found in Harvey Denton Hall - home to Acadia's music and theatre departments, and music therapy program.</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.365230</ogr:Longitude>
+      <ogr:Latitude>45.089480</ogr:Latitude>
+      <ogr:Gadd>12 Horton Avenue</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F45">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7165394.0590679962,5635390.6706270436</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>51.000000</ogr:CULTID>
+      <ogr:GISREADY>2.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>K.C. Irving Centre</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>None</ogr:NumSeats>
+      <ogr:StreetAddr>32 University Avenue</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R6</ogr:PostalCode>
+      <ogr:Contact>Peter Romkey</ogr:Contact>
+      <ogr:ContactTit>Executive Director</ogr:ContactTit>
+      <ogr:PhoneNum>585-1757</ogr:PhoneNum>
+      <ogr:Email>peter.romkey@acadiau.ca</ogr:Email>
+      <ogr:Website>http://kcirvingcentre.acadiau.ca/welcome.html</ogr:Website>
+      <ogr:Descriptio>Contains research laboratories, greenhouses, a conservatory, controlled environmental facilities, an auditorium, a library and video conference centre, classrooms, lecture rooms, and meeting and conference rooms.</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.367830</ogr:Longitude>
+      <ogr:Latitude>45.088030</ogr:Latitude>
+      <ogr:Gadd>32 University Avenue</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F46">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7168818.2466047974,5633413.6811246434</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>52.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Old Orchard Heritage Barn</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>153 Greenwich Road South</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R2</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>542-5751</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://www.oldorchardinn.com</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.398590</ogr:Longitude>
+      <ogr:Latitude>45.075490</ogr:Latitude>
+      <ogr:Gadd>153 Greenwich Road South</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F47">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164230.7703892104,5636013.4964401908</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>53.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Royal Canadian Legion, Doctor C.B. Lumsden Branch</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>310 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1C4</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>542-5869</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.357380</ogr:Longitude>
+      <ogr:Latitude>45.091980</ogr:Latitude>
+      <ogr:Gadd>310 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F48">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7165405.1910170773,5635467.9302232154</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>54.000000</ogr:CULTID>
+      <ogr:GISREADY>2.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>University Hall</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>1600</ogr:NumSeats>
+      <ogr:StreetAddr>13 University Avenue</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R6</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>585-2201</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>http://virtualtour.acadiau.ca/university-hall.html</ogr:Website>
+      <ogr:Descriptio>One of Acadia's iconic buildings, University Hall has an auditorium that seats 1,600 and houses the majority of Acadia's executive and administration offices.</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.367930</ogr:Longitude>
+      <ogr:Latitude>45.088520</ogr:Latitude>
+      <ogr:Gadd>13 University Avenue</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F49">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7154325.562098424,5633601.2715426562</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>55.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>West Brooklyn Hall</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>410 West Brooklyn Mountain Road</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R3</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>None</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.268400</ogr:Longitude>
+      <ogr:Latitude>45.076680</ogr:Latitude>
+      <ogr:Gadd>410 West Brooklyn Mountain Road</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F50">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7165006.6672400394,5636281.5613148492</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>56.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Wolfville &amp; District Lions Hall</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>36 Elm Ave</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1Z9</ogr:PostalCode>
+      <ogr:Contact>Debbie and Gordon Arnold</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>678-0071</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.364350</ogr:Longitude>
+      <ogr:Latitude>45.093680</ogr:Latitude>
+      <ogr:Gadd>36 Elm Ave</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F51">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164971.0450029839,5636111.2603524337</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>57.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Wolfville Curling Club</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Venue</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>22 Elm Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1Z9</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>542-3819</ogr:PhoneNum>
+      <ogr:Email>wolfcurl@gmail.com</ogr:Email>
+      <ogr:Website>http://www.wolfvillecurlingclub.ca</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.364030</ogr:Longitude>
+      <ogr:Latitude>45.092600</ogr:Latitude>
+      <ogr:Gadd>22 Elm Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F52">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7171174.880224891,5646300.2949100044</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>60.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Art Can Gallery &amp; Cafe</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>9850 Main Street</ogr:StreetAddr>
+      <ogr:Town>Canning</ogr:Town>
+      <ogr:PostalCode>B0P 1H0</ogr:PostalCode>
+      <ogr:Contact>Ron Hayes</ogr:Contact>
+      <ogr:ContactTit>Owner/Artist</ogr:ContactTit>
+      <ogr:PhoneNum>582-7071</ogr:PhoneNum>
+      <ogr:Email>ron@artcan.com</ogr:Email>
+      <ogr:Website>http://www.artcan.com</ogr:Website>
+      <ogr:Descriptio>Overlooking the Habitant River, ArtCan Gallery &amp; Cafe exhibits local art and offers wonderful desserts with fair trade coffee.</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.419760</ogr:Longitude>
+      <ogr:Latitude>45.157180</ogr:Latitude>
+      <ogr:Gadd>9850 Main Street</ogr:Gadd>
+      <ogr:Gtown>Canning</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F53">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7180172.8346657129,5634763.158051719</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>61.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Apple Bin Art Gallery</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>150 Exhibition Street</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 5E5</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>678-5414</ogr:PhoneNum>
+      <ogr:Email>vrh.foundation@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>http://www.vrhfoundation.ca/apple-bin-gallery</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.500590</ogr:Longitude>
+      <ogr:Latitude>45.084050</ogr:Latitude>
+      <ogr:Gadd>150 Exhibition Street</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F54">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7179578.3885848774,5633670.6336948844</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>62.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Designer Cafe</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>373 Main Street</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 1K7</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>679-9930</ogr:PhoneNum>
+      <ogr:Email>info@designerkentville.com</ogr:Email>
+      <ogr:Website>http://www.designerkentville.com</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.495250</ogr:Longitude>
+      <ogr:Latitude>45.077120</ogr:Latitude>
+      <ogr:Gadd>373 Main Street</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F55">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7178188.0081448667,5634919.2437781896</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>63.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>NSCC Grow with Art Gallery</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>236 Belcher Street</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 0A6</ogr:PostalCode>
+      <ogr:Contact>Irene Hazell</ogr:Contact>
+      <ogr:ContactTit>Contact Person</ogr:ContactTit>
+      <ogr:PhoneNum>542-0234</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.482760</ogr:Longitude>
+      <ogr:Latitude>45.085040</ogr:Latitude>
+      <ogr:Gadd>236 Belcher Street</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F56">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7178188.0081448667,5634919.2437781896</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>64.000000</ogr:CULTID>
+      <ogr:GISREADY>2.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>NSCC Grow with Art Gallery</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>236 Belcher Street</ogr:StreetAddr>
+      <ogr:Town>Kentville</ogr:Town>
+      <ogr:PostalCode>B4N 0A6</ogr:PostalCode>
+      <ogr:Contact>Irene Hazell</ogr:Contact>
+      <ogr:ContactTit>Contact Person</ogr:ContactTit>
+      <ogr:PhoneNum>542-0234</ogr:PhoneNum>
+      <ogr:Email>None</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.482760</ogr:Longitude>
+      <ogr:Latitude>45.085040</ogr:Latitude>
+      <ogr:Gadd>236 Belcher Street</ogr:Gadd>
+      <ogr:Gtown>Kentville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F57">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164993.3089011423,5635750.1698912857</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>65.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Acadia University Art Gallery</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>10 Highland Avenue</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R6</ogr:PostalCode>
+      <ogr:Contact>Laurie Dalton</ogr:Contact>
+      <ogr:ContactTit>Gallery Director</ogr:ContactTit>
+      <ogr:PhoneNum>585-1373</ogr:PhoneNum>
+      <ogr:Email>artgallery@acadiau.ca</ogr:Email>
+      <ogr:Website>http://gallery.acadiau.ca/Acadia_Art_Gallery/Welcome.html</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.364230</ogr:Longitude>
+      <ogr:Latitude>45.090310</ogr:Latitude>
+      <ogr:Gadd>10 Highland Avenue</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F58">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164993.3089011423,5635750.1698912857</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>66.000000</ogr:CULTID>
+      <ogr:GISREADY>2.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Acadia University Art Gallery</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>10 Highland Avenue</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R6</ogr:PostalCode>
+      <ogr:Contact>Laurie Dalton</ogr:Contact>
+      <ogr:ContactTit>Gallery Director</ogr:ContactTit>
+      <ogr:PhoneNum>585-1373</ogr:PhoneNum>
+      <ogr:Email>artgallery@acadiau.ca</ogr:Email>
+      <ogr:Website>http://gallery.acadiau.ca/Acadia_Art_Gallery/Welcome.html</ogr:Website>
+      <ogr:Descriptio>Opened in 1978, the Acadia University Art Gallery offers a year-round exhibition programme of contemporary and historical work. The exhibitions and outreach programming of the Acadia University Art Galler</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.364230</ogr:Longitude>
+      <ogr:Latitude>45.090310</ogr:Latitude>
+      <ogr:Gadd>10 Highland Avenue</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F59">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7163938.0001284219,5636065.5319387885</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>67.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Carriage House Gallery</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>246 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B0P 1X0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>542-3500</ogr:PhoneNum>
+      <ogr:Email>sheriff.kip@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.354750</ogr:Longitude>
+      <ogr:Latitude>45.092310</ogr:Latitude>
+      <ogr:Gadd>246 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F60">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164829.6692496752,5635937.808978959</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>68.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Jack's Gallery</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Visual Art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>450 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1E2</ogr:PostalCode>
+      <ogr:Contact>Barbara Kaiser</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>542-4526</ogr:PhoneNum>
+      <ogr:Email>jacksgallerywolfville@gmail.com</ogr:Email>
+      <ogr:Website>http://www.acadiacinema.coop/jacksgallery</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.362760</ogr:Longitude>
+      <ogr:Latitude>45.091500</ogr:Latitude>
+      <ogr:Gadd>450 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F61">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164829.6692496752,5635937.808978959</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>69.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Just Us Cafe &amp; Gallery</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Visual art</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>450 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 2R3</ogr:PostalCode>
+      <ogr:Contact>Dan Sparkman</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>542-7474 extention 301</ogr:PhoneNum>
+      <ogr:Email>info@justuscoffee.com</ogr:Email>
+      <ogr:Website>http://www.justuscoffee.com</ogr:Website>
+      <ogr:Descriptio>This was the second coffeehouse to open and is housed in a Cinema in the center of the town of Wolfville. This was a very special community project where we partnered with the Acadia Cinema Co-op formed to</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.362760</ogr:Longitude>
+      <ogr:Latitude>45.091500</ogr:Latitude>
+      <ogr:Gadd>450 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F62">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7163641.8902829103,5636074.9929708382</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>70.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Edgemere Gallery and Crafts</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Visual Art/Craft</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>215 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B0P 1X0</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>542-1046</ogr:PhoneNum>
+      <ogr:Email>edgemere@ns.sympatico.ca</ogr:Email>
+      <ogr:Website>None</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.352090</ogr:Longitude>
+      <ogr:Latitude>45.092370</ogr:Latitude>
+      <ogr:Gadd>215 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ogr:XYSheet2_Criteria__Cultural_Facility fid="F63">
+      <ogr:geometryProperty><gml:Point srsName="EPSG:900913"><gml:coordinates>-7164500.1635569269,5635978.8062748332</gml:coordinates></gml:Point></ogr:geometryProperty>
+      <ogr:CULTID>71.000000</ogr:CULTID>
+      <ogr:GISREADY>1.000000</ogr:GISREADY>
+      <ogr:Contacted>0.000000</ogr:Contacted>
+      <ogr:Organizati>Wolfville T.A.N. Cafe</ogr:Organizati>
+      <ogr:Criteria>Cultural Facility</ogr:Criteria>
+      <ogr:Discipline>Visual Art/Music</ogr:Discipline>
+      <ogr:NumSeats>n/a</ogr:NumSeats>
+      <ogr:StreetAddr>378 Main Street</ogr:StreetAddr>
+      <ogr:Town>Wolfville</ogr:Town>
+      <ogr:PostalCode>B4P 1C9</ogr:PostalCode>
+      <ogr:Contact>None</ogr:Contact>
+      <ogr:ContactTit>None</ogr:ContactTit>
+      <ogr:PhoneNum>792-2555</ogr:PhoneNum>
+      <ogr:Email>info@tancoffee.com</ogr:Email>
+      <ogr:Website>http://www.tancoffee.ca</ogr:Website>
+      <ogr:Descriptio>None</ogr:Descriptio>
+      <ogr:Public>None</ogr:Public>
+      <ogr:Longitude>-64.359800</ogr:Longitude>
+      <ogr:Latitude>45.091760</ogr:Latitude>
+      <ogr:Gadd>378 Main Street</ogr:Gadd>
+      <ogr:Gtown>Wolfville</ogr:Gtown>
+      <ogr:Gprov>NS</ogr:Gprov>
+      <ogr:F23>AV_Cultural/png/CulturalFacility.png</ogr:F23>
+      <ogr:F24>None</ogr:F24>
+    </ogr:XYSheet2_Criteria__Cultural_Facility>
+  </gml:featureMember>
+</ogr:FeatureCollection>

@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+
+
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+<html lang="en" class="no-js">
+	
+	
+<!-- Mirrored from cogsmapping.t15.org/Boxify_TaylorDagenais/index03d_20Nov.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 May 2016 18:03:18 GMT -->
+<head>
+	
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Innovative Public Transportation Methods</title>
+
+		<meta name="description" content="A free HTML5/CSS3 template made exclusively for Codrops by Peter Finlan" />
+		<meta name="keywords" content="html5 template, css3, one page, animations, agency, portfolio, web design" />
+		<meta name="author" content="Peter Finlan" />
+<!--
+A new tab title -
+A short video -
+a new header title -
+New main photo
+3 key concepts
+embedded map with at least 10 points
+three key stories 
+-->
+		
+<style>
+#map { height: 500px; }
+</style>
+
+	<!-- Bootstrap -->
+		<script src="js/modernizr.custom.js"></script>
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="css/jquery.fancybox.css" rel="stylesheet">
+		<link href="css/flickity.css" rel="stylesheet" >
+		<link href="css/animate.css" rel="stylesheet">
+		<link href="../../maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+		<link href='http://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
+		<link href="css/styles.css" rel="stylesheet">
+		<link href="css/queries.css" rel="stylesheet">
+		<link href="css/leaflet-search.css" rel="stylesheet">
+		
+		<link rel="stylesheet" href="../../cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
+			<link rel="stylesheet" href="../../libs.cartocdn.com/cartodb.js/v3/3.15/themes/css/cartodb.css" />
+			<link rel="stylesheet" href="css/leaflet.label.css" />
+		
+
+	
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+<!--  Link & Call fancy - http://www.granneman.com/webdev/coding/css/fancybox-a-better-lightbox/#link-to-fancybox -->
+		
+		<script src="../../ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/jquery.fancybox.pack.js"></script>
+
+<script type="text/javascript">
+		$(document).ready(function() {
+			$('.fancybox').fancybox();
+ 		});
+</script>
+		
+		
+</head>
+<body>
+
+		<!--[if lt IE 7]>
+		<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+		<![endif]-->
+		<!-- open/close -->
+		
+<header>
+			<section class="hero">
+				<div class="texture-overlay"></div>
+				<div class="container">
+					<div class="row nav-wrapper">
+						<div class="col-md-12 col-sm-6 col-xs-6 text-right navicon">
+							<p>MENU</p><a id="trigger-overlay" class="nav_slide_button nav-toggle" href="#"><span></span></a>
+						</div>
+					</div>
+					<div class="row hero-content">
+						<div class="col-md-4", align="right">
+						</div>
+						<div class="col-md-8", align="right">
+							<h1 class="animated fadeInDown">Innovative Public Transportation 
+							<br>Development for Livable Communities</br></h1>
+						</div>
+						<div class="col-md-12 col-sm-6 col-xs-6 text-right">
+							<a href="#"><img src="img/cogslogogiod.png" style="background-color: rgba(255,245,255,0.55);" width="20%" alt="Boxify Logo"></a>
+						</div>
+					</div>
+				</div>
+			</section>
+		</header>
+		<section class="video" id="about">
+			<div class="container">
+				<div class="row">
+				
+				<!--div id="map" style="width: 800px; height: 600px"></div-->
+				<!--<div id="map"></div>-->
+<script src="https://maps.googleapis.com/maps/api/js?v=3&amp;sensor=false"></script>
+
+	<script src="../../cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
+	<script src="../../libs.cartocdn.com/cartodb.js/v3/3.15/cartodb.js"></script>
+	<script src="js/L.CartoDB.js"></script>
+	<script src="js/leaflet.label.js"></script>
+	
+	<!--<script>
+
+	var map = L.map('map').setView([45, -65], 2);
+
+		L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6IjZjNmRjNzk3ZmE2MTcwOTEwMGY0MzU3YjUzOWFmNWZhIn0.Y8bhBaUMqFiPrDRW9hieoQ', {
+			maxZoom: 18,
+			attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+				'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+				'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+			id: 'mapbox.streets'
+		}).addTo(map);
+		
+
+L.cartoDB('https://w0258221.cartodb.com/api/v2/sql?q=SELECT * FROM commassets_taylor &api_key=6ee0c191be3d23382faca7513da1da5b5626d768', {
+		 pointToLayer: function (feature, latlng) {
+          return L.marker(latlng);},
+		onEachFeature: function (feature, layer) {
+				layer.bindPopup(feature.properties.comm_name + '<br>' + feature.properties.description + '<br>' +feature.properties.image + '<br>' + feature.properties.link1);
+				
+			
+	
+        }
+ }).addTo(map);
+		
+		var popup = L.popup();
+
+		function onMapClick(e) {
+			popup
+				.setLatLng(e.latlng)
+				.setContent("You clicked the map at " + e.latlng.toString())
+				.openOn(map);
+		}
+
+		//map.on('click', onMapClick);
+
+	</script>-->
+				
+					<div class="col-md-12 text-center">
+				
+					<h1><a href="https://www.youtube.com/watch?v=gaBNNHLzBhI" class="youtube-media"><i class="fa fa-play-circle-o"></i> A Short Video on Sustainable Transport</a></h1>
+		
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="features-intro">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-6 nopadding features-intro-img">
+					<div id="map"></div>
+					<!--	<div class="features-bg">
+							<div class="texture-overlay"></div>
+							<div class="features-img wp1">
+								<img src="img/mapmarker01.png" width="100px" height="80px" alt="HTML5 Logo">
+							</div>
+						</div>-->
+						
+					</div>
+					<div class="col-md-6 nopadding">
+						<div class="features-slider">
+								<ul class="slides" id="featuresSlider">
+									<li>
+										<h1>Innovative Public Transportation Methods</h1>
+										<p>Innovative methods such as the cable-cars in Medellín, Colombia are part of the city's impressive elevated metro system, completed in the mid-1990s. These cable cars, which climb both sides of the valley in which Medellín sits, travel deep into the far-flung and formerly difficult-to-reach favelas (shanty towns) that are located in the surrounding hills and have had a measureable social impact on the city.</p>
+										<p><!--<a href="#features" class="arrow-btn">--><div id="map-navigation1" class="map-navigation"><a href="#" data-zoom="12" data-position="6.24357, -75.57083">Find out more about Medellin! </a><i class="fa fa-long-arrow-right"></i></div></p>
+									</li>
+									<li>
+										<h1>Sustainable Public Transportation Methods</h1>
+										<p>In 2013, Buenos Aires launched two new corridors of their BRT system, Metrobus. In addition, the city transformed dozens of blocks in city center into a pedestrian-friendly environment, encouraging walking and cycling. For its success promoting urban mobility, reducing emissions, and improving safety, Buenos Aires won the 2014 Sustainable Transport Award.</p><p><!--<a href="#features" class="arrow-btn">--><div id="map-navigation2" class="map-navigation2"><a href="#" data-zoom="12" data-position="-34.74206, -58.45276">Find out more about Buenos Aires! </a><i class="fa fa-long-arrow-right"></i></div></p>
+									</li>
+									<li>
+										<h1>New York Subway System</h1>
+										<p>However,  until  recently,  underinvestment  in  transportation  expansion and innovation, and insufficient maintenance and repair of roads, tracks, highways and bridges has meant that we have been unable to keep our transportation networks growing to match our city’s changing demographics.</p><p><!--<a href="#features" class="arrow-btn">--><div id="map-navigation3" class="map-navigation3"><a href="#" data-zoom="12" data-position="40.70958, -73.99292">Find out more about New York's Subway System! </a><i class="fa fa-long-arrow-right"></i></div></p>
+									</li>
+									<li>
+										<h1>Bullet Trains in Japan</h1>
+										<p>Japan’s high speed bullet trains, also known as Shinkansen trains, offer visitors an experience like no other with speeds reaching up to 320 km/hr! The main Shinkansen lines with bullet trains include Tokaido, Sanyo, Tohoku, Joetsu, Nagano and Kyushu. Popular routes include Tokyo to Osaka and Tokyo to Nagano with frequent and punctual departures.</p><p><!--<a href="#features" class="arrow-btn">--><div id="map-navigation4" class="map-navigation4"><a href="#" data-zoom="12" data-position="35.72667, 139.81339">Find out more about Japan's Bullet Trains! </a><i class="fa fa-long-arrow-right"></i></div></p>
+									</li>
+									<li>
+										<h1>Rapid Transit System in China</h1>
+										<p>In 2015, Yichang launched a new bus rapid transit system, implemented parking improvements, renovated major public spaces, and introduced a new bike share system. The BRT is drawing hundreds of thousands of daily passengers, many of them from private vehicles. Along the corridor, many parking spaces have been eliminated, bike lanes have been added, and new landscaping is improving pedestrian facilities and street life throughout the city..</p><p><!--<a href="#features" class="arrow-btn">--><div id="map-navigation5" class="map-navigation5"><a href="#" data-zoom="12" data-position="30.69827, 111.30077">Find out more about Yichang's Rapid Transit System! </a><i class="fa fa-long-arrow-right"></i></div></p>
+									</li>
+									<li>
+										<h1>Choose Your Own Bus Route in Helsinki, Finland</h1>
+										<p>In 2013, Helsinki Regional Transport Authority rolled out a strikingly innovative minibus service called Kutsuplus. Kutsuplus lets riders specify their own desired pick-up points and destinations via smartphone; these requests are aggregated, and the app calculates an optimal route that most closely satisfies all of them. </p><p><!--<a href="#features" class="arrow-btn">--><div id="map-navigation6" class="map-navigation6"><a href="#" data-zoom="12" data-position="60.163, 24.92832">Find out more about Helsinki's Minibus System! </a><i class="fa fa-long-arrow-right"></i></div></p>
+									</li>
+									<li>
+										<h1>Paris "Freedom Bikes"</h1>
+										<p>Paris has revolutionized bike sharing with its individualized mass transit system called Vélib (“Freedom Bikes”). Vélib is just one component of Paris’ new mobility plan that uses transportation innovation to revitalize community life in public spaces. Paris is prioritizing pedestrians by renovating public squares and plazas, widening sidewalks, and adding new landscaping and raised crosswalks. As of 2008 Paris had built more than 314 kilometers (195 miles) of bike lanes, and bicycling has increased 48 percent during the five previous years. Three corridors of the new bus rapid transit system also opened in 2007. These improvements led to a decrease in private vehicle traffic by 20 percent and a nine percent reduction in carbon dioxide emissions.</p><p><!--<a href="#features" class="arrow-btn">--><div id="map-navigation7" class="map-navigation7"><a href="#" data-zoom="12" data-position="48.80397, 2.37305">Find out more about Freedome Bikes in France! </a><i class="fa fa-long-arrow-right"></i></div></p>
+									</li>
+									<li>
+										<h1>Technology use in Spain to improve Public Transit</h1>
+										<p>Using smart design and innovative uses of technology, Albacete has made dramatic improvements to the public transit system. Preferential treatment at traffic lights, real time information, and a smartphone app with a CO2 calculator are increasing ridership and earning the system recognition for the benefits it offers to health, safety, and the environment. </p><p><!--<a href="#features" class="arrow-btn">--><div id="map-navigation8" class="map-navigation8"><a href="#" data-zoom="12" data-position="38.99016, -1.91162">Find out more about Albacete, Spain! </a><i class="fa fa-long-arrow-right"></i></div></p>
+									</li>
+									<li>
+										<h1>Sustainable Transportation in Mexico City</h1>
+										<p>Mexico City has implemented many projects in 2012 that have improved livability, mobility, and quality of life for its citizens, making the Mexican Capital a best practice for Latin America. The city expanded its BRT system, Metrobus, with Line 4, a corridor that extends from the historic center of the city to the airport. It also piloted a comprehensive on-street parking reform program (ecoParq), expanded its successful public bike system (Ecobici) and revitalized public spaces such as Alameda Central and Plaza Tlaxcoaque.</p><p><!--<a href="#features" class="arrow-btn">--><div id="map-navigation9" class="map-navigation9"><a href="#" data-zoom="12" data-position="19.38163, -99.12964">Find out more about Mexico City's Sustainable Transportation! </a><i class="fa fa-long-arrow-right"></i></div></p>
+									</li>
+									<li>
+										<h1>+CIUDAD Project in Lima, Peru</h1>
+										<p>The +CIUDAD project, launched in the San Isidro district of Lima, is having a profound impact on the city, improving physical activity, sustainable transport options, and ‘green culture’ for the people of Lima. The city has added cycle lanes and expanded bicycle parking, built parklets and launched cultural activities to improve street life, and made public space and public transit more accessible.</p><p><!--<a href="#features" class="arrow-btn">--><div id="map-navigation10" class="map-navigation10"><a href="#" data-zoom="12" data-position="-12.06376, -77.02652">Find out more about Japan's Bullet Trains! </a><i class="fa fa-long-arrow-right"></i></div></p>
+									</li>
+								</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="features-list" id="features">
+			<div class="container">
+				<div class="row">
+				
+				<h1> Key Concepts</h1>
+					<div class="col-md-12">
+
+						<div class="col-md-4 feature-1 wp2">
+							<div class="feature-icon">
+								<i class="fa fa-exclamation-circle"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Sustainable Alternatives for Transportation</h1>
+								<p>Sustainable alternatives for transportation is beneficial to health, safety and the environment. New methods of public transportation have recently been implemented to act as sustainable alternatives.</p>
+								<a class="fancybox fancybox.iframe" href="keyconcept1.html" class="read-more-btn">Explore this concept <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+						<div class="col-md-4 feature-2 wp2 delay-05s">
+							<div class="feature-icon">
+								<i class="fa fa-usd"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Cost Efficient Transportation</h1>
+								<p>Traffic is slowly strangling many cities around the globe through increased traffic using more fuel, which increases pollution and commute times.  Finding alternatives to automobiles is greatly beneficial.</p>
+								<a class="fancybox fancybox.iframe" href="keyconcept2.html" class="read-more-btn">Explore this concept <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+						<div class="col-md-4 feature-3 wp2 delay-1s">
+							<div class="feature-icon">
+								<i class="fa fa-heart"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Valuing Convenience in Public Transport</h1>
+								<p> Convenience is one of the strongest attractions of the private car and passenger transport systems. An increase in public transport convenience may reduce the unit costs of travel and provide a benefit to increased travel speed.</p>
+								<a class="fancybox fancybox.iframe" href="keyconcept3.html" class="read-more-btn">Explore this concept <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+						<!--<div class="col-md-3 feature-4 wp2 delay-1s">
+							<div class="feature-icon">
+								<i class="fa fa-cogs"></i>
+							</div>
+							<div class="feature-content">
+								<h1>Building Partnerships & Policy</h1>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. . </p>
+								<a href="http://cogsmapping.t15.org/JT3/postconfed.html" class="read-more-btn">Explore this concept  <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div><!-->
+
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="screenshots-intro">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<h1>Different Approaches to Sustainable and Innovative Transportation Methods</h1>
+						<p>Different cities are implementing many new approaches to innovative transportation methods to help eliminate overall trafic congestion, while improving the health of the environment.  It is important that these new methods of transportation are sustainable or effective by different means. </p>
+
+						
+						<p><a href="#screenshots" class="arrow-btn">Explore these locations below <i class="fa fa-long-arrow-right"></i></a></p>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="screenshots" id="screenshots">
+			<div class="container-fluid">
+				<div class="row">
+					<ul class="grid">
+						<li>
+							<figure>
+								<img src="img/colombia1.jpg" alt="Screenshot 01">
+								<figcaption>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://de.myclimate.org/carbon-offset-projects/projekt/colombia-energy-efficiency-7131/">
+								<!--a href="http://www.well95490.org/" target="iframe_a"-->
+									<!--a href=""" class="single_image"-->
+										<i class="fa fa-search"></i><br>
+										<p>Efficient Transportation in Colombia</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/japan1.jpg" alt="Screenshot 02">
+								<figcaption>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://www.acprail.com/rail-passes/japan-rail/bullet-train">
+									<!--<a class="fancybox fancybox.iframe" href="http://www.berkshares.org" class="single_image"> -->
+										<i class="fa fa-search"></i><br>
+										<p>Bullet Trains in Japan</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/mexico1.jpg" alt="Screenshot 03">
+								<figcaption>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://staward.org/winners/2013-mexico-city-mexico/">
+									<!--<a class="fancybox fancybox.iframe" href="http://www.berkshares.org" class="single_image"> -->
+										<i class="fa fa-search"></i><br>
+										<p>Sustainable Transportation in Mexico City</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/finland1.jpg" alt="Screenshot 04">
+								<figcaption>
+								<div >
+								<a class="fancybox fancybox.iframe" href="http://www.wired.com/2013/10/on-demand-public-transit/">
+									<!--<a class="fancybox fancybox.iframe" href="http://www.berkshares.org" class="single_image"> -->
+									<i class="fa fa-search"></i><br>
+										<p>On-Demand MiniBus Service in Finland</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+				<div class="row">
+					<ul class="grid">
+						<li>
+							<figure>
+								<img src="img/france1.jpg" alt="Screenshot 01">
+								<figcaption>
+								<div>
+								<a class="fancybox fancybox.iframe" href="http://staward.org/winners/2008-paris-france/">
+									<!--<a class="fancybox fancybox.iframe" href="http://www.berkshares.org" class="single_image"> -->
+									<i class="fa fa-search"></i><br>
+										<p>Paris Freedom Bikes</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/yichang1.jpg" alt="Screenshot 01">
+								<figcaption>
+								<div>
+								<a class="fancybox fancybox.iframe" href="http://www.adb.org/news/adb-assisted-bus-rapid-transit-system-starts-operations-yichang">
+									<!--<a class="fancybox fancybox.iframe" href="http://www.berkshares.org" class="single_image"> -->
+									<i class="fa fa-search"></i><br>
+										<p>Yichang Rapid Transit System</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/zznewyork1.jpg" alt="Screenshot 01">
+								<figcaption>
+								<div>
+								<a class="fancybox fancybox.iframe" href="http://www.nyc.gov/html/dcp/pdf/transportation/world_cities_full.pdf">
+									<!--<a class="fancybox fancybox.iframe" href="http://www.berkshares.org" class="single_image"> -->
+									<i class="fa fa-search"></i><br>
+										<p>New York Subway System</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/zzzspain1.jpg" alt="Screenshot 01">
+								<figcaption>
+								<div>
+								<a class="fancybox fancybox.iframe" href="http://staward.org/nominees/">
+									<!--<a class="fancybox fancybox.iframe" href="http://www.berkshares.org" class="single_image"> -->
+									<i class="fa fa-search"></i><br>
+										<p>Technology in Spain</p>
+									</a>
+								</div>
+								</figcaption>
+							</figure>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+
+		<footer>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-5">
+						<h1 class="footer-logo">
+						<img src="img/COGS01.jpg" width="70%" alt="Footer Logo Blue">
+						</h1>
+						<p>© Boxify 2015 - <a href="http://tympanus.net/codrops/licensing/">Licence</a> - Designed &amp; Developed by <a href="http://www.peterfinlan.com/">Peter Finlan</a></p>
+					</div>
+					<div class="col-md-7">
+						<ul class="footer-nav">
+							<li><a href="#about">Innovative at a local level</a></li>
+							<li><a href="#features">Key Concepts</a></li>
+							<li><a href="#screenshots">Get More Info</a></li>
+							<li><a href="../index.html">Home</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</footer> 
+		<div class="overlay overlay-boxify">
+			<nav>
+				<ul>
+					<li><a href="#about"><i class="fa fa-heart"></i>Innovative initiatives</a></li>
+					<li><a href="#features"><i class="fa fa-flash"></i>Key Concepts</a></li>
+				</ul>
+				<ul>
+					<li><a href="#screenshots"><i class="fa fa-desktop"></i>Get more Info</a></li>
+					<li><a href="../index.html"><i class="fa fa-download"></i>Home</a></li>
+				</ul>
+			</nav>
+		</div>
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="js/min/toucheffects-min.js"></script>
+		<script src="../../ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/flickity.pkgd.min.js"></script>
+		<script src="js/jquery.fancybox.pack.js"></script>
+		<!--Include all compiled plugins (below), or include individual files as needed-->
+		<script src="js/retina.js"></script>
+		<script src="js/waypoints.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<!--script src="js/min/scripts-min.js"></script-->
+		<script src="js/scripts.js"></script>
+		<script src="js/leaflet-search.js"></script>
+		<script src="js/taylors_map02.js"></script>
+		
+		
+	</body>
+
+<!-- Mirrored from cogsmapping.t15.org/Boxify_TaylorDagenais/index03d_20Nov.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 May 2016 18:03:46 GMT -->
+</html>
+<p align="center">This website created with FreeHostingNoAds 
+<a href="http://freehostingnoads.net/freewebsitebuilder.php">Free Website Builder and Hosting</a></p>
